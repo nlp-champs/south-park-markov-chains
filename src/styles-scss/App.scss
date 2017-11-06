@@ -1,0 +1,12 @@
+// any bootstrap overrides would go here...
+
+// bootstrap styles
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "variables.scss";
+@import "mixins.scss";
+@import "global.scss";
+@import "navbar.scss";
+@import "masthead.scss";
+@import "portfolio.scss";
+@import "contact.scss";
+@import "bootstrap-overrides.scss";
