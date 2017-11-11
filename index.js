@@ -37,5 +37,5 @@ app.post('/generate_sentence', function (req, res) {
 
 server = http.createServer(app);
 
-// listening ports
-server.listen(8000);
+// listening ports - 9000 because it is a "one off" app
+server.listen(9000);
