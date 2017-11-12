@@ -1,0 +1,124 @@
+8 1 Chef "Hello there, children!
+"
+8 1 Chef "How's it goin'?
+"
+8 1 Chef "Why bad?
+"
+8 1 Chef "No, can't say that I have. Hey, what are you children doin' with those weapons?
+"
+8 1 Chef "Well, you children should be careful with those. You could put somebody's eye out.
+"
+8 1 Chef "Well, I've gotta get to the fairgrounds. They're about to start the big auction. So long, children! 
+"
+8 4 Chef "Oh. Hello there, children!
+"
+8 4 Chef "Oh boy... Well come on inside, children. I'll make you some cocoa.
+"
+8 4 Chef "Have a seat, children. Just try to relax and breathe.  Are you all okay?
+"
+8 4 Chef "All right. Now, where did you get served?
+"
+8 4 Chef "Okay okay, relax children. Relax. It's all over now. Just try to calm down and sit tight.  I'm gonna call your parents and let them know you're okay.  Mrs. Marsh? Hi, it's Chef. Yeah, I'm good. Listen: Stan and his friends just got served. Yeah. Yeah, over at the True Value. No no, he's fine. They're all fine. Yeah, it was some kids from out of town. Apparently they were pretty good dancers. They really let 'em have it.
+"
+8 4 Chef "Oh no!  No, stop Stan! You don't know what you're doin'! 
+"
+8 4 Chef "No no no!
+"
+8 4 Chef "Oh dammit! I knew that was gonna happen.
+"
+8 4 Chef "Stan, what the hell did you dance back for?
+"
+8 4 Chef "Now you've gotta compete against them in the dance competition on Saturday!
+"
+8 4 Chef "Because if you get served and served them back, then it's on! Don't you know anything??
+"
+8 4 Chef "Oh Lord...
+"
+8 4 Chef "All right, children, let's get to rehearsin'!  We don't have much time, and you've got to become the dance group you can be.  I think we should-  Whoa.  This... is the dance troupe?
+"
+8 4 Chef "Oh boy.  All right, well, why don't you show me what you got? I wanna see what you kids can do! 
+"
+8 4 Chef "Oh Lord have mercy.  Children, children! No no, you've got it all wrong. Don't you see, children? You have the heart, but you don't have the soul. No no, wait. You have the soul, but you don't have the heart.  No no, scratch that. You have the heart and the soul, but you don't have the talent.
+"
+8 4 Chef "All right all right, quiet, children! Now, nobody's getting served if I can help it. We just gotta buckle down, dig deep, and pray that maybe the other team comes down with cancer. 
+"
+8 4 Chef "Rules are you have to have five dancers. We have no choice, children. We have to forfeit.
+"
+8 4 Chef "All right!
+"
+8 4 Chef "All right! We did it! 
+"
+8 9 Chef "My God. Look at all these incredible bargains.
+"
+8 9 Chef "Sir, we just had a big town meeting, and decided we don't want your Wall-Mart here anymore.
+"
+8 9 Chef "They why don't you just quit?!
+"
+8 9 Chef "No, no, no! Let's freeze it!
+"
+8 9 Chef "Get out! It's gonna blow! 
+"
+8 9 Chef "We know how to destroy it now. Spread the word to all the towns! 
+"
+8 1 Chef "Hello there, children!
+"
+8 1 Chef "How's it goin'?
+"
+8 1 Chef "Why bad?
+"
+8 1 Chef "No, can't say that I have. Hey, what are you children doin' with those weapons?
+"
+8 1 Chef "Well, you children should be careful with those. You could put somebody's eye out.
+"
+8 1 Chef "Well, I've gotta get to the fairgrounds. They're about to start the big auction. So long, children! 
+"
+8 4 Chef "Oh. Hello there, children!
+"
+8 4 Chef "Oh boy... Well come on inside, children. I'll make you some cocoa.
+"
+8 4 Chef "Have a seat, children. Just try to relax and breathe.  Are you all okay?
+"
+8 4 Chef "All right. Now, where did you get served?
+"
+8 4 Chef "Okay okay, relax children. Relax. It's all over now. Just try to calm down and sit tight.  I'm gonna call your parents and let them know you're okay.  Mrs. Marsh? Hi, it's Chef. Yeah, I'm good. Listen: Stan and his friends just got served. Yeah. Yeah, over at the True Value. No no, he's fine. They're all fine. Yeah, it was some kids from out of town. Apparently they were pretty good dancers. They really let 'em have it.
+"
+8 4 Chef "Oh no!  No, stop Stan! You don't know what you're doin'! 
+"
+8 4 Chef "No no no!
+"
+8 4 Chef "Oh dammit! I knew that was gonna happen.
+"
+8 4 Chef "Stan, what the hell did you dance back for?
+"
+8 4 Chef "Now you've gotta compete against them in the dance competition on Saturday!
+"
+8 4 Chef "Because if you get served and served them back, then it's on! Don't you know anything??
+"
+8 4 Chef "Oh Lord...
+"
+8 4 Chef "All right, children, let's get to rehearsin'!  We don't have much time, and you've got to become the dance group you can be.  I think we should-  Whoa.  This... is the dance troupe?
+"
+8 4 Chef "Oh boy.  All right, well, why don't you show me what you got? I wanna see what you kids can do! 
+"
+8 4 Chef "Oh Lord have mercy.  Children, children! No no, you've got it all wrong. Don't you see, children? You have the heart, but you don't have the soul. No no, wait. You have the soul, but you don't have the heart.  No no, scratch that. You have the heart and the soul, but you don't have the talent.
+"
+8 4 Chef "All right all right, quiet, children! Now, nobody's getting served if I can help it. We just gotta buckle down, dig deep, and pray that maybe the other team comes down with cancer. 
+"
+8 4 Chef "Rules are you have to have five dancers. We have no choice, children. We have to forfeit.
+"
+8 4 Chef "All right!
+"
+8 4 Chef "All right! We did it! 
+"
+8 9 Chef "My God. Look at all these incredible bargains.
+"
+8 9 Chef "Sir, we just had a big town meeting, and decided we don't want your Wall-Mart here anymore.
+"
+8 9 Chef "They why don't you just quit?!
+"
+8 9 Chef "No, no, no! Let's freeze it!
+"
+8 9 Chef "Get out! It's gonna blow! 
+"
+8 9 Chef "We know how to destroy it now. Spread the word to all the towns! 
+"

@@ -1,0 +1,40 @@
+4 8 Craig "No you don't!
+"
+4 16 Craig "What?
+"
+4 16 Craig "You... sure you wanna go to Treasure Cove?
+"
+4 16 Craig "This is the end of Smiley Town. The only phone is somewhere in Treasure Cove. If you wanna find it, you're gonna have to cross the white line.
+"
+4 16 Craig "Hell no! I'm not crossing the white line.
+"
+4 16 Craig "Craig.
+"
+4 16 Craig "It's Spaceman Craig. 
+"
+4 16 Craig "Take that, kindergartners!
+"
+4 16 Craig "Kindergartners. Treasure Cove is full of them.
+"
+4 16 Craig "I got new orders. I'm supposed to take you to see the mayor.
+"
+4 8 Craig "No you don't!
+"
+4 16 Craig "What?
+"
+4 16 Craig "You... sure you wanna go to Treasure Cove?
+"
+4 16 Craig "This is the end of Smiley Town. The only phone is somewhere in Treasure Cove. If you wanna find it, you're gonna have to cross the white line.
+"
+4 16 Craig "Hell no! I'm not crossing the white line.
+"
+4 16 Craig "Craig.
+"
+4 16 Craig "It's Spaceman Craig. 
+"
+4 16 Craig "Take that, kindergartners!
+"
+4 16 Craig "Kindergartners. Treasure Cove is full of them.
+"
+4 16 Craig "I got new orders. I'm supposed to take you to see the mayor.
+"

@@ -20,8 +20,8 @@ def removeBrackets(test_str):
     return ret
 
 ### variables ###
-lSeasons = ["20"] # TODO: snag more seasons
-lCharacters = ["cartman", "kyle", "butters", "chef", "berries"] # get more characters too
+lSeasons = ["20"] #
+lCharacters = ["cartman", "kyle", "stan", "kenny", "butters", "chef", "berries"] # get more characters too
 
 ### program process ###
 
@@ -37,7 +37,7 @@ for sSeason in lSeasons:
         sCharacterLines = " ".join(lCharacterLines) # join list back to full string
         sCharacterLines = removeBrackets(sCharacterLines) # remove everything in []
         if sCharacterLines != "": # only create file if there is at least one character line
-            sTextFileString = "s" + sSeason + "_" + sCharacter + ".txt"
+            sTextFileString = "./data/processed/s" + sSeason + "_" + sCharacter + ".txt"
             oTextFile = open(sTextFileString, "w")
             oTextFile.write(sCharacterLines)
             oTextFile.close()

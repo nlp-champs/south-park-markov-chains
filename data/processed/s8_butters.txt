@@ -1,0 +1,846 @@
+8 1 Butters "Hey fellas. What's happenin'?
+"
+8 1 Butters "Wowee! Hey, can I play, ninjas with you?
+"
+8 1 Butters "I think I'd make a really good ninja.  Jeez, those guys never let me play with them. Uh, they just shun me all the time. 
+"
+8 1 Butters "I'm a lost soul. A dark lonely shadow of a person-
+"
+8 1 Butters "Hi Mom.  -a castaway, forced to live his life out in solitude.  And it's because of times like these I was forced to a life of evil.  Society cast me out, and so I vowed to make them all pay! And pay they did! Nobody knows that beneath this sweet eight-year-old little boy lies the most evil, the most destructive super-villain of all time!  Professor Chaos!  Let's see how you like dealing with me, ninjas! 
+"
+8 1 Butters "Yeah Mom, I'm just goin' outside for a little while.
+"
+8 1 Butters "Well, o- okay Mom.  Bah! Gah! 
+"
+8 1 Butters "Haaa ha ha ha ha!  Well well well! If it isn't the four ninjas!
+"
+8 1 Butters "Fools!  I am Professor Chaos! Bringer of Destruction and Doom!  Your feeble ninja powers are no match for me!
+"
+8 1 Butters "Nuh uh!
+"
+8 1 Butters "Nuh uh! Because my cloak is made of a... titanium alloy that shields me from heat!
+"
+8 1 Butters "Huh nice attempt, ninja! But now both of you shall feel the power of my Web of Holding!  Ha, ha, ha, ha, ha! You are both trapped in spiderwebs! 
+"
+8 1 Butters "Enough! I grow weary of your foolishness. Professor Chaos cannot be stopped!
+"
+8 1 Butters "It hurts! It hurts! 
+"
+8 1 Butters "But I... But I... But I can't see nothin'. I gotta go to the hospital! 
+"
+8 1 Butters "Ah.  Hwa!  Hwaaaaa!
+"
+8 1 Butters "You guys can't fix my eyeball! You have to take me to the hospital! 
+"
+8 1 Butters "Whoa, I'm getting woozy.
+"
+8 1 Butters "But, but fellas, if I, if I dress up like a dog with a star in my eye, I- I'm gonna get grounded.
+"
+8 1 Butters "Uh, that modeling glue is making me dizzy.
+"
+8 1 Butters "Uh. Wuff, wu-wuff.
+"
+8 1 Butters "Wuhuff, woof, woof.
+"
+8 1 Butters "bu- but fellas, I gotta- 
+"
+8 1 Butters "Hello? Anybody-eh.  Woof. Woof. Woofwoof.  Eh. Woof, eh. Woof. 
+"
+8 1 Butters "Woof woof.
+"
+8 1 Butters "Woof woof. 
+"
+8 1 Butters "Gaaaah!
+"
+8 1 Butters "Haba, haba! Habahoaha! 
+"
+8 4 Butters "Loo loo loo, I've got some apples. Loo loo loo, you've got some too. Loo loo loo, I've-
+"
+8 4 Butters "Oh well, hi there everybody. 
+"
+8 4 Butters "Wow, neat-o, a competition? Why, I'd love to. What kind of competition is it?
+"
+8 4 Butters "...No.
+"
+8 4 Butters "No.  No no no no no no, no!  No! No no no no!
+"
+8 4 Butters "Waaaaah!
+"
+8 4 Butters "Aaaaah!  Aaaaah!
+"
+8 4 Butters "Two years ago. Two years ago!
+"
+8 4 Butters "Whoops. 
+"
+8 4 Butters "Wuuuhaaaaaaah! Aaaaaaaah!  No! Nooo! Noooooooooooooooo!
+"
+8 4 Butters "What do you want?
+"
+8 4 Butters "Sorry, Stan, I'm not a dancer anymore.  I gave that up.
+"
+8 4 Butters "Did she also tell you my dancing got eight people killed?
+"
+8 4 Butters "Yeah well, you tell that to their families. 
+"
+8 4 Butters "I let those people down! Don't you get it, man?! Eight people died!
+"
+8 4 Butters "What?
+"
+8 4 Butters "Aaaah!
+"
+8 4 Butters "Get out of my room, Stan.
+"
+8 4 Butters "Hey! Can I still dance with you guys?
+"
+8 4 Butters "Waaah!  No! Jesus, not again!
+"
+8 4 Butters "No! No! Noooooo!
+"
+8 5 Butters "What the heck?  Whoa! What a huge package!  ""To Butters Stotch.""  Oh boy! It's for me! It's for me!  Who is it from? ""Sent from: Japan. Konichi-wa.""  Wow! A package for me from Japan!!  Wow, what can it be? My birthday isn't until September 11.  Oh boy! I've never gotten a package this big! I've always wanted to have a huge package. 
+"
+8 5 Butters "Whoa...
+"
+8 5 Butters "You... you're my robot?
+"
+8 5 Butters "Oh wow!
+"
+8 5 Butters "Yep. That's right. He's a real live robot. He can walk and talk and everything. You're like the fourth kid I told already.  Well I gotta go Dougie. My robot and I have stuff to do.  Heheh, they're all so jealous!  I'm so glad you came into my life, AWESOM-O. You're the best friend a guy could have.
+"
+8 5 Butters "Hey yeah! Well, I can tell you anything, huh?  Well lessee... Well, for one, I have what's called a hesiated colon, which means I sometime can't control my sphincter.
+"
+8 5 Butters "Well, nobody knows it, but sometimes I poop my pants, so I have to wear a diaper to school.  You okay, AWESOM-O?
+"
+8 5 Butters "Well, I have to take medicine for it every day. It's a little suppository I have to... put up my rectum.
+"
+8 5 Butters "Hm, okay. Let's see  Oh, my parents don't know, but sometimes I get picked on by this one kid at school; his name is Eric Cartman, and he always tries to play jokes on me and stuff.
+"
+8 5 Butters "Yeah. One time he made me think a meteor had hit the earth, and convinced me to stay down in a bomb shelter for three days.
+"
+8 5 Butters "Yeah. And then this other time, he pretended to be me on the phone to my dad and called him a pussy, so my dad came home and beat me.
+"
+8 5 Butters "No, he's not smart! He's just an asshole. And he's never gonna play on me ever again! 
+"
+8 5 Butters "Yeah, and he's never gonna get me again! 'Cause what Cartman doesn't know is that I know one of his secrets!
+"
+8 5 Butters "When Cartman is playing all alone in his backyard, he likes to dress up like Britney Spears and pretend he's her! He sings and dances around with a life-sized cutout of Justin Timberlake.
+"
+8 5 Butters "Yeah! And I videotaped him doing it!
+"
+8 5 Butters "I've got the whole thing on tape! Even him making out with the Justin Timberlake cutout!
+"
+8 5 Butters "Yeah! And if Cartman ever messes with me again, I'm gonna show that video to everybody! Then I'll have my revenge, boy howdy!
+"
+8 5 Butters "Huh? Oh, I dunno. It's around here somewhere. Hey! So what do you wanna do now, AWESOM-O?
+"
+8 5 Butters "How come?
+"
+8 5 Butters "Oh, that's all right, AWESOM-O. Come on! I have a lot of things to teach you. 
+"
+8 5 Butters "Hey there have you heard about my robot friend?
+He's metal and small and doesn't judge me at all.
+He's a cyber, wired bundle of joy.
+My robot friend.
+I like to dip and daddle with my robot friend.
+He's smart as can be and emotion-free
+And he's computed his way to my heart.
+My robot friend.
+My robot friend.
+My robot friend.
+My robot... friend.
+"
+8 5 Butters "That's great AWESOM-O!  You can carry all my laundry in one trip!
+"
+8 5 Butters "Okay Mom. Well, come on, AWESOM-O. Bedtime.
+"
+8 5 Butters "Well of course he is. He's my robot, ain't he?
+"
+8 5 Butters "Yep! Don't you know nothin' about robot? Come on, AWESOM-O! You can put my laundry away! 
+"
+8 5 Butters "I love to brush my teeth! In the mornin' and at night!
+To keep 'em white and healthy, I got to brush them all the time!
+"
+8 5 Butters "Oh. Yeah.
+"
+8 5 Butters "Awww, you don't need to do that, AWESOM-O. Hey, I gotta put in my suppository.  Can you help me?
+"
+8 5 Butters "Remember I said I put that medicinal suppository in my anus? It'll be so much easier havin' you do it from now on.
+"
+8 5 Butters "Haw, it's real easy. I'll show you. You just take this little thingy out of the plastic... paper, and I'll, I'll pull down my pants ...and just slide it up in my anus there.
+"
+8 5 Butters "AWESOM-O, I though you were programmed to do whatever I tell you.
+"
+8 5 Butters "Ye- yeah, that, that's pretty good. Get it up there good and deep.
+"
+8 5 Butters "All right AWESOM-O, time for us to get some sleep.  Hey, you want me to teach you some bedtime songs? If you leave me now, you'll take away the biggest part of me. Ooo-oo-oooo-oo-oo...
+"
+8 5 Butters "Oh, o-o-all right AWESOM-O. Let's get us some shut-eye,  or what, or whatever robots have. 
+"
+8 5 Butters "AWESOM-O?!
+"
+8 5 Butters "AWESOM-O, what the Sam Heck are you doing?
+"
+8 5 Butters "Aw Jeez, Jeez Louise! My mom is gonna be awful sore when she sees this mess! Now AWESOM-O, that is a bad robot! You can't do no chores for me unless I tell you to do them! You got it?!
+"
+8 5 Butters "Now I'm gonna have to give ya a spankin', AWESOM-O, so that you'll learn better!  Just know, AWESOM-O, that I did it because I love you. Okay, come on, let's go make some breakfast.
+"
+8 5 Butters "Look at that, AWESOM-O! I drew a picture of us playing in a field together.  Ah I'll be right back. I'm gonna get some Sunny Delight. 
+"
+8 5 Butters "Don't be silly, AWESOM-O. Robots don't need to drink nothin'.  Uh, heehee.  Whoa. Uh, go answer the door, AWESOM-O.
+"
+8 5 Butters "Who's at the door, AWESOM-O? 
+"
+8 5 Butters "Ah, hey fellas! Ah, I see you met my robot.
+"
+8 5 Butters "Hey he sure is! We do everything together. Why last night we even had a slumber party. 
+"
+8 5 Butters "He can do anything I command him to. He's real smart. Watch this: Hey AWESOM-O, will you go get my friends some Sunny Delight?
+"
+8 5 Butters "He's made in Japan!
+"
+8 5 Butters "AWESOM-O, what are you doing? My friends are waiting for their beverages. Chop chop! 
+"
+8 5 Butters "Oh boy! My robot gets to come with me to see Aunt Nellie?!
+"
+8 5 Butters "Oh boy,  AWESOM-O! We're gonna have the best time ever! 
+"
+8 5 Butters "Hi Aunt Nellie! 
+"
+8 5 Butters "It was long. We had a three-hour delay... departin' Denver, but we're here!
+"
+8 5 Butters "Well, sure, but my robot is bringin' them in.
+"
+8 5 Butters "There he is! AWESOM-O, this is my Aunt Nellie. 
+"
+8 5 Butters "Nah, I ate on the plane. And AWESOM-O is a robot, so he don't need to eat.
+"
+8 5 Butters "AWESOM-O?
+"
+8 5 Butters "Come on, AWESOM-O! We're gonna go a- sightseein'!
+"
+8 5 Butters "I'm hangin' out in LA with my robot friend
+We're havin' such fun in the hot hot sun
+We're two of a kind- That's me!
+And my robot friend.
+My robot friend.
+My robot ...friend.
+"
+8 5 Butters "Can you believe we're at a real live movie studio, AWESOM-O? Aren't we havin' the best time?!
+"
+8 5 Butters "Hey, look over there, AWESOM-O. The film studio commissary.  That's where all them rich movie producers who come up with uh, Hollywood blockbusters have their lunch. Neat-o, huh? 
+"
+8 5 Butters "Well, he can do anything. Watch this: Hey, AWESOM-O, who's gonna win the Super Bowl next year?
+"
+8 5 Butters "Boy, Los Angeles is great, huh AWESOM-O? Can you believe those guys paid us a hundred dollars apiece for those movie ideas?
+"
+8 5 Butters "Hahaa, right! What are you gonna do with money, AWESOM-O? Buy some robot pants? Haha, no! We got each other and that's all we need, AWESOM-O. I'm gonna send this money to needy kids in third-world countries.
+"
+8 5 Butters "Yoe, you okay AWESOM-O?
+"
+8 5 Butters "Well you go ahead and relax, AWESOM-O. We've got another full day of pitching movies tomorrow.
+"
+8 5 Butters "Yeah, me and my robot are still over at the movie studio, Aunt Nellie. We're makin' all sorts of money for the poor.
+"
+8 5 Butters "Well yeah, we're havin' a great time, Aunt Nellie. These movie studio guys are real nice.
+"
+8 5 Butters "Yeah, we're makin' a bunch more money. I can't believe it either. 
+"
+8 5 Butters "AWESOM-O? Well, I gotta go, Aunt Nellie. Ah, AWESOM-O is havin' some kind of malfunction.  AWESOM-O? Hey, where'd ya go? 
+"
+8 5 Butters "AWESOM-O?  Hey, what are you doin' with him?!  That's my robot!  AWESOM-OOOOOOOOOOOOOO!!!
+"
+8 5 Butters "Hey there, did you know I had a robot friend?
+We used to laugh and play, but someone took him away.
+He was my ten gigahertz old pal.
+My robot friend.
+"
+8 5 Butters "Hey, wait a minute.  Why, that's the van that-  Oh my God!
+"
+8 5 Butters "AWESOM-O! 
+"
+8 5 Butters "No!  No, please!  Don't kill him! He's my best friend! He's my best friend in the whole world! 
+"
+8 5 Butters "Hey, robots don't fart!
+"
+8 5 Butters "Hang on a second, here! 
+"
+8 8 Butters "It's Mooey! Mooey, wave to me! Wave to me, Mooey!
+"
+8 8 Butters "Huh?
+"
+8 8 Butters "Hahaha, a turd sandwich!
+"
+8 8 Butters "Yeah! ...What's this for? 
+"
+8 8 Butters "Ohhh, we lost?
+"
+8 8 Butters "Yeah!
+"
+8 8 Butters "Yeah, game on, Jew-boy! 
+"
+8 8 Butters "A turd sandwich is not only the first turd to be nominated school mascot, but even the first sandwich. 
+"
+8 8 Butters "Whe-where as Giant Douche is just, well, ju-just a, ju-ju-just a giant douche.
+"
+8 8 Butters "Uh hey, wait a minute! 
+"
+8 9 Butters "Wull ah I'm just playin' Monster. It's kinda spooky out here. 
+"
+8 10 Butters "Is it true?! Trent Boyett is getting out?!
+"
+8 10 Butters "Oh Jesus, Oh Christ in Heaven, I gotta hide!  Uh, oh boy! 
+"
+8 10 Butters "Hey fellas, you'd better be careful.
+"
+8 10 Butters "Oh, all right then. 
+"
+8 10 Butters "U-Ah, gee-whiz, Trent. Ah, I don't wanna get involved. Or else my parents will ground me.
+"
+8 10 Butters "Hah! 
+"
+8 10 Butters "Hwell. Oh, uh, hi Dad.
+"
+8 10 Butters "Nothins' wrong, sir. Eh, nothin' at all.
+"
+8 10 Butters "Uh... outside? No way! 
+"
+8 10 Butters "N-no reason! 
+"
+8 10 Butters "But Dad, I just wanna stay in my room-
+"
+8 10 Butters "Tru... Tr-Trent Boyett! Haaaa!  Dad! Mom! I'm don- I'm done playin' now!  Aaaaah! Let me in, Dad!  Mom, Dad, you gotta open the door! 
+"
+8 10 Butters "Oh my God, he's coming! Oh hamburgers he's gonna kill me!
+"
+8 10 Butters "Mom, Dad, you gotta open the door right now! You've gotta open it-  Oh, hey! Trent Boyett Gosh I... haven't seen you in a while.
+"
+8 10 Butters "Look, Trent, I know- I know you're awful sore about... pre- muh- pr-preschool and all, but... well that was a long time ago. I mean, we were just kids.  Uhhh... p-lease don't hurt me, Trent. I-I'll give you anything you want. You name it!
+"
+8 10 Butters "Well, no, Trent, I-I'm not like a time-traveler or nothin'.
+"
+8 10 Butters "No, Trent, I-I ain't gonna run. We can talk this through.
+"
+8 10 Butters "Uh, Trent, now, listen to me. I'm sorry for the color-
+"
+8 10 Butters "Ohhh hamburgers! 
+"
+8 11 Butters "Nu-noo, not yet. I've been standin' out in front of the school for about ...two hours now and ah, and I haven't seen any celebrities. Uh, about thirty minutes ago I thought I saw Sigourney Weaver, but ih-ih-turn- it turns out it was a dead horse.
+"
+8 11 Butters "Will do.
+"
+8 11 Butters "Boy, that was a great episode!
+"
+8 11 Butters "Gee whiz. We sure worked hard on that new show.
+"
+8 11 Butters "Well, what are we waitin' for?!
+"
+8 11 Butters "Hey, yeah. Uh why I could say I saw celebrities even though I didn't, a-a-and then lie about what I saw them doing.
+"
+8 11 Butters "Lie about celebrities.
+"
+8 11 Butters "Oh, boy!
+"
+8 11 Butters "Sexy Action School News Team, ho! 
+"
+8 11 Butters "Does... Does this mean we're still gonna get cancelled?
+"
+8 11 Butters "Stupid news hair! 
+"
+8 11 Butters "Well, how about we get panda bears and we have them dance around with us?
+"
+8 11 Butters "I know! We should read the funnies!  I always get good ideas from the funnies.
+"
+8 11 Butters "Yeah! I read 'em all the time! Uh here's one: the uh, snail tripped over a hurdle, and the other snail says ""Well that's gonna add another hour to his time.""  Yeah! You guys!  Heh.
+"
+8 11 Butters "So Dagwood says ""Good, guh-good thing we're playin' ...uh the back nine at your house."" 
+"
+8 11 Butters "Gee whiz, there sure is a lot of 'em.
+"
+8 11 Butters "Woo. We aren't havin' a party.
+"
+8 11 Butters "Oh boy, I can't wait to be creative and smart.  Hohhh, it's all thick and g-gooey.
+"
+8 11 Butters "Whoa...  I'm feeling kind of bowling-ballish, fellas.
+"
+8 11 Butters "Hey! Let's run naked through the street! 
+"
+8 11 Butters "Huh?
+"
+8 11 Butters "Oh J-Jesus, where are my clothes?!
+"
+8 11 Butters "Still no celebrities, Eric. Uhn, I'll keep my eyes open.
+"
+8 12 Butters "Loo loo loo, I've got some apples, Loo loo loo, you've got some too.
+"
+8 12 Butters "Loo loo loo, let's make some applesauce, take off our clothes and loo loo loo!
+"
+8 12 Butters "My name's Butters.
+"
+8 12 Butters "Wa-I'm, Wa-I'm sorry, ma'am. I'd like to be your boyfriend and all, uh even though you have kind of a big nose, but my parents told me, ""never get into a car with a stranger.""
+"
+8 12 Butters "Oh.Yeah, actually, they did say that'd be all right.
+"
+8 12 Butters "Oh, well, uh, my sort-of-girlfriend dressed me up like this.
+"
+8 12 Butters "I'm sorry.
+"
+8 12 Butters "Mom, Dad, I-I love you. Please don't sell me to Paris Hilton.
+"
+8 12 Butters "Huh. Didn't I... Whoa, that's the darnedest thing I ever saw. 
+"
+8 12 Butters "Oh hamburgers!
+"
+8 12 Butters "Please! Ah I don't want to live with her! She snores real bad, and she has a huge nose, and a squishy thing that lives in her pants! Please! Please don't sell me to her! 
+"
+8 12 Butters "Uh, well huh, how am I supposed to make that kind of money??
+"
+8 12 Butters "Y-yes sir!  I-I gotta... mine some coal... really fast!
+"
+8 12 Butters "You work eighteen hours and what do you get? Parents sell ya to Paris Hilton.
+"
+8 12 Butters "Well, no, not quite.
+"
+8 12 Butters "Ah, shucks! 
+"
+8 12 Butters "Before what happens? 
+"
+8 12 Butters "Aaaaaaaaaaaaaah! 
+"
+8 12 Butters "H-help! You've gotta hide me!  Don't tell her I'm in here! 
+"
+8 12 Butters "HAAAAH! 
+"
+8 12 Butters "I'm a bad bear. I'm a very bad old bear.
+"
+8 13 Butters "Yeah. I think it'd be better to start lower.
+"
+8 13 Butters "Wuh be careful, Kyle.
+"
+8 13 Butters "Now Kyle, don't fly too close to the sun, or it'll burn your wings, an- and you'll crash into the ocean.
+"
+8 14 Butters "Well but, but what happened?
+"
+8 14 Butters "Aw well, come on. Let him read us the end.
+"
+8 1 Butters "Hey fellas. What's happenin'?
+"
+8 1 Butters "Wowee! Hey, can I play, ninjas with you?
+"
+8 1 Butters "I think I'd make a really good ninja.  Jeez, those guys never let me play with them. Uh, they just shun me all the time. 
+"
+8 1 Butters "I'm a lost soul. A dark lonely shadow of a person-
+"
+8 1 Butters "Hi Mom.  -a castaway, forced to live his life out in solitude.  And it's because of times like these I was forced to a life of evil.  Society cast me out, and so I vowed to make them all pay! And pay they did! Nobody knows that beneath this sweet eight-year-old little boy lies the most evil, the most destructive super-villain of all time!  Professor Chaos!  Let's see how you like dealing with me, ninjas! 
+"
+8 1 Butters "Yeah Mom, I'm just goin' outside for a little while.
+"
+8 1 Butters "Well, o- okay Mom.  Bah! Gah! 
+"
+8 1 Butters "Haaa ha ha ha ha!  Well well well! If it isn't the four ninjas!
+"
+8 1 Butters "Fools!  I am Professor Chaos! Bringer of Destruction and Doom!  Your feeble ninja powers are no match for me!
+"
+8 1 Butters "Nuh uh!
+"
+8 1 Butters "Nuh uh! Because my cloak is made of a... titanium alloy that shields me from heat!
+"
+8 1 Butters "Huh nice attempt, ninja! But now both of you shall feel the power of my Web of Holding!  Ha, ha, ha, ha, ha! You are both trapped in spiderwebs! 
+"
+8 1 Butters "Enough! I grow weary of your foolishness. Professor Chaos cannot be stopped!
+"
+8 1 Butters "It hurts! It hurts! 
+"
+8 1 Butters "But I... But I... But I can't see nothin'. I gotta go to the hospital! 
+"
+8 1 Butters "Ah.  Hwa!  Hwaaaaa!
+"
+8 1 Butters "You guys can't fix my eyeball! You have to take me to the hospital! 
+"
+8 1 Butters "Whoa, I'm getting woozy.
+"
+8 1 Butters "But, but fellas, if I, if I dress up like a dog with a star in my eye, I- I'm gonna get grounded.
+"
+8 1 Butters "Uh, that modeling glue is making me dizzy.
+"
+8 1 Butters "Uh. Wuff, wu-wuff.
+"
+8 1 Butters "Wuhuff, woof, woof.
+"
+8 1 Butters "bu- but fellas, I gotta- 
+"
+8 1 Butters "Hello? Anybody-eh.  Woof. Woof. Woofwoof.  Eh. Woof, eh. Woof. 
+"
+8 1 Butters "Woof woof.
+"
+8 1 Butters "Woof woof. 
+"
+8 1 Butters "Gaaaah!
+"
+8 1 Butters "Haba, haba! Habahoaha! 
+"
+8 4 Butters "Loo loo loo, I've got some apples. Loo loo loo, you've got some too. Loo loo loo, I've-
+"
+8 4 Butters "Oh well, hi there everybody. 
+"
+8 4 Butters "Wow, neat-o, a competition? Why, I'd love to. What kind of competition is it?
+"
+8 4 Butters "...No.
+"
+8 4 Butters "No.  No no no no no no, no!  No! No no no no!
+"
+8 4 Butters "Waaaaah!
+"
+8 4 Butters "Aaaaah!  Aaaaah!
+"
+8 4 Butters "Two years ago. Two years ago!
+"
+8 4 Butters "Whoops. 
+"
+8 4 Butters "Wuuuhaaaaaaah! Aaaaaaaah!  No! Nooo! Noooooooooooooooo!
+"
+8 4 Butters "What do you want?
+"
+8 4 Butters "Sorry, Stan, I'm not a dancer anymore.  I gave that up.
+"
+8 4 Butters "Did she also tell you my dancing got eight people killed?
+"
+8 4 Butters "Yeah well, you tell that to their families. 
+"
+8 4 Butters "I let those people down! Don't you get it, man?! Eight people died!
+"
+8 4 Butters "What?
+"
+8 4 Butters "Aaaah!
+"
+8 4 Butters "Get out of my room, Stan.
+"
+8 4 Butters "Hey! Can I still dance with you guys?
+"
+8 4 Butters "Waaah!  No! Jesus, not again!
+"
+8 4 Butters "No! No! Noooooo!
+"
+8 5 Butters "What the heck?  Whoa! What a huge package!  ""To Butters Stotch.""  Oh boy! It's for me! It's for me!  Who is it from? ""Sent from: Japan. Konichi-wa.""  Wow! A package for me from Japan!!  Wow, what can it be? My birthday isn't until September 11.  Oh boy! I've never gotten a package this big! I've always wanted to have a huge package. 
+"
+8 5 Butters "Whoa...
+"
+8 5 Butters "You... you're my robot?
+"
+8 5 Butters "Oh wow!
+"
+8 5 Butters "Yep. That's right. He's a real live robot. He can walk and talk and everything. You're like the fourth kid I told already.  Well I gotta go Dougie. My robot and I have stuff to do.  Heheh, they're all so jealous!  I'm so glad you came into my life, AWESOM-O. You're the best friend a guy could have.
+"
+8 5 Butters "Hey yeah! Well, I can tell you anything, huh?  Well lessee... Well, for one, I have what's called a hesiated colon, which means I sometime can't control my sphincter.
+"
+8 5 Butters "Well, nobody knows it, but sometimes I poop my pants, so I have to wear a diaper to school.  You okay, AWESOM-O?
+"
+8 5 Butters "Well, I have to take medicine for it every day. It's a little suppository I have to... put up my rectum.
+"
+8 5 Butters "Hm, okay. Let's see  Oh, my parents don't know, but sometimes I get picked on by this one kid at school; his name is Eric Cartman, and he always tries to play jokes on me and stuff.
+"
+8 5 Butters "Yeah. One time he made me think a meteor had hit the earth, and convinced me to stay down in a bomb shelter for three days.
+"
+8 5 Butters "Yeah. And then this other time, he pretended to be me on the phone to my dad and called him a pussy, so my dad came home and beat me.
+"
+8 5 Butters "No, he's not smart! He's just an asshole. And he's never gonna play on me ever again! 
+"
+8 5 Butters "Yeah, and he's never gonna get me again! 'Cause what Cartman doesn't know is that I know one of his secrets!
+"
+8 5 Butters "When Cartman is playing all alone in his backyard, he likes to dress up like Britney Spears and pretend he's her! He sings and dances around with a life-sized cutout of Justin Timberlake.
+"
+8 5 Butters "Yeah! And I videotaped him doing it!
+"
+8 5 Butters "I've got the whole thing on tape! Even him making out with the Justin Timberlake cutout!
+"
+8 5 Butters "Yeah! And if Cartman ever messes with me again, I'm gonna show that video to everybody! Then I'll have my revenge, boy howdy!
+"
+8 5 Butters "Huh? Oh, I dunno. It's around here somewhere. Hey! So what do you wanna do now, AWESOM-O?
+"
+8 5 Butters "How come?
+"
+8 5 Butters "Oh, that's all right, AWESOM-O. Come on! I have a lot of things to teach you. 
+"
+8 5 Butters "Hey there have you heard about my robot friend?
+He's metal and small and doesn't judge me at all.
+He's a cyber, wired bundle of joy.
+My robot friend.
+I like to dip and daddle with my robot friend.
+He's smart as can be and emotion-free
+And he's computed his way to my heart.
+My robot friend.
+My robot friend.
+My robot friend.
+My robot... friend.
+"
+8 5 Butters "That's great AWESOM-O!  You can carry all my laundry in one trip!
+"
+8 5 Butters "Okay Mom. Well, come on, AWESOM-O. Bedtime.
+"
+8 5 Butters "Well of course he is. He's my robot, ain't he?
+"
+8 5 Butters "Yep! Don't you know nothin' about robot? Come on, AWESOM-O! You can put my laundry away! 
+"
+8 5 Butters "I love to brush my teeth! In the mornin' and at night!
+To keep 'em white and healthy, I got to brush them all the time!
+"
+8 5 Butters "Oh. Yeah.
+"
+8 5 Butters "Awww, you don't need to do that, AWESOM-O. Hey, I gotta put in my suppository.  Can you help me?
+"
+8 5 Butters "Remember I said I put that medicinal suppository in my anus? It'll be so much easier havin' you do it from now on.
+"
+8 5 Butters "Haw, it's real easy. I'll show you. You just take this little thingy out of the plastic... paper, and I'll, I'll pull down my pants ...and just slide it up in my anus there.
+"
+8 5 Butters "AWESOM-O, I though you were programmed to do whatever I tell you.
+"
+8 5 Butters "Ye- yeah, that, that's pretty good. Get it up there good and deep.
+"
+8 5 Butters "All right AWESOM-O, time for us to get some sleep.  Hey, you want me to teach you some bedtime songs? If you leave me now, you'll take away the biggest part of me. Ooo-oo-oooo-oo-oo...
+"
+8 5 Butters "Oh, o-o-all right AWESOM-O. Let's get us some shut-eye,  or what, or whatever robots have. 
+"
+8 5 Butters "AWESOM-O?!
+"
+8 5 Butters "AWESOM-O, what the Sam Heck are you doing?
+"
+8 5 Butters "Aw Jeez, Jeez Louise! My mom is gonna be awful sore when she sees this mess! Now AWESOM-O, that is a bad robot! You can't do no chores for me unless I tell you to do them! You got it?!
+"
+8 5 Butters "Now I'm gonna have to give ya a spankin', AWESOM-O, so that you'll learn better!  Just know, AWESOM-O, that I did it because I love you. Okay, come on, let's go make some breakfast.
+"
+8 5 Butters "Look at that, AWESOM-O! I drew a picture of us playing in a field together.  Ah I'll be right back. I'm gonna get some Sunny Delight. 
+"
+8 5 Butters "Don't be silly, AWESOM-O. Robots don't need to drink nothin'.  Uh, heehee.  Whoa. Uh, go answer the door, AWESOM-O.
+"
+8 5 Butters "Who's at the door, AWESOM-O? 
+"
+8 5 Butters "Ah, hey fellas! Ah, I see you met my robot.
+"
+8 5 Butters "Hey he sure is! We do everything together. Why last night we even had a slumber party. 
+"
+8 5 Butters "He can do anything I command him to. He's real smart. Watch this: Hey AWESOM-O, will you go get my friends some Sunny Delight?
+"
+8 5 Butters "He's made in Japan!
+"
+8 5 Butters "AWESOM-O, what are you doing? My friends are waiting for their beverages. Chop chop! 
+"
+8 5 Butters "Oh boy! My robot gets to come with me to see Aunt Nellie?!
+"
+8 5 Butters "Oh boy,  AWESOM-O! We're gonna have the best time ever! 
+"
+8 5 Butters "Hi Aunt Nellie! 
+"
+8 5 Butters "It was long. We had a three-hour delay... departin' Denver, but we're here!
+"
+8 5 Butters "Well, sure, but my robot is bringin' them in.
+"
+8 5 Butters "There he is! AWESOM-O, this is my Aunt Nellie. 
+"
+8 5 Butters "Nah, I ate on the plane. And AWESOM-O is a robot, so he don't need to eat.
+"
+8 5 Butters "AWESOM-O?
+"
+8 5 Butters "Come on, AWESOM-O! We're gonna go a- sightseein'!
+"
+8 5 Butters "I'm hangin' out in LA with my robot friend
+We're havin' such fun in the hot hot sun
+We're two of a kind- That's me!
+And my robot friend.
+My robot friend.
+My robot ...friend.
+"
+8 5 Butters "Can you believe we're at a real live movie studio, AWESOM-O? Aren't we havin' the best time?!
+"
+8 5 Butters "Hey, look over there, AWESOM-O. The film studio commissary.  That's where all them rich movie producers who come up with uh, Hollywood blockbusters have their lunch. Neat-o, huh? 
+"
+8 5 Butters "Well, he can do anything. Watch this: Hey, AWESOM-O, who's gonna win the Super Bowl next year?
+"
+8 5 Butters "Boy, Los Angeles is great, huh AWESOM-O? Can you believe those guys paid us a hundred dollars apiece for those movie ideas?
+"
+8 5 Butters "Hahaa, right! What are you gonna do with money, AWESOM-O? Buy some robot pants? Haha, no! We got each other and that's all we need, AWESOM-O. I'm gonna send this money to needy kids in third-world countries.
+"
+8 5 Butters "Yoe, you okay AWESOM-O?
+"
+8 5 Butters "Well you go ahead and relax, AWESOM-O. We've got another full day of pitching movies tomorrow.
+"
+8 5 Butters "Yeah, me and my robot are still over at the movie studio, Aunt Nellie. We're makin' all sorts of money for the poor.
+"
+8 5 Butters "Well yeah, we're havin' a great time, Aunt Nellie. These movie studio guys are real nice.
+"
+8 5 Butters "Yeah, we're makin' a bunch more money. I can't believe it either. 
+"
+8 5 Butters "AWESOM-O? Well, I gotta go, Aunt Nellie. Ah, AWESOM-O is havin' some kind of malfunction.  AWESOM-O? Hey, where'd ya go? 
+"
+8 5 Butters "AWESOM-O?  Hey, what are you doin' with him?!  That's my robot!  AWESOM-OOOOOOOOOOOOOO!!!
+"
+8 5 Butters "Hey there, did you know I had a robot friend?
+We used to laugh and play, but someone took him away.
+He was my ten gigahertz old pal.
+My robot friend.
+"
+8 5 Butters "Hey, wait a minute.  Why, that's the van that-  Oh my God!
+"
+8 5 Butters "AWESOM-O! 
+"
+8 5 Butters "No!  No, please!  Don't kill him! He's my best friend! He's my best friend in the whole world! 
+"
+8 5 Butters "Hey, robots don't fart!
+"
+8 5 Butters "Hang on a second, here! 
+"
+8 8 Butters "It's Mooey! Mooey, wave to me! Wave to me, Mooey!
+"
+8 8 Butters "Huh?
+"
+8 8 Butters "Hahaha, a turd sandwich!
+"
+8 8 Butters "Yeah! ...What's this for? 
+"
+8 8 Butters "Ohhh, we lost?
+"
+8 8 Butters "Yeah!
+"
+8 8 Butters "Yeah, game on, Jew-boy! 
+"
+8 8 Butters "A turd sandwich is not only the first turd to be nominated school mascot, but even the first sandwich. 
+"
+8 8 Butters "Whe-where as Giant Douche is just, well, ju-just a, ju-ju-just a giant douche.
+"
+8 8 Butters "Uh hey, wait a minute! 
+"
+8 9 Butters "Wull ah I'm just playin' Monster. It's kinda spooky out here. 
+"
+8 10 Butters "Is it true?! Trent Boyett is getting out?!
+"
+8 10 Butters "Oh Jesus, Oh Christ in Heaven, I gotta hide!  Uh, oh boy! 
+"
+8 10 Butters "Hey fellas, you'd better be careful.
+"
+8 10 Butters "Oh, all right then. 
+"
+8 10 Butters "U-Ah, gee-whiz, Trent. Ah, I don't wanna get involved. Or else my parents will ground me.
+"
+8 10 Butters "Hah! 
+"
+8 10 Butters "Hwell. Oh, uh, hi Dad.
+"
+8 10 Butters "Nothins' wrong, sir. Eh, nothin' at all.
+"
+8 10 Butters "Uh... outside? No way! 
+"
+8 10 Butters "N-no reason! 
+"
+8 10 Butters "But Dad, I just wanna stay in my room-
+"
+8 10 Butters "Tru... Tr-Trent Boyett! Haaaa!  Dad! Mom! I'm don- I'm done playin' now!  Aaaaah! Let me in, Dad!  Mom, Dad, you gotta open the door! 
+"
+8 10 Butters "Oh my God, he's coming! Oh hamburgers he's gonna kill me!
+"
+8 10 Butters "Mom, Dad, you gotta open the door right now! You've gotta open it-  Oh, hey! Trent Boyett Gosh I... haven't seen you in a while.
+"
+8 10 Butters "Look, Trent, I know- I know you're awful sore about... pre- muh- pr-preschool and all, but... well that was a long time ago. I mean, we were just kids.  Uhhh... p-lease don't hurt me, Trent. I-I'll give you anything you want. You name it!
+"
+8 10 Butters "Well, no, Trent, I-I'm not like a time-traveler or nothin'.
+"
+8 10 Butters "No, Trent, I-I ain't gonna run. We can talk this through.
+"
+8 10 Butters "Uh, Trent, now, listen to me. I'm sorry for the color-
+"
+8 10 Butters "Ohhh hamburgers! 
+"
+8 11 Butters "Nu-noo, not yet. I've been standin' out in front of the school for about ...two hours now and ah, and I haven't seen any celebrities. Uh, about thirty minutes ago I thought I saw Sigourney Weaver, but ih-ih-turn- it turns out it was a dead horse.
+"
+8 11 Butters "Will do.
+"
+8 11 Butters "Boy, that was a great episode!
+"
+8 11 Butters "Gee whiz. We sure worked hard on that new show.
+"
+8 11 Butters "Well, what are we waitin' for?!
+"
+8 11 Butters "Hey, yeah. Uh why I could say I saw celebrities even though I didn't, a-a-and then lie about what I saw them doing.
+"
+8 11 Butters "Lie about celebrities.
+"
+8 11 Butters "Oh, boy!
+"
+8 11 Butters "Sexy Action School News Team, ho! 
+"
+8 11 Butters "Does... Does this mean we're still gonna get cancelled?
+"
+8 11 Butters "Stupid news hair! 
+"
+8 11 Butters "Well, how about we get panda bears and we have them dance around with us?
+"
+8 11 Butters "I know! We should read the funnies!  I always get good ideas from the funnies.
+"
+8 11 Butters "Yeah! I read 'em all the time! Uh here's one: the uh, snail tripped over a hurdle, and the other snail says ""Well that's gonna add another hour to his time.""  Yeah! You guys!  Heh.
+"
+8 11 Butters "So Dagwood says ""Good, guh-good thing we're playin' ...uh the back nine at your house."" 
+"
+8 11 Butters "Gee whiz, there sure is a lot of 'em.
+"
+8 11 Butters "Woo. We aren't havin' a party.
+"
+8 11 Butters "Oh boy, I can't wait to be creative and smart.  Hohhh, it's all thick and g-gooey.
+"
+8 11 Butters "Whoa...  I'm feeling kind of bowling-ballish, fellas.
+"
+8 11 Butters "Hey! Let's run naked through the street! 
+"
+8 11 Butters "Huh?
+"
+8 11 Butters "Oh J-Jesus, where are my clothes?!
+"
+8 11 Butters "Still no celebrities, Eric. Uhn, I'll keep my eyes open.
+"
+8 12 Butters "Loo loo loo, I've got some apples, Loo loo loo, you've got some too.
+"
+8 12 Butters "Loo loo loo, let's make some applesauce, take off our clothes and loo loo loo!
+"
+8 12 Butters "My name's Butters.
+"
+8 12 Butters "Wa-I'm, Wa-I'm sorry, ma'am. I'd like to be your boyfriend and all, uh even though you have kind of a big nose, but my parents told me, ""never get into a car with a stranger.""
+"
+8 12 Butters "Oh.Yeah, actually, they did say that'd be all right.
+"
+8 12 Butters "Oh, well, uh, my sort-of-girlfriend dressed me up like this.
+"
+8 12 Butters "I'm sorry.
+"
+8 12 Butters "Mom, Dad, I-I love you. Please don't sell me to Paris Hilton.
+"
+8 12 Butters "Huh. Didn't I... Whoa, that's the darnedest thing I ever saw. 
+"
+8 12 Butters "Oh hamburgers!
+"
+8 12 Butters "Please! Ah I don't want to live with her! She snores real bad, and she has a huge nose, and a squishy thing that lives in her pants! Please! Please don't sell me to her! 
+"
+8 12 Butters "Uh, well huh, how am I supposed to make that kind of money??
+"
+8 12 Butters "Y-yes sir!  I-I gotta... mine some coal... really fast!
+"
+8 12 Butters "You work eighteen hours and what do you get? Parents sell ya to Paris Hilton.
+"
+8 12 Butters "Well, no, not quite.
+"
+8 12 Butters "Ah, shucks! 
+"
+8 12 Butters "Before what happens? 
+"
+8 12 Butters "Aaaaaaaaaaaaaah! 
+"
+8 12 Butters "H-help! You've gotta hide me!  Don't tell her I'm in here! 
+"
+8 12 Butters "HAAAAH! 
+"
+8 12 Butters "I'm a bad bear. I'm a very bad old bear.
+"
+8 13 Butters "Yeah. I think it'd be better to start lower.
+"
+8 13 Butters "Wuh be careful, Kyle.
+"
+8 13 Butters "Now Kyle, don't fly too close to the sun, or it'll burn your wings, an- and you'll crash into the ocean.
+"
+8 14 Butters "Well but, but what happened?
+"
+8 14 Butters "Aw well, come on. Let him read us the end.
+"

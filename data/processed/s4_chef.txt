@@ -1,0 +1,426 @@
+4 2 Chef "Hello there, children.
+"
+4 2 Chef "Oh. Well, uh, I'm afraid that the school charges extra for that.
+"
+4 2 Chef "Oh my God! There has got to be at least fifteen dollars here!
+"
+4 2 Chef "Well! Look at you cute little crackers! With your money and your fancy clothes and your cell phones, it's almost like you were-  Oh my God, children! What have I told you about drugs?!
+"
+4 2 Chef "That's right. And the only thing worse than doin' drugs is dealin' drugs! I'm gonna tell you about when I was your age and got offered drugs. 
+"
+4 2 Chef "Uh?
+"
+4 2 Chef "You're not?
+"
+4 2 Chef "Oh, uh weh-ell, children, whatever you're doin', just remember this: havin' money may seem fun, but...  Ooh, uh-oh, never mind.
+"
+4 2 Chef "Damn, that little Amanda was fine! I'm gonna look her up. 
+"
+4 4 Chef "Hello there, children.
+"
+4 4 Chef "How's it goin'?
+"
+4 4 Chef "Everything's fine?? Why??
+"
+4 4 Chef "What??
+"
+4 4 Chef "So that's why all you children are acting so damned boring!
+"
+4 4 Chef "Damnit, children, you don't need drugs to make you pay attention in school! In my day, if we didn't pay attention we got a belt to the bottom! Now they're tryin' to cure everything with drugs!
+"
+4 4 Chef "Oh, it makes me sick! Those damned psychologists prescribe all kinds of medicines to you children without even carin' about the side effects.
+"
+4 4 Chef "Parents, I called you all together because I think you might be making a mistake puttin' your children on Ritalin. 
+"
+4 4 Chef "I know you wanna help your kids, but I brought over a videotape to show you that there are alternative' to Ritalin. There's this doctor in Northern California who is doin' real amazing things with kids who have ADD. I want you to watch this tape. 
+"
+4 4 Chef "Well, what do you think? I can have Dr. Shay come to South Park for a small fee.
+"
+4 4 Chef "What the...? Dammit! Have you all been taking your children's Ritalin too?!
+"
+4 4 Chef "Awww, fudge it! 
+"
+4 4 Chef "The what?
+"
+4 4 Chef "Hold on a second: you children want to go see Phil Collins?
+"
+4 4 Chef "Oh my God!!
+"
+4 4 Chef "That does it! That Ritalin has affected your little cracker brains too deeply! I'm going to go see that damn pharmacist!
+"
+4 4 Chef "Hey, open this damn door. 
+"
+4 4 Chef "Yes you can! What the hell are you two doin' prescribing all the children Ritalin?!
+"
+4 4 Chef "I know what it is! But now you've got a town full of zombie children from the planet Zandor.
+"
+4 4 Chef "All around the country, you bastard doctors are giving children Ritalin! And for every one child that actually needs it, you give it to 50,000 that don't!
+"
+4 4 Chef "You're damn right I'll tell you yo' business, because you two have got your heads up your asses! Thanks to you, we have children in our town that like Phil Collins!
+"
+4 4 Chef "That's right! You've made them so dull and boring that they're actually going to go to a Phil Collins concert!
+"
+4 4 Chef "Well, how do we reverse the Ritalin?!
+"
+4 4 Chef "Then we need an antidote!
+"
+4 4 Chef "Alright. Come on, we've got to get the antidote to all the children. Quick! 
+"
+4 4 Chef "Here. We can put the Ritalin antidote in these drinks and hand them out to the children. 
+"
+4 4 Chef "Here you go, Stan and Kyle. Free drinks on me. 
+"
+4 4 Chef "Come on, drink it down. It's free.
+"
+4 4 Chef "Drink this, Eric.  God help me! Heh, get it...  She's gone! Thank God!
+"
+4 4 Chef "I think it's working.
+"
+4 8 Chef "Mayor, as I've said before, I find that flag to be racist and insensitive!
+"
+4 8 Chef "That flag represents a time when blacks were persecuted by whites! How can a black man not be bothered by it?!
+"
+4 8 Chef "You don't see anything wrong with that flag?!
+"
+4 8 Chef "Yeah!
+"
+4 8 Chef "Look, I have gone to every quiet protest I could! I have written everyone; I've put up signs! But now I'm telling you , THIS FLAG WILL BE CHANGED!
+"
+4 8 Chef "Sign up to join me, and come marching to the Mayor's office in protest of the South Park flag!  You see that, children?! Nobody wants to get involved!  Randy! Sign up to march with me against the South Park flag on Wednesday?
+"
+4 8 Chef "Well, alright, Marsh, you're entitled to your own opinion.  That's how it is in this town. I haven't gotten one signature on this damn sheet, and I've been here all day!
+"
+4 8 Chef "That's nice, but I need the support of some registered voters.  Ey, Mackey! Sign up to march on Wednesday?
+"
+4 8 Chef "Alright, fudge it, Thursday. Anyone else wanna go Thursday?
+"
+4 8 Chef "Fine! Next Sunday!
+"
+4 8 Chef "Monday??
+"
+4 8 Chef "Okay! On Saturday, we march!
+"
+4 8 Chef "To bring down the South Park Flag!
+"
+4 8 Chef "My name isn't Chef anymore, children. I've converted to Islam.
+"
+4 8 Chef "From now on, my name is  Abdul Mohammed Jabar  Rauf Kareem Ali.  With everyone in town so insensitive about the flag, I find it no longer fitting to use my slave name!
+"
+4 8 Chef "You WHAT?!  You don't think they should change the flag?!
+"
+4 8 Chef "Well, that figures you don't! Because your cracker-ass parents turned you into little cracker-ass cracker-racists! I never thought I'd live to see this many of the people I considered friends turn against me!
+"
+4 8 Chef "But nothin'!  ""But"" my ass! Fix your own damn food! 
+"
+4 8 Chef "Change the flag!
+"
+4 8 Chef "Change the flag! Change the flag!…
+"
+4 8 Chef "…Change the flag! Change the flag! Change the flag! Change the flag!  In the 1960s there was a monk  who set himself on fire to protest! You have left me no choice!  To protest your lack of humanity, I will now do the same thing! 
+"
+4 8 Chef "Change the flag!
+"
+4 8 Chef "No, damnit!
+"
+4 8 Chef "How can you all just stand by and let these racists do this?!
+"
+4 8 Chef "Aw, the hell with all of you indecisive bastards!
+"
+4 8 Chef "I ain't gonna listen to nothin'! This whole cracker-ass town can kiss my ass! 
+"
+4 8 Chef "Whoa whoa whooaa! You just missed the point entirely!
+"
+4 8 Chef "I'm not mad because the flag shows somebody gettin' killed, It's because it's racist!
+"
+4 8 Chef "Children, don't you even know what this argument is about?! That flag is racist because a black man is being hung by white people.
+"
+4 8 Chef "Ooooooohhh?!
+"
+4 8 Chef "But that's a black man up there!
+"
+4 8 Chef "Well of course it matters when-  …Oh my God. Wait a minute. You children didn't even see the flag as a black man being hanged by white people, did you?
+"
+4 8 Chef "Why, that is- that is the most beautiful thing I have ever heard.
+"
+4 8 Chef "Don't you see? All this time I thought these little crackers had turned racist, when actually they were so not racist that they didn't even make a separation of black and white to begin with. All they saw when they looked at that flag was five people.
+"
+4 8 Chef "I'm sorry, children. I was wrong about you. But I still the flag needs to be changed. But now I realize that I almost let racism turn me into a racist.
+"
+4 8 Chef "Oh, I know you don't, Jimbo. I've known you for almost ten years. You're a good man.
+"
+4 8 Chef "I think that's a much better start than me tryin' to separate myself from all you wonderful crackers.
+"
+4 8 Chef "Hooray!
+"
+4 9 Chef "Oh! Oh-h, hello Eric.
+"
+4 9 Chef "Wellll, if you uhhh, come back in just a little bit, Eric, I'll see if I can help you out. 
+"
+4 9 Chef "Alright, Eric, what's the matter?
+"
+4 9 Chef "Well, Eric, I, I think you were just focusin' in on the wrong thing. Boy bands aren't about music, boy bands are created by corporations to make money. They're all based on the Gomlich effect.
+"
+4 9 Chef "The law of physics that states, ""If one girl screams for something, it will make other girls scream. And then, it grows exponentiously until all girls within a five-mile radius are screaming.""
+"
+4 9 Chef "All they do is make videos, showing tons and tons of girls screaming for the boy band. Once you get girls screaming, you can't stop 'em. They're crazy!  Uh-uh, except for Lilian, of course. 
+"
+4 9 Chef "You're welcome. Now, go away!
+"
+4 9 Chef "A-and a cucumber in the pants never hurt either!
+"
+4 12 Chef "What's the problem?
+"
+4 12 Chef "You call that a problem? That sounds like heaven to me.
+"
+4 12 Chef "Oooo! Call the doctor!
+"
+4 12 Chef "Uuuh, Ms. Choksondik, Mr. Garrison had several uuh, eee-motional issues. He was a closet homosexual who hated gay people. Whenever someone asked him if he was gay, he'd go nuts.
+"
+4 12 Chef "Some say that on cold nights you can still hear him moanin', ""I'm not gaaay! I'm not gaaay!""
+"
+4 12 Chef "You know I'm always here to help, Principal Victoria. 
+"
+4 15 Chef "Hello there, children!
+"
+4 15 Chef "Dag-nabbit children! How come every time you come in here you gotta be askin' me questions that I shouldn't be answering?! ""Chef, what's the clitoris?"" ""What's a lesbian, Chef?"" ""How come they call it a rimjob, Chef?""  For once, can't you just come in here and say, ""Hi Chef. Nice day, isn't it?""!
+"
+4 15 Chef "It sure is! Thank you.
+"
+4 15 Chef "Uh uh! You children are gonna get me in trouble with the principal again.
+"
+4 15 Chef "Oh my God. Eric?
+"
+4 15 Chef "Why do you need to know what a prostitute is anyway?!
+"
+4 15 Chef "Well, no, uh of course Kenny is not a prostitute.
+"
+4 15 Chef "Well, because, children, a prostitute is someone who... you could pay for certain services.
+"
+4 15 Chef "Like keeping you company. Understand?
+"
+4 15 Chef "You see, children, sometimes a man needs to be with a woman. But sometimes, when the lovin' is over, the woman just wants to talk and talk and talk and talk. 
+But a prostitute is someone who would love you
+No matter who you are, or what you look like.
+Yes, it's true, children.
+That's not why you pay a prostitute,
+no, you don't pay her to stay, you pay her to leave afterwards.
+That's why I pays a lot for prostitutes!
+Ladies and Gentlemen, Mr. James Taylor.
+"
+4 15 Chef "And that's why I say-
+"
+4 15 Chef "Oohhhh  ...James Taylor, what the hell are you doin' in here?! Singing' about prostitutes to the children! Get out of here!  ...These children tricked me!
+"
+4 2 Chef "Hello there, children.
+"
+4 2 Chef "Oh. Well, uh, I'm afraid that the school charges extra for that.
+"
+4 2 Chef "Oh my God! There has got to be at least fifteen dollars here!
+"
+4 2 Chef "Well! Look at you cute little crackers! With your money and your fancy clothes and your cell phones, it's almost like you were-  Oh my God, children! What have I told you about drugs?!
+"
+4 2 Chef "That's right. And the only thing worse than doin' drugs is dealin' drugs! I'm gonna tell you about when I was your age and got offered drugs. 
+"
+4 2 Chef "Uh?
+"
+4 2 Chef "You're not?
+"
+4 2 Chef "Oh, uh weh-ell, children, whatever you're doin', just remember this: havin' money may seem fun, but...  Ooh, uh-oh, never mind.
+"
+4 2 Chef "Damn, that little Amanda was fine! I'm gonna look her up. 
+"
+4 4 Chef "Hello there, children.
+"
+4 4 Chef "How's it goin'?
+"
+4 4 Chef "Everything's fine?? Why??
+"
+4 4 Chef "What??
+"
+4 4 Chef "So that's why all you children are acting so damned boring!
+"
+4 4 Chef "Damnit, children, you don't need drugs to make you pay attention in school! In my day, if we didn't pay attention we got a belt to the bottom! Now they're tryin' to cure everything with drugs!
+"
+4 4 Chef "Oh, it makes me sick! Those damned psychologists prescribe all kinds of medicines to you children without even carin' about the side effects.
+"
+4 4 Chef "Parents, I called you all together because I think you might be making a mistake puttin' your children on Ritalin. 
+"
+4 4 Chef "I know you wanna help your kids, but I brought over a videotape to show you that there are alternative' to Ritalin. There's this doctor in Northern California who is doin' real amazing things with kids who have ADD. I want you to watch this tape. 
+"
+4 4 Chef "Well, what do you think? I can have Dr. Shay come to South Park for a small fee.
+"
+4 4 Chef "What the...? Dammit! Have you all been taking your children's Ritalin too?!
+"
+4 4 Chef "Awww, fudge it! 
+"
+4 4 Chef "The what?
+"
+4 4 Chef "Hold on a second: you children want to go see Phil Collins?
+"
+4 4 Chef "Oh my God!!
+"
+4 4 Chef "That does it! That Ritalin has affected your little cracker brains too deeply! I'm going to go see that damn pharmacist!
+"
+4 4 Chef "Hey, open this damn door. 
+"
+4 4 Chef "Yes you can! What the hell are you two doin' prescribing all the children Ritalin?!
+"
+4 4 Chef "I know what it is! But now you've got a town full of zombie children from the planet Zandor.
+"
+4 4 Chef "All around the country, you bastard doctors are giving children Ritalin! And for every one child that actually needs it, you give it to 50,000 that don't!
+"
+4 4 Chef "You're damn right I'll tell you yo' business, because you two have got your heads up your asses! Thanks to you, we have children in our town that like Phil Collins!
+"
+4 4 Chef "That's right! You've made them so dull and boring that they're actually going to go to a Phil Collins concert!
+"
+4 4 Chef "Well, how do we reverse the Ritalin?!
+"
+4 4 Chef "Then we need an antidote!
+"
+4 4 Chef "Alright. Come on, we've got to get the antidote to all the children. Quick! 
+"
+4 4 Chef "Here. We can put the Ritalin antidote in these drinks and hand them out to the children. 
+"
+4 4 Chef "Here you go, Stan and Kyle. Free drinks on me. 
+"
+4 4 Chef "Come on, drink it down. It's free.
+"
+4 4 Chef "Drink this, Eric.  God help me! Heh, get it...  She's gone! Thank God!
+"
+4 4 Chef "I think it's working.
+"
+4 8 Chef "Mayor, as I've said before, I find that flag to be racist and insensitive!
+"
+4 8 Chef "That flag represents a time when blacks were persecuted by whites! How can a black man not be bothered by it?!
+"
+4 8 Chef "You don't see anything wrong with that flag?!
+"
+4 8 Chef "Yeah!
+"
+4 8 Chef "Look, I have gone to every quiet protest I could! I have written everyone; I've put up signs! But now I'm telling you , THIS FLAG WILL BE CHANGED!
+"
+4 8 Chef "Sign up to join me, and come marching to the Mayor's office in protest of the South Park flag!  You see that, children?! Nobody wants to get involved!  Randy! Sign up to march with me against the South Park flag on Wednesday?
+"
+4 8 Chef "Well, alright, Marsh, you're entitled to your own opinion.  That's how it is in this town. I haven't gotten one signature on this damn sheet, and I've been here all day!
+"
+4 8 Chef "That's nice, but I need the support of some registered voters.  Ey, Mackey! Sign up to march on Wednesday?
+"
+4 8 Chef "Alright, fudge it, Thursday. Anyone else wanna go Thursday?
+"
+4 8 Chef "Fine! Next Sunday!
+"
+4 8 Chef "Monday??
+"
+4 8 Chef "Okay! On Saturday, we march!
+"
+4 8 Chef "To bring down the South Park Flag!
+"
+4 8 Chef "My name isn't Chef anymore, children. I've converted to Islam.
+"
+4 8 Chef "From now on, my name is  Abdul Mohammed Jabar  Rauf Kareem Ali.  With everyone in town so insensitive about the flag, I find it no longer fitting to use my slave name!
+"
+4 8 Chef "You WHAT?!  You don't think they should change the flag?!
+"
+4 8 Chef "Well, that figures you don't! Because your cracker-ass parents turned you into little cracker-ass cracker-racists! I never thought I'd live to see this many of the people I considered friends turn against me!
+"
+4 8 Chef "But nothin'!  ""But"" my ass! Fix your own damn food! 
+"
+4 8 Chef "Change the flag!
+"
+4 8 Chef "Change the flag! Change the flag!…
+"
+4 8 Chef "…Change the flag! Change the flag! Change the flag! Change the flag!  In the 1960s there was a monk  who set himself on fire to protest! You have left me no choice!  To protest your lack of humanity, I will now do the same thing! 
+"
+4 8 Chef "Change the flag!
+"
+4 8 Chef "No, damnit!
+"
+4 8 Chef "How can you all just stand by and let these racists do this?!
+"
+4 8 Chef "Aw, the hell with all of you indecisive bastards!
+"
+4 8 Chef "I ain't gonna listen to nothin'! This whole cracker-ass town can kiss my ass! 
+"
+4 8 Chef "Whoa whoa whooaa! You just missed the point entirely!
+"
+4 8 Chef "I'm not mad because the flag shows somebody gettin' killed, It's because it's racist!
+"
+4 8 Chef "Children, don't you even know what this argument is about?! That flag is racist because a black man is being hung by white people.
+"
+4 8 Chef "Ooooooohhh?!
+"
+4 8 Chef "But that's a black man up there!
+"
+4 8 Chef "Well of course it matters when-  …Oh my God. Wait a minute. You children didn't even see the flag as a black man being hanged by white people, did you?
+"
+4 8 Chef "Why, that is- that is the most beautiful thing I have ever heard.
+"
+4 8 Chef "Don't you see? All this time I thought these little crackers had turned racist, when actually they were so not racist that they didn't even make a separation of black and white to begin with. All they saw when they looked at that flag was five people.
+"
+4 8 Chef "I'm sorry, children. I was wrong about you. But I still the flag needs to be changed. But now I realize that I almost let racism turn me into a racist.
+"
+4 8 Chef "Oh, I know you don't, Jimbo. I've known you for almost ten years. You're a good man.
+"
+4 8 Chef "I think that's a much better start than me tryin' to separate myself from all you wonderful crackers.
+"
+4 8 Chef "Hooray!
+"
+4 9 Chef "Oh! Oh-h, hello Eric.
+"
+4 9 Chef "Wellll, if you uhhh, come back in just a little bit, Eric, I'll see if I can help you out. 
+"
+4 9 Chef "Alright, Eric, what's the matter?
+"
+4 9 Chef "Well, Eric, I, I think you were just focusin' in on the wrong thing. Boy bands aren't about music, boy bands are created by corporations to make money. They're all based on the Gomlich effect.
+"
+4 9 Chef "The law of physics that states, ""If one girl screams for something, it will make other girls scream. And then, it grows exponentiously until all girls within a five-mile radius are screaming.""
+"
+4 9 Chef "All they do is make videos, showing tons and tons of girls screaming for the boy band. Once you get girls screaming, you can't stop 'em. They're crazy!  Uh-uh, except for Lilian, of course. 
+"
+4 9 Chef "You're welcome. Now, go away!
+"
+4 9 Chef "A-and a cucumber in the pants never hurt either!
+"
+4 12 Chef "What's the problem?
+"
+4 12 Chef "You call that a problem? That sounds like heaven to me.
+"
+4 12 Chef "Oooo! Call the doctor!
+"
+4 12 Chef "Uuuh, Ms. Choksondik, Mr. Garrison had several uuh, eee-motional issues. He was a closet homosexual who hated gay people. Whenever someone asked him if he was gay, he'd go nuts.
+"
+4 12 Chef "Some say that on cold nights you can still hear him moanin', ""I'm not gaaay! I'm not gaaay!""
+"
+4 12 Chef "You know I'm always here to help, Principal Victoria. 
+"
+4 15 Chef "Hello there, children!
+"
+4 15 Chef "Dag-nabbit children! How come every time you come in here you gotta be askin' me questions that I shouldn't be answering?! ""Chef, what's the clitoris?"" ""What's a lesbian, Chef?"" ""How come they call it a rimjob, Chef?""  For once, can't you just come in here and say, ""Hi Chef. Nice day, isn't it?""!
+"
+4 15 Chef "It sure is! Thank you.
+"
+4 15 Chef "Uh uh! You children are gonna get me in trouble with the principal again.
+"
+4 15 Chef "Oh my God. Eric?
+"
+4 15 Chef "Why do you need to know what a prostitute is anyway?!
+"
+4 15 Chef "Well, no, uh of course Kenny is not a prostitute.
+"
+4 15 Chef "Well, because, children, a prostitute is someone who... you could pay for certain services.
+"
+4 15 Chef "Like keeping you company. Understand?
+"
+4 15 Chef "You see, children, sometimes a man needs to be with a woman. But sometimes, when the lovin' is over, the woman just wants to talk and talk and talk and talk. 
+But a prostitute is someone who would love you
+No matter who you are, or what you look like.
+Yes, it's true, children.
+That's not why you pay a prostitute,
+no, you don't pay her to stay, you pay her to leave afterwards.
+That's why I pays a lot for prostitutes!
+Ladies and Gentlemen, Mr. James Taylor.
+"
+4 15 Chef "And that's why I say-
+"
+4 15 Chef "Oohhhh  ...James Taylor, what the hell are you doin' in here?! Singing' about prostitutes to the children! Get out of here!  ...These children tricked me!
+"

@@ -1,0 +1,1764 @@
+9 1 Stan "Dude, don't be nervous.
+"
+9 1 Stan "You're the best player at our school, dude. You'll make the team for sure.
+"
+9 1 Stan "Good luck. 
+"
+9 1 Stan "Dude, you were awesome, Kyle.  Look, y-you gave it your best shot, right? That's all you could do. 
+"
+9 1 Stan "Kyle, you have to cheer up, dude. So you aren't built right for basketball.
+"
+9 1 Stan "Wha-a-a negroplasty??
+"
+9 1 Stan "Uh excuse me, is this really a good idea?
+"
+9 1 Stan "What?
+"
+9 1 Stan "Jesus Christ, dude!
+"
+9 1 Stan "Dude, is Kyle's- dad a- dolphin?
+"
+9 1 Stan "Kyle went down to play in the basketball game, Mrs. Garrison.
+"
+9 1 Stan "What?! But you made him into a basketball player.
+"
+9 1 Stan "Oh Jesus, he's about to play! 
+"
+9 1 Stan "Kyle, NO! 
+"
+9 1 Stan "Yeah, that's basically it.
+"
+9 2 Stan "All right.  'Scuse me.  Hello, we are selling magazine subscriptions for our community youth program. Would you like to help young people like us by purchasing a subscription of your choice?
+"
+9 2 Stan "Who are the corporations?
+"
+9 2 Stan "Are you serious? We never heard that.
+"
+9 2 Stan "Well... Well what do we do?
+"
+9 2 Stan "Sign, sign everywhere. SignDone something to my mind.
+"
+9 2 Stan "Mom, the mall is a way for the corporate fat cats to imprison you into a life of servitude. I've got some stuff you should read.
+"
+9 2 Stan "Right, so how do we get back at them?
+"
+9 2 Stan "NO!
+"
+9 2 Stan "Yeah!
+"
+9 2 Stan "So it seems like we have enough people now. When do we start taking down the corporations?
+"
+9 2 Stan "You mean like a baker and a cop?
+"
+9 2 Stan "Alright, I can't take it anymore! I'm getting on that stage!
+"
+9 2 Stan "Uh, excuse me. Excuse me, can I have your attention please? What are we doing?  It's been nine days! Doesn't it seem like we should accomplish something?
+"
+9 2 Stan "Maybe instead of complaining about corporations being selfish, we should look at ourselves. I mean, is there anything more selfish than doing nothing but getting high and listening to music all day long?
+"
+9 2 Stan "Dude, these people have no idea what's going on. Let's get out of here.
+"
+9 2 Stan "What? You mean, we're stuck here listening to this crap? 
+"
+9 2 Stan "Dad!
+"
+9 3 Stan "Token sings?
+"
+9 3 Stan "Two hundred dollars.
+"
+9 3 Stan "Wow, two hundred dollars. Can you imagine?
+"
+9 3 Stan "Yeah. We're too smart to be talented.
+"
+9 3 Stan "Hey yeah! We deserve that money just as much as he does.
+"
+9 3 Stan "He's looking at the sign.
+"
+9 3 Stan "All right.
+"
+9 3 Stan "It's genius.
+"
+9 3 Stan "Ohhhh Token. Right, yeah, you're makin' a smart move, man.
+"
+9 3 Stan "You guys, we're gonna lose our client. 
+"
+9 3 Stan "Look, Token, here's the bottom line. You're gonna start having a lot of offers comin' at you from all directions. A media storm is about to hit you and you can't handle it on your own. Nobody can.
+"
+9 3 Stan "This thing in Denver is is just the crust, Token. With our support, you can have the whole pie.
+"
+9 3 Stan "Ah Kenny, Token just signed with us!
+"
+9 3 Stan "Oh, you're interested in hiring our client?
+"
+9 3 Stan "You were awesome, Token!
+"
+9 3 Stan "This is just the beginning. I bet we start to see all kinds of offers comin' in for Token now.
+"
+9 3 Stan "Uh excuse me, Token already has representation.
+"
+9 3 Stan "So unfair... so unfair.
+"
+9 3 Stan "Huh?
+"
+9 3 Stan "You were looking for a talent agent?
+"
+9 3 Stan "And what does she do?
+"
+9 3 Stan "Uh, we're sorry dude, but getting her career off the ground would take too much work for us.
+"
+9 3 Stan "Yeah!
+"
+9 3 Stan "Hi, Mr. Lu Kim? Uh hi, it's Wing's agents. Everything's fine, yeah, but we're supposed to arrive in Los Angeles in about four hours. Listen, does your wife ever eat? Or anything?
+"
+9 3 Stan "Uhh, all right. We'll call you after she goes on TV.
+"
+9 3 Stan "Uh sure, here she is.  Okay, finarry everything rookin' up for me and my family.  Welcome to Shitty Wok, take your order prease?  Aw crap, Chinese Mafia!  Aaaaahh! 
+"
+9 3 Stan "There it is! American Idol contestants!
+"
+9 3 Stan "Ah our client has an audition to this show.
+"
+9 3 Stan "Oh no, no no no, come on!  Excuse me, ma'am.
+"
+9 3 Stan "No, I don't think you understand. We're here with Wing. That's right, the Wing. 
+"
+9 3 Stan "We can't wait in line! We have to be in school on Monday!
+"
+9 3 Stan "We have someone who's ready to go on TV right away!
+"
+9 3 Stan "All right, our client will do it!
+"
+9 3 Stan "What's ""The Contender""?
+"
+9 3 Stan "Go Wing! 
+"
+9 3 Stan "Anyone? Help four boys and a Chinese woman get back to Colorado?
+"
+9 3 Stan "Oh, thanks.
+"
+9 3 Stan "You do? 
+"
+9 3 Stan "We won't! 
+"
+9 3 Stan "You guys, you guys!
+"
+9 3 Stan "Sylverster Stallone wants Wing to sing at his son's wedding tomorrow! He's gonna pay her four thousand dollars!
+"
+9 3 Stan "Yeah!
+"
+9 3 Stan "Whoa whoa, wait, wait. ...where's Wing? 
+"
+9 3 Stan "...Oh Jesus Christ. If that big CAA talent agency finds out she has work, they're gonna try to steal her away from us again.
+"
+9 3 Stan "Oh no!  Hey! That's our client! 
+"
+9 3 Stan "Two four nine all right, this is the place.
+"
+9 3 Stan "Hello? We want to talk to somebody right now!
+"
+9 3 Stan "You tell 'em, Kyle!
+"
+9 3 Stan "Jesus, they really want Wing as their client!
+"
+9 3 Stan "No! Screw that, dude! If we keep letting CAA take all our clients, we're never gonna make it as talent agents!
+"
+9 3 Stan "We've gotta split up and find Wing! You and Kenny go that way! 
+"
+9 3 Stan "You bastards!
+"
+9 3 Stan "Yeah, you wouldn't kill her, 'cause then she can't pay you money! We know because we're in the same business you are!
+"
+9 3 Stan "Guys! Guys! Guys! Don't you see what we're doing? Jesus... we're not talking about an object here, we're, we're talking about a person. I mean, look at what we've all become. All this violence and anger and, and for what? For control over somebody's life who... w-we're all just trying to leech off of.
+"
+9 3 Stan "Wing doesn't belong to us or to you. We're all just caught up in a business that treats people like commodities.
+"
+9 3 Stan "It's a lousy business. I quit.
+"
+9 3 Stan "I think we all learned it's best to leave talent to the talented people. 
+"
+9 4 Stan "It's a game called ""Heaven versus Hell."" Kenny commands the armies of heaven against the forces of Satan.  Dude, you see what Kenny got?
+"
+9 4 Stan "Yeah, Kenny finally found something he's really good at.
+"
+9 4 Stan "Are we in trouble or something?
+"
+9 4 Stan "Oh wow...
+"
+9 4 Stan "Please what?
+"
+9 4 Stan "What?
+"
+9 4 Stan "Kenny?
+"
+9 4 Stan "Dude, how'd you do that?
+"
+9 4 Stan "Yeah, the lawyer lost that page.
+"
+9 4 Stan "Now that Cartman got Kenny's feeding tube out, he's gonna die for sure! 
+"
+9 4 Stan "Yeah!
+"
+9 4 Stan "Let's go to the, uh, media. We'll make everyone in the country know that they're killing Kenny.
+"
+9 4 Stan "Don't kill Kenny!
+"
+9 4 Stan "Don't kill Kenny!
+"
+9 4 Stan "Well, what does it say?
+"
+9 4 Stan "Oooo.
+"
+9 4 Stan "You mean, Cartman's side is right?
+"
+9 5 Stan "Aw Jesus, not again.
+"
+9 5 Stan "Yes! It's over! It's over!
+"
+9 5 Stan "We can start having fun again! 
+"
+9 5 Stan "We did it! We did it!
+"
+9 5 Stan "... What?
+"
+9 5 Stan "No... NOOO!!
+"
+9 5 Stan "Look, you guys, maybe it's not all that bad.
+"
+9 5 Stan "I know, but listen: the finals are all sudden-death elimination, right? That means as soon as we lose one game, our season is over.
+"
+9 5 Stan "I know we can lose if we try.
+"
+9 5 Stan "Okay, so then we'll just tell the other team quietly that we're gonna let them win, and then we'll act like we're trying. Our parents will never know.
+"
+9 5 Stan "Hundred bucks, no big whoop.
+"
+9 5 Stan "Uhh, hay guys, look, we don't wanna win, so uh,  here's a list of all the pitches I'm gonna throw, in order.
+"
+9 5 Stan "Look! We're gonna be the losers tonight, all right?!
+"
+9 5 Stan "Damnit!
+"
+9 5 Stan "No!
+"
+9 5 Stan "Goddamnit... 
+"
+9 5 Stan "Aw spit! 
+"
+9 5 Stan "Oh no. No, no, no!
+"
+9 5 Stan "Dad? Dad, we need to talk.
+"
+9 5 Stan "Goddamnit. 
+"
+9 5 Stan "I don't suppose you guys want to win this game.
+"
+9 5 Stan "Gay.
+"
+9 5 Stan "Hey yeah. We need to find the very worst kid athlete in the whole world. Somebody who can't possibly win.
+"
+9 5 Stan "Yeah, with him on our team, we don't stand a chance.
+"
+9 5 Stan "Wow, he IS great at sucking.
+"
+9 5 Stan "Dude, we had it all wrong. While we spent all our time trying to make our tean suck, these guys practiced and got really good at sucking. 
+"
+9 5 Stan "This can't get any worse. 
+"
+9 5 Stan "Disqualified?  Fight! Keep fighting! 
+"
+9 5 Stan "Come on, Dad! Get up!
+"
+9 5 Stan "Dad!  You're the greatest. 
+"
+9 6 Stan "Dude, where is she? We can't wait.
+"
+9 6 Stan "Mom!
+"
+9 6 Stan "I want a breast!
+"
+9 6 Stan "But Mom, we've been waiting for hours!
+"
+9 6 Stan "All right.
+"
+9 6 Stan "Okay, this is everything, mom. 
+"
+9 6 Stan "Oh boy!  Cartman, you ate the skin off of every piece of chicken!
+"
+9 6 Stan "I can't believe that fat asshole!
+"
+9 6 Stan "Well this time he's gone too far!
+"
+9 6 Stan "Why do we even hang out with him, anyway?
+"
+9 6 Stan "Well it's not like we're nice to him. I mean, we rip on him all the time!
+"
+9 6 Stan "All right. Then let's just ignore him. From now on, let's not talk to him, let's not even acknowledge him.
+"
+9 6 Stan "I think I have extra.
+"
+9 6 Stan "Here you go.
+"
+9 6 Stan "Cartman isn't our friend anymore. 
+"
+9 6 Stan "Who was that?
+"
+9 6 Stan "Dude, he did that to me this morning.
+"
+9 6 Stan "Yeah, we know better than to think that.
+"
+9 6 Stan "Cartman?
+"
+9 6 Stan "Hey Cartman, that was really cool what you did.
+"
+9 6 Stan "Well, anyway, we just wanna let you know. Talk to you tomorrow.
+"
+9 7 Stan "He's what?? 
+"
+9 7 Stan "A hundred dollar gift certificate to South Park Mall?  Maybe we should do the talent show.
+"
+9 7 Stan "Dude, didja see, Jimmy? They're giving away a hundred dollar first prize for the talent show.
+"
+9 7 Stan "Woof.
+"
+9 8 Stan "Dude, you are right, Cartman. Your uncle Roy has a sweet boat.
+"
+9 8 Stan "Man, I wish I could really drive this thing.
+"
+9 8 Stan "Sure I do!
+"
+9 8 Stan "Dude, I don't think your uncle'd want us driving it.
+"
+9 8 Stan "Okay, turn on the ignition,
+"
+9 8 Stan "Okay... 
+"
+9 8 Stan "Boats don't have parking brakes, dumbass! They only have the... oh wait wait. Neutral button! 
+"
+9 8 Stan "Jesus Christ!!!
+"
+9 8 Stan "Oh dude! Oh Jesus!
+"
+9 8 Stan "You said you'd take responsibility to your uncle Roy!
+"
+9 8 Stan "What?
+"
+9 8 Stan "Oh God, I hope I didn't hurt any beavers.
+"
+9 8 Stan "Huh oh. 
+"
+9 8 Stan "Mom, Dad?  Theh, they're gonna go help those people, right?
+"
+9 8 Stan "Ye-but, uh, s-somebody's gonna help the people off their, their rooftops, right?
+"
+9 8 Stan "Dude! Dude, did you see the news last night?
+"
+9 8 Stan "You saw all those people trapped on their roofs?
+"
+9 8 Stan "Pretty funny?! Dude, we did that!! That was our fault!
+"
+9 8 Stan "But they're trapped now and nobody's helping them!
+"
+9 8 Stan "Maybe they couldn't get out!
+"
+9 8 Stan "Dude, ah I just...  ah I don't know what to do here.
+"
+9 8 Stan "Nothing
+"
+9 8 Stan "Dad, isn't it possible the flood wasn't caused by global warming? I, I mean, the water was held back by a giant beaver dam, after all.
+"
+9 8 Stan "Mom, you know, those people in Beaverton are still trapped in the flood.
+"
+9 8 Stan "Kyle, it... it isn't global warming.
+"
+9 8 Stan "Global warming isn't happening right now. It's, it's not what caused the Beaverton flood.
+"
+9 8 Stan "Because, I know what did cause the flood.
+"
+9 8 Stan "No.
+"
+9 8 Stan "No.
+"
+9 8 Stan "No.
+"
+9 8 Stan "No.
+"
+9 8 Stan "...sort of.
+"
+9 8 Stan "Shh! Not, not exactly. We were messing around in this guy's new boat, and Cartman egged me on, and, and I crashed it into the Beaverton dam.
+"
+9 8 Stan "Look, maybe, maybe we can help those people in Beaverton ourselves.
+"
+9 8 Stan "We can sneak out of here, get a boat, and go help them off their roofs. That way, I can do the right thing, but still lie about it.
+"
+9 8 Stan "Uh, hey Dad.
+"
+9 8 Stan "Dad, we're, we're trapped in Beaverton, We're, we were trying to save everyone!
+"
+9 8 Stan "No, Dad, listen: I need to tell you something.
+"
+9 8 Stan "Nothing. Can you just come get us, please?
+"
+9 8 Stan "We have to find a way out! 
+"
+9 8 Stan "Come on! We've gotta get to the roof! 
+"
+9 8 Stan "It's- it's helicopters! They finally came to help everyone! 
+"
+9 8 Stan "Guys, come on! 
+"
+9 8 Stan "Stop it! Stop it!! First it was terrorists, then George Bush and global warming and now you're all blaming crab people for something that's very simple! It's MY fault. I broke the dam. 
+"
+9 8 Stan "No. I broke the dam.
+"
+9 8 Stan "No. I broke the dam.
+"
+9 8 Stan "I broke the dam. I ran a boat into the dam and I broke it.
+"
+9 8 Stan "No! I broke the fucking dam!
+"
+9 8 Stan "I literally broke the dam!
+"
+9 8 Stan "On a boat! That wasn't mine!
+"
+9 8 Stan "I kept it secret, for two days!
+"
+9 8 Stan "The boat caught on fire, and it exploded!
+"
+9 8 Stan "Ohhh, fuck it!
+"
+9 9 Stan "Yeah, us too.
+"
+9 9 Stan "What?
+"
+9 9 Stan "Oh my God, how does it know the answer?
+"
+9 9 Stan "So what do you suggest?
+"
+9 9 Stan "Yeah, there's just one problem: a boy can't go to a chicks' slumber party.
+"
+9 9 Stan "But if one of us pretends to be the new girl in class, the girls will wonder where that boy went.
+"
+9 9 Stan "All right, Butters, that's Heidi's house.
+"
+9 9 Stan "Yeah dude, of course. Now go, the party's already started.
+"
+9 9 Stan "Maybe they found him out.
+"
+9 9 Stan "Come on, we gotta go check on him. 
+"
+9 9 Stan "He's just dancing around.
+"
+9 9 Stan "Come on, Butters.
+"
+9 9 Stan "Ho-Hold on on guys. We're not sure what this device is capable of. Maybe we should wait until we've had more time to study it.
+"
+9 9 Stan "Guys, guys, guys, stop!  Look at what this thing is doing to us. Butters was trying to tell me something outside the house. That this device is nothing but trouble. I think I know what he meant now.
+"
+9 9 Stan "We risked everything to get it from the girls. How long before the girls attack us to get it back?
+"
+9 9 Stan "And then what? Hide it forever from the government? From the... terrorists who want to use it for evil? Maybe... maybe nobody is meant to have this kind of power.
+"
+9 9 Stan "We got it away from the girls. That's what matters. But now the right thing to do isn't using it ourselves, then we're no better than they are.
+"
+9 9 Stan "Nobody will. That's the way it's suppose to be. Hit it, Kenny. 
+"
+9 10 Stan "Oh no, dude, he's gonna put me with Wendy.
+"
+9 10 Stan "So, I haven't even spoken to Wendy since we broke up.
+"
+9 10 Stan "Kyle??
+"
+9 10 Stan "So, what are you and Wendy doing?
+"
+9 10 Stan "Uh huh...
+"
+9 10 Stan "Yeah, well, so is your hat. 
+"
+9 10 Stan "I can't. I'm busy.
+"
+9 10 Stan "...So take it with you!
+"
+9 10 Stan "Well maybe I didn't want to have an egg with you, okay Bebe?!
+"
+9 10 Stan "HA!
+"
+9 10 Stan "Alright, give it to me. I'll take it home tonight.
+"
+9 10 Stan "Why do you say that?
+"
+9 10 Stan "That's because I was pissed off!
+"
+9 10 Stan "You think you're so great, don't you?! Well guess what?! Maybe I don't need your help! I'm taking the egg home tonight, and I'm gonna show everybody tomorrow that I'm every bit as good an egg-take-care-over as you! 
+"
+9 10 Stan "Fine!
+"
+9 10 Stan "No problems at all!
+"
+9 10 Stan "It's right there, see? 
+"
+9 10 Stan "Day five. I made it!  Hello?
+"
+9 10 Stan "What?
+"
+9 10 Stan "Governor's office?
+"
+9 10 Stan "Aah, you'd like that, wouldn't you?! I took care of this egg, Kyle, not you!
+"
+9 10 Stan "What's up?! Oh, nothing except that you've been trying to impress Wendy all week long like a pathetic dickhole!
+"
+9 10 Stan "You've set it all up to look like you're this awesome prince and I'm just a loser!
+"
+9 10 Stan "Well guess what?! I'm gonna take this egg to class myself! And I'm gonna hold it up in front of Wendy, and say ""See?! I'm every bit as good as Kyle is."" 
+"
+9 10 Stan "AAAAAAAAAAAAAAAA!
+"
+9 10 Stan "AAAAAAAAAAAAAAAA! AAAAAAAAAAAAAAAA!
+"
+9 10 Stan "Dude, you should just go be with Wendy and be happy.
+"
+9 10 Stan "Yeah well, I blew it. Now we're gonna fail and Wendy thinks I'm a total loser.
+"
+9 10 Stan "I don't. She's totally lame. 
+"
+9 10 Stan "I'm sorry I didn't trust you, Kyle. I'm obviously just a crappy best friend to have.
+"
+9 10 Stan "Huh?
+"
+9 10 Stan "That...  That's the real egg with Garrison's signature?
+"
+9 10 Stan "Then... then Wendy won't think I'm a total loser!
+"
+9 10 Stan "Come on, buddy, let's go! 
+"
+9 10 Stan "As a matter of fact,... I think it is the nicest hat I've ever known.  Come on! 
+"
+9 10 Stan "There! Over there!  Excuse us! Excuse us please!
+"
+9 10 Stan "Jesus Christ!
+"
+9 10 Stan "Teacher, our egg is... okay. 
+"
+9 10 Stan "Like I give a crap about what you think, Wendy. 
+"
+9 11 Stan "Dude, what's the big deal?
+"
+9 11 Stan "What about the Foley family? I think they're all ginger.
+"
+9 11 Stan "I'm sorry, but I don't understand. You both have dark hair and brown eyes.
+"
+9 11 Stan "You buying school lunch today?
+"
+9 11 Stan "That's just wrong, dude. I wish Cartman could see what it felt like to be ginger.
+"
+9 11 Stan "Sure, for what?
+"
+9 11 Stan "Okay dude, knock him out.  Dude, dude okay, he's out!  Kyle, that's good!  All right, let's do it.
+"
+9 11 Stan "You mean,you're a ginger?
+"
+9 11 Stan "Maybe he'll actually learn a lesson this time. 
+"
+9 11 Stan "Should we tell him the truth?
+"
+9 11 Stan "Huh? Why?
+"
+9 11 Stan "... totally.
+"
+9 11 Stan "You know, Cartman is an uncaring, bigoted intolerant asshole, but I have to admit, I had my own prejudice about gingers. I think we all need to realize that everyone is different in one way or another, and we shouldn't be threatened by those differences. I mean, Cartman had me kind of creeped out that gingers were gonna come get me in the night.
+"
+9 11 Stan "You guys... need... anything? 
+"
+9 11 Stan "More ginger kids. Um, meh-maybe we should just go home.
+"
+9 11 Stan "The hell do they want? 
+"
+9 11 Stan "Run, dude, run!!
+"
+9 11 Stan "Kyle. Kyle, wake up.
+"
+9 11 Stan "I think we're at the Sunset Room at the Airport Hilton.
+"
+9 11 Stan "Cartman?
+"
+9 12 Stan "I can't spend any money. I'm saving up for that bike I want.
+"
+9 12 Stan "No, I don't wanna spend any money, you guys.  Let's just do something fun that's free.
+"
+9 12 Stan "Well I can't spend any money.
+"
+9 12 Stan "Excuse me?
+"
+9 12 Stan "Uh what do I have to do?
+"
+9 12 Stan "Fine.
+"
+9 12 Stan "L-look, is this a religion? Because my family is like, Catholic or something.
+"
+9 12 Stan "Then how come that sign says ""Church of Scientology""?
+"
+9 12 Stan "Seven and two.
+"
+9 12 Stan "Uhhh, sh-sure?
+"
+9 12 Stan "Yeah?
+"
+9 12 Stan "Yes.
+"
+9 12 Stan "So how did I do?
+"
+9 12 Stan "...Huh??
+"
+9 12 Stan "I am?? I didn't know that!
+"
+9 12 Stan "What what do I do?
+"
+9 12 Stan "I'm totally depressed.
+"
+9 12 Stan "I don't know.
+"
+9 12 Stan "I'm not sure. But... I need two hundred and forty dollars.
+"
+9 12 Stan "No, I found a self-help program that can cure me.
+"
+9 12 Stan "But I'm completely miserable and these people can help!
+"
+9 12 Stan "Neither did I!
+"
+9 12 Stan "Don't you care that I'm depressed?! What if I become suicidal, or, or become an alcoholic like Grandpa??
+"
+9 12 Stan "...well but... but that's my money.
+"
+9 12 Stan "I hope so.
+"
+9 12 Stan "Really?
+"
+9 12 Stan "Thetan levels...
+"
+9 12 Stan "So, this is gonna make me happy?
+"
+9 12 Stan "What?
+"
+9 12 Stan "Stan.
+"
+9 12 Stan "I took out the garbage yesterday.
+"
+9 12 Stan "Aagh!  Stupid dumb garbage! 
+"
+9 12 Stan "I don't know! 
+"
+9 12 Stan "Jesus Christ...
+"
+9 12 Stan "Aw dude, I need to go to bed.
+"
+9 12 Stan "Yeah, I know who you are.
+"
+9 12 Stan "Well-h. I mean, you're not... you're not like as good as Leonardo DiCaprio, but you're okay, I guess.
+"
+9 12 Stan "I mean, you're not Gene Hackman or that guy who played Napoleon Dynamite, but you're okay.
+"
+9 12 Stan "Hey!  Dude, I'm sorry. I didn't mean it.
+"
+9 12 Stan "Dude, this is my room!
+"
+9 12 Stan "Dad! Tom Cruise won't come out of the closet!
+"
+9 12 Stan "Tom Cruise locked himself in my closet and he won't come out. 
+"
+9 12 Stan "I just told him I thought the Napoleon Dynamite guy is a better actor than he is.
+"
+9 12 Stan "Sure.
+"
+9 12 Stan "I, I guess.
+"
+9 12 Stan "But I don't know any of this stuff.
+"
+9 12 Stan "Okay, I'll try. I just wish I could write in my room, but Tom Cruise won't come out of the closet.
+"
+9 12 Stan "Yeah, yeah!
+"
+9 12 Stan "I can't. I'm writing a new sacred doctrine for my church.
+"
+9 12 Stan "Cult? Scientology isn't a cult, Kyle. I've read all this stuff and it's based on fact.
+"
+9 12 Stan "I did not! Those are rumors put out by people who are afraid because they don't know the secret truth.
+"
+9 12 Stan "I can't tell you unless you pay for a few years of audit counseling! All I know is that I was depressed before, and now I found meaning!
+"
+9 12 Stan "Neither did I! But now, if you guys can't accept this great thing I belong to, then I suppose we're no longer friends! 
+"
+9 12 Stan "I wrote that um, our followers shouldn't fly in DC-8s anymore because they're too much like Xenu's evil cruisers.
+"
+9 12 Stan "And I wrote that the evil Lord Xenu was recently broken out of galactic jail.
+"
+9 12 Stan "And best of all, I wrote that all the Scientologist's should no longer have to pay money to belong.
+"
+9 12 Stan "I I realize that to really be a church, we can't charge people for help.
+"
+9 12 Stan "... Well, it's not about the money, it's about the message, right?
+"
+9 12 Stan "But you said that there were-
+"
+9 12 Stan "But then, why me? Why do you need me to write something so badly?
+"
+9 12 Stan "Three million dollars?
+"
+9 12 Stan "Yeah. Yeah, I get you.
+"
+9 12 Stan "Uh, thanks. So, first of all, I've written that the brainwashed alien ghosts are actually from a galaxy called Nubanon.
+"
+9 12 Stan "And uh, oh,  ...I ...I can't do this.
+"
+9 12 Stan "Look, everybody, we're all looking for answer, you know. We all want to understand who we are and where we come from, but... sometimes we want to know the answers so badly that we... believe just about anything.
+"
+9 12 Stan "I'm not the reincarnation of L. Ron Hubbard. And... Scientology is just a big fat global scam.
+"
+9 12 Stan "What??
+"
+9 12 Stan "YOU told me it was a lie!
+"
+9 12 Stan "Well fine! Go ahead and sue me!
+"
+9 12 Stan "Well go on, then! Sue me!
+"
+9 12 Stan "Okay, good! Do it! I'm not scared of you! Sue me!
+"
+9 13 Stan "Okay, where to next?
+"
+9 13 Stan "Let's go see the stingrays, and then we can go to the sea lion show.
+"
+9 13 Stan "What?
+"
+9 13 Stan "I don't believe it.
+"
+9 13 Stan "Why don't you just tell the people here at the sea park?
+"
+9 13 Stan "It's true. The whale talked to all of us. In between shows at his orca tank.
+"
+9 13 Stan "All right. In order to make our plan work, we're going to need the pool from Clyde's back yard, Timmy's wheelchair, the Russian government, and all of our skateboards.
+"
+9 13 Stan "Craig, Token, get the slings ready. 
+"
+9 13 Stan "What happened?
+"
+9 13 Stan "They were going to do it for that 'N Sync guy.
+"
+9 13 Stan "Uh, 'xcuse me, we're looking for the Mexican... Aeronautica y Spacia Administrashown?
+"
+9 13 Stan "Thanks.  Is this the Mexican space program? 
+"
+9 13 Stan "Does the Mexican space programs have rockets that can go to the moon?
+"
+9 13 Stan "This rocket will fly to the moon?
+"
+9 13 Stan "To the moon?
+"
+9 13 Stan "We want to take something to the moon. How much would that cost?
+"
+9 13 Stan "Two hundred? Million?
+"
+9 13 Stan "Quick, call Kyle.
+"
+9 13 Stan "They're on their way, Manuel. Is the rocket gonna be ready?
+"
+9 13 Stan "Back down the ramp! It's all rigged to go!
+"
+9 13 Stan "Kyle, it's all set to go!  Just get Willzy-x into the water! 
+"
+9 13 Stan "Okay, Manuel, hit it. 
+"
+9 13 Stan "Thanks for the ride, Manuel.
+"
+9 13 Stan "I wonder... if he'll ever come back and visit us.
+"
+9 14 Stan "Wait. Where's my Dad?
+"
+9 14 Stan "Yeah.
+"
+9 14 Stan "Dad? Where the hell could he have gone??
+"
+9 14 Stan "Dad, weren't you watching?
+"
+9 14 Stan "Dad, aren't you supposed to like, not drink and drive?
+"
+9 14 Stan "Sure, whatever dude.
+"
+9 14 Stan "Why not just pull over?
+"
+9 14 Stan "Dad, we're gonna crash!
+"
+9 14 Stan "Aww, it's all warm!
+"
+9 14 Stan "This is sooo embarrassing.
+"
+9 14 Stan "Look, guys, about last night, can you just be quiet about it?
+"
+9 14 Stan "Because, I don't want everyone knowing, okay? Could we please just keep this to ourselves?
+"
+9 14 Stan "Oh Jesus. 
+"
+9 14 Stan "Dad! What the hell are you doing?!
+"
+9 14 Stan "Dad, it's the middle of the day! I thought you weren't going to drink as much anymore!
+"
+9 14 Stan "What?? Did you go to your AA meeting?!
+"
+9 14 Stan "Dad, you've had enough! Just stop now!
+"
+9 14 Stan "Aww, Goddammit!
+"
+9 14 Stan "Dad, what are you doing in Grandpa's extra wheelchair?!
+"
+9 14 Stan "No! You don't need another beer!
+"
+9 14 Stan "Dad, you just need to not drink so much. It's very simple.
+"
+9 14 Stan "Ah, excuse me, who's in charge here?
+"
+9 14 Stan "Uh, look, my dad was here yesterday and ...you all kind of messed him up by telling him he had a disease?
+"
+9 14 Stan "No it, it's not. And, y-you can't just go around saying stuff like that to people like my dad. He He's kind of, a hypochondriac
+"
+9 14 Stan "No, cancer is a disease. My dad needs to drink less.
+"
+9 14 Stan "No, he just needs a disciprine. But thanks to you people, my dad now thinks he has a disease that he can't cure himself.
+"
+9 14 Stan "Yeah, and I also know a thing or two about cults. I was the leader of one for a while.  Goddammit! 
+"
+9 14 Stan "Dad?! Dad, what are you doing?!
+"
+9 14 Stan "Dad, you're drunk! You're not driving a car!
+"
+9 14 Stan "What??
+"
+9 14 Stan "Dad, you can't drive! Your license is suspended, remember?! If you get pulled over again, you're gonna go to jail for ten years!
+"
+9 14 Stan "... I'm eight!
+"
+9 14 Stan "Where? I can't see.
+"
+9 14 Stan "Oh my God...
+"
+9 14 Stan "Dad, let's just wait our turn.
+"
+9 14 Stan "I just, my dad was-
+"
+9 14 Stan "What?!
+"
+9 14 Stan "No, Dad, people will see!
+"
+9 14 Stan "Dad, we're going back!
+"
+9 14 Stan "Praise Christ.
+"
+9 14 Stan "Naw, Dad, all the guys are going to Kyle's hosue to watch the Bronco game. Kenny and Kyle's Dads were hoping you'd come.
+"
+9 14 Stan "No, my dad doesn't drink.
+"
+9 14 Stan "Dad, Dad, Stop!
+"
+9 14 Stan "Dad, you don't have to do this! You have the power. You haven't drank since seeing the statue.
+"
+9 14 Stan "Yeah. The statue wasn't a miracle, Dad. So that means you did it. That means you didn't have a drink for five days all on your own.
+"
+9 14 Stan "No!
+"
+9 14 Stan "Dad, you like to drink. So have a drink once in a while. Have two. If you devote your whole life to completely avoiding something you like, then that thing still controls your life and, 'n you've never learned any discipline at all.
+"
+9 14 Stan "Naw. All or nothing is easy. But learning to drink a little bit, responsibly, that'sa disciprine. Disciprine... come from within. 
+"
+9 14 Stan "I've had a great teacher.
+"
+9 14 Stan "No not you, my karate teacher. He's really smart.
+"
+9 14 Stan "All right!
+"
+9 14 Stan "That's probably okay if you spread it out.
+"
+9 14 Stan "I think you're pushing it.
+"
+9 14 Stan "That's not disciprine.
+"
+9 14 Stan "Dad!
+"
+9 1 Stan "Dude, don't be nervous.
+"
+9 1 Stan "You're the best player at our school, dude. You'll make the team for sure.
+"
+9 1 Stan "Good luck. 
+"
+9 1 Stan "Dude, you were awesome, Kyle.  Look, y-you gave it your best shot, right? That's all you could do. 
+"
+9 1 Stan "Kyle, you have to cheer up, dude. So you aren't built right for basketball.
+"
+9 1 Stan "Wha-a-a negroplasty??
+"
+9 1 Stan "Uh excuse me, is this really a good idea?
+"
+9 1 Stan "What?
+"
+9 1 Stan "Jesus Christ, dude!
+"
+9 1 Stan "Dude, is Kyle's- dad a- dolphin?
+"
+9 1 Stan "Kyle went down to play in the basketball game, Mrs. Garrison.
+"
+9 1 Stan "What?! But you made him into a basketball player.
+"
+9 1 Stan "Oh Jesus, he's about to play! 
+"
+9 1 Stan "Kyle, NO! 
+"
+9 1 Stan "Yeah, that's basically it.
+"
+9 2 Stan "All right.  'Scuse me.  Hello, we are selling magazine subscriptions for our community youth program. Would you like to help young people like us by purchasing a subscription of your choice?
+"
+9 2 Stan "Who are the corporations?
+"
+9 2 Stan "Are you serious? We never heard that.
+"
+9 2 Stan "Well... Well what do we do?
+"
+9 2 Stan "Sign, sign everywhere. SignDone something to my mind.
+"
+9 2 Stan "Mom, the mall is a way for the corporate fat cats to imprison you into a life of servitude. I've got some stuff you should read.
+"
+9 2 Stan "Right, so how do we get back at them?
+"
+9 2 Stan "NO!
+"
+9 2 Stan "Yeah!
+"
+9 2 Stan "So it seems like we have enough people now. When do we start taking down the corporations?
+"
+9 2 Stan "You mean like a baker and a cop?
+"
+9 2 Stan "Alright, I can't take it anymore! I'm getting on that stage!
+"
+9 2 Stan "Uh, excuse me. Excuse me, can I have your attention please? What are we doing?  It's been nine days! Doesn't it seem like we should accomplish something?
+"
+9 2 Stan "Maybe instead of complaining about corporations being selfish, we should look at ourselves. I mean, is there anything more selfish than doing nothing but getting high and listening to music all day long?
+"
+9 2 Stan "Dude, these people have no idea what's going on. Let's get out of here.
+"
+9 2 Stan "What? You mean, we're stuck here listening to this crap? 
+"
+9 2 Stan "Dad!
+"
+9 3 Stan "Token sings?
+"
+9 3 Stan "Two hundred dollars.
+"
+9 3 Stan "Wow, two hundred dollars. Can you imagine?
+"
+9 3 Stan "Yeah. We're too smart to be talented.
+"
+9 3 Stan "Hey yeah! We deserve that money just as much as he does.
+"
+9 3 Stan "He's looking at the sign.
+"
+9 3 Stan "All right.
+"
+9 3 Stan "It's genius.
+"
+9 3 Stan "Ohhhh Token. Right, yeah, you're makin' a smart move, man.
+"
+9 3 Stan "You guys, we're gonna lose our client. 
+"
+9 3 Stan "Look, Token, here's the bottom line. You're gonna start having a lot of offers comin' at you from all directions. A media storm is about to hit you and you can't handle it on your own. Nobody can.
+"
+9 3 Stan "This thing in Denver is is just the crust, Token. With our support, you can have the whole pie.
+"
+9 3 Stan "Ah Kenny, Token just signed with us!
+"
+9 3 Stan "Oh, you're interested in hiring our client?
+"
+9 3 Stan "You were awesome, Token!
+"
+9 3 Stan "This is just the beginning. I bet we start to see all kinds of offers comin' in for Token now.
+"
+9 3 Stan "Uh excuse me, Token already has representation.
+"
+9 3 Stan "So unfair... so unfair.
+"
+9 3 Stan "Huh?
+"
+9 3 Stan "You were looking for a talent agent?
+"
+9 3 Stan "And what does she do?
+"
+9 3 Stan "Uh, we're sorry dude, but getting her career off the ground would take too much work for us.
+"
+9 3 Stan "Yeah!
+"
+9 3 Stan "Hi, Mr. Lu Kim? Uh hi, it's Wing's agents. Everything's fine, yeah, but we're supposed to arrive in Los Angeles in about four hours. Listen, does your wife ever eat? Or anything?
+"
+9 3 Stan "Uhh, all right. We'll call you after she goes on TV.
+"
+9 3 Stan "Uh sure, here she is.  Okay, finarry everything rookin' up for me and my family.  Welcome to Shitty Wok, take your order prease?  Aw crap, Chinese Mafia!  Aaaaahh! 
+"
+9 3 Stan "There it is! American Idol contestants!
+"
+9 3 Stan "Ah our client has an audition to this show.
+"
+9 3 Stan "Oh no, no no no, come on!  Excuse me, ma'am.
+"
+9 3 Stan "No, I don't think you understand. We're here with Wing. That's right, the Wing. 
+"
+9 3 Stan "We can't wait in line! We have to be in school on Monday!
+"
+9 3 Stan "We have someone who's ready to go on TV right away!
+"
+9 3 Stan "All right, our client will do it!
+"
+9 3 Stan "What's ""The Contender""?
+"
+9 3 Stan "Go Wing! 
+"
+9 3 Stan "Anyone? Help four boys and a Chinese woman get back to Colorado?
+"
+9 3 Stan "Oh, thanks.
+"
+9 3 Stan "You do? 
+"
+9 3 Stan "We won't! 
+"
+9 3 Stan "You guys, you guys!
+"
+9 3 Stan "Sylverster Stallone wants Wing to sing at his son's wedding tomorrow! He's gonna pay her four thousand dollars!
+"
+9 3 Stan "Yeah!
+"
+9 3 Stan "Whoa whoa, wait, wait. ...where's Wing? 
+"
+9 3 Stan "...Oh Jesus Christ. If that big CAA talent agency finds out she has work, they're gonna try to steal her away from us again.
+"
+9 3 Stan "Oh no!  Hey! That's our client! 
+"
+9 3 Stan "Two four nine all right, this is the place.
+"
+9 3 Stan "Hello? We want to talk to somebody right now!
+"
+9 3 Stan "You tell 'em, Kyle!
+"
+9 3 Stan "Jesus, they really want Wing as their client!
+"
+9 3 Stan "No! Screw that, dude! If we keep letting CAA take all our clients, we're never gonna make it as talent agents!
+"
+9 3 Stan "We've gotta split up and find Wing! You and Kenny go that way! 
+"
+9 3 Stan "You bastards!
+"
+9 3 Stan "Yeah, you wouldn't kill her, 'cause then she can't pay you money! We know because we're in the same business you are!
+"
+9 3 Stan "Guys! Guys! Guys! Don't you see what we're doing? Jesus... we're not talking about an object here, we're, we're talking about a person. I mean, look at what we've all become. All this violence and anger and, and for what? For control over somebody's life who... w-we're all just trying to leech off of.
+"
+9 3 Stan "Wing doesn't belong to us or to you. We're all just caught up in a business that treats people like commodities.
+"
+9 3 Stan "It's a lousy business. I quit.
+"
+9 3 Stan "I think we all learned it's best to leave talent to the talented people. 
+"
+9 4 Stan "It's a game called ""Heaven versus Hell."" Kenny commands the armies of heaven against the forces of Satan.  Dude, you see what Kenny got?
+"
+9 4 Stan "Yeah, Kenny finally found something he's really good at.
+"
+9 4 Stan "Are we in trouble or something?
+"
+9 4 Stan "Oh wow...
+"
+9 4 Stan "Please what?
+"
+9 4 Stan "What?
+"
+9 4 Stan "Kenny?
+"
+9 4 Stan "Dude, how'd you do that?
+"
+9 4 Stan "Yeah, the lawyer lost that page.
+"
+9 4 Stan "Now that Cartman got Kenny's feeding tube out, he's gonna die for sure! 
+"
+9 4 Stan "Yeah!
+"
+9 4 Stan "Let's go to the, uh, media. We'll make everyone in the country know that they're killing Kenny.
+"
+9 4 Stan "Don't kill Kenny!
+"
+9 4 Stan "Don't kill Kenny!
+"
+9 4 Stan "Well, what does it say?
+"
+9 4 Stan "Oooo.
+"
+9 4 Stan "You mean, Cartman's side is right?
+"
+9 5 Stan "Aw Jesus, not again.
+"
+9 5 Stan "Yes! It's over! It's over!
+"
+9 5 Stan "We can start having fun again! 
+"
+9 5 Stan "We did it! We did it!
+"
+9 5 Stan "... What?
+"
+9 5 Stan "No... NOOO!!
+"
+9 5 Stan "Look, you guys, maybe it's not all that bad.
+"
+9 5 Stan "I know, but listen: the finals are all sudden-death elimination, right? That means as soon as we lose one game, our season is over.
+"
+9 5 Stan "I know we can lose if we try.
+"
+9 5 Stan "Okay, so then we'll just tell the other team quietly that we're gonna let them win, and then we'll act like we're trying. Our parents will never know.
+"
+9 5 Stan "Hundred bucks, no big whoop.
+"
+9 5 Stan "Uhh, hay guys, look, we don't wanna win, so uh,  here's a list of all the pitches I'm gonna throw, in order.
+"
+9 5 Stan "Look! We're gonna be the losers tonight, all right?!
+"
+9 5 Stan "Damnit!
+"
+9 5 Stan "No!
+"
+9 5 Stan "Goddamnit... 
+"
+9 5 Stan "Aw spit! 
+"
+9 5 Stan "Oh no. No, no, no!
+"
+9 5 Stan "Dad? Dad, we need to talk.
+"
+9 5 Stan "Goddamnit. 
+"
+9 5 Stan "I don't suppose you guys want to win this game.
+"
+9 5 Stan "Gay.
+"
+9 5 Stan "Hey yeah. We need to find the very worst kid athlete in the whole world. Somebody who can't possibly win.
+"
+9 5 Stan "Yeah, with him on our team, we don't stand a chance.
+"
+9 5 Stan "Wow, he IS great at sucking.
+"
+9 5 Stan "Dude, we had it all wrong. While we spent all our time trying to make our tean suck, these guys practiced and got really good at sucking. 
+"
+9 5 Stan "This can't get any worse. 
+"
+9 5 Stan "Disqualified?  Fight! Keep fighting! 
+"
+9 5 Stan "Come on, Dad! Get up!
+"
+9 5 Stan "Dad!  You're the greatest. 
+"
+9 6 Stan "Dude, where is she? We can't wait.
+"
+9 6 Stan "Mom!
+"
+9 6 Stan "I want a breast!
+"
+9 6 Stan "But Mom, we've been waiting for hours!
+"
+9 6 Stan "All right.
+"
+9 6 Stan "Okay, this is everything, mom. 
+"
+9 6 Stan "Oh boy!  Cartman, you ate the skin off of every piece of chicken!
+"
+9 6 Stan "I can't believe that fat asshole!
+"
+9 6 Stan "Well this time he's gone too far!
+"
+9 6 Stan "Why do we even hang out with him, anyway?
+"
+9 6 Stan "Well it's not like we're nice to him. I mean, we rip on him all the time!
+"
+9 6 Stan "All right. Then let's just ignore him. From now on, let's not talk to him, let's not even acknowledge him.
+"
+9 6 Stan "I think I have extra.
+"
+9 6 Stan "Here you go.
+"
+9 6 Stan "Cartman isn't our friend anymore. 
+"
+9 6 Stan "Who was that?
+"
+9 6 Stan "Dude, he did that to me this morning.
+"
+9 6 Stan "Yeah, we know better than to think that.
+"
+9 6 Stan "Cartman?
+"
+9 6 Stan "Hey Cartman, that was really cool what you did.
+"
+9 6 Stan "Well, anyway, we just wanna let you know. Talk to you tomorrow.
+"
+9 7 Stan "He's what?? 
+"
+9 7 Stan "A hundred dollar gift certificate to South Park Mall?  Maybe we should do the talent show.
+"
+9 7 Stan "Dude, didja see, Jimmy? They're giving away a hundred dollar first prize for the talent show.
+"
+9 7 Stan "Woof.
+"
+9 8 Stan "Dude, you are right, Cartman. Your uncle Roy has a sweet boat.
+"
+9 8 Stan "Man, I wish I could really drive this thing.
+"
+9 8 Stan "Sure I do!
+"
+9 8 Stan "Dude, I don't think your uncle'd want us driving it.
+"
+9 8 Stan "Okay, turn on the ignition,
+"
+9 8 Stan "Okay... 
+"
+9 8 Stan "Boats don't have parking brakes, dumbass! They only have the... oh wait wait. Neutral button! 
+"
+9 8 Stan "Jesus Christ!!!
+"
+9 8 Stan "Oh dude! Oh Jesus!
+"
+9 8 Stan "You said you'd take responsibility to your uncle Roy!
+"
+9 8 Stan "What?
+"
+9 8 Stan "Oh God, I hope I didn't hurt any beavers.
+"
+9 8 Stan "Huh oh. 
+"
+9 8 Stan "Mom, Dad?  Theh, they're gonna go help those people, right?
+"
+9 8 Stan "Ye-but, uh, s-somebody's gonna help the people off their, their rooftops, right?
+"
+9 8 Stan "Dude! Dude, did you see the news last night?
+"
+9 8 Stan "You saw all those people trapped on their roofs?
+"
+9 8 Stan "Pretty funny?! Dude, we did that!! That was our fault!
+"
+9 8 Stan "But they're trapped now and nobody's helping them!
+"
+9 8 Stan "Maybe they couldn't get out!
+"
+9 8 Stan "Dude, ah I just...  ah I don't know what to do here.
+"
+9 8 Stan "Nothing
+"
+9 8 Stan "Dad, isn't it possible the flood wasn't caused by global warming? I, I mean, the water was held back by a giant beaver dam, after all.
+"
+9 8 Stan "Mom, you know, those people in Beaverton are still trapped in the flood.
+"
+9 8 Stan "Kyle, it... it isn't global warming.
+"
+9 8 Stan "Global warming isn't happening right now. It's, it's not what caused the Beaverton flood.
+"
+9 8 Stan "Because, I know what did cause the flood.
+"
+9 8 Stan "No.
+"
+9 8 Stan "No.
+"
+9 8 Stan "No.
+"
+9 8 Stan "No.
+"
+9 8 Stan "...sort of.
+"
+9 8 Stan "Shh! Not, not exactly. We were messing around in this guy's new boat, and Cartman egged me on, and, and I crashed it into the Beaverton dam.
+"
+9 8 Stan "Look, maybe, maybe we can help those people in Beaverton ourselves.
+"
+9 8 Stan "We can sneak out of here, get a boat, and go help them off their roofs. That way, I can do the right thing, but still lie about it.
+"
+9 8 Stan "Uh, hey Dad.
+"
+9 8 Stan "Dad, we're, we're trapped in Beaverton, We're, we were trying to save everyone!
+"
+9 8 Stan "No, Dad, listen: I need to tell you something.
+"
+9 8 Stan "Nothing. Can you just come get us, please?
+"
+9 8 Stan "We have to find a way out! 
+"
+9 8 Stan "Come on! We've gotta get to the roof! 
+"
+9 8 Stan "It's- it's helicopters! They finally came to help everyone! 
+"
+9 8 Stan "Guys, come on! 
+"
+9 8 Stan "Stop it! Stop it!! First it was terrorists, then George Bush and global warming and now you're all blaming crab people for something that's very simple! It's MY fault. I broke the dam. 
+"
+9 8 Stan "No. I broke the dam.
+"
+9 8 Stan "No. I broke the dam.
+"
+9 8 Stan "I broke the dam. I ran a boat into the dam and I broke it.
+"
+9 8 Stan "No! I broke the fucking dam!
+"
+9 8 Stan "I literally broke the dam!
+"
+9 8 Stan "On a boat! That wasn't mine!
+"
+9 8 Stan "I kept it secret, for two days!
+"
+9 8 Stan "The boat caught on fire, and it exploded!
+"
+9 8 Stan "Ohhh, fuck it!
+"
+9 9 Stan "Yeah, us too.
+"
+9 9 Stan "What?
+"
+9 9 Stan "Oh my God, how does it know the answer?
+"
+9 9 Stan "So what do you suggest?
+"
+9 9 Stan "Yeah, there's just one problem: a boy can't go to a chicks' slumber party.
+"
+9 9 Stan "But if one of us pretends to be the new girl in class, the girls will wonder where that boy went.
+"
+9 9 Stan "All right, Butters, that's Heidi's house.
+"
+9 9 Stan "Yeah dude, of course. Now go, the party's already started.
+"
+9 9 Stan "Maybe they found him out.
+"
+9 9 Stan "Come on, we gotta go check on him. 
+"
+9 9 Stan "He's just dancing around.
+"
+9 9 Stan "Come on, Butters.
+"
+9 9 Stan "Ho-Hold on on guys. We're not sure what this device is capable of. Maybe we should wait until we've had more time to study it.
+"
+9 9 Stan "Guys, guys, guys, stop!  Look at what this thing is doing to us. Butters was trying to tell me something outside the house. That this device is nothing but trouble. I think I know what he meant now.
+"
+9 9 Stan "We risked everything to get it from the girls. How long before the girls attack us to get it back?
+"
+9 9 Stan "And then what? Hide it forever from the government? From the... terrorists who want to use it for evil? Maybe... maybe nobody is meant to have this kind of power.
+"
+9 9 Stan "We got it away from the girls. That's what matters. But now the right thing to do isn't using it ourselves, then we're no better than they are.
+"
+9 9 Stan "Nobody will. That's the way it's suppose to be. Hit it, Kenny. 
+"
+9 10 Stan "Oh no, dude, he's gonna put me with Wendy.
+"
+9 10 Stan "So, I haven't even spoken to Wendy since we broke up.
+"
+9 10 Stan "Kyle??
+"
+9 10 Stan "So, what are you and Wendy doing?
+"
+9 10 Stan "Uh huh...
+"
+9 10 Stan "Yeah, well, so is your hat. 
+"
+9 10 Stan "I can't. I'm busy.
+"
+9 10 Stan "...So take it with you!
+"
+9 10 Stan "Well maybe I didn't want to have an egg with you, okay Bebe?!
+"
+9 10 Stan "HA!
+"
+9 10 Stan "Alright, give it to me. I'll take it home tonight.
+"
+9 10 Stan "Why do you say that?
+"
+9 10 Stan "That's because I was pissed off!
+"
+9 10 Stan "You think you're so great, don't you?! Well guess what?! Maybe I don't need your help! I'm taking the egg home tonight, and I'm gonna show everybody tomorrow that I'm every bit as good an egg-take-care-over as you! 
+"
+9 10 Stan "Fine!
+"
+9 10 Stan "No problems at all!
+"
+9 10 Stan "It's right there, see? 
+"
+9 10 Stan "Day five. I made it!  Hello?
+"
+9 10 Stan "What?
+"
+9 10 Stan "Governor's office?
+"
+9 10 Stan "Aah, you'd like that, wouldn't you?! I took care of this egg, Kyle, not you!
+"
+9 10 Stan "What's up?! Oh, nothing except that you've been trying to impress Wendy all week long like a pathetic dickhole!
+"
+9 10 Stan "You've set it all up to look like you're this awesome prince and I'm just a loser!
+"
+9 10 Stan "Well guess what?! I'm gonna take this egg to class myself! And I'm gonna hold it up in front of Wendy, and say ""See?! I'm every bit as good as Kyle is."" 
+"
+9 10 Stan "AAAAAAAAAAAAAAAA!
+"
+9 10 Stan "AAAAAAAAAAAAAAAA! AAAAAAAAAAAAAAAA!
+"
+9 10 Stan "Dude, you should just go be with Wendy and be happy.
+"
+9 10 Stan "Yeah well, I blew it. Now we're gonna fail and Wendy thinks I'm a total loser.
+"
+9 10 Stan "I don't. She's totally lame. 
+"
+9 10 Stan "I'm sorry I didn't trust you, Kyle. I'm obviously just a crappy best friend to have.
+"
+9 10 Stan "Huh?
+"
+9 10 Stan "That...  That's the real egg with Garrison's signature?
+"
+9 10 Stan "Then... then Wendy won't think I'm a total loser!
+"
+9 10 Stan "Come on, buddy, let's go! 
+"
+9 10 Stan "As a matter of fact,... I think it is the nicest hat I've ever known.  Come on! 
+"
+9 10 Stan "There! Over there!  Excuse us! Excuse us please!
+"
+9 10 Stan "Jesus Christ!
+"
+9 10 Stan "Teacher, our egg is... okay. 
+"
+9 10 Stan "Like I give a crap about what you think, Wendy. 
+"
+9 11 Stan "Dude, what's the big deal?
+"
+9 11 Stan "What about the Foley family? I think they're all ginger.
+"
+9 11 Stan "I'm sorry, but I don't understand. You both have dark hair and brown eyes.
+"
+9 11 Stan "You buying school lunch today?
+"
+9 11 Stan "That's just wrong, dude. I wish Cartman could see what it felt like to be ginger.
+"
+9 11 Stan "Sure, for what?
+"
+9 11 Stan "Okay dude, knock him out.  Dude, dude okay, he's out!  Kyle, that's good!  All right, let's do it.
+"
+9 11 Stan "You mean,you're a ginger?
+"
+9 11 Stan "Maybe he'll actually learn a lesson this time. 
+"
+9 11 Stan "Should we tell him the truth?
+"
+9 11 Stan "Huh? Why?
+"
+9 11 Stan "... totally.
+"
+9 11 Stan "You know, Cartman is an uncaring, bigoted intolerant asshole, but I have to admit, I had my own prejudice about gingers. I think we all need to realize that everyone is different in one way or another, and we shouldn't be threatened by those differences. I mean, Cartman had me kind of creeped out that gingers were gonna come get me in the night.
+"
+9 11 Stan "You guys... need... anything? 
+"
+9 11 Stan "More ginger kids. Um, meh-maybe we should just go home.
+"
+9 11 Stan "The hell do they want? 
+"
+9 11 Stan "Run, dude, run!!
+"
+9 11 Stan "Kyle. Kyle, wake up.
+"
+9 11 Stan "I think we're at the Sunset Room at the Airport Hilton.
+"
+9 11 Stan "Cartman?
+"
+9 12 Stan "I can't spend any money. I'm saving up for that bike I want.
+"
+9 12 Stan "No, I don't wanna spend any money, you guys.  Let's just do something fun that's free.
+"
+9 12 Stan "Well I can't spend any money.
+"
+9 12 Stan "Excuse me?
+"
+9 12 Stan "Uh what do I have to do?
+"
+9 12 Stan "Fine.
+"
+9 12 Stan "L-look, is this a religion? Because my family is like, Catholic or something.
+"
+9 12 Stan "Then how come that sign says ""Church of Scientology""?
+"
+9 12 Stan "Seven and two.
+"
+9 12 Stan "Uhhh, sh-sure?
+"
+9 12 Stan "Yeah?
+"
+9 12 Stan "Yes.
+"
+9 12 Stan "So how did I do?
+"
+9 12 Stan "...Huh??
+"
+9 12 Stan "I am?? I didn't know that!
+"
+9 12 Stan "What what do I do?
+"
+9 12 Stan "I'm totally depressed.
+"
+9 12 Stan "I don't know.
+"
+9 12 Stan "I'm not sure. But... I need two hundred and forty dollars.
+"
+9 12 Stan "No, I found a self-help program that can cure me.
+"
+9 12 Stan "But I'm completely miserable and these people can help!
+"
+9 12 Stan "Neither did I!
+"
+9 12 Stan "Don't you care that I'm depressed?! What if I become suicidal, or, or become an alcoholic like Grandpa??
+"
+9 12 Stan "...well but... but that's my money.
+"
+9 12 Stan "I hope so.
+"
+9 12 Stan "Really?
+"
+9 12 Stan "Thetan levels...
+"
+9 12 Stan "So, this is gonna make me happy?
+"
+9 12 Stan "What?
+"
+9 12 Stan "Stan.
+"
+9 12 Stan "I took out the garbage yesterday.
+"
+9 12 Stan "Aagh!  Stupid dumb garbage! 
+"
+9 12 Stan "I don't know! 
+"
+9 12 Stan "Jesus Christ...
+"
+9 12 Stan "Aw dude, I need to go to bed.
+"
+9 12 Stan "Yeah, I know who you are.
+"
+9 12 Stan "Well-h. I mean, you're not... you're not like as good as Leonardo DiCaprio, but you're okay, I guess.
+"
+9 12 Stan "I mean, you're not Gene Hackman or that guy who played Napoleon Dynamite, but you're okay.
+"
+9 12 Stan "Hey!  Dude, I'm sorry. I didn't mean it.
+"
+9 12 Stan "Dude, this is my room!
+"
+9 12 Stan "Dad! Tom Cruise won't come out of the closet!
+"
+9 12 Stan "Tom Cruise locked himself in my closet and he won't come out. 
+"
+9 12 Stan "I just told him I thought the Napoleon Dynamite guy is a better actor than he is.
+"
+9 12 Stan "Sure.
+"
+9 12 Stan "I, I guess.
+"
+9 12 Stan "But I don't know any of this stuff.
+"
+9 12 Stan "Okay, I'll try. I just wish I could write in my room, but Tom Cruise won't come out of the closet.
+"
+9 12 Stan "Yeah, yeah!
+"
+9 12 Stan "I can't. I'm writing a new sacred doctrine for my church.
+"
+9 12 Stan "Cult? Scientology isn't a cult, Kyle. I've read all this stuff and it's based on fact.
+"
+9 12 Stan "I did not! Those are rumors put out by people who are afraid because they don't know the secret truth.
+"
+9 12 Stan "I can't tell you unless you pay for a few years of audit counseling! All I know is that I was depressed before, and now I found meaning!
+"
+9 12 Stan "Neither did I! But now, if you guys can't accept this great thing I belong to, then I suppose we're no longer friends! 
+"
+9 12 Stan "I wrote that um, our followers shouldn't fly in DC-8s anymore because they're too much like Xenu's evil cruisers.
+"
+9 12 Stan "And I wrote that the evil Lord Xenu was recently broken out of galactic jail.
+"
+9 12 Stan "And best of all, I wrote that all the Scientologist's should no longer have to pay money to belong.
+"
+9 12 Stan "I I realize that to really be a church, we can't charge people for help.
+"
+9 12 Stan "... Well, it's not about the money, it's about the message, right?
+"
+9 12 Stan "But you said that there were-
+"
+9 12 Stan "But then, why me? Why do you need me to write something so badly?
+"
+9 12 Stan "Three million dollars?
+"
+9 12 Stan "Yeah. Yeah, I get you.
+"
+9 12 Stan "Uh, thanks. So, first of all, I've written that the brainwashed alien ghosts are actually from a galaxy called Nubanon.
+"
+9 12 Stan "And uh, oh,  ...I ...I can't do this.
+"
+9 12 Stan "Look, everybody, we're all looking for answer, you know. We all want to understand who we are and where we come from, but... sometimes we want to know the answers so badly that we... believe just about anything.
+"
+9 12 Stan "I'm not the reincarnation of L. Ron Hubbard. And... Scientology is just a big fat global scam.
+"
+9 12 Stan "What??
+"
+9 12 Stan "YOU told me it was a lie!
+"
+9 12 Stan "Well fine! Go ahead and sue me!
+"
+9 12 Stan "Well go on, then! Sue me!
+"
+9 12 Stan "Okay, good! Do it! I'm not scared of you! Sue me!
+"
+9 13 Stan "Okay, where to next?
+"
+9 13 Stan "Let's go see the stingrays, and then we can go to the sea lion show.
+"
+9 13 Stan "What?
+"
+9 13 Stan "I don't believe it.
+"
+9 13 Stan "Why don't you just tell the people here at the sea park?
+"
+9 13 Stan "It's true. The whale talked to all of us. In between shows at his orca tank.
+"
+9 13 Stan "All right. In order to make our plan work, we're going to need the pool from Clyde's back yard, Timmy's wheelchair, the Russian government, and all of our skateboards.
+"
+9 13 Stan "Craig, Token, get the slings ready. 
+"
+9 13 Stan "What happened?
+"
+9 13 Stan "They were going to do it for that 'N Sync guy.
+"
+9 13 Stan "Uh, 'xcuse me, we're looking for the Mexican... Aeronautica y Spacia Administrashown?
+"
+9 13 Stan "Thanks.  Is this the Mexican space program? 
+"
+9 13 Stan "Does the Mexican space programs have rockets that can go to the moon?
+"
+9 13 Stan "This rocket will fly to the moon?
+"
+9 13 Stan "To the moon?
+"
+9 13 Stan "We want to take something to the moon. How much would that cost?
+"
+9 13 Stan "Two hundred? Million?
+"
+9 13 Stan "Quick, call Kyle.
+"
+9 13 Stan "They're on their way, Manuel. Is the rocket gonna be ready?
+"
+9 13 Stan "Back down the ramp! It's all rigged to go!
+"
+9 13 Stan "Kyle, it's all set to go!  Just get Willzy-x into the water! 
+"
+9 13 Stan "Okay, Manuel, hit it. 
+"
+9 13 Stan "Thanks for the ride, Manuel.
+"
+9 13 Stan "I wonder... if he'll ever come back and visit us.
+"
+9 14 Stan "Wait. Where's my Dad?
+"
+9 14 Stan "Yeah.
+"
+9 14 Stan "Dad? Where the hell could he have gone??
+"
+9 14 Stan "Dad, weren't you watching?
+"
+9 14 Stan "Dad, aren't you supposed to like, not drink and drive?
+"
+9 14 Stan "Sure, whatever dude.
+"
+9 14 Stan "Why not just pull over?
+"
+9 14 Stan "Dad, we're gonna crash!
+"
+9 14 Stan "Aww, it's all warm!
+"
+9 14 Stan "This is sooo embarrassing.
+"
+9 14 Stan "Look, guys, about last night, can you just be quiet about it?
+"
+9 14 Stan "Because, I don't want everyone knowing, okay? Could we please just keep this to ourselves?
+"
+9 14 Stan "Oh Jesus. 
+"
+9 14 Stan "Dad! What the hell are you doing?!
+"
+9 14 Stan "Dad, it's the middle of the day! I thought you weren't going to drink as much anymore!
+"
+9 14 Stan "What?? Did you go to your AA meeting?!
+"
+9 14 Stan "Dad, you've had enough! Just stop now!
+"
+9 14 Stan "Aww, Goddammit!
+"
+9 14 Stan "Dad, what are you doing in Grandpa's extra wheelchair?!
+"
+9 14 Stan "No! You don't need another beer!
+"
+9 14 Stan "Dad, you just need to not drink so much. It's very simple.
+"
+9 14 Stan "Ah, excuse me, who's in charge here?
+"
+9 14 Stan "Uh, look, my dad was here yesterday and ...you all kind of messed him up by telling him he had a disease?
+"
+9 14 Stan "No it, it's not. And, y-you can't just go around saying stuff like that to people like my dad. He He's kind of, a hypochondriac
+"
+9 14 Stan "No, cancer is a disease. My dad needs to drink less.
+"
+9 14 Stan "No, he just needs a disciprine. But thanks to you people, my dad now thinks he has a disease that he can't cure himself.
+"
+9 14 Stan "Yeah, and I also know a thing or two about cults. I was the leader of one for a while.  Goddammit! 
+"
+9 14 Stan "Dad?! Dad, what are you doing?!
+"
+9 14 Stan "Dad, you're drunk! You're not driving a car!
+"
+9 14 Stan "What??
+"
+9 14 Stan "Dad, you can't drive! Your license is suspended, remember?! If you get pulled over again, you're gonna go to jail for ten years!
+"
+9 14 Stan "... I'm eight!
+"
+9 14 Stan "Where? I can't see.
+"
+9 14 Stan "Oh my God...
+"
+9 14 Stan "Dad, let's just wait our turn.
+"
+9 14 Stan "I just, my dad was-
+"
+9 14 Stan "What?!
+"
+9 14 Stan "No, Dad, people will see!
+"
+9 14 Stan "Dad, we're going back!
+"
+9 14 Stan "Praise Christ.
+"
+9 14 Stan "Naw, Dad, all the guys are going to Kyle's hosue to watch the Bronco game. Kenny and Kyle's Dads were hoping you'd come.
+"
+9 14 Stan "No, my dad doesn't drink.
+"
+9 14 Stan "Dad, Dad, Stop!
+"
+9 14 Stan "Dad, you don't have to do this! You have the power. You haven't drank since seeing the statue.
+"
+9 14 Stan "Yeah. The statue wasn't a miracle, Dad. So that means you did it. That means you didn't have a drink for five days all on your own.
+"
+9 14 Stan "No!
+"
+9 14 Stan "Dad, you like to drink. So have a drink once in a while. Have two. If you devote your whole life to completely avoiding something you like, then that thing still controls your life and, 'n you've never learned any discipline at all.
+"
+9 14 Stan "Naw. All or nothing is easy. But learning to drink a little bit, responsibly, that'sa disciprine. Disciprine... come from within. 
+"
+9 14 Stan "I've had a great teacher.
+"
+9 14 Stan "No not you, my karate teacher. He's really smart.
+"
+9 14 Stan "All right!
+"
+9 14 Stan "That's probably okay if you spread it out.
+"
+9 14 Stan "I think you're pushing it.
+"
+9 14 Stan "That's not disciprine.
+"
+9 14 Stan "Dad!
+"

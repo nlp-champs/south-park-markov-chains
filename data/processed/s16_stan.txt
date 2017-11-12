@@ -1,0 +1,1304 @@
+16 1 Stan "Throw it here! Throw it here!  Yeah! Nice one, Clyde! 
+"
+16 1 Stan "They are trying to save Clyde's mom.
+"
+16 1 Stan "We keep trying to tell him maybe this all isn't his fault. Maybe the people who made the toilet are to blame for what happened.
+"
+16 1 Stan "So then we can't sue him?
+"
+16 1 Stan "Wow, really?!
+"
+16 1 Stan "How expensive?
+"
+16 1 Stan "Yeah.
+"
+16 1 Stan "So what does that mean?
+"
+16 2 Stan "Thanks. 
+"
+16 2 Stan "Look, it was a gift from my grandpa, okay? And it cost a lot of money.
+"
+16 2 Stan "It happens to be worth six thousand dollars!
+"
+16 2 Stan "Yeah dude. It's a recreation of the bolo tie worn by King Henry V.
+"
+16 2 Stan "I know!  I really wish if my grandpa wanted to give me something, he'd just give me the money!
+"
+16 2 Stan "No, my grandpa gave to me as a present. But it's worth so much I reel really bad accepting it, so I just want the cash.
+"
+16 2 Stan "...What? That cost my grandpa six thousand dollars. Those are real diamonds on the outside.
+"
+16 2 Stan "Fifteen bucks?!
+"
+16 2 Stan "Yeah, I'm not gettin' taken advantage of! 
+"
+16 2 Stan "Yeah! Here's one. 
+"
+16 2 Stan "Yeah dude, you can test them.
+"
+16 2 Stan "This is the same bolo tie worn by King Henry V!
+"
+16 2 Stan "I wanna see how much you'll give me for this gold and turquoise diamond bolo. 
+"
+16 2 Stan "A six-layer burrito?
+"
+16 2 Stan "Dude, my grandpa paid $6000 for something barely worth anything. How? How does something like this happen?
+"
+16 2 Stan "But, how do they get away with that?
+"
+16 2 Stan "What are you talking about?
+"
+16 2 Stan "Grandpa? 
+"
+16 2 Stan "Grandpa.
+"
+16 2 Stan "She doesn't like jewelry, Grandpa.
+"
+16 2 Stan "She's not a baby, Grandpa, she's thirteen.
+"
+16 2 Stan "Yes, Grandpa.
+"
+16 2 Stan "Don't worry, Grandpa. I'm gonna take care of this! 
+"
+16 2 Stan "Yeah, hi. Um, you should kill yourself?
+"
+16 2 Stan "I said, you should kill yourself? What you do is sort of, unjustifiable? And you know it's unjustifiable? And you don't care? You're the definition of evil? Kill yourself?
+"
+16 2 Stan "I just read that the day shopping networks make most of their money is on the day seniors pick up Social Security checks? Kill yourself.
+"
+16 2 Stan "No i wouldn't.
+"
+16 2 Stan "No, because I really want you to kill yourself.
+"
+16 2 Stan "I don't care what happens to me, I care about my grandfather, you morally empty corrupted maggot!
+"
+16 2 Stan "Nono, uh it doesn't matter what price you put on anything! Your only chance to right the wrongs you've done, and repay all the elderly people whose lives you've destroyed, is to kill yourself.
+"
+16 2 Stan "I'm not joking.  Do it.
+"
+16 2 Stan "Do you have any idea what it would feel like to start losing your memories?! No! Because you don't have someone in your life suffering from Alzheimer's! Well I do!
+"
+16 2 Stan "Yeah?! Well there's an old Hindu saying: ""Whoever smelt it, dealt it!""
+"
+16 2 Stan "YOU are the scums of the earth! Old people are victimized by shopping networks and YOU kick back in your fat-cat mansions, making billions!
+"
+16 2 Stan "You're not?
+"
+16 2 Stan "You should be ashamed of the people in America that you are exploiting! How dare you take advantage of those less fortunate?! 
+"
+16 2 Stan "Somebody is at the head of all this, and somebody needs to pay! All I want is some Goddamned retribution for my Goddamned grandpa!  No! Not a diamond-and-gold necklace! 
+"
+16 2 Stan "Oh, yeah. Actually, this might kind of work.
+"
+16 2 Stan "So the we went to India, which is pretty cool I guess. I've never been there before. And we basically learned that whoever smelt it, denied it, and rhymed it actually dealt it.
+"
+16 2 Stan "Yeah, I guess so. Anyway Grandpa, I wanted to give you something. 
+"
+16 2 Stan "Yeah.
+"
+16 2 Stan "Cool. I, I won't wear it anymore.
+"
+16 3 Stan "Tango, Tango, I'm in position.
+"
+16 3 Stan "It will have to do. We're not getting closer.
+"
+16 3 Stan "I think they're onto us guys. Let's do this.  I got it.
+"
+16 3 Stan "Go, go, go.
+"
+16 3 Stan "Oh, that's a good idea.
+"
+16 3 Stan "Dude, we are on the front page!
+"
+16 3 Stan "Can we get a different pose, please? 
+"
+16 3 Stan "It says... Oh, oh no. It says Faith Hilling is now all like 2000-late.
+"
+16 3 Stan "Public reaction was the stunt pulled off by five elementary school students was not only dangerous and disruptive but also completely passé.
+"
+16 3 Stan """Faith Hilling is pretty stale,"" said Republican candidate Newt Gingrich. ""If they had crashed the debate by Taylor Swifting that would have been impressive.""
+"
+16 3 Stan "That's all it is? 
+"
+16 3 Stan "Saying something is so 2000 and anything is so 2009, you stupid ass wipe.
+"
+16 3 Stan "Well, I'm glad we took care of that.
+"
+16 3 Stan "That's a cool idea
+"
+16 3 Stan "What seems pointless?
+"
+16 3 Stan "No, no, no! These stupid fads are only that, okay? We can't give in to this crap.
+"
+16 3 Stan "Oh Long Johnson. Oh Long Johnson.
+"
+16 3 Stan "Oh Long Johnson, Oh Long- 
+"
+16 3 Stan "Oh, hey, guys. How's it going? 
+"
+16 3 Stan "Yeah, now you're doing to see how many times you can say Oh Long Johnson. I thought just, you know, try it out.
+"
+16 3 Stan "Oh, come on. You guys need to realize that Faith Hilling is over, okay?  You can pretend all you want, but it's not coming back. 
+"
+16 3 Stan "You will like this, Kenny. Pull down your pants. 
+"
+16 3 Stan "Okay, that's good, a little higher.
+"
+16 3 Stan "OK, whenever you're ready.
+"
+16 3 Stan "Alright, go Cartman.
+"
+16 3 Stan "Yeah, that's cool. It's awesome.
+"
+16 3 Stan "Fox trot standing by at position alpha.
+"
+16 3 Stan "Standing by in three seconds.
+"
+16 3 Stan "Come on, dude. Hurry.
+"
+16 3 Stan "Wow!
+"
+16 5 Stan "Dude, did a bully take your lunch money again?
+"
+16 5 Stan "That's the third day in a row. You gotta tell the teacher.
+"
+16 5 Stan "Well then write the principal an anonymous letter.
+"
+16 5 Stan "I can't believe what I'm hearing!  This is why bullying is getting worse and worse at out schools! We can't all sit by and let it happen anymore!
+"
+16 5 Stan "I'll do it! I'll be in charge.
+"
+16 5 Stan "No, I just... I think bullying has gotten out of hand. And it needs to be stopped.
+"
+16 5 Stan "Hey guys, guys! Don't pick on Butters! That's not cool. You can't do that. Bullying? Did you know that in America, hohoh,  over 200,000 students every day are afraid to come to school because of bullying?  At South Park Elementary we're better than that. Come on. Let's all put an end to bullying. Right now! Five Six Seven Eight!
+"
+16 5 Stan "Aw Butters, you ruined it. This is all one big long shot and you ruined it.
+"
+16 5 Stan "Butters, you're the star of the video!
+"
+16 5 Stan "Well come on, do you just wanna be bullied your whole life, Butters?  Kyle?
+"
+16 5 Stan "Kyle? Dude, where are you going?!
+"
+16 5 Stan "To stop bullying.
+"
+16 5 Stan "YES.
+"
+16 5 Stan "...It's about awareness dude. Don't you understand how important this is? Bullying? Did you know that in America, hohoh, over 200,000 students are afraid to come to school every day because of-
+"
+16 5 Stan "Kyle, I'm trying to make a difference!
+"
+16 5 Stan "What the hell does that mean?
+"
+16 5 Stan "Dude, Butters! We have awesome news! A Hollywood movie company is gonna buy our bullying video!
+"
+16 5 Stan "Yeah, and Butters is the star! The movie company wants to do a photo shoot with him so we can make movie posters!
+"
+16 5 Stan "I know, right?! 
+"
+16 5 Stan "Oh, hey.
+"
+16 5 Stan "Huh?
+"
+16 5 Stan "But I worked hard on that! It's, it's been really stressful and I-
+"
+16 5 Stan "No.
+"
+16 5 Stan "What's up, Kyle? Why are you trying to trash-talk our theatrical release?
+"
+16 5 Stan "Butters is totally fine with it, dude.
+"
+16 5 Stan "Alright Kyle, that's enough! I'm not gonna be bullied by you, okay?!
+"
+16 5 Stan "Oh yeah.
+"
+16 5 Stan "This video can change how people think about bullying! It needs to be seen by everybody, Kyle!
+"
+16 5 Stan "...What, what was the question again?
+"
+16 5 Stan "...Get, get out of here, Kyle! I'm trying to go to the bathroom!
+"
+16 5 Stan "Why does he keep saying that?
+"
+16 5 Stan "Well, I just got tired of seeing people like Butters getting pushed around, and I knew I had to do somethin' about it. 
+"
+16 5 Stan "I didn't know.
+"
+16 5 Stan "I didn't beat up Dr. Oz! Don't be mad at me!
+"
+16 5 Stan "Huh? Aw, come on!  Dude, what's going on?
+"
+16 5 Stan "Wha? What's the movie studio saying about it?
+"
+16 5 Stan "How was I supposed to know Butters was actually a violent psychopath?
+"
+16 5 Stan "Everyone loved me sixteen hours ago.
+"
+16 5 Stan "I guess, there's only one thing left for me to do.
+"
+16 6 Stan "Kyle! 
+"
+16 6 Stan "Kyle, wake up! You've gotta wake up, Kyle! 
+"
+16 6 Stan "No!
+"
+16 6 Stan "Help! We're trapped!  We've gotta get out of here!
+"
+16 6 Stan "We really had spent the whole spring break watching TV and playing Xbox, you know, so, we, we wanted to go out and do something really adventurous.
+"
+16 6 Stan "Come on guys, the day is wasting away. What would be something really cool we could do?
+"
+16 6 Stan "I think there's a place just outside of town. I'll see if my uncle Jimbo will drop us off.
+"
+16 6 Stan "Yeah.
+"
+16 6 Stan "And we were like, ""Other? We have to do this with other people?"" 
+"
+16 6 Stan "Good. How are you?
+"
+16 6 Stan "It was... I don't know, ten, maybe fifteen minutes of pure hell. 
+"
+16 6 Stan """Really? You're gonna make us all listen to it again 'cause you couldn't understand? Really?""
+"
+16 6 Stan "...Shuttle?
+"
+16 6 Stan "Uh that's okay.
+"
+16 6 Stan "Thank God. 
+"
+16 6 Stan "I think we're good.
+"
+16 6 Stan "So after Asshole gets his biology lesson, we finally get to go ziplining! 
+"
+16 6 Stan "Oh, really??
+"
+16 6 Stan "And it was like WHAM. 
+"
+16 6 Stan "There could be a helicopter. Maybe one will fly overhead.
+"
+16 6 Stan "That's when I realized nobody remembered. Nobody remembered it was me who came up with the idea to go ziplining. Me.
+"
+16 6 Stan "Guys, guys, does it really matter whose idea it was?!
+"
+16 6 Stan "Alright, look, we can make it, you guys. We can't panic. If the four of us don't zipline the tour will move faster. We are gonna make it out of here, okay?
+"
+16 6 Stan "So, I just tried to keep the tour group moving, as fast as possible.
+"
+16 6 Stan "Oh no, could, could we skip lunch and keep going?
+"
+16 6 Stan "Hey ah, I'm so sorry, but we have an emergency. Our friend is really really sick.
+"
+16 6 Stan "...Yyyeah.
+"
+16 6 Stan "Yeah, his, his cold sore is really bad, and uhh he's losing blood, so we've gotta go.
+"
+16 6 Stan "Yea, please!
+"
+16 6 Stan "You see guys? This is gonna be sweet after all.
+"
+16 6 Stan "Kyle. Kyle? Kyle, come on, wake up!
+"
+16 6 Stan "No, we're not leaving you here, Kyle!
+"
+16 6 Stan "I just sat there, watching Kyle die and... I wanted to tell him the truth right then and there. But then this... fire rose up inside of me, I... I thought ""I can find us a way out!"" I ran off and went searching for, I don't know how long. Twelve minutes? And that's when I found it.
+"
+16 6 Stan "You guys, you guys! Get up! Listen to me! There's a lake a hundred yards down that way! They've got a marina with boats just sitting there!
+"
+16 6 Stan "We can take a boat, you guys! We can probably take it all the way back to Fairplay!
+"
+16 6 Stan "Come on you guys! A boat all to ourselves? It'll be fun! What could possibly go wrong?! 
+"
+16 6 Stan "The boat went really slow and it just went round and round.
+"
+16 6 Stan "...Kenny? Kenny! 
+"
+16 6 Stan "And finally, I couldn't hold it in anymore. I said ""Stop it!""
+"
+16 6 Stan "Stop it! It was me! My idea.
+"
+16 6 Stan "Four days ago, I came across a brochure for ziplining.  I thought it would be fun. I only acted like it was an idea we all came up with together. 
+"
+16 6 Stan "If you signed up three friends, you got a free iPod Nano. 
+"
+16 6 Stan "I had no idea ziplining would be so boring.
+"
+16 6 Stan "The hardest part about it is knowing you can't take it back.  I mean, it was the fifth-generation Nano, so I can't trade it in anywhere.
+"
+16 6 Stan "Thank you.  Mr. Hankey. 
+"
+16 7 Stan "What? 
+"
+16 7 Stan "Dude, why are you so into their relationship?
+"
+16 7 Stan "Actually, I heard they're together because they got locked in the school gym overnight a few months ago.
+"
+16 8 Stan "You don't suck at football, Butters, you suck at all sports.
+"
+16 8 Stan "The school said they're the most dangerous plays, so they don't have us do 'em anymore.
+"
+16 8 Stan "Dad, do we really have to wear bras?
+"
+16 8 Stan "This game is stupid. I have no idea how to go out on the field and be as nice as I can to the other team!
+"
+16 8 Stan "Look, I'm sorry guys, my dad said he's too busy with the Broncos. He doesn't have time for us.
+"
+16 8 Stan "I'm sorry. My dad is taking professional sarcastaball really seriously.
+"
+16 8 Stan "The guys are right. From now on, you're team captain, Butters. You lead us to victory.
+"
+16 8 Stan "Not at this you don't! What about that creamy filling you talked about? That gooey goodness inside you that makes you the butteriest Butters we know?
+"
+16 8 Stan "Cartman, you idiot!
+"
+16 8 Stan "Dad?
+"
+16 8 Stan "What?
+"
+16 8 Stan "Whoawhoa, you can't, you can't tell me what to do!
+"
+16 8 Stan "Oh right, like he doesn't exaggerate every disease he gets!
+"
+16 8 Stan "We're not being sarcastic, Dad! Is it so hard to believe that we really enjoy a sport that has no violence? Is it so hard for you to believe that when Butters says ""Competitiveness can be compassionate,"" he's being completely sincere?
+"
+16 8 Stan "Yeah Dad. You need some of this. 
+"
+16 9 Stan "You find a good catcher's mitt, Cartman?
+"
+16 9 Stan "Whoa duude!
+"
+16 9 Stan "They don't just allow them, they have them available at the front. 
+"
+16 9 Stan "Dude, you've never seen Honey Boo Boo?
+"
+16 9 Stan "Well, dude, it's not like the bar is this actual, physical thing.
+"
+16 9 Stan "I guess not, but... What is it exactly you're trying to do?
+"
+16 9 Stan "Dude! Dude, not cool!
+"
+16 9 Stan "Haven't you heard what happened? Honey Boo Boo's heart gave out.
+"
+16 9 Stan "Yeah dude. It's really serious.
+"
+16 9 Stan "Dude, you okay? 
+"
+16 10 Stan "Dude, what happened?
+"
+16 10 Stan "What's this? 
+"
+16 10 Stan "Whoa!
+"
+16 10 Stan "But are you sure they had sex, like, ""sex"" sex, or they actually had sex? 
+"
+16 10 Stan "Well are you gonna tell your dad?
+"
+16 10 Stan "Cartman dude, not now.
+"
+16 10 Stan "You're gonna have to tell him, dude.
+"
+16 11 Stan "What?
+"
+16 11 Stan "You're talking about Butters.
+"
+16 11 Stan "Butters?
+"
+16 11 Stan "Butters, come out here.
+"
+16 11 Stan "Hawaii?
+"
+16 11 Stan "After all the things he said to us, he can go ahead. 
+"
+16 11 Stan """On the morrow""? What the fuck is wrong with Kenny?
+"
+16 12 Stan "We're rich?
+"
+16 12 Stan "Blockbuster Video?
+"
+16 12 Stan "Huh? Sorry, I'm watching a movie on my iPad. 
+"
+16 12 Stan "It's awesome. You should try to get it on that Ancient Civilizations show so that people can see how cultures used to live.
+"
+16 12 Stan "I think something might be wrong with Dad?
+"
+16 12 Stan "Yeah, it's awesome! Thanks, Mom.
+"
+16 12 Stan "Put down the blue orby thing, Red Skull!
+"
+16 12 Stan "Dad, nobody's gonna come.
+"
+16 12 Stan "Renting DVDs is more ancient than Madonna's boobs!
+"
+16 12 Stan "I can't go trick-or-treating! My dad says I have to stay and help with the store! Yes, I'm serious! I know it sucks, Kyle!
+"
+16 12 Stan "I know, but there's nothing I can do.
+"
+16 12 Stan "I'm sorry you guys. My dad is doing a big Halloween promotion.
+"
+16 12 Stan "No dude. Nobody. My dad... he's kind of losing it. To be honest, I feel kind of bad for him.
+"
+16 12 Stan "Oh never mind, I hate him again.
+"
+16 12 Stan "Yeah.
+"
+16 12 Stan "How about we try the Barkers? Oh, no, it looks like they're not home.
+"
+16 12 Stan "Oh, let's go to the Petersons' house.
+"
+16 12 Stan "Trick or treat.
+"
+16 12 Stan "Trick or treat.
+"
+16 12 Stan "What? What's he doing?
+"
+16 12 Stan "Hey, where did you guys go?
+"
+16 12 Stan "All right Avengers, what say we take this scumbag down?!
+"
+16 12 Stan "Just let me go! We're nobody! We didn't see anything! I pro-I promise!
+"
+16 12 Stan "No! Dude, please! This is my best friend's iPad!  Noo! Okayokay, okay! Their names are Bruce, Tony, and Curt
+"
+16 12 Stan "No no! We weren't gonna go there!
+"
+16 12 Stan "NO!  I won't say anything, I promise! 
+"
+16 12 Stan "What are you gonna do?  Please! Please just let me go! No!
+"
+16 12 Stan "What the hell?  Shelly I need to use your cell phone.
+"
+16 12 Stan "Huh? Wha? ...Oh, oh hello? Who is that?
+"
+16 12 Stan "Oh, ah thank God you found me.
+"
+16 12 Stan "You have to get me to my friends! They aren't safe! 
+"
+16 12 Stan "They said they were heading to the big party at the community center. You have to stop it. My friends are in trouble.
+"
+16 12 Stan "Guys, you're okay!
+"
+16 12 Stan "It's all right, just a scratch.
+"
+16 12 Stan "No! They're looking for you there!  Sir, you've got to cancel the Monster Mash.
+"
+16 12 Stan "Yeah, people are gonna get hurt.
+"
+16 12 Stan "Shhh. Don't say my name, Butters. I'm here undercover.
+"
+16 12 Stan "Oops.
+"
+16 12 Stan "Hey, be careful in there.
+"
+16 12 Stan "It's all right. Let's go straight. Now turn left. Okay, now go about ten steps.
+"
+16 12 Stan "Wait a minute. There they are!
+"
+16 12 Stan "Listen everybody, those guys right over there are- 
+"
+16 12 Stan "It's mine, Dad, get your own! What the hell's going on?! 
+"
+16 12 Stan "Hey dude.
+"
+16 12 Stan "It's okay Kyle, It's okay. Hit OK.  You guys go win that costume contest. You can do it. Lift the trophy for me.
+"
+16 12 Stan "Just have a good Halloween, you guys. And Kenny?
+"
+16 12 Stan "Stay gold. 
+"
+16 13 Stan "It's all right, Dad.
+"
+16 13 Stan "All right all right, I got it a few weeks ago. Big whoop.
+"
+16 13 Stan "Yeah I know.
+"
+16 13 Stan "Look I just don't want to, you guys. Honestly, it's not that big a deal.
+"
+16 13 Stan "I don't know,  I just like it.
+"
+16 13 Stan "Yeah. I donno. I've had it a long time, I just don't feel like cutting it off.
+"
+16 13 Stan "...I don't know.  I like it.
+"
+16 13 Stan "No, I just, I don' know. No.
+"
+16 13 Stan "I have?
+"
+16 13 Stan "You're wearing a bracelet to think of me?
+"
+16 13 Stan "You're wearing a brown bracelet, Butters?
+"
+16 13 Stan "...Farmers in where?
+"
+16 13 Stan "Dude, where are people getting all the brown wristbands?
+"
+16 13 Stan "Wow, this is happening so fast.
+"
+16 13 Stan "My friends told me I was crazy,  that I was wasting my time.  But my cause is to stand my ground.  When others sat, I kept my bracelet on, because I stand...  for standing.
+"
+16 13 Stan "No thanks. I'll stand.
+"
+16 13 Stan "I'm good.
+"
+16 13 Stan "Tell the captain to take off.  People ask me, ""You never took the bracelet off? Not once?""  No. Never. Not. Ever.  What do I do? I Stan ground. 
+"
+16 13 Stan "For what?
+"
+16 13 Stan "No! This is stupid!
+"
+16 13 Stan "No! I never cut if off!
+"
+16 13 Stan "What's the big idea, Craig?!
+"
+16 13 Stan "You got nothin' better to do than try and knock me down?! You can't just say anything you want about people!
+"
+16 13 Stan "You know what happens when you lie, Craig?! You hold that lie inside!
+"
+16 13 Stan "And it grows and it grows, right in your balls, until they have to cut it out!
+"
+16 13 Stan "Go ahead and test it! Then let's just see what happens to this money-hungry, alcoholic prostitute!
+"
+16 13 Stan "Yeah. 
+"
+16 13 Stan "Thanks Kyle.
+"
+16 13 Stan "Why does it matter?!
+"
+16 13 Stan "You know, I'm just, I'm just through with this whole thing! I just, I can't put my family through any more of this!
+"
+16 13 Stan "Ugh, you know what's really sad?! That this is what matters to people! What nobody seems to remember are the farmers in Belarus! STANground is bigger than me! You wanna tell all those farmers in Belarus it's all bullcrap?!
+"
+16 13 Stan "You really think I went through all that trouble, lying about my wristband and claiming to be something I wasn't, for what, Kyle?! For what?!  This is a witch hunt, dude! It's all that stupid French scientist! He's the fraud, and I'm gonna prove it!
+"
+16 13 Stan "Jesus!
+"
+16 13 Stan "What are you doing here?
+"
+16 13 Stan "Jesus, everyone is claiming you were using drugs to resurrect. Why didn't you say anything?
+"
+16 13 Stan "Yeah, I've been kind of seein' that.
+"
+16 13 Stan "It all just happened so fast. The next thing I knew I had a Nike commercial.
+"
+16 13 Stan "Everyone hates me now, and it isn't fair.
+"
+16 13 Stan "Thanks a lot.  Jesus, did you take HGH to do your miracles?
+"
+16 13 Stan "NO! Pff! No, that's no, okay? No. And anyway, it's not even the issue.
+"
+16 13 Stan "Pff it's like, that's here  and...
+"
+16 13 Stan "Pff, there's there's farmers in Belarus who are in a life and death struggle. THAT's what should be important!
+"
+16 13 Stan "Exactly! People don't even know where it is.
+"
+16 13 Stan "How can we raise awareness?
+"
+16 13 Stan "Well, we wanted to start a new movement, and we thought since your company makes all the bracelets...
+"
+16 13 Stan "Our... scause?
+"
+16 13 Stan "Dude, the hell just happen?
+"
+16 13 Stan "People are saying that? 
+"
+16 13 Stan "Wow! You know, whatever it takes, Butters. People are aware of the problems in Belarus; maybe I did it all on purpose or maybe it was just a coincidence.
+"
+16 13 Stan "We did it. 
+"
+16 13 Stan "Are you still on that dude?! Have you ever heard of ends justifying means?! 
+"
+16 13 Stan "It's almost like... like, that guy had this figured out all along.
+"
+16 13 Stan "We were trying to do good. But we got everyone duped by a bracelet company.
+"
+16 13 Stan "Well... we can't just let that guy get away with taking everyone's money.
+"
+16 13 Stan "What would Jesus do?  Yeheah! 
+"
+16 14 Stan "Wow, really? That's pretty impressive.
+"
+16 14 Stan "But I thought Obama won pretty easily last night.
+"
+16 14 Stan "I don't understand that stuff at all. I need Morgan Freeman to explain it to me.
+"
+16 14 Stan "Is that an M&M?
+"
+16 14 Stan "Pry his mouth open!
+"
+16 14 Stan "Butters, where are the ballots going?! Where are they going?!
+"
+16 14 Stan "What'd he say?  Oh. Well what do you mean the election isn't the biggest thing that happened this week? 
+"
+16 14 Stan "Huh?
+"
+16 14 Stan "Oh, Red Lobster.
+"
+16 14 Stan "Hey just one thing, Morgan Freeman:  How come every time something convoluted needs explaining, you show up?
+"
+16 14 Stan "There's nothing here, Kyle. 
+"
+16 14 Stan "He stole ballots in all the swing states so the wrong person was elected President.
+"
+16 14 Stan "Oh my God you guys, look!  Dude, it's Boba Fett's ship! 
+"
+16 14 Stan "Aw shit, it's him again.
+"
+16 14 Stan "Well, we tried, dude.
+"
+16 14 Stan "Well, I mean, look at it this way: Almost half the country did actually vote for Obama. If the election really just came down to a bunch of boxes Cartman stole, then, does it matter that much?
+"
+16 14 Stan "Stan, when was the last time you saw somebody drive a Hummer?
+"
+16 14 Stan "Uhhh, forever ago, like, 2010?
+"
+16 1 Stan "Throw it here! Throw it here!  Yeah! Nice one, Clyde! 
+"
+16 1 Stan "They are trying to save Clyde's mom.
+"
+16 1 Stan "We keep trying to tell him maybe this all isn't his fault. Maybe the people who made the toilet are to blame for what happened.
+"
+16 1 Stan "So then we can't sue him?
+"
+16 1 Stan "Wow, really?!
+"
+16 1 Stan "How expensive?
+"
+16 1 Stan "Yeah.
+"
+16 1 Stan "So what does that mean?
+"
+16 2 Stan "Thanks. 
+"
+16 2 Stan "Look, it was a gift from my grandpa, okay? And it cost a lot of money.
+"
+16 2 Stan "It happens to be worth six thousand dollars!
+"
+16 2 Stan "Yeah dude. It's a recreation of the bolo tie worn by King Henry V.
+"
+16 2 Stan "I know!  I really wish if my grandpa wanted to give me something, he'd just give me the money!
+"
+16 2 Stan "No, my grandpa gave to me as a present. But it's worth so much I reel really bad accepting it, so I just want the cash.
+"
+16 2 Stan "...What? That cost my grandpa six thousand dollars. Those are real diamonds on the outside.
+"
+16 2 Stan "Fifteen bucks?!
+"
+16 2 Stan "Yeah, I'm not gettin' taken advantage of! 
+"
+16 2 Stan "Yeah! Here's one. 
+"
+16 2 Stan "Yeah dude, you can test them.
+"
+16 2 Stan "This is the same bolo tie worn by King Henry V!
+"
+16 2 Stan "I wanna see how much you'll give me for this gold and turquoise diamond bolo. 
+"
+16 2 Stan "A six-layer burrito?
+"
+16 2 Stan "Dude, my grandpa paid $6000 for something barely worth anything. How? How does something like this happen?
+"
+16 2 Stan "But, how do they get away with that?
+"
+16 2 Stan "What are you talking about?
+"
+16 2 Stan "Grandpa? 
+"
+16 2 Stan "Grandpa.
+"
+16 2 Stan "She doesn't like jewelry, Grandpa.
+"
+16 2 Stan "She's not a baby, Grandpa, she's thirteen.
+"
+16 2 Stan "Yes, Grandpa.
+"
+16 2 Stan "Don't worry, Grandpa. I'm gonna take care of this! 
+"
+16 2 Stan "Yeah, hi. Um, you should kill yourself?
+"
+16 2 Stan "I said, you should kill yourself? What you do is sort of, unjustifiable? And you know it's unjustifiable? And you don't care? You're the definition of evil? Kill yourself?
+"
+16 2 Stan "I just read that the day shopping networks make most of their money is on the day seniors pick up Social Security checks? Kill yourself.
+"
+16 2 Stan "No i wouldn't.
+"
+16 2 Stan "No, because I really want you to kill yourself.
+"
+16 2 Stan "I don't care what happens to me, I care about my grandfather, you morally empty corrupted maggot!
+"
+16 2 Stan "Nono, uh it doesn't matter what price you put on anything! Your only chance to right the wrongs you've done, and repay all the elderly people whose lives you've destroyed, is to kill yourself.
+"
+16 2 Stan "I'm not joking.  Do it.
+"
+16 2 Stan "Do you have any idea what it would feel like to start losing your memories?! No! Because you don't have someone in your life suffering from Alzheimer's! Well I do!
+"
+16 2 Stan "Yeah?! Well there's an old Hindu saying: ""Whoever smelt it, dealt it!""
+"
+16 2 Stan "YOU are the scums of the earth! Old people are victimized by shopping networks and YOU kick back in your fat-cat mansions, making billions!
+"
+16 2 Stan "You're not?
+"
+16 2 Stan "You should be ashamed of the people in America that you are exploiting! How dare you take advantage of those less fortunate?! 
+"
+16 2 Stan "Somebody is at the head of all this, and somebody needs to pay! All I want is some Goddamned retribution for my Goddamned grandpa!  No! Not a diamond-and-gold necklace! 
+"
+16 2 Stan "Oh, yeah. Actually, this might kind of work.
+"
+16 2 Stan "So the we went to India, which is pretty cool I guess. I've never been there before. And we basically learned that whoever smelt it, denied it, and rhymed it actually dealt it.
+"
+16 2 Stan "Yeah, I guess so. Anyway Grandpa, I wanted to give you something. 
+"
+16 2 Stan "Yeah.
+"
+16 2 Stan "Cool. I, I won't wear it anymore.
+"
+16 3 Stan "Tango, Tango, I'm in position.
+"
+16 3 Stan "It will have to do. We're not getting closer.
+"
+16 3 Stan "I think they're onto us guys. Let's do this.  I got it.
+"
+16 3 Stan "Go, go, go.
+"
+16 3 Stan "Oh, that's a good idea.
+"
+16 3 Stan "Dude, we are on the front page!
+"
+16 3 Stan "Can we get a different pose, please? 
+"
+16 3 Stan "It says... Oh, oh no. It says Faith Hilling is now all like 2000-late.
+"
+16 3 Stan "Public reaction was the stunt pulled off by five elementary school students was not only dangerous and disruptive but also completely passé.
+"
+16 3 Stan """Faith Hilling is pretty stale,"" said Republican candidate Newt Gingrich. ""If they had crashed the debate by Taylor Swifting that would have been impressive.""
+"
+16 3 Stan "That's all it is? 
+"
+16 3 Stan "Saying something is so 2000 and anything is so 2009, you stupid ass wipe.
+"
+16 3 Stan "Well, I'm glad we took care of that.
+"
+16 3 Stan "That's a cool idea
+"
+16 3 Stan "What seems pointless?
+"
+16 3 Stan "No, no, no! These stupid fads are only that, okay? We can't give in to this crap.
+"
+16 3 Stan "Oh Long Johnson. Oh Long Johnson.
+"
+16 3 Stan "Oh Long Johnson, Oh Long- 
+"
+16 3 Stan "Oh, hey, guys. How's it going? 
+"
+16 3 Stan "Yeah, now you're doing to see how many times you can say Oh Long Johnson. I thought just, you know, try it out.
+"
+16 3 Stan "Oh, come on. You guys need to realize that Faith Hilling is over, okay?  You can pretend all you want, but it's not coming back. 
+"
+16 3 Stan "You will like this, Kenny. Pull down your pants. 
+"
+16 3 Stan "Okay, that's good, a little higher.
+"
+16 3 Stan "OK, whenever you're ready.
+"
+16 3 Stan "Alright, go Cartman.
+"
+16 3 Stan "Yeah, that's cool. It's awesome.
+"
+16 3 Stan "Fox trot standing by at position alpha.
+"
+16 3 Stan "Standing by in three seconds.
+"
+16 3 Stan "Come on, dude. Hurry.
+"
+16 3 Stan "Wow!
+"
+16 5 Stan "Dude, did a bully take your lunch money again?
+"
+16 5 Stan "That's the third day in a row. You gotta tell the teacher.
+"
+16 5 Stan "Well then write the principal an anonymous letter.
+"
+16 5 Stan "I can't believe what I'm hearing!  This is why bullying is getting worse and worse at out schools! We can't all sit by and let it happen anymore!
+"
+16 5 Stan "I'll do it! I'll be in charge.
+"
+16 5 Stan "No, I just... I think bullying has gotten out of hand. And it needs to be stopped.
+"
+16 5 Stan "Hey guys, guys! Don't pick on Butters! That's not cool. You can't do that. Bullying? Did you know that in America, hohoh,  over 200,000 students every day are afraid to come to school because of bullying?  At South Park Elementary we're better than that. Come on. Let's all put an end to bullying. Right now! Five Six Seven Eight!
+"
+16 5 Stan "Aw Butters, you ruined it. This is all one big long shot and you ruined it.
+"
+16 5 Stan "Butters, you're the star of the video!
+"
+16 5 Stan "Well come on, do you just wanna be bullied your whole life, Butters?  Kyle?
+"
+16 5 Stan "Kyle? Dude, where are you going?!
+"
+16 5 Stan "To stop bullying.
+"
+16 5 Stan "YES.
+"
+16 5 Stan "...It's about awareness dude. Don't you understand how important this is? Bullying? Did you know that in America, hohoh, over 200,000 students are afraid to come to school every day because of-
+"
+16 5 Stan "Kyle, I'm trying to make a difference!
+"
+16 5 Stan "What the hell does that mean?
+"
+16 5 Stan "Dude, Butters! We have awesome news! A Hollywood movie company is gonna buy our bullying video!
+"
+16 5 Stan "Yeah, and Butters is the star! The movie company wants to do a photo shoot with him so we can make movie posters!
+"
+16 5 Stan "I know, right?! 
+"
+16 5 Stan "Oh, hey.
+"
+16 5 Stan "Huh?
+"
+16 5 Stan "But I worked hard on that! It's, it's been really stressful and I-
+"
+16 5 Stan "No.
+"
+16 5 Stan "What's up, Kyle? Why are you trying to trash-talk our theatrical release?
+"
+16 5 Stan "Butters is totally fine with it, dude.
+"
+16 5 Stan "Alright Kyle, that's enough! I'm not gonna be bullied by you, okay?!
+"
+16 5 Stan "Oh yeah.
+"
+16 5 Stan "This video can change how people think about bullying! It needs to be seen by everybody, Kyle!
+"
+16 5 Stan "...What, what was the question again?
+"
+16 5 Stan "...Get, get out of here, Kyle! I'm trying to go to the bathroom!
+"
+16 5 Stan "Why does he keep saying that?
+"
+16 5 Stan "Well, I just got tired of seeing people like Butters getting pushed around, and I knew I had to do somethin' about it. 
+"
+16 5 Stan "I didn't know.
+"
+16 5 Stan "I didn't beat up Dr. Oz! Don't be mad at me!
+"
+16 5 Stan "Huh? Aw, come on!  Dude, what's going on?
+"
+16 5 Stan "Wha? What's the movie studio saying about it?
+"
+16 5 Stan "How was I supposed to know Butters was actually a violent psychopath?
+"
+16 5 Stan "Everyone loved me sixteen hours ago.
+"
+16 5 Stan "I guess, there's only one thing left for me to do.
+"
+16 6 Stan "Kyle! 
+"
+16 6 Stan "Kyle, wake up! You've gotta wake up, Kyle! 
+"
+16 6 Stan "No!
+"
+16 6 Stan "Help! We're trapped!  We've gotta get out of here!
+"
+16 6 Stan "We really had spent the whole spring break watching TV and playing Xbox, you know, so, we, we wanted to go out and do something really adventurous.
+"
+16 6 Stan "Come on guys, the day is wasting away. What would be something really cool we could do?
+"
+16 6 Stan "I think there's a place just outside of town. I'll see if my uncle Jimbo will drop us off.
+"
+16 6 Stan "Yeah.
+"
+16 6 Stan "And we were like, ""Other? We have to do this with other people?"" 
+"
+16 6 Stan "Good. How are you?
+"
+16 6 Stan "It was... I don't know, ten, maybe fifteen minutes of pure hell. 
+"
+16 6 Stan """Really? You're gonna make us all listen to it again 'cause you couldn't understand? Really?""
+"
+16 6 Stan "...Shuttle?
+"
+16 6 Stan "Uh that's okay.
+"
+16 6 Stan "Thank God. 
+"
+16 6 Stan "I think we're good.
+"
+16 6 Stan "So after Asshole gets his biology lesson, we finally get to go ziplining! 
+"
+16 6 Stan "Oh, really??
+"
+16 6 Stan "And it was like WHAM. 
+"
+16 6 Stan "There could be a helicopter. Maybe one will fly overhead.
+"
+16 6 Stan "That's when I realized nobody remembered. Nobody remembered it was me who came up with the idea to go ziplining. Me.
+"
+16 6 Stan "Guys, guys, does it really matter whose idea it was?!
+"
+16 6 Stan "Alright, look, we can make it, you guys. We can't panic. If the four of us don't zipline the tour will move faster. We are gonna make it out of here, okay?
+"
+16 6 Stan "So, I just tried to keep the tour group moving, as fast as possible.
+"
+16 6 Stan "Oh no, could, could we skip lunch and keep going?
+"
+16 6 Stan "Hey ah, I'm so sorry, but we have an emergency. Our friend is really really sick.
+"
+16 6 Stan "...Yyyeah.
+"
+16 6 Stan "Yeah, his, his cold sore is really bad, and uhh he's losing blood, so we've gotta go.
+"
+16 6 Stan "Yea, please!
+"
+16 6 Stan "You see guys? This is gonna be sweet after all.
+"
+16 6 Stan "Kyle. Kyle? Kyle, come on, wake up!
+"
+16 6 Stan "No, we're not leaving you here, Kyle!
+"
+16 6 Stan "I just sat there, watching Kyle die and... I wanted to tell him the truth right then and there. But then this... fire rose up inside of me, I... I thought ""I can find us a way out!"" I ran off and went searching for, I don't know how long. Twelve minutes? And that's when I found it.
+"
+16 6 Stan "You guys, you guys! Get up! Listen to me! There's a lake a hundred yards down that way! They've got a marina with boats just sitting there!
+"
+16 6 Stan "We can take a boat, you guys! We can probably take it all the way back to Fairplay!
+"
+16 6 Stan "Come on you guys! A boat all to ourselves? It'll be fun! What could possibly go wrong?! 
+"
+16 6 Stan "The boat went really slow and it just went round and round.
+"
+16 6 Stan "...Kenny? Kenny! 
+"
+16 6 Stan "And finally, I couldn't hold it in anymore. I said ""Stop it!""
+"
+16 6 Stan "Stop it! It was me! My idea.
+"
+16 6 Stan "Four days ago, I came across a brochure for ziplining.  I thought it would be fun. I only acted like it was an idea we all came up with together. 
+"
+16 6 Stan "If you signed up three friends, you got a free iPod Nano. 
+"
+16 6 Stan "I had no idea ziplining would be so boring.
+"
+16 6 Stan "The hardest part about it is knowing you can't take it back.  I mean, it was the fifth-generation Nano, so I can't trade it in anywhere.
+"
+16 6 Stan "Thank you.  Mr. Hankey. 
+"
+16 7 Stan "What? 
+"
+16 7 Stan "Dude, why are you so into their relationship?
+"
+16 7 Stan "Actually, I heard they're together because they got locked in the school gym overnight a few months ago.
+"
+16 8 Stan "You don't suck at football, Butters, you suck at all sports.
+"
+16 8 Stan "The school said they're the most dangerous plays, so they don't have us do 'em anymore.
+"
+16 8 Stan "Dad, do we really have to wear bras?
+"
+16 8 Stan "This game is stupid. I have no idea how to go out on the field and be as nice as I can to the other team!
+"
+16 8 Stan "Look, I'm sorry guys, my dad said he's too busy with the Broncos. He doesn't have time for us.
+"
+16 8 Stan "I'm sorry. My dad is taking professional sarcastaball really seriously.
+"
+16 8 Stan "The guys are right. From now on, you're team captain, Butters. You lead us to victory.
+"
+16 8 Stan "Not at this you don't! What about that creamy filling you talked about? That gooey goodness inside you that makes you the butteriest Butters we know?
+"
+16 8 Stan "Cartman, you idiot!
+"
+16 8 Stan "Dad?
+"
+16 8 Stan "What?
+"
+16 8 Stan "Whoawhoa, you can't, you can't tell me what to do!
+"
+16 8 Stan "Oh right, like he doesn't exaggerate every disease he gets!
+"
+16 8 Stan "We're not being sarcastic, Dad! Is it so hard to believe that we really enjoy a sport that has no violence? Is it so hard for you to believe that when Butters says ""Competitiveness can be compassionate,"" he's being completely sincere?
+"
+16 8 Stan "Yeah Dad. You need some of this. 
+"
+16 9 Stan "You find a good catcher's mitt, Cartman?
+"
+16 9 Stan "Whoa duude!
+"
+16 9 Stan "They don't just allow them, they have them available at the front. 
+"
+16 9 Stan "Dude, you've never seen Honey Boo Boo?
+"
+16 9 Stan "Well, dude, it's not like the bar is this actual, physical thing.
+"
+16 9 Stan "I guess not, but... What is it exactly you're trying to do?
+"
+16 9 Stan "Dude! Dude, not cool!
+"
+16 9 Stan "Haven't you heard what happened? Honey Boo Boo's heart gave out.
+"
+16 9 Stan "Yeah dude. It's really serious.
+"
+16 9 Stan "Dude, you okay? 
+"
+16 10 Stan "Dude, what happened?
+"
+16 10 Stan "What's this? 
+"
+16 10 Stan "Whoa!
+"
+16 10 Stan "But are you sure they had sex, like, ""sex"" sex, or they actually had sex? 
+"
+16 10 Stan "Well are you gonna tell your dad?
+"
+16 10 Stan "Cartman dude, not now.
+"
+16 10 Stan "You're gonna have to tell him, dude.
+"
+16 11 Stan "What?
+"
+16 11 Stan "You're talking about Butters.
+"
+16 11 Stan "Butters?
+"
+16 11 Stan "Butters, come out here.
+"
+16 11 Stan "Hawaii?
+"
+16 11 Stan "After all the things he said to us, he can go ahead. 
+"
+16 11 Stan """On the morrow""? What the fuck is wrong with Kenny?
+"
+16 12 Stan "We're rich?
+"
+16 12 Stan "Blockbuster Video?
+"
+16 12 Stan "Huh? Sorry, I'm watching a movie on my iPad. 
+"
+16 12 Stan "It's awesome. You should try to get it on that Ancient Civilizations show so that people can see how cultures used to live.
+"
+16 12 Stan "I think something might be wrong with Dad?
+"
+16 12 Stan "Yeah, it's awesome! Thanks, Mom.
+"
+16 12 Stan "Put down the blue orby thing, Red Skull!
+"
+16 12 Stan "Dad, nobody's gonna come.
+"
+16 12 Stan "Renting DVDs is more ancient than Madonna's boobs!
+"
+16 12 Stan "I can't go trick-or-treating! My dad says I have to stay and help with the store! Yes, I'm serious! I know it sucks, Kyle!
+"
+16 12 Stan "I know, but there's nothing I can do.
+"
+16 12 Stan "I'm sorry you guys. My dad is doing a big Halloween promotion.
+"
+16 12 Stan "No dude. Nobody. My dad... he's kind of losing it. To be honest, I feel kind of bad for him.
+"
+16 12 Stan "Oh never mind, I hate him again.
+"
+16 12 Stan "Yeah.
+"
+16 12 Stan "How about we try the Barkers? Oh, no, it looks like they're not home.
+"
+16 12 Stan "Oh, let's go to the Petersons' house.
+"
+16 12 Stan "Trick or treat.
+"
+16 12 Stan "Trick or treat.
+"
+16 12 Stan "What? What's he doing?
+"
+16 12 Stan "Hey, where did you guys go?
+"
+16 12 Stan "All right Avengers, what say we take this scumbag down?!
+"
+16 12 Stan "Just let me go! We're nobody! We didn't see anything! I pro-I promise!
+"
+16 12 Stan "No! Dude, please! This is my best friend's iPad!  Noo! Okayokay, okay! Their names are Bruce, Tony, and Curt
+"
+16 12 Stan "No no! We weren't gonna go there!
+"
+16 12 Stan "NO!  I won't say anything, I promise! 
+"
+16 12 Stan "What are you gonna do?  Please! Please just let me go! No!
+"
+16 12 Stan "What the hell?  Shelly I need to use your cell phone.
+"
+16 12 Stan "Huh? Wha? ...Oh, oh hello? Who is that?
+"
+16 12 Stan "Oh, ah thank God you found me.
+"
+16 12 Stan "You have to get me to my friends! They aren't safe! 
+"
+16 12 Stan "They said they were heading to the big party at the community center. You have to stop it. My friends are in trouble.
+"
+16 12 Stan "Guys, you're okay!
+"
+16 12 Stan "It's all right, just a scratch.
+"
+16 12 Stan "No! They're looking for you there!  Sir, you've got to cancel the Monster Mash.
+"
+16 12 Stan "Yeah, people are gonna get hurt.
+"
+16 12 Stan "Shhh. Don't say my name, Butters. I'm here undercover.
+"
+16 12 Stan "Oops.
+"
+16 12 Stan "Hey, be careful in there.
+"
+16 12 Stan "It's all right. Let's go straight. Now turn left. Okay, now go about ten steps.
+"
+16 12 Stan "Wait a minute. There they are!
+"
+16 12 Stan "Listen everybody, those guys right over there are- 
+"
+16 12 Stan "It's mine, Dad, get your own! What the hell's going on?! 
+"
+16 12 Stan "Hey dude.
+"
+16 12 Stan "It's okay Kyle, It's okay. Hit OK.  You guys go win that costume contest. You can do it. Lift the trophy for me.
+"
+16 12 Stan "Just have a good Halloween, you guys. And Kenny?
+"
+16 12 Stan "Stay gold. 
+"
+16 13 Stan "It's all right, Dad.
+"
+16 13 Stan "All right all right, I got it a few weeks ago. Big whoop.
+"
+16 13 Stan "Yeah I know.
+"
+16 13 Stan "Look I just don't want to, you guys. Honestly, it's not that big a deal.
+"
+16 13 Stan "I don't know,  I just like it.
+"
+16 13 Stan "Yeah. I donno. I've had it a long time, I just don't feel like cutting it off.
+"
+16 13 Stan "...I don't know.  I like it.
+"
+16 13 Stan "No, I just, I don' know. No.
+"
+16 13 Stan "I have?
+"
+16 13 Stan "You're wearing a bracelet to think of me?
+"
+16 13 Stan "You're wearing a brown bracelet, Butters?
+"
+16 13 Stan "...Farmers in where?
+"
+16 13 Stan "Dude, where are people getting all the brown wristbands?
+"
+16 13 Stan "Wow, this is happening so fast.
+"
+16 13 Stan "My friends told me I was crazy,  that I was wasting my time.  But my cause is to stand my ground.  When others sat, I kept my bracelet on, because I stand...  for standing.
+"
+16 13 Stan "No thanks. I'll stand.
+"
+16 13 Stan "I'm good.
+"
+16 13 Stan "Tell the captain to take off.  People ask me, ""You never took the bracelet off? Not once?""  No. Never. Not. Ever.  What do I do? I Stan ground. 
+"
+16 13 Stan "For what?
+"
+16 13 Stan "No! This is stupid!
+"
+16 13 Stan "No! I never cut if off!
+"
+16 13 Stan "What's the big idea, Craig?!
+"
+16 13 Stan "You got nothin' better to do than try and knock me down?! You can't just say anything you want about people!
+"
+16 13 Stan "You know what happens when you lie, Craig?! You hold that lie inside!
+"
+16 13 Stan "And it grows and it grows, right in your balls, until they have to cut it out!
+"
+16 13 Stan "Go ahead and test it! Then let's just see what happens to this money-hungry, alcoholic prostitute!
+"
+16 13 Stan "Yeah. 
+"
+16 13 Stan "Thanks Kyle.
+"
+16 13 Stan "Why does it matter?!
+"
+16 13 Stan "You know, I'm just, I'm just through with this whole thing! I just, I can't put my family through any more of this!
+"
+16 13 Stan "Ugh, you know what's really sad?! That this is what matters to people! What nobody seems to remember are the farmers in Belarus! STANground is bigger than me! You wanna tell all those farmers in Belarus it's all bullcrap?!
+"
+16 13 Stan "You really think I went through all that trouble, lying about my wristband and claiming to be something I wasn't, for what, Kyle?! For what?!  This is a witch hunt, dude! It's all that stupid French scientist! He's the fraud, and I'm gonna prove it!
+"
+16 13 Stan "Jesus!
+"
+16 13 Stan "What are you doing here?
+"
+16 13 Stan "Jesus, everyone is claiming you were using drugs to resurrect. Why didn't you say anything?
+"
+16 13 Stan "Yeah, I've been kind of seein' that.
+"
+16 13 Stan "It all just happened so fast. The next thing I knew I had a Nike commercial.
+"
+16 13 Stan "Everyone hates me now, and it isn't fair.
+"
+16 13 Stan "Thanks a lot.  Jesus, did you take HGH to do your miracles?
+"
+16 13 Stan "NO! Pff! No, that's no, okay? No. And anyway, it's not even the issue.
+"
+16 13 Stan "Pff it's like, that's here  and...
+"
+16 13 Stan "Pff, there's there's farmers in Belarus who are in a life and death struggle. THAT's what should be important!
+"
+16 13 Stan "Exactly! People don't even know where it is.
+"
+16 13 Stan "How can we raise awareness?
+"
+16 13 Stan "Well, we wanted to start a new movement, and we thought since your company makes all the bracelets...
+"
+16 13 Stan "Our... scause?
+"
+16 13 Stan "Dude, the hell just happen?
+"
+16 13 Stan "People are saying that? 
+"
+16 13 Stan "Wow! You know, whatever it takes, Butters. People are aware of the problems in Belarus; maybe I did it all on purpose or maybe it was just a coincidence.
+"
+16 13 Stan "We did it. 
+"
+16 13 Stan "Are you still on that dude?! Have you ever heard of ends justifying means?! 
+"
+16 13 Stan "It's almost like... like, that guy had this figured out all along.
+"
+16 13 Stan "We were trying to do good. But we got everyone duped by a bracelet company.
+"
+16 13 Stan "Well... we can't just let that guy get away with taking everyone's money.
+"
+16 13 Stan "What would Jesus do?  Yeheah! 
+"
+16 14 Stan "Wow, really? That's pretty impressive.
+"
+16 14 Stan "But I thought Obama won pretty easily last night.
+"
+16 14 Stan "I don't understand that stuff at all. I need Morgan Freeman to explain it to me.
+"
+16 14 Stan "Is that an M&M?
+"
+16 14 Stan "Pry his mouth open!
+"
+16 14 Stan "Butters, where are the ballots going?! Where are they going?!
+"
+16 14 Stan "What'd he say?  Oh. Well what do you mean the election isn't the biggest thing that happened this week? 
+"
+16 14 Stan "Huh?
+"
+16 14 Stan "Oh, Red Lobster.
+"
+16 14 Stan "Hey just one thing, Morgan Freeman:  How come every time something convoluted needs explaining, you show up?
+"
+16 14 Stan "There's nothing here, Kyle. 
+"
+16 14 Stan "He stole ballots in all the swing states so the wrong person was elected President.
+"
+16 14 Stan "Oh my God you guys, look!  Dude, it's Boba Fett's ship! 
+"
+16 14 Stan "Aw shit, it's him again.
+"
+16 14 Stan "Well, we tried, dude.
+"
+16 14 Stan "Well, I mean, look at it this way: Almost half the country did actually vote for Obama. If the election really just came down to a bunch of boxes Cartman stole, then, does it matter that much?
+"
+16 14 Stan "Stan, when was the last time you saw somebody drive a Hummer?
+"
+16 14 Stan "Uhhh, forever ago, like, 2010?
+"

@@ -1,4 +1,7 @@
 // any bootstrap overrides would go here...
+#notification-wrapper span {
+  display: inline-block !important;
+}
 
 // bootstrap styles
 @import "../../node_modules/bootstrap/scss/bootstrap";

@@ -1,0 +1,1998 @@
+8 1 Stan "Oh my God, look!  Martial arts weapons from the Far East. 
+"
+8 1 Stan "Dude! We should each buy a weapon, and then we'll be like ninjas.
+"
+8 1 Stan "Yeah, dude, our parents are gonna be at the stupid fair all day long. They'll never know what we bought.  I'll get the tonfas.  Those are so sweet.
+"
+8 1 Stan "Yeah. We wanna get one of each of these ninja weapons.
+"
+8 1 Stan "We, we're brothers, see, and our parents... died in a car accident last year.
+"
+8 1 Stan "Goddamn, that's like the twelfth time that's worked.
+"
+8 1 Stan "Kiya! Kiya!
+"
+8 1 Stan "With my tonfa of Takanawa, I become the great and powerful ninja Shadowhachi, born to fight evil and people I don't like.
+"
+8 1 Stan "What's your ninja name, Kenny?
+"
+8 1 Stan "All right, ninjas! Let's go protect the world!
+"
+8 1 Stan "Don't worry, Kyle. Craig's not gonna tell on us. Come, ninjas, let's go.  All right, this is it.
+"
+8 1 Stan "Ninja positions!  Hello, Craig!
+"
+8 1 Stan "We can't tell you where we got 'em! It's secret ninja stuff.
+"
+8 1 Stan "Hyeah, ""they're not that cool."" These are real authentic weapons from the Far East.
+"
+8 1 Stan "Uh, we'd love to hang out guys, but we have important secret work to do. 
+"
+8 1 Stan "Dude, we're like the coolest kids in the whole state! 
+"
+8 1 Stan "Yeah, Butters. You wouldn't make a very good ninja. Come on, guys.  We have a lot of work to do.
+"
+8 1 Stan "Hm, this doesn't seem to be the right way. My ninja sense is telling me we might be heading in the wrong direction.
+"
+8 1 Stan "Yeah dude, that's like the fifth power you've come up with!
+"
+8 1 Stan "Yeah, that it, Cartman! You don't get to have any powers!
+"
+8 1 Stan "I dunno. Craig, is that you?
+"
+8 1 Stan "Very well, Professor Chaos! We'll play along. Now, fell the fiery sting of my tonfa of Takanawa!  Hey kid, that knocks you down.
+"
+8 1 Stan "Yeah, huh, I got you!
+"
+8 1 Stan "Oh yeah?! Kenny! Use your ninja star!
+"
+8 1 Stan "Butters! Oh my God!  Oh, dude! It's stuck in his eye!
+"
+8 1 Stan "Sh shhhh. It's okay, Butters. Calm down. It's not that bad, really.
+"
+8 1 Stan "Okay okay, calm down, Butters! It'll be okay! 
+"
+8 1 Stan "Dude, shut up!
+"
+8 1 Stan "What?!
+"
+8 1 Stan "Just stay still, Butters.
+"
+8 1 Stan "God dammit!
+"
+8 1 Stan "We... need a doctor... But we can't go to the hospital. Wait a minute. Wait, wait, wait. What about the veterinarian?
+"
+8 1 Stan "He's really old and going blind.
+"
+8 1 Stan "We might pass him off as our pet.
+"
+8 1 Stan "All right, then you take him to the hospital, Kyle. You take him to the hospital and let your mom find out what happened.
+"
+8 1 Stan "All right. Now we just gotta sneak him into town.
+"
+8 1 Stan "Okay, it's clear. 
+"
+8 1 Stan "Oh shit, somebody's coming!
+"
+8 1 Stan "Where'd you get those?
+"
+8 1 Stan "Uh, not now, Craig, we we have to be going.
+"
+8 1 Stan "Guys, we're we're really not playing, okay? 
+"
+8 1 Stan "We don't have a choice, Kyle. Just humor them. Hyaaaaah! 
+"
+8 1 Stan "Hey, wait, wait, wait, wait!  Wait.  Hold on a second. Where's Butters? 
+"
+8 1 Stan "Oh, nice going, you assholes! You made us lose him!
+"
+8 1 Stan "No dude, you gotta help us find him!
+"
+8 1 Stan "Butters!
+"
+8 1 Stan "Butters!
+"
+8 1 Stan "Bad.
+"
+8 1 Stan "Nothing, just... playing.
+"
+8 1 Stan "Butters!
+"
+8 1 Stan "What?
+"
+8 1 Stan "Yeah, let's just go return them and get our money back.
+"
+8 1 Stan "It's all right, Kyle. We'll go back to the fair and return them.
+"
+8 1 Stan "All right, the county fair's still open! 
+"
+8 1 Stan "We have come to return the weapons we purchased.
+"
+8 1 Stan "What is it, Craig?
+"
+8 1 Stan "Come on, Ninjas! 
+"
+8 1 Stan "Aw dude, crap. All our parents are there.
+"
+8 1 Stan "Good luck, Bulrog. 
+"
+8 1 Stan "Oh, Jesus.
+"
+8 1 Stan "What?
+"
+8 1 Stan "Just run with it, dude.
+"
+8 1 Stan "Yeah. I guess parents don't give a crap about violence if there's sex things to worry about.
+"
+8 1 Stan "Yeah. Come on, ninjas.  We've got some more work to do.
+"
+8 2 Stan "Oh hey Jimmy, hey Timmy.
+"
+8 2 Stan "Yeah sure, we'll come cheer you and Timmy on.
+"
+8 2 Stan "So?
+"
+8 2 Stan "That's really, really terrible, dude.
+"
+8 3 Stan "Warp drive disengaged. Landing sequence initiated.
+"
+8 3 Stan "Things seem pretty quiet.
+"
+8 3 Stan "Oh God, here we go again.
+"
+8 3 Stan "That does it! I'm sick of you guys arguing about The Passion! I'm out of here.
+"
+8 3 Stan "Look at that, dude. The Passion has made almost 400 million dollars at the box office now.
+"
+8 3 Stan "Everyone in the country's gonna see that movie. I guess... we have to go see it too.
+"
+8 3 Stan "Dude. That movie sucked.
+"
+8 3 Stan "How can they even call that a movie?
+"
+8 3 Stan "That's bullcrap dude, let's go get our money back.
+"
+8 3 Stan "Hey, we want our money back.
+"
+8 3 Stan "That movie sucked ass. Give us back our eighteen dollars.
+"
+8 3 Stan "That wasn't a movie, that was a snuff film!
+"
+8 3 Stan "You can't charge people to watch a guy get tortured for two hours!
+"
+8 3 Stan "We go to church to learn that stuff! We go to movies to be entertained! We weren't entertained, and we want our money back!
+"
+8 3 Stan "W-what? Mel Gibson? You're saying we have to get our money back from Mel Gibson?
+"
+8 3 Stan "Oh, we will! This is America! And in America, if something sucks, you're supposed to be able to get your money back! Come on, Kenny! 
+"
+8 3 Stan "Okay, search for Mel Gibson. Mel Gibson bio, Mel Gibson news, Mel Gibson... home page. Here we go.  Welcome to Mel Gibson's ThePassion.com, your source for everything Mel. Pictures, philosophy, upcoming projects. Damn it, no phone number! Oh wait! ""For more information on Mel Gibson, call the Webmaster at 1-800-43.."" Okay, okay, wait, here we go. 
+"
+8 3 Stan "Hi, uh, my friend and I just went to see The Passion.
+"
+8 3 Stan "No, no, no, no, we want our money back.
+"
+8 3 Stan "We think the movie sucked and we want Mel Gibson to give us back our eighteen dollars. Do you know how we can get in touch with him?
+"
+8 3 Stan "Look, kid, we just thought it was a bad movie, so tell us how to get in touch with Mel Gibson so we can get our money back!
+"
+8 3 Stan "Hey, don't take that tone with me, kid! I'll kick your ass!
+"
+8 3 Stan "I don't care! You sound like a little bitch to me!
+"
+8 3 Stan "Yeah?! You wanna bring it, you little pussy?!
+"
+8 3 Stan "Wait a minute. Cartman?! 
+"
+8 3 Stan "Come on, Kenny, we're going to Malibu!
+"
+8 3 Stan "We'll take the bus! Look, this isn't about the eighteen dollars ticket money anymore. This is about being able to hold bad filmmakers responsible!  This is just like when we got our money back for BASEketball!
+"
+8 3 Stan "Thank you.  This must be the place.  Goddamn, Mel Gibson must be loaded. 
+"
+8 3 Stan "Oh, hi, uh, my name is Stan, and this is Kenny.
+"
+8 3 Stan "Uh, we saw your movie, The Passion, and we didn't like it, so, can we have our money back, please?
+"
+8 3 Stan "Look, dude, we came a long way. We're not leaving until you give us our money.
+"
+8 3 Stan "Tor- torture you?
+"
+8 3 Stan "We don't want to torture you.
+"
+8 3 Stan "Dude, can we please just have the eighteen dollars back from you?
+"
+8 3 Stan "Dude, this guy is freakin' daffy!
+"
+8 3 Stan "Mel Gibson is fucking crazy dude!  Wait! There's his wallet! 
+"
+8 3 Stan "Awww crap, he's only got twenties! You got two dollars, Kenny? 
+"
+8 3 Stan "All right, let's get the hell out of here! 
+"
+8 3 Stan "Aah! Run, dude, run!
+"
+8 3 Stan "Well it looks like with these bus tickets we spend about eighty... seven dollars getting our money back from Mel Gibson.  But I think it's the principle of the thing that matters.
+"
+8 3 Stan "Oh, you've got to be shittin' me. 
+"
+8 3 Stan "Goddamn, that guy's crazy.  Hey dude, you've gotta speed up.
+"
+8 3 Stan "Mel Gibson is chasing after us. You've gotta go faster.
+"
+8 3 Stan "I'm not playing games. Mel Gibson is right behind you and he's gonna- 
+"
+8 3 Stan "Yeah. I told you that!
+"
+8 3 Stan "He wouldn't give us our money back for The Passion, so we kinda took it.
+"
+8 3 Stan "He's koo-koo, dude. He's absolutely out of his mind.
+"
+8 3 Stan "It's our eighteen dollars! Your movie sucked!
+"
+8 3 Stan "No, dude, if you wanna be Christian, that's cool, but, you should follow what Jesus taught instead of how he got killed. Focusing on how he got killed is what people did in the Dark Ages and it ends up with really bad results.
+"
+8 4 Stan "Dude, my car sucks. I gotta get a new one. 
+"
+8 4 Stan "Chef, we just got served.
+"
+8 4 Stan "Over at the True Value parking lot. There were just these kids we never saw before showed up and they were like, really good dancers and, we don't really understand what it means, but I guess-
+"
+8 4 Stan "Some, kids from Orange County.
+"
+8 4 Stan "No.
+"
+8 4 Stan "But Dad, I don't know how to dance or nothin'.
+"
+8 4 Stan "But Dad-
+"
+8 4 Stan "Yeah, let's go race it right now!
+"
+8 4 Stan "What?
+"
+8 4 Stan "I thought I was supposed to!
+"
+8 4 Stan "But why?
+"
+8 4 Stan "I, I don't know. He seems all right.
+"
+8 4 Stan "Yeah, I'm- I'm right here, Dad.
+"
+8 4 Stan "Okay, good.
+"
+8 4 Stan "God dammit!
+"
+8 4 Stan "Hey guys. Uh- You guys know how to dance, right?
+"
+8 4 Stan "Cool, because, there's this competition on Saturday, and I have to find the very best dancers in South Park to be on my crew. My friends can't do it because they suck ass, so, will you be in my dance troupe?
+"
+8 4 Stan "Okay, that'll work fine. Listen, there's a dance competition this Saturday and I need good dancers so I don't get served.
+"
+8 4 Stan "Please, you guys, our whole town's reputation is at stake! Will any of you do it?
+"
+8 4 Stan "Great! 
+"
+8 4 Stan "All right, we gotta find three other kids that can dance.
+"
+8 4 Stan "The arcade?
+"
+8 4 Stan "Dude, he's incredible.
+"
+8 4 Stan "Hey kid, you're pretty good. How would you like to join our dance troupe?
+"
+8 4 Stan "Yeah.
+"
+8 4 Stan "Dude, we need you.
+"
+8 4 Stan "It's all right. My friend Chef is gonna coach us.
+"
+8 4 Stan "All right, that's three!
+"
+8 4 Stan "Huh?
+"
+8 4 Stan "Oh yeah.  Wait a minute. I know just where to go!
+"
+8 4 Stan "Ah actually we were just hoping we could talk to you guys real quick.
+"
+8 4 Stan "And so we're putting all the best dancers in South Park together to beat Orange County.
+"
+8 4 Stan "So you'll do it?
+"
+8 4 Stan "All right, we just need one more person!
+"
+8 4 Stan "What? The state tap champion is from here? Who?
+"
+8 4 Stan "Leopold Stotch...? Wait a minute. You mean...
+"
+8 4 Stan "Butters, listen. There's gonna be a competition this Saturday, and we want you to join our troupe.
+"
+8 4 Stan "It's a dance-off. We heard you were tap dancing state champion two years ago. 
+"
+8 4 Stan "But, you were, weren't you? Y-you went to the nationals in Nebraska.
+"
+8 4 Stan "We just asked him to join our dance troupe. We heard he was state tap champion.
+"
+8 4 Stan "Dammit, where are we gonna get our fifth member?
+"
+8 4 Stan "A duck? Dude, don't be stupid! Those OC kids are professional dancers! Now come on, there's gotta be one other talented person in South Park.
+"
+8 4 Stan "All right, so you're sure he can dance?
+"
+8 4 Stan "Hey, he- Is that the only song he'll dance to?
+"
+8 4 Stan "My friends, I think we have ourselves a dance troupe.
+"
+8 4 Stan "Yeah, dude, the best dancers South Park has to offer.
+"
+8 4 Stan "We're gonna get served on Saturday, aren't we?
+"
+8 4 Stan "Well that was the whole point of the whole thing was that the guys came back and they said we were gonna get served and we were like- 
+"
+8 4 Stan "I came to ask you one more time to join the crew. Everyone is practicing really hard, but... I don't think we have any kind of shot without you.
+"
+8 4 Stan "Your mom says you were one of the best dancers in the country.
+"
+8 4 Stan "Yeah. She said your shoe came off. It wasn't your fault
+"
+8 4 Stan "Look, Butters, accidents happen. We all have to live with that.
+"
+8 4 Stan "Well, it was nine, actually. One of the women was pregnant.
+"
+8 4 Stan "And eleven if you count the two family members that killed themselves afterward.
+"
+8 4 Stan "But that isn't the point, Butters!  The point is that this is now! It's on! And there are people who need you to step up! Look, nobody likes having to rise to a challenge. But competing against other people and getting in their faces saying ""Haha! I'm better than you!"" is part of life. And if you can't face that, then you might as well sit here and play Legos until you're an old man.
+"
+8 4 Stan "Fine.  But someday you're gonna have to stop running from what happened and start dealing with it. Otherwise, you might as well move to France with all the other pussies. 
+"
+8 4 Stan "What?
+"
+8 4 Stan "What happened??
+"
+8 4 Stan "Aw, what do we do, Chef?!
+"
+8 4 Stan "Butters! 
+"
+8 4 Stan "All right Butters!
+"
+8 5 Stan "Dude, are you still pretending to be a robot?
+"
+8 5 Stan "Uh yeah, Butters, he's real cool.
+"
+8 6 Stan "Hey, check it out, dude. Somebody bought the Donovan's old house. 
+"
+8 6 Stan "What's that you're wearing?
+"
+8 6 Stan "Whoa. Dude, no way!
+"
+8 6 Stan "Dude, are these all your toys?
+"
+8 6 Stan "Be cool, dude. I, I think maybe he's a burn victim or something.
+"
+8 6 Stan "Hey, you guys! You guys!  You gotta come with us over to the Jeffersons!
+"
+8 6 Stan "I was over at the new neighbors, the Jeffersons.
+"
+8 6 Stan "Yeah. It's just a dad and his son.
+"
+8 6 Stan "Fine, Mom.
+"
+8 6 Stan "No, my parents are.
+"
+8 6 Stan "What?
+"
+8 6 Stan "Kyle? 
+"
+8 6 Stan "Mr. Jefferson- Awww!  It's 1:30 in the morning!
+"
+8 6 Stan "Mr. Jefferson, I have to go to school tomorrow!
+"
+8 6 Stan "He just showed up here.
+"
+8 6 Stan "Jesus Christ! 
+"
+8 6 Stan "I know. He's here.
+"
+8 6 Stan "No! Mr. Jefferson, you need to take your son home.
+"
+8 6 Stan "Okay, fine, we'll all stay here, but we're going to sleep now!
+"
+8 6 Stan "Haaa! 
+"
+8 6 Stan "Yeah. A really bad dream.  Oh Jesus!
+"
+8 6 Stan "You don't have to tell us twice, Mom. That guy's a freak!
+"
+8 6 Stan "Dude, come on. We're not supposed to go over there. 
+"
+8 6 Stan "Ah, actually, Mr. Jefferson, we were seeing if Blanket wanted to chop wood with us.
+"
+8 6 Stan "Mr. Jefferson, uh, it might be good for Blanket to learn how to chop wood.
+"
+8 6 Stan "Stop, you fucking lunatic! 
+"
+8 6 Stan "You just gotta pretend you're Blanket until we can get the real Blanket somewhere safe.
+"
+8 6 Stan "Blanket, you in here?
+"
+8 6 Stan "All right dude, get in his bed.
+"
+8 6 Stan "Dude, whatever. At least you finally get to do something. 
+"
+8 6 Stan "Go, go, ruuun! 
+"
+8 6 Stan "Oh Jesus!
+"
+8 6 Stan "Oh my God, they killed Kenny!
+"
+8 6 Stan "Run, Blanket, Run!
+"
+8 7 Stan "Ma'am, do you have a rag and some bandages?
+"
+8 7 Stan "Cartman, just keep your mouth shut.
+"
+8 7 Stan "Whoa.
+"
+8 7 Stan "Mom, Dad! Did you see? They found a man from the future!
+"
+8 7 Stan "Mom, can we go try to see the people from the future? I have a bunch of questions I wanna ask 'em.
+"
+8 7 Stan "Night, Mom.  Wow, two people from the future. How cool.
+"
+8 7 Stan "Hello, Mrs. Landis. Would you like snow-shoveling service again today?
+"
+8 7 Stan "All right guys, come on. Let's go to the next house. 
+"
+8 7 Stan "Son of a bitch!
+"
+8 7 Stan "It's affecting kids too! Me and my friends started our own snow-shoveling business. We were trying to be responsible and make money, you know? But then the people came along and, and now we're out of work too!  Oh, they took our jobs!
+"
+8 7 Stan "I was at a rally to protest all the immigrants from the future coming in and tryin' tuh- 
+"
+8 7 Stan "Who is that?
+"
+8 7 Stan "Oh, but that's the problem! Those goobacks are taking our jobs!
+"
+8 7 Stan "Well dude, they are taking people's jobs away.
+"
+8 7 Stan "I wanted my job!
+"
+8 7 Stan "Timecist?
+"
+8 7 Stan "People from the future. Right, got it.
+"
+8 7 Stan "That's right! 
+"
+8 7 Stan "Can you speak in present-day English please?
+"
+8 7 Stan "Uh yeah, I want a double cheeseburger and fries.
+"
+8 7 Stan "No, a double cheeseburger and fries!
+"
+8 7 Stan "What?!
+"
+8 7 Stan "I'm trying to order a double cheeseburger!
+"
+8 7 Stan "No, it's not a chicken sandwich!  I want a Goddamned cheeseburger and some Goddamned fries you fucking goobacks!
+"
+8 7 Stan "Aw- awwww!
+"
+8 7 Stan "Aw, come on, Dad! How come I have to go to work with you?
+"
+8 7 Stan "They took yer jarb!!
+"
+8 7 Stan "I I think it's wrong to call them goobacks because they're no different from us.  They're just humans trying to make their lives better. Look, it sucks that the immigrants' time is so crappy, but the cold hard truth is that if we let them all come back to our time, then it's just gonna make our time crappy too. Maybe the answer isn't trying to stop the future from happening, but making the future better. 
+"
+8 7 Stan "I mean, maybe if we all commit right now to working toward a better future, then, then the future won't be so bad, and, these immigrants won't need to come back here looking for work.
+"
+8 7 Stan "We're doing it!
+"
+8 7 Stan "Dude, wait, wait, ho- hold on. Wait a second.  This is gay.
+"
+8 7 Stan "Okay, sorry, my bad, e-everyone back in the pile. 
+"
+8 8 Stan "But, Mr. Garrison, if we change our mascot, that means the eco-terrorists win!
+"
+8 8 Stan "This is bullcrap, dude!
+"
+8 8 Stan "Dude, I really don't care. 
+"
+8 8 Stan "Kyle, aren't you taking this a little too far? I mean, do we really want a giant douche to be our school mascot?
+"
+8 8 Stan "I'm not voting!
+"
+8 8 Stan "I just think this whole thing is stupid! 
+"
+8 8 Stan "It was ridiculous. We have to have a new school mascot and we're supposed to vote between a giant douche and a turd sandwich.
+"
+8 8 Stan "No, I think voting is great, but, if I have to choose between a douche and a turd, I just don't see the point.
+"
+8 8 Stan "Mom, a-I just don't think there's much of a difference between a douche and a turd. I d-I don't care.
+"
+8 8 Stan "Puff Daddy?
+"
+8 8 Stan "I...
+"
+8 8 Stan """Vote or Die""?  What the hell does that even mean?!
+"
+8 8 Stan "Aaaah!
+"
+8 8 Stan "...Okay. I'll vote.
+"
+8 8 Stan "I guess... 
+"
+8 8 Stan "Okay. 
+"
+8 8 Stan "I'm voting.
+"
+8 8 Stan "Yeah, I know.
+"
+8 8 Stan "I thought I was supposed to make my own decision.
+"
+8 8 Stan "Wait a minute, you didn't want me to vote, you wanted me to vote for your guy!
+"
+8 8 Stan "Oh, forget it! I'm not gonna be persuaded into voting and I'm and I'm not gonna be threatened into voting if I don't feel comfortable with it! I'm not gonna vote and you can all just live with it!
+"
+8 8 Stan "The whole thing is a joke!
+"
+8 8 Stan "B-bani-banishment?
+"
+8 8 Stan "You-you're all joking, right?
+"
+8 8 Stan "I'm not voting! 
+"
+8 8 Stan "Dad, isn't this a little extreme?
+"
+8 8 Stan "Hello? 
+"
+8 8 Stan "Oh, thank God.
+"
+8 8 Stan "Awww!
+"
+8 8 Stan "What about me?
+"
+8 8 Stan "I was put on the horse. I didn't wanna ride it.
+"
+8 8 Stan "Wow, you guys really love animals.
+"
+8 8 Stan "I'll live with you.
+"
+8 8 Stan "He said I can stay.
+"
+8 8 Stan "Ahh, no thanks, that's okay.
+"
+8 8 Stan "I do love animals, just ...not like you guys do.
+"
+8 8 Stan "I can't. I was banished for not voting.
+"
+8 8 Stan "I think voting is great. I just didn't care this time because it was between a giant douche and a turd sandwich.
+"
+8 8 Stan "I guess... I guess you're right. 
+"
+8 8 Stan "Aaah!
+"
+8 8 Stan "Aaaah!! 
+"
+8 8 Stan "I learned that I'd better get used to having to pick between a douche and a turd sandwich because it's usually the choice I'll have.
+"
+8 8 Stan "Dude, so my vote didn't even really matter!
+"
+8 9 Stan "...What?
+"
+8 9 Stan "It's time for what?
+"
+8 9 Stan "Dad, how come Wall-Mart is able to sell everything so cheap?
+"
+8 9 Stan "Come on, let's go to Main Street and support one of those stores. 
+"
+8 9 Stan "Butters? 
+"
+8 9 Stan "Dude, we gotta show our parents what Wall-Mart is doing to our town. 
+"
+8 9 Stan "Dad?  Jesus Christ, Da-dad! Dad?!
+"
+8 9 Stan "Dad, oh my God!
+"
+8 9 Stan "What? D-dad, are are you dying?
+"
+8 9 Stan "But you-your face!
+"
+8 9 Stan "Yeah, but Dad, the whole town agreed not to shop at Wall-Mart anymore.
+"
+8 9 Stan "Mom, Dad, when people die, do they always crap their- 
+"
+8 9 Stan "But Dad, we're not supposed to shop at-
+"
+8 9 Stan "Dad!
+"
+8 9 Stan "Dad, what are you doing?!
+"
+8 9 Stan "Dad, you're a geologist!
+"
+8 9 Stan "Where are they?
+"
+8 9 Stan "Three tickets to Bentonville, Arkansas, please.
+"
+8 9 Stan "Dude, just let him come. The bus is about to leave. 
+"
+8 9 Stan "Dude, come on!
+"
+8 9 Stan "Dude, we have to go!
+"
+8 9 Stan "Well hurry up if you're coming, Cartman!
+"
+8 9 Stan "Goddamn, that took a long time.
+"
+8 9 Stan "Where's he?
+"
+8 9 Stan "There has to be a way!
+"
+8 9 Stan "Why don't you guys just destroy the heart?
+"
+8 9 Stan "No, dude, don't! 
+"
+8 9 Stan "Save it, Grandpa!
+"
+8 9 Stan "Dad, we know how to destroy the Wall-Mart.
+"
+8 9 Stan "One of the creators told us. You have to take your keys over to the television department.
+"
+8 9 Stan "What?!
+"
+8 9 Stan "Come on, we've got to try to make it to the back! 
+"
+8 9 Stan "Is that the right way, Dad? Dad?!  Dad!
+"
+8 9 Stan "Come on, Dad!
+"
+8 9 Stan "No, dad! We need your keys!
+"
+8 9 Stan "There! The television department!
+"
+8 9 Stan "You?
+"
+8 9 Stan "We don't want your store in our town; we come to destroy you.
+"
+8 9 Stan "Me. I'm asking the question.
+"
+8 9 Stan "Stan Marsh. Now, where's the heart?
+"
+8 9 Stan "It's a mirror.
+"
+8 9 Stan "Well, the guy in Arkansas said to destroy the heart. 
+"
+8 9 Stan "H-Dad, come on! We've gotta get out!
+"
+8 10 Stan "Kyle, Kenny! I have to talk to you right now!
+"
+8 10 Stan "Right now, goddamnit!
+"
+8 10 Stan "Trent Boyett is being released from Juvenile Hall. 
+"
+8 10 Stan "Yeah! He just got paroled!
+"
+8 10 Stan "What the hell are we gonna do??
+"
+8 10 Stan "Dude, let's play Fireman.
+"
+8 10 Stan "Hey, Kenny's right. We should put out a real fire. Then we'll be heroes!
+"
+8 10 Stan "Start one. Then we're gonna put it out.
+"
+8 10 Stan "Yeah, yeah. We play Fireman all the time.
+"
+8 10 Stan "Wow, cool!
+"
+8 10 Stan "Woo, woo, woo, woo. Clang, clang, clang, clang, clang!  Come on, firemen! Put out the fire! 
+"
+8 10 Stan "We're heroes!
+"
+8 10 Stan "Put it out, put it out! 
+"
+8 10 Stan "Dude, we are in so much trouble!
+"
+8 10 Stan "That's true.
+"
+8 10 Stan "No!
+"
+8 10 Stan "Yeah, who cares?
+"
+8 10 Stan "Now it's five years later. And Trent Boyett is being released.
+"
+8 10 Stan "Sshhh, here comes Ms. Claridge now. 
+"
+8 10 Stan "Are you having a nice day, Ms. Claridge? 
+"
+8 10 Stan "Calm down guys, we don't have to go tell our parents. We just need to go out and get some protection.
+"
+8 10 Stan "I'm talking about hiring somebody bigger than Trent to protect us from him. Come on! 
+"
+8 10 Stan "Stay cool, guys. If anybody can protect us from Trent Boyett, it's the sixth graders.
+"
+8 10 Stan "We've come to... ask you for help.
+"
+8 10 Stan "Yeah.
+"
+8 10 Stan "What?!
+"
+8 10 Stan "Dude, weak!
+"
+8 10 Stan "No!
+"
+8 10 Stan "You see, Mom, all the kids at school were told to bring a picture of their moms' breasts for anatomy class.
+"
+8 10 Stan "But mom, my teacher will-
+"
+8 10 Stan "But Mo-o-o-
+"
+8 10 Stan "This is hopeless!
+"
+8 10 Stan "That's sick, dude! I'm not taking a picture of my mom's boobs!
+"
+8 10 Stan "No, you're not doing it either! We just need to find something that looks like boobs to take a picture of.
+"
+8 10 Stan "How do you know?!
+"
+8 10 Stan "All right, fine. 
+"
+8 10 Stan "Excuse me!
+"
+8 10 Stan "We, we got it. 
+"
+8 10 Stan "Dude, are we gonna be like that someday?
+"
+8 10 Stan "Hey, look. What is Ms. Claridge doing?  Ms. Claridge?
+"
+8 10 Stan "Dude, what happened?
+"
+8 10 Stan "What's that?
+"
+8 10 Stan "We're dead. Trent knows we sent the sixth-graders after him.
+"
+8 10 Stan "No, no, we've just gotta find better help.
+"
+8 10 Stan "There is... one person.
+"
+8 10 Stan "Shelly?
+"
+8 10 Stan "Shelly, you're my sister, right? And families... depend on each other.
+"
+8 10 Stan "Shelly  Somebody is going to kill me, and I can't go to Mom or Dad for help, so, you're kind of the only person I have... left. 
+"
+8 10 Stan "Trent Boyett. He just got released from Juvenile Hall. He was sent there for burning Ms. Claridge, but actually, it was our fault.
+"
+8 10 Stan "We were only four years old at the time, uh. We du-we didn't think about the past coming back to haunt us then. We didn't think and now he's gonna kill us!
+"
+8 10 Stan "Admit it was our fault?
+"
+8 10 Stan "Hi, Ms. Claridge. Uh, we have s-something to tell you. 
+"
+8 10 Stan "See, Ms. Claridge, when we were little, we used to play with our wieners a lot, and one game we played was ""Fireman.""
+"
+8 10 Stan "Trent, look: We've realized our mistake! 
+"
+8 10 Stan "What is that?
+"
+8 10 Stan "Yeah, who cares?
+"
+8 11 Stan "Eric, it looks as though the school will be serving a chicken cutlet. Now, that's traditionally a uh-a white meat chicken... breast, if you will, that has been breaded, and then cooked. I've been told there will also be tater-tots and a vegetable dish. This is really shaping up to be a ah-ah one fantastic lunch. Eric?
+"
+8 11 Stan "And we're... cut! &gt;&gt; /&gt;/&gt;
+"
+8 11 Stan "Yeah, I think that was one of our best shows yet.
+"
+8 11 Stan "...Craig's show??
+"
+8 11 Stan "But that's... that's crap! That's not even TV!
+"
+8 11 Stan "Apparently it doesn't matter how hard you work.
+"
+8 11 Stan "Hey, look, Craig just walked in. 
+"
+8 11 Stan "Your idea took about this much thought, Craig! 
+"
+8 11 Stan "Token! Now, come on, guys! We worked too hard to just roll over for Craig and his stupid overall deal. Instead of sitting here feeling sorry for ourselves, we just need to figure out how to make our show better!
+"
+8 11 Stan "Come on, guys! 
+"
+8 11 Stan "All right, we all need to come up with ideas for our show.
+"
+8 11 Stan "Yeah, Sexy Action, that's good.
+"
+8 11 Stan "We have to appeal to all the students, so we, we need hot girls for the sixth graders...
+"
+8 11 Stan "Good!
+"
+8 11 Stan "All right, Sexy Action School News Team, it's time to go to work. Get out there and get some stories!
+"
+8 11 Stan "Eric, the outfits are even skimpier than before, leaving very little to the imagination. No doubt that if I were a little older, I would be aroused.
+"
+8 11 Stan "Then, let's do Token's report on how global warming is going to kill everyone in the fifth grade.
+"
+8 11 Stan "No, Jimmy, the school is already dumb. We're just giving them what they want.
+"
+8 11 Stan "I knew we could do it!
+"
+8 11 Stan "Craig's new show?
+"
+8 11 Stan "Hey wha-b-but we gave it our best.
+"
+8 11 Stan "I don't believe it.
+"
+8 11 Stan "Yeah. To save our show, all we need to do is come up with the best idea for an episode ever!
+"
+8 11 Stan "Come on, doesn't anybody have any show ideas?
+"
+8 11 Stan "Look, you guys, if Craig can do it, we can do it! Come on!  How about we do... a show... with us... ughhh.
+"
+8 11 Stan "Crab people?
+"
+8 11 Stan "Dude, I think we can do a little better than crab people.
+"
+8 11 Stan "We're hopelessly stuck, completely out of ideas.
+"
+8 11 Stan "Uh, yeah, we need to come up with some ideas and inspiration, so we're gonna drink a bunch of cough medicine.
+"
+8 11 Stan "I guess we'll just take all of 'em.
+"
+8 11 Stan "It's... it's the greatest show of all time.
+"
+8 11 Stan "You guys. You guys, wake up! 
+"
+8 11 Stan "We took a bunch of cough medicine to come up with ideas for our show. I didn't come up with anything.
+"
+8 11 Stan "You guys, we watched Craig's show all night long.
+"
+8 11 Stan "No, but don't you see? We didn't think it was great before. I think I understand now.  I think I know why Craig's show gets such great ratings! Half the school is high on cough medicine!
+"
+8 11 Stan "They're doing it in the hallways!  Behind the school! 
+"
+8 11 Stan "Even in the girls' bathroom! 
+"
+8 11 Stan "We showed the shocking footage to the principal!
+"
+8 11 Stan "The cough medicine problem used to also run rampant in neighboring Middle Park Elementary. But they took action: ridded their entire town of cough medicine, and what we see now is a happier school, 100% cough medicine-free. 
+"
+8 11 Stan "Gee, what a concidence.
+"
+8 11 Stan "Nobody has any ideas?
+"
+8 11 Stan "...Bail. 
+"
+8 12 Stan "Oh, thank God.
+"
+8 13 Stan "Dude, I really don't think it's smart, Cartman. 
+"
+8 13 Stan "It's not gonna work; just come down from there.
+"
+8 13 Stan "Cartman thinks he can fly off of his roof. 
+"
+8 13 Stan "He's not gonna do it.
+"
+8 13 Stan "Dude, I really don't think that's a good idea!
+"
+8 13 Stan "Butters, Goddammit.
+"
+8 13 Stan "Call an ambulance.
+"
+8 14 Stan "What the hell?
+"
+8 14 Stan "It's... nice.
+"
+8 14 Stan "Okay, okay.
+"
+8 14 Stan "Uh, no thanks, I'm gonna go home. 
+"
+8 14 Stan "Woof.
+"
+8 14 Stan "Oh, whatta? 
+"
+8 14 Stan "What time is it?!
+"
+8 14 Stan "You guys, I have to go to school tomorrow.
+"
+8 14 Stan "...What?
+"
+8 14 Stan "All right, I'm going now. 
+"
+8 14 Stan "Go away! Shoo! 
+"
+8 14 Stan "Again?
+"
+8 14 Stan "Goddammit, this is fucking ridiculous!
+"
+8 14 Stan "Grrr! Grrr! Come on out!  Come on, critter killer! Your days of slaughtering innocent little animals are over! Rawrrrrr!  Rawrrrrr! 
+"
+8 14 Stan "Okay, there. 
+"
+8 14 Stan "I... the... critters. Their... bir-birth of a Savior? 
+"
+8 14 Stan "Aw- awww!
+"
+8 14 Stan "It's dead.
+"
+8 14 Stan "I'm sure. It won't be hurting you anymore.
+"
+8 14 Stan "Wait, wha-what?
+"
+8 14 Stan "Wai-wait, the Antichrist?? You said she was giving birth to your savior!
+"
+8 14 Stan "But I thought you meant the Son of God!
+"
+8 14 Stan "Ugh.
+"
+8 14 Stan "Uuugh!
+"
+8 14 Stan "No, no-no-no.
+"
+8 14 Stan "Leave me alone!!
+"
+8 14 Stan "All right, all right, all right! God! 
+"
+8 14 Stan "I'm not a heathen! I was baptized and my family's Christian!
+"
+8 14 Stan "No! I'm not doing you anymore favors and I'm not letting you give birth to the Antichrist!  I came here to put a stop to all this!
+"
+8 14 Stan "Right, whatever.  I'm taking down the manger I built.  Ah!  Aaaah!  Aagh! Aaaahh!  AAAAAAAH! AAAAAAAH! 
+"
+8 14 Stan "Oh yeah.
+"
+8 14 Stan "Hello? Anybody in there? 
+"
+8 14 Stan "Look, I'm sorry I killed your mom. The, the squirrel told me she was evil.
+"
+8 14 Stan "I'm trying to make this all right again, but the only thing that can stop devil-worshiping critters is a mountain lion!
+"
+8 14 Stan "Well, you're mountain lions.
+"
+8 14 Stan "There still has to be a way for you to kill the porcupine's baby.
+"
+8 14 Stan "What?!
+"
+8 14 Stan "No, he didn't.
+"
+8 14 Stan "No, he didn't!
+"
+8 14 Stan "No, he didn't!
+"
+8 14 Stan "Oh, Goddammit! 
+"
+8 14 Stan "I don't know, I- I'm supposed to show these mountain lions how an abortion is performed or something, I... I know, it's ridiculous.
+"
+8 14 Stan "This better have a point, dude. This really better have a point.
+"
+8 14 Stan "Okay, come on, the critters are over this way. You mountain lions ready to stop the Antichrist from being born?
+"
+8 14 Stan "Too late?! The hell is that?!
+"
+8 14 Stan "It's Critter Christmas, dude! It sucks ass!
+"
+8 14 Stan "That's it?! Ten thousand years of darkness and I don't even have a Merry Christmas?! 
+"
+8 14 Stan "I mean, I didn't mean to help them, I... I tried to stop them!
+"
+8 14 Stan "Dude, what the-&#160;? 
+"
+8 14 Stan "Come on, dude. 
+"
+8 14 Stan "What?! Kyle?!
+"
+8 14 Stan "Dude!
+"
+8 14 Stan "No, it all worked out, right? The world was saved and I went home for Christmas dinner.
+"
+8 14 Stan "Well after all that I at least wanna know if I had a merry Christmas or if darkness rules the Earth.
+"
+8 14 Stan "Well what did you expect, dude? It's the son of the Devil.
+"
+8 14 Stan "No Santa, don't!
+"
+8 14 Stan "The lion cubs!
+"
+8 14 Stan "I took them to see how abortions are done.
+"
+8 14 Stan "Now cubs, do like they showed you. Hurry up fast!
+Get the Antichrist out of my friend Kyle's ass!
+"
+8 14 Stan "Yeah. Yeah, there is.
+"
+8 14 Stan "Oh, good.
+"
+8 1 Stan "Oh my God, look!  Martial arts weapons from the Far East. 
+"
+8 1 Stan "Dude! We should each buy a weapon, and then we'll be like ninjas.
+"
+8 1 Stan "Yeah, dude, our parents are gonna be at the stupid fair all day long. They'll never know what we bought.  I'll get the tonfas.  Those are so sweet.
+"
+8 1 Stan "Yeah. We wanna get one of each of these ninja weapons.
+"
+8 1 Stan "We, we're brothers, see, and our parents... died in a car accident last year.
+"
+8 1 Stan "Goddamn, that's like the twelfth time that's worked.
+"
+8 1 Stan "Kiya! Kiya!
+"
+8 1 Stan "With my tonfa of Takanawa, I become the great and powerful ninja Shadowhachi, born to fight evil and people I don't like.
+"
+8 1 Stan "What's your ninja name, Kenny?
+"
+8 1 Stan "All right, ninjas! Let's go protect the world!
+"
+8 1 Stan "Don't worry, Kyle. Craig's not gonna tell on us. Come, ninjas, let's go.  All right, this is it.
+"
+8 1 Stan "Ninja positions!  Hello, Craig!
+"
+8 1 Stan "We can't tell you where we got 'em! It's secret ninja stuff.
+"
+8 1 Stan "Hyeah, ""they're not that cool."" These are real authentic weapons from the Far East.
+"
+8 1 Stan "Uh, we'd love to hang out guys, but we have important secret work to do. 
+"
+8 1 Stan "Dude, we're like the coolest kids in the whole state! 
+"
+8 1 Stan "Yeah, Butters. You wouldn't make a very good ninja. Come on, guys.  We have a lot of work to do.
+"
+8 1 Stan "Hm, this doesn't seem to be the right way. My ninja sense is telling me we might be heading in the wrong direction.
+"
+8 1 Stan "Yeah dude, that's like the fifth power you've come up with!
+"
+8 1 Stan "Yeah, that it, Cartman! You don't get to have any powers!
+"
+8 1 Stan "I dunno. Craig, is that you?
+"
+8 1 Stan "Very well, Professor Chaos! We'll play along. Now, fell the fiery sting of my tonfa of Takanawa!  Hey kid, that knocks you down.
+"
+8 1 Stan "Yeah, huh, I got you!
+"
+8 1 Stan "Oh yeah?! Kenny! Use your ninja star!
+"
+8 1 Stan "Butters! Oh my God!  Oh, dude! It's stuck in his eye!
+"
+8 1 Stan "Sh shhhh. It's okay, Butters. Calm down. It's not that bad, really.
+"
+8 1 Stan "Okay okay, calm down, Butters! It'll be okay! 
+"
+8 1 Stan "Dude, shut up!
+"
+8 1 Stan "What?!
+"
+8 1 Stan "Just stay still, Butters.
+"
+8 1 Stan "God dammit!
+"
+8 1 Stan "We... need a doctor... But we can't go to the hospital. Wait a minute. Wait, wait, wait. What about the veterinarian?
+"
+8 1 Stan "He's really old and going blind.
+"
+8 1 Stan "We might pass him off as our pet.
+"
+8 1 Stan "All right, then you take him to the hospital, Kyle. You take him to the hospital and let your mom find out what happened.
+"
+8 1 Stan "All right. Now we just gotta sneak him into town.
+"
+8 1 Stan "Okay, it's clear. 
+"
+8 1 Stan "Oh shit, somebody's coming!
+"
+8 1 Stan "Where'd you get those?
+"
+8 1 Stan "Uh, not now, Craig, we we have to be going.
+"
+8 1 Stan "Guys, we're we're really not playing, okay? 
+"
+8 1 Stan "We don't have a choice, Kyle. Just humor them. Hyaaaaah! 
+"
+8 1 Stan "Hey, wait, wait, wait, wait!  Wait.  Hold on a second. Where's Butters? 
+"
+8 1 Stan "Oh, nice going, you assholes! You made us lose him!
+"
+8 1 Stan "No dude, you gotta help us find him!
+"
+8 1 Stan "Butters!
+"
+8 1 Stan "Butters!
+"
+8 1 Stan "Bad.
+"
+8 1 Stan "Nothing, just... playing.
+"
+8 1 Stan "Butters!
+"
+8 1 Stan "What?
+"
+8 1 Stan "Yeah, let's just go return them and get our money back.
+"
+8 1 Stan "It's all right, Kyle. We'll go back to the fair and return them.
+"
+8 1 Stan "All right, the county fair's still open! 
+"
+8 1 Stan "We have come to return the weapons we purchased.
+"
+8 1 Stan "What is it, Craig?
+"
+8 1 Stan "Come on, Ninjas! 
+"
+8 1 Stan "Aw dude, crap. All our parents are there.
+"
+8 1 Stan "Good luck, Bulrog. 
+"
+8 1 Stan "Oh, Jesus.
+"
+8 1 Stan "What?
+"
+8 1 Stan "Just run with it, dude.
+"
+8 1 Stan "Yeah. I guess parents don't give a crap about violence if there's sex things to worry about.
+"
+8 1 Stan "Yeah. Come on, ninjas.  We've got some more work to do.
+"
+8 2 Stan "Oh hey Jimmy, hey Timmy.
+"
+8 2 Stan "Yeah sure, we'll come cheer you and Timmy on.
+"
+8 2 Stan "So?
+"
+8 2 Stan "That's really, really terrible, dude.
+"
+8 3 Stan "Warp drive disengaged. Landing sequence initiated.
+"
+8 3 Stan "Things seem pretty quiet.
+"
+8 3 Stan "Oh God, here we go again.
+"
+8 3 Stan "That does it! I'm sick of you guys arguing about The Passion! I'm out of here.
+"
+8 3 Stan "Look at that, dude. The Passion has made almost 400 million dollars at the box office now.
+"
+8 3 Stan "Everyone in the country's gonna see that movie. I guess... we have to go see it too.
+"
+8 3 Stan "Dude. That movie sucked.
+"
+8 3 Stan "How can they even call that a movie?
+"
+8 3 Stan "That's bullcrap dude, let's go get our money back.
+"
+8 3 Stan "Hey, we want our money back.
+"
+8 3 Stan "That movie sucked ass. Give us back our eighteen dollars.
+"
+8 3 Stan "That wasn't a movie, that was a snuff film!
+"
+8 3 Stan "You can't charge people to watch a guy get tortured for two hours!
+"
+8 3 Stan "We go to church to learn that stuff! We go to movies to be entertained! We weren't entertained, and we want our money back!
+"
+8 3 Stan "W-what? Mel Gibson? You're saying we have to get our money back from Mel Gibson?
+"
+8 3 Stan "Oh, we will! This is America! And in America, if something sucks, you're supposed to be able to get your money back! Come on, Kenny! 
+"
+8 3 Stan "Okay, search for Mel Gibson. Mel Gibson bio, Mel Gibson news, Mel Gibson... home page. Here we go.  Welcome to Mel Gibson's ThePassion.com, your source for everything Mel. Pictures, philosophy, upcoming projects. Damn it, no phone number! Oh wait! ""For more information on Mel Gibson, call the Webmaster at 1-800-43.."" Okay, okay, wait, here we go. 
+"
+8 3 Stan "Hi, uh, my friend and I just went to see The Passion.
+"
+8 3 Stan "No, no, no, no, we want our money back.
+"
+8 3 Stan "We think the movie sucked and we want Mel Gibson to give us back our eighteen dollars. Do you know how we can get in touch with him?
+"
+8 3 Stan "Look, kid, we just thought it was a bad movie, so tell us how to get in touch with Mel Gibson so we can get our money back!
+"
+8 3 Stan "Hey, don't take that tone with me, kid! I'll kick your ass!
+"
+8 3 Stan "I don't care! You sound like a little bitch to me!
+"
+8 3 Stan "Yeah?! You wanna bring it, you little pussy?!
+"
+8 3 Stan "Wait a minute. Cartman?! 
+"
+8 3 Stan "Come on, Kenny, we're going to Malibu!
+"
+8 3 Stan "We'll take the bus! Look, this isn't about the eighteen dollars ticket money anymore. This is about being able to hold bad filmmakers responsible!  This is just like when we got our money back for BASEketball!
+"
+8 3 Stan "Thank you.  This must be the place.  Goddamn, Mel Gibson must be loaded. 
+"
+8 3 Stan "Oh, hi, uh, my name is Stan, and this is Kenny.
+"
+8 3 Stan "Uh, we saw your movie, The Passion, and we didn't like it, so, can we have our money back, please?
+"
+8 3 Stan "Look, dude, we came a long way. We're not leaving until you give us our money.
+"
+8 3 Stan "Tor- torture you?
+"
+8 3 Stan "We don't want to torture you.
+"
+8 3 Stan "Dude, can we please just have the eighteen dollars back from you?
+"
+8 3 Stan "Dude, this guy is freakin' daffy!
+"
+8 3 Stan "Mel Gibson is fucking crazy dude!  Wait! There's his wallet! 
+"
+8 3 Stan "Awww crap, he's only got twenties! You got two dollars, Kenny? 
+"
+8 3 Stan "All right, let's get the hell out of here! 
+"
+8 3 Stan "Aah! Run, dude, run!
+"
+8 3 Stan "Well it looks like with these bus tickets we spend about eighty... seven dollars getting our money back from Mel Gibson.  But I think it's the principle of the thing that matters.
+"
+8 3 Stan "Oh, you've got to be shittin' me. 
+"
+8 3 Stan "Goddamn, that guy's crazy.  Hey dude, you've gotta speed up.
+"
+8 3 Stan "Mel Gibson is chasing after us. You've gotta go faster.
+"
+8 3 Stan "I'm not playing games. Mel Gibson is right behind you and he's gonna- 
+"
+8 3 Stan "Yeah. I told you that!
+"
+8 3 Stan "He wouldn't give us our money back for The Passion, so we kinda took it.
+"
+8 3 Stan "He's koo-koo, dude. He's absolutely out of his mind.
+"
+8 3 Stan "It's our eighteen dollars! Your movie sucked!
+"
+8 3 Stan "No, dude, if you wanna be Christian, that's cool, but, you should follow what Jesus taught instead of how he got killed. Focusing on how he got killed is what people did in the Dark Ages and it ends up with really bad results.
+"
+8 4 Stan "Dude, my car sucks. I gotta get a new one. 
+"
+8 4 Stan "Chef, we just got served.
+"
+8 4 Stan "Over at the True Value parking lot. There were just these kids we never saw before showed up and they were like, really good dancers and, we don't really understand what it means, but I guess-
+"
+8 4 Stan "Some, kids from Orange County.
+"
+8 4 Stan "No.
+"
+8 4 Stan "But Dad, I don't know how to dance or nothin'.
+"
+8 4 Stan "But Dad-
+"
+8 4 Stan "Yeah, let's go race it right now!
+"
+8 4 Stan "What?
+"
+8 4 Stan "I thought I was supposed to!
+"
+8 4 Stan "But why?
+"
+8 4 Stan "I, I don't know. He seems all right.
+"
+8 4 Stan "Yeah, I'm- I'm right here, Dad.
+"
+8 4 Stan "Okay, good.
+"
+8 4 Stan "God dammit!
+"
+8 4 Stan "Hey guys. Uh- You guys know how to dance, right?
+"
+8 4 Stan "Cool, because, there's this competition on Saturday, and I have to find the very best dancers in South Park to be on my crew. My friends can't do it because they suck ass, so, will you be in my dance troupe?
+"
+8 4 Stan "Okay, that'll work fine. Listen, there's a dance competition this Saturday and I need good dancers so I don't get served.
+"
+8 4 Stan "Please, you guys, our whole town's reputation is at stake! Will any of you do it?
+"
+8 4 Stan "Great! 
+"
+8 4 Stan "All right, we gotta find three other kids that can dance.
+"
+8 4 Stan "The arcade?
+"
+8 4 Stan "Dude, he's incredible.
+"
+8 4 Stan "Hey kid, you're pretty good. How would you like to join our dance troupe?
+"
+8 4 Stan "Yeah.
+"
+8 4 Stan "Dude, we need you.
+"
+8 4 Stan "It's all right. My friend Chef is gonna coach us.
+"
+8 4 Stan "All right, that's three!
+"
+8 4 Stan "Huh?
+"
+8 4 Stan "Oh yeah.  Wait a minute. I know just where to go!
+"
+8 4 Stan "Ah actually we were just hoping we could talk to you guys real quick.
+"
+8 4 Stan "And so we're putting all the best dancers in South Park together to beat Orange County.
+"
+8 4 Stan "So you'll do it?
+"
+8 4 Stan "All right, we just need one more person!
+"
+8 4 Stan "What? The state tap champion is from here? Who?
+"
+8 4 Stan "Leopold Stotch...? Wait a minute. You mean...
+"
+8 4 Stan "Butters, listen. There's gonna be a competition this Saturday, and we want you to join our troupe.
+"
+8 4 Stan "It's a dance-off. We heard you were tap dancing state champion two years ago. 
+"
+8 4 Stan "But, you were, weren't you? Y-you went to the nationals in Nebraska.
+"
+8 4 Stan "We just asked him to join our dance troupe. We heard he was state tap champion.
+"
+8 4 Stan "Dammit, where are we gonna get our fifth member?
+"
+8 4 Stan "A duck? Dude, don't be stupid! Those OC kids are professional dancers! Now come on, there's gotta be one other talented person in South Park.
+"
+8 4 Stan "All right, so you're sure he can dance?
+"
+8 4 Stan "Hey, he- Is that the only song he'll dance to?
+"
+8 4 Stan "My friends, I think we have ourselves a dance troupe.
+"
+8 4 Stan "Yeah, dude, the best dancers South Park has to offer.
+"
+8 4 Stan "We're gonna get served on Saturday, aren't we?
+"
+8 4 Stan "Well that was the whole point of the whole thing was that the guys came back and they said we were gonna get served and we were like- 
+"
+8 4 Stan "I came to ask you one more time to join the crew. Everyone is practicing really hard, but... I don't think we have any kind of shot without you.
+"
+8 4 Stan "Your mom says you were one of the best dancers in the country.
+"
+8 4 Stan "Yeah. She said your shoe came off. It wasn't your fault
+"
+8 4 Stan "Look, Butters, accidents happen. We all have to live with that.
+"
+8 4 Stan "Well, it was nine, actually. One of the women was pregnant.
+"
+8 4 Stan "And eleven if you count the two family members that killed themselves afterward.
+"
+8 4 Stan "But that isn't the point, Butters!  The point is that this is now! It's on! And there are people who need you to step up! Look, nobody likes having to rise to a challenge. But competing against other people and getting in their faces saying ""Haha! I'm better than you!"" is part of life. And if you can't face that, then you might as well sit here and play Legos until you're an old man.
+"
+8 4 Stan "Fine.  But someday you're gonna have to stop running from what happened and start dealing with it. Otherwise, you might as well move to France with all the other pussies. 
+"
+8 4 Stan "What?
+"
+8 4 Stan "What happened??
+"
+8 4 Stan "Aw, what do we do, Chef?!
+"
+8 4 Stan "Butters! 
+"
+8 4 Stan "All right Butters!
+"
+8 5 Stan "Dude, are you still pretending to be a robot?
+"
+8 5 Stan "Uh yeah, Butters, he's real cool.
+"
+8 6 Stan "Hey, check it out, dude. Somebody bought the Donovan's old house. 
+"
+8 6 Stan "What's that you're wearing?
+"
+8 6 Stan "Whoa. Dude, no way!
+"
+8 6 Stan "Dude, are these all your toys?
+"
+8 6 Stan "Be cool, dude. I, I think maybe he's a burn victim or something.
+"
+8 6 Stan "Hey, you guys! You guys!  You gotta come with us over to the Jeffersons!
+"
+8 6 Stan "I was over at the new neighbors, the Jeffersons.
+"
+8 6 Stan "Yeah. It's just a dad and his son.
+"
+8 6 Stan "Fine, Mom.
+"
+8 6 Stan "No, my parents are.
+"
+8 6 Stan "What?
+"
+8 6 Stan "Kyle? 
+"
+8 6 Stan "Mr. Jefferson- Awww!  It's 1:30 in the morning!
+"
+8 6 Stan "Mr. Jefferson, I have to go to school tomorrow!
+"
+8 6 Stan "He just showed up here.
+"
+8 6 Stan "Jesus Christ! 
+"
+8 6 Stan "I know. He's here.
+"
+8 6 Stan "No! Mr. Jefferson, you need to take your son home.
+"
+8 6 Stan "Okay, fine, we'll all stay here, but we're going to sleep now!
+"
+8 6 Stan "Haaa! 
+"
+8 6 Stan "Yeah. A really bad dream.  Oh Jesus!
+"
+8 6 Stan "You don't have to tell us twice, Mom. That guy's a freak!
+"
+8 6 Stan "Dude, come on. We're not supposed to go over there. 
+"
+8 6 Stan "Ah, actually, Mr. Jefferson, we were seeing if Blanket wanted to chop wood with us.
+"
+8 6 Stan "Mr. Jefferson, uh, it might be good for Blanket to learn how to chop wood.
+"
+8 6 Stan "Stop, you fucking lunatic! 
+"
+8 6 Stan "You just gotta pretend you're Blanket until we can get the real Blanket somewhere safe.
+"
+8 6 Stan "Blanket, you in here?
+"
+8 6 Stan "All right dude, get in his bed.
+"
+8 6 Stan "Dude, whatever. At least you finally get to do something. 
+"
+8 6 Stan "Go, go, ruuun! 
+"
+8 6 Stan "Oh Jesus!
+"
+8 6 Stan "Oh my God, they killed Kenny!
+"
+8 6 Stan "Run, Blanket, Run!
+"
+8 7 Stan "Ma'am, do you have a rag and some bandages?
+"
+8 7 Stan "Cartman, just keep your mouth shut.
+"
+8 7 Stan "Whoa.
+"
+8 7 Stan "Mom, Dad! Did you see? They found a man from the future!
+"
+8 7 Stan "Mom, can we go try to see the people from the future? I have a bunch of questions I wanna ask 'em.
+"
+8 7 Stan "Night, Mom.  Wow, two people from the future. How cool.
+"
+8 7 Stan "Hello, Mrs. Landis. Would you like snow-shoveling service again today?
+"
+8 7 Stan "All right guys, come on. Let's go to the next house. 
+"
+8 7 Stan "Son of a bitch!
+"
+8 7 Stan "It's affecting kids too! Me and my friends started our own snow-shoveling business. We were trying to be responsible and make money, you know? But then the people came along and, and now we're out of work too!  Oh, they took our jobs!
+"
+8 7 Stan "I was at a rally to protest all the immigrants from the future coming in and tryin' tuh- 
+"
+8 7 Stan "Who is that?
+"
+8 7 Stan "Oh, but that's the problem! Those goobacks are taking our jobs!
+"
+8 7 Stan "Well dude, they are taking people's jobs away.
+"
+8 7 Stan "I wanted my job!
+"
+8 7 Stan "Timecist?
+"
+8 7 Stan "People from the future. Right, got it.
+"
+8 7 Stan "That's right! 
+"
+8 7 Stan "Can you speak in present-day English please?
+"
+8 7 Stan "Uh yeah, I want a double cheeseburger and fries.
+"
+8 7 Stan "No, a double cheeseburger and fries!
+"
+8 7 Stan "What?!
+"
+8 7 Stan "I'm trying to order a double cheeseburger!
+"
+8 7 Stan "No, it's not a chicken sandwich!  I want a Goddamned cheeseburger and some Goddamned fries you fucking goobacks!
+"
+8 7 Stan "Aw- awwww!
+"
+8 7 Stan "Aw, come on, Dad! How come I have to go to work with you?
+"
+8 7 Stan "They took yer jarb!!
+"
+8 7 Stan "I I think it's wrong to call them goobacks because they're no different from us.  They're just humans trying to make their lives better. Look, it sucks that the immigrants' time is so crappy, but the cold hard truth is that if we let them all come back to our time, then it's just gonna make our time crappy too. Maybe the answer isn't trying to stop the future from happening, but making the future better. 
+"
+8 7 Stan "I mean, maybe if we all commit right now to working toward a better future, then, then the future won't be so bad, and, these immigrants won't need to come back here looking for work.
+"
+8 7 Stan "We're doing it!
+"
+8 7 Stan "Dude, wait, wait, ho- hold on. Wait a second.  This is gay.
+"
+8 7 Stan "Okay, sorry, my bad, e-everyone back in the pile. 
+"
+8 8 Stan "But, Mr. Garrison, if we change our mascot, that means the eco-terrorists win!
+"
+8 8 Stan "This is bullcrap, dude!
+"
+8 8 Stan "Dude, I really don't care. 
+"
+8 8 Stan "Kyle, aren't you taking this a little too far? I mean, do we really want a giant douche to be our school mascot?
+"
+8 8 Stan "I'm not voting!
+"
+8 8 Stan "I just think this whole thing is stupid! 
+"
+8 8 Stan "It was ridiculous. We have to have a new school mascot and we're supposed to vote between a giant douche and a turd sandwich.
+"
+8 8 Stan "No, I think voting is great, but, if I have to choose between a douche and a turd, I just don't see the point.
+"
+8 8 Stan "Mom, a-I just don't think there's much of a difference between a douche and a turd. I d-I don't care.
+"
+8 8 Stan "Puff Daddy?
+"
+8 8 Stan "I...
+"
+8 8 Stan """Vote or Die""?  What the hell does that even mean?!
+"
+8 8 Stan "Aaaah!
+"
+8 8 Stan "...Okay. I'll vote.
+"
+8 8 Stan "I guess... 
+"
+8 8 Stan "Okay. 
+"
+8 8 Stan "I'm voting.
+"
+8 8 Stan "Yeah, I know.
+"
+8 8 Stan "I thought I was supposed to make my own decision.
+"
+8 8 Stan "Wait a minute, you didn't want me to vote, you wanted me to vote for your guy!
+"
+8 8 Stan "Oh, forget it! I'm not gonna be persuaded into voting and I'm and I'm not gonna be threatened into voting if I don't feel comfortable with it! I'm not gonna vote and you can all just live with it!
+"
+8 8 Stan "The whole thing is a joke!
+"
+8 8 Stan "B-bani-banishment?
+"
+8 8 Stan "You-you're all joking, right?
+"
+8 8 Stan "I'm not voting! 
+"
+8 8 Stan "Dad, isn't this a little extreme?
+"
+8 8 Stan "Hello? 
+"
+8 8 Stan "Oh, thank God.
+"
+8 8 Stan "Awww!
+"
+8 8 Stan "What about me?
+"
+8 8 Stan "I was put on the horse. I didn't wanna ride it.
+"
+8 8 Stan "Wow, you guys really love animals.
+"
+8 8 Stan "I'll live with you.
+"
+8 8 Stan "He said I can stay.
+"
+8 8 Stan "Ahh, no thanks, that's okay.
+"
+8 8 Stan "I do love animals, just ...not like you guys do.
+"
+8 8 Stan "I can't. I was banished for not voting.
+"
+8 8 Stan "I think voting is great. I just didn't care this time because it was between a giant douche and a turd sandwich.
+"
+8 8 Stan "I guess... I guess you're right. 
+"
+8 8 Stan "Aaah!
+"
+8 8 Stan "Aaaah!! 
+"
+8 8 Stan "I learned that I'd better get used to having to pick between a douche and a turd sandwich because it's usually the choice I'll have.
+"
+8 8 Stan "Dude, so my vote didn't even really matter!
+"
+8 9 Stan "...What?
+"
+8 9 Stan "It's time for what?
+"
+8 9 Stan "Dad, how come Wall-Mart is able to sell everything so cheap?
+"
+8 9 Stan "Come on, let's go to Main Street and support one of those stores. 
+"
+8 9 Stan "Butters? 
+"
+8 9 Stan "Dude, we gotta show our parents what Wall-Mart is doing to our town. 
+"
+8 9 Stan "Dad?  Jesus Christ, Da-dad! Dad?!
+"
+8 9 Stan "Dad, oh my God!
+"
+8 9 Stan "What? D-dad, are are you dying?
+"
+8 9 Stan "But you-your face!
+"
+8 9 Stan "Yeah, but Dad, the whole town agreed not to shop at Wall-Mart anymore.
+"
+8 9 Stan "Mom, Dad, when people die, do they always crap their- 
+"
+8 9 Stan "But Dad, we're not supposed to shop at-
+"
+8 9 Stan "Dad!
+"
+8 9 Stan "Dad, what are you doing?!
+"
+8 9 Stan "Dad, you're a geologist!
+"
+8 9 Stan "Where are they?
+"
+8 9 Stan "Three tickets to Bentonville, Arkansas, please.
+"
+8 9 Stan "Dude, just let him come. The bus is about to leave. 
+"
+8 9 Stan "Dude, come on!
+"
+8 9 Stan "Dude, we have to go!
+"
+8 9 Stan "Well hurry up if you're coming, Cartman!
+"
+8 9 Stan "Goddamn, that took a long time.
+"
+8 9 Stan "Where's he?
+"
+8 9 Stan "There has to be a way!
+"
+8 9 Stan "Why don't you guys just destroy the heart?
+"
+8 9 Stan "No, dude, don't! 
+"
+8 9 Stan "Save it, Grandpa!
+"
+8 9 Stan "Dad, we know how to destroy the Wall-Mart.
+"
+8 9 Stan "One of the creators told us. You have to take your keys over to the television department.
+"
+8 9 Stan "What?!
+"
+8 9 Stan "Come on, we've got to try to make it to the back! 
+"
+8 9 Stan "Is that the right way, Dad? Dad?!  Dad!
+"
+8 9 Stan "Come on, Dad!
+"
+8 9 Stan "No, dad! We need your keys!
+"
+8 9 Stan "There! The television department!
+"
+8 9 Stan "You?
+"
+8 9 Stan "We don't want your store in our town; we come to destroy you.
+"
+8 9 Stan "Me. I'm asking the question.
+"
+8 9 Stan "Stan Marsh. Now, where's the heart?
+"
+8 9 Stan "It's a mirror.
+"
+8 9 Stan "Well, the guy in Arkansas said to destroy the heart. 
+"
+8 9 Stan "H-Dad, come on! We've gotta get out!
+"
+8 10 Stan "Kyle, Kenny! I have to talk to you right now!
+"
+8 10 Stan "Right now, goddamnit!
+"
+8 10 Stan "Trent Boyett is being released from Juvenile Hall. 
+"
+8 10 Stan "Yeah! He just got paroled!
+"
+8 10 Stan "What the hell are we gonna do??
+"
+8 10 Stan "Dude, let's play Fireman.
+"
+8 10 Stan "Hey, Kenny's right. We should put out a real fire. Then we'll be heroes!
+"
+8 10 Stan "Start one. Then we're gonna put it out.
+"
+8 10 Stan "Yeah, yeah. We play Fireman all the time.
+"
+8 10 Stan "Wow, cool!
+"
+8 10 Stan "Woo, woo, woo, woo. Clang, clang, clang, clang, clang!  Come on, firemen! Put out the fire! 
+"
+8 10 Stan "We're heroes!
+"
+8 10 Stan "Put it out, put it out! 
+"
+8 10 Stan "Dude, we are in so much trouble!
+"
+8 10 Stan "That's true.
+"
+8 10 Stan "No!
+"
+8 10 Stan "Yeah, who cares?
+"
+8 10 Stan "Now it's five years later. And Trent Boyett is being released.
+"
+8 10 Stan "Sshhh, here comes Ms. Claridge now. 
+"
+8 10 Stan "Are you having a nice day, Ms. Claridge? 
+"
+8 10 Stan "Calm down guys, we don't have to go tell our parents. We just need to go out and get some protection.
+"
+8 10 Stan "I'm talking about hiring somebody bigger than Trent to protect us from him. Come on! 
+"
+8 10 Stan "Stay cool, guys. If anybody can protect us from Trent Boyett, it's the sixth graders.
+"
+8 10 Stan "We've come to... ask you for help.
+"
+8 10 Stan "Yeah.
+"
+8 10 Stan "What?!
+"
+8 10 Stan "Dude, weak!
+"
+8 10 Stan "No!
+"
+8 10 Stan "You see, Mom, all the kids at school were told to bring a picture of their moms' breasts for anatomy class.
+"
+8 10 Stan "But mom, my teacher will-
+"
+8 10 Stan "But Mo-o-o-
+"
+8 10 Stan "This is hopeless!
+"
+8 10 Stan "That's sick, dude! I'm not taking a picture of my mom's boobs!
+"
+8 10 Stan "No, you're not doing it either! We just need to find something that looks like boobs to take a picture of.
+"
+8 10 Stan "How do you know?!
+"
+8 10 Stan "All right, fine. 
+"
+8 10 Stan "Excuse me!
+"
+8 10 Stan "We, we got it. 
+"
+8 10 Stan "Dude, are we gonna be like that someday?
+"
+8 10 Stan "Hey, look. What is Ms. Claridge doing?  Ms. Claridge?
+"
+8 10 Stan "Dude, what happened?
+"
+8 10 Stan "What's that?
+"
+8 10 Stan "We're dead. Trent knows we sent the sixth-graders after him.
+"
+8 10 Stan "No, no, we've just gotta find better help.
+"
+8 10 Stan "There is... one person.
+"
+8 10 Stan "Shelly?
+"
+8 10 Stan "Shelly, you're my sister, right? And families... depend on each other.
+"
+8 10 Stan "Shelly  Somebody is going to kill me, and I can't go to Mom or Dad for help, so, you're kind of the only person I have... left. 
+"
+8 10 Stan "Trent Boyett. He just got released from Juvenile Hall. He was sent there for burning Ms. Claridge, but actually, it was our fault.
+"
+8 10 Stan "We were only four years old at the time, uh. We du-we didn't think about the past coming back to haunt us then. We didn't think and now he's gonna kill us!
+"
+8 10 Stan "Admit it was our fault?
+"
+8 10 Stan "Hi, Ms. Claridge. Uh, we have s-something to tell you. 
+"
+8 10 Stan "See, Ms. Claridge, when we were little, we used to play with our wieners a lot, and one game we played was ""Fireman.""
+"
+8 10 Stan "Trent, look: We've realized our mistake! 
+"
+8 10 Stan "What is that?
+"
+8 10 Stan "Yeah, who cares?
+"
+8 11 Stan "Eric, it looks as though the school will be serving a chicken cutlet. Now, that's traditionally a uh-a white meat chicken... breast, if you will, that has been breaded, and then cooked. I've been told there will also be tater-tots and a vegetable dish. This is really shaping up to be a ah-ah one fantastic lunch. Eric?
+"
+8 11 Stan "And we're... cut! &gt;&gt; /&gt;/&gt;
+"
+8 11 Stan "Yeah, I think that was one of our best shows yet.
+"
+8 11 Stan "...Craig's show??
+"
+8 11 Stan "But that's... that's crap! That's not even TV!
+"
+8 11 Stan "Apparently it doesn't matter how hard you work.
+"
+8 11 Stan "Hey, look, Craig just walked in. 
+"
+8 11 Stan "Your idea took about this much thought, Craig! 
+"
+8 11 Stan "Token! Now, come on, guys! We worked too hard to just roll over for Craig and his stupid overall deal. Instead of sitting here feeling sorry for ourselves, we just need to figure out how to make our show better!
+"
+8 11 Stan "Come on, guys! 
+"
+8 11 Stan "All right, we all need to come up with ideas for our show.
+"
+8 11 Stan "Yeah, Sexy Action, that's good.
+"
+8 11 Stan "We have to appeal to all the students, so we, we need hot girls for the sixth graders...
+"
+8 11 Stan "Good!
+"
+8 11 Stan "All right, Sexy Action School News Team, it's time to go to work. Get out there and get some stories!
+"
+8 11 Stan "Eric, the outfits are even skimpier than before, leaving very little to the imagination. No doubt that if I were a little older, I would be aroused.
+"
+8 11 Stan "Then, let's do Token's report on how global warming is going to kill everyone in the fifth grade.
+"
+8 11 Stan "No, Jimmy, the school is already dumb. We're just giving them what they want.
+"
+8 11 Stan "I knew we could do it!
+"
+8 11 Stan "Craig's new show?
+"
+8 11 Stan "Hey wha-b-but we gave it our best.
+"
+8 11 Stan "I don't believe it.
+"
+8 11 Stan "Yeah. To save our show, all we need to do is come up with the best idea for an episode ever!
+"
+8 11 Stan "Come on, doesn't anybody have any show ideas?
+"
+8 11 Stan "Look, you guys, if Craig can do it, we can do it! Come on!  How about we do... a show... with us... ughhh.
+"
+8 11 Stan "Crab people?
+"
+8 11 Stan "Dude, I think we can do a little better than crab people.
+"
+8 11 Stan "We're hopelessly stuck, completely out of ideas.
+"
+8 11 Stan "Uh, yeah, we need to come up with some ideas and inspiration, so we're gonna drink a bunch of cough medicine.
+"
+8 11 Stan "I guess we'll just take all of 'em.
+"
+8 11 Stan "It's... it's the greatest show of all time.
+"
+8 11 Stan "You guys. You guys, wake up! 
+"
+8 11 Stan "We took a bunch of cough medicine to come up with ideas for our show. I didn't come up with anything.
+"
+8 11 Stan "You guys, we watched Craig's show all night long.
+"
+8 11 Stan "No, but don't you see? We didn't think it was great before. I think I understand now.  I think I know why Craig's show gets such great ratings! Half the school is high on cough medicine!
+"
+8 11 Stan "They're doing it in the hallways!  Behind the school! 
+"
+8 11 Stan "Even in the girls' bathroom! 
+"
+8 11 Stan "We showed the shocking footage to the principal!
+"
+8 11 Stan "The cough medicine problem used to also run rampant in neighboring Middle Park Elementary. But they took action: ridded their entire town of cough medicine, and what we see now is a happier school, 100% cough medicine-free. 
+"
+8 11 Stan "Gee, what a concidence.
+"
+8 11 Stan "Nobody has any ideas?
+"
+8 11 Stan "...Bail. 
+"
+8 12 Stan "Oh, thank God.
+"
+8 13 Stan "Dude, I really don't think it's smart, Cartman. 
+"
+8 13 Stan "It's not gonna work; just come down from there.
+"
+8 13 Stan "Cartman thinks he can fly off of his roof. 
+"
+8 13 Stan "He's not gonna do it.
+"
+8 13 Stan "Dude, I really don't think that's a good idea!
+"
+8 13 Stan "Butters, Goddammit.
+"
+8 13 Stan "Call an ambulance.
+"
+8 14 Stan "What the hell?
+"
+8 14 Stan "It's... nice.
+"
+8 14 Stan "Okay, okay.
+"
+8 14 Stan "Uh, no thanks, I'm gonna go home. 
+"
+8 14 Stan "Woof.
+"
+8 14 Stan "Oh, whatta? 
+"
+8 14 Stan "What time is it?!
+"
+8 14 Stan "You guys, I have to go to school tomorrow.
+"
+8 14 Stan "...What?
+"
+8 14 Stan "All right, I'm going now. 
+"
+8 14 Stan "Go away! Shoo! 
+"
+8 14 Stan "Again?
+"
+8 14 Stan "Goddammit, this is fucking ridiculous!
+"
+8 14 Stan "Grrr! Grrr! Come on out!  Come on, critter killer! Your days of slaughtering innocent little animals are over! Rawrrrrr!  Rawrrrrr! 
+"
+8 14 Stan "Okay, there. 
+"
+8 14 Stan "I... the... critters. Their... bir-birth of a Savior? 
+"
+8 14 Stan "Aw- awww!
+"
+8 14 Stan "It's dead.
+"
+8 14 Stan "I'm sure. It won't be hurting you anymore.
+"
+8 14 Stan "Wait, wha-what?
+"
+8 14 Stan "Wai-wait, the Antichrist?? You said she was giving birth to your savior!
+"
+8 14 Stan "But I thought you meant the Son of God!
+"
+8 14 Stan "Ugh.
+"
+8 14 Stan "Uuugh!
+"
+8 14 Stan "No, no-no-no.
+"
+8 14 Stan "Leave me alone!!
+"
+8 14 Stan "All right, all right, all right! God! 
+"
+8 14 Stan "I'm not a heathen! I was baptized and my family's Christian!
+"
+8 14 Stan "No! I'm not doing you anymore favors and I'm not letting you give birth to the Antichrist!  I came here to put a stop to all this!
+"
+8 14 Stan "Right, whatever.  I'm taking down the manger I built.  Ah!  Aaaah!  Aagh! Aaaahh!  AAAAAAAH! AAAAAAAH! 
+"
+8 14 Stan "Oh yeah.
+"
+8 14 Stan "Hello? Anybody in there? 
+"
+8 14 Stan "Look, I'm sorry I killed your mom. The, the squirrel told me she was evil.
+"
+8 14 Stan "I'm trying to make this all right again, but the only thing that can stop devil-worshiping critters is a mountain lion!
+"
+8 14 Stan "Well, you're mountain lions.
+"
+8 14 Stan "There still has to be a way for you to kill the porcupine's baby.
+"
+8 14 Stan "What?!
+"
+8 14 Stan "No, he didn't.
+"
+8 14 Stan "No, he didn't!
+"
+8 14 Stan "No, he didn't!
+"
+8 14 Stan "Oh, Goddammit! 
+"
+8 14 Stan "I don't know, I- I'm supposed to show these mountain lions how an abortion is performed or something, I... I know, it's ridiculous.
+"
+8 14 Stan "This better have a point, dude. This really better have a point.
+"
+8 14 Stan "Okay, come on, the critters are over this way. You mountain lions ready to stop the Antichrist from being born?
+"
+8 14 Stan "Too late?! The hell is that?!
+"
+8 14 Stan "It's Critter Christmas, dude! It sucks ass!
+"
+8 14 Stan "That's it?! Ten thousand years of darkness and I don't even have a Merry Christmas?! 
+"
+8 14 Stan "I mean, I didn't mean to help them, I... I tried to stop them!
+"
+8 14 Stan "Dude, what the-&#160;? 
+"
+8 14 Stan "Come on, dude. 
+"
+8 14 Stan "What?! Kyle?!
+"
+8 14 Stan "Dude!
+"
+8 14 Stan "No, it all worked out, right? The world was saved and I went home for Christmas dinner.
+"
+8 14 Stan "Well after all that I at least wanna know if I had a merry Christmas or if darkness rules the Earth.
+"
+8 14 Stan "Well what did you expect, dude? It's the son of the Devil.
+"
+8 14 Stan "No Santa, don't!
+"
+8 14 Stan "The lion cubs!
+"
+8 14 Stan "I took them to see how abortions are done.
+"
+8 14 Stan "Now cubs, do like they showed you. Hurry up fast!
+Get the Antichrist out of my friend Kyle's ass!
+"
+8 14 Stan "Yeah. Yeah, there is.
+"
+8 14 Stan "Oh, good.
+"

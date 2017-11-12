@@ -4,9 +4,15 @@ require('styles/App.css');
 // react and other 3rd party
 import React from 'react';
 import Select from 'react-select';
+import Notifications, {notify} from 'react-notify-toast';
 
 // Be sure to include styles at some point, probably during your bootstrapping
 import 'react-select/dist/react-select.css';
+
+// constants and colors
+const blue = '#350087';
+const white = '#FFFFFF';
+let notifyColor = { background: blue, text: white };
 
 // images
 let berries = require('../images/berries.jpg');
@@ -14,6 +20,7 @@ let cartman = require('../images/cartman.jpg');
 let stan = require('../images/stan.jpg');
 let kyle = require('../images/kyle.jpg');
 let kenny = require('../images/kenny.jpg');
+let pcprincipal = require('../images/pcprincipal.png');
 
 // bootstrap stuff (note: imports have to be in this exact order!)
 import jquery from 'jquery';
@@ -29,7 +36,8 @@ var oImageRefs = {
   'cartman': cartman,
   'stan': stan,
   'kyle': kyle,
-  'kenny': kenny
+  'kenny': kenny,
+  'pcprincipal': pcprincipal
 }
 var oMarkovOptions = [
   { value: '2', label: '2 - not very legible but creative' },
@@ -42,14 +50,30 @@ var oCharacterOptions = [
   { value: 'cartman', label: 'Cartman' },
   { value: 'stan', label: 'Stan' },
   { value: 'kyle', label: 'Kyle' },
-  { value: 'kenny', label: 'Kenny' }
+  { value: 'kenny', label: 'Kenny' },
+  { value: 'pcprincipal', label: 'PC Principal' }
 ];
 var oSeasonOptions = [
   { value: '20', label: 'Season 20' },
   { value: '19', label: 'Season 19' },
   { value: '18', label: 'Season 18' },
   { value: '17', label: 'Season 17' },
-  { value: '16', label: 'Season 16' }
+  { value: '16', label: 'Season 16' },
+  { value: '15', label: 'Season 15' },
+  { value: '14', label: 'Season 14' },
+  { value: '13', label: 'Season 13' },
+  { value: '12', label: 'Season 12' },
+  { value: '11', label: 'Season 11' },
+  { value: '10', label: 'Season 10' },
+  { value: '9', label: 'Season 9' },
+  { value: '8', label: 'Season 8' },
+  { value: '7', label: 'Season 7' },
+  { value: '6', label: 'Season 6' },
+  { value: '5', label: 'Season 5' },
+  { value: '4', label: 'Season 4' },
+  { value: '3', label: 'Season 3' },
+  { value: '2', label: 'Season 2' },
+  { value: '1', label: 'Season 1' },
 ];
 
 class AppComponent extends React.Component {
@@ -98,18 +122,21 @@ class AppComponent extends React.Component {
         cache: false,
         timeout: 5000,
         success: function(oData) {
-          //var sPreparedSentence = {<span className="quote">"</span>{oData.sentence}<span className="quote">"</span>};
-          that.setState({sentence: oData.sentence});
-          //notify.show('Thank you!', 'custom', 5000, notifyColor); // keep thank you forever
+          if (oData.bNotFound) {
+            console.log('showing message...');
+            notify.show('It seems that character doesn\'t show up in that season! Try a different combination!', 'custom', 5000, notifyColor); // prompt the user for a proper email
+          } else {
+            that.setState({sentence: oData.sentence});
+          }
         },
         error: function() {
-          //notify.show('Sorry, there was an error submitting your email. Care to try again?', 'custom', 5000, notifyColor); // prompt the user for a proper email
         }
       });
   }
   render() {
     return (
       <div>
+        <Notifications />
         {/* Navigation */}
         <nav className="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
           <div className="container">
@@ -189,7 +216,7 @@ class AppComponent extends React.Component {
                 </div>
               </div>
             <div className="row">
-              <div className="col-lg-6 mx-auto">
+              <div className="col-lg-12 text-center">
                 <div className="dropdown">
                   <button className="btn btn-primary btn-lg mx-auto" type="button" onClick={this.onClickGenerateSentence}>
                     GENERATE!
@@ -233,6 +260,8 @@ class AppComponent extends React.Component {
                 <div className="footer-col col-md-8 mx-auto">
                   <h3>Credits and Thanks</h3>
                   <ul>
+                    <li>EXCELLENT curated .csv files for seasons 1 - 19 from <a href="https://github.com/BobAdamsEE/SouthParkData">BobAdamsEE's github repository</a>.</li>
+                    <li>Seasons 20 and 21 pulled manually by hand from the <a href="http://southpark.wikia.com/wiki/Portal:Scripts/Season_Twenty">tasty South Park Wikia.</a></li>
                     <li>Neat Cartman favicon from <a href="http://www.favicon.cc/?action=icon&file_id=255991">lordeblader at favicon.cc</a></li>
                     <li><a href="https://github.com/dhowe/RiTaJS">RiTaJS Library</a></li>
                     <li><a href="https://github.com/react-webpack-generators/generator-react-webpack">Yeoman React-Webpack Generator</a></li>
