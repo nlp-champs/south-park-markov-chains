@@ -10,9 +10,9 @@ import Notifications, {notify} from 'react-notify-toast';
 import 'react-select/dist/react-select.css';
 
 // constants and colors
-const blue = '#350087';
+const red   = '#FF0000';
 const white = '#FFFFFF';
-let notifyColor = { background: blue, text: white };
+let notifyColor = { background: red, text: white };
 
 // images
 let berries = require('../images/berries.jpg');
@@ -136,7 +136,7 @@ class AppComponent extends React.Component {
   render() {
     return (
       <div>
-        <Notifications />
+        <Notifications options={{zIndex: 9999999}}/>
         {/* Navigation */}
         <nav className="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
           <div className="container">

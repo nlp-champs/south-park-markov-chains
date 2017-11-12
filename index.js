@@ -1,5 +1,6 @@
 var http = require('http');
 const express = require('express');
+const morgan = require('morgan');
 const path = require('path');
 const app = express();
 var fs = require('fs');
@@ -9,6 +10,9 @@ var rita = require('rita');
 
 // bodyParser to get posts from $.ajax
 app.use(bodyParser.json());
+
+// Setup logger
+app.use(morgan(':remote-addr - :remote-user [:date[clf]] ":method :url HTTP/:http-version" :status :res[content-length] :response-time ms'));
 
 // Serve static assets
 app.use(express.static('./dist'));
