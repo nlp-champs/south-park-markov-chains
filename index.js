@@ -17,11 +17,6 @@ app.use(morgan(':remote-addr - :remote-user [:date[clf]] ":method :url HTTP/:htt
 // Serve static assets
 app.use(express.static('./dist'));
 
-// Always return the main index.html, so react-router renders the route in the client
-app.get('*', function (req, res) {
-  res.sendFile(path.resolve(__dirname, '', 'dist', 'index.html'));
-});
-
 // on the POST of the /generate_sentance, generate a sentance!!!!
 app.post('/generate_sentence', function (req, res) {
   var iMarkov = parseInt(req.body.markov); // markov chain length
@@ -49,6 +44,12 @@ app.post('/generate_sentence', function (req, res) {
       bNotFound: false
   };
   res.send(JSON.stringify(response));
+});
+
+// Always return the main index.html, so react-router renders the route in the client
+app.get('*', function (req, res) {
+  console.log('south park get *!');
+  res.sendFile(path.resolve(__dirname, '', 'dist', 'index.html'));
 });
 
 server = http.createServer(app);
