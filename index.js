@@ -11,11 +11,11 @@ var rita = require('rita');
 // bodyParser to get posts from $.ajax
 app.use(bodyParser.json());
 
-// Setup logger
-app.use(morgan(':remote-addr - :remote-user [:date[clf]] ":method :url HTTP/:http-version" :status :res[content-length] :response-time ms'));
-
 // Serve static assets
 app.use(express.static('./dist'));
+
+// Setup logger
+app.use(morgan(':remote-addr - :remote-user [:date[clf]] ":method :url HTTP/:http-version" :status :res[content-length] :response-time ms'));
 
 // on the POST of the /generate_sentance, generate a sentance!!!!
 app.post('/generate_sentence', function (req, res) {
@@ -46,11 +46,8 @@ app.post('/generate_sentence', function (req, res) {
   res.send(JSON.stringify(response));
 });
 
-// Always return the main index.html, so react-router renders the route in the client
-app.get('*', function (req, res) {
-  console.log('south park get *!');
-  res.sendFile(path.resolve(__dirname, '', 'dist', 'index.html'));
-});
+//app.use('/static', express.static(path.join(__dirname, './dist')))
+
 
 server = http.createServer(app);
 

@@ -53,28 +53,11 @@ var oCharacterOptions = [
   { value: 'kenny', label: 'Kenny' },
   { value: 'pcprincipal', label: 'PC Principal' }
 ];
-var oSeasonOptions = [
-  { value: '20', label: 'Season 20' },
-  { value: '19', label: 'Season 19' },
-  { value: '18', label: 'Season 18' },
-  { value: '17', label: 'Season 17' },
-  { value: '16', label: 'Season 16' },
-  { value: '15', label: 'Season 15' },
-  { value: '14', label: 'Season 14' },
-  { value: '13', label: 'Season 13' },
-  { value: '12', label: 'Season 12' },
-  { value: '11', label: 'Season 11' },
-  { value: '10', label: 'Season 10' },
-  { value: '9', label: 'Season 9' },
-  { value: '8', label: 'Season 8' },
-  { value: '7', label: 'Season 7' },
-  { value: '6', label: 'Season 6' },
-  { value: '5', label: 'Season 5' },
-  { value: '4', label: 'Season 4' },
-  { value: '3', label: 'Season 3' },
-  { value: '2', label: 'Season 2' },
-  { value: '1', label: 'Season 1' },
-];
+
+// magic ES6... because ben is mean :)
+var aSeasonOptions = [];
+[...Array(20)].map((_, i) => { aSeasonOptions.push({value: (i + 1).toString(), label: 'Season ' + (i + 1).toString()})});
+aSeasonOptions = aSeasonOptions.reverse();
 
 class AppComponent extends React.Component {
   constructor() {
@@ -175,14 +158,14 @@ class AppComponent extends React.Component {
             <h2 className="text-center">{this.state.characterDisplay}<br/>({this.state.seasonDisplay})</h2>
               <div className="row">
                 <div className="col-lg-6 mx-auto">
-                <p>Season (more seasons coming very soon!)</p>
+                <p>Season</p>
                 </div>
               </div>
             <div className="row">
                 <div className="col-lg-6 mx-auto">
                   <Select
                     value={this.state.season}
-                    options={oSeasonOptions}
+                    options={aSeasonOptions}
                     onChange={this.onChangeSeason}
                   />
                 </div>
