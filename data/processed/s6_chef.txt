@@ -322,3 +322,165 @@
 "
 6 15 Chef "Aw, damnit! Come on!  We've gotta find him! Kenny!
 "
+6 1 Chef "Hello there, children.
+"
+6 1 Chef "Fifty pounds? Why?
+"
+6 1 Chef "Well, if you want him to get really fat as fast as possible, one of you will have to marry him.
+"
+6 1 Chef "It definitely worked for every woman I ever met.
+"
+6 1 Chef "Well, I guess we're gonna have to do this the old-fashioned way. Come on back, children. 
+"
+6 1 Chef "I'm runnin' out, children. 
+"
+6 1 Chef "You're gonna give children AIDS?!
+"
+6 1 Chef "Stand back, children! Jared wants to give you AIDS!
+"
+6 1 Chef "Eh so he was saying, children should have help like he had! 
+"
+6 5 Chef "Oh. Hello there, children.
+"
+6 5 Chef "Uh, how's it goin'?
+"
+6 5 Chef "Oh, you wanted to see the new TV, huh?  Pretty cool, ain't it?
+"
+6 5 Chef "Uh, I don't know. This TV has more features than a space shuttle.  I can't figure it out at all. 
+"
+6 5 Chef "Russell Crowe?? Children, you shouldn't be this show about a man who beats people up because he's insecure.
+"
+6 5 Chef "Why can't this guy control his temper?
+"
+6 5 Chef "Yeah, and it's got all kinds of cool feature, too. Check this out. You can watch three channels all at once. I think if you hit this button here-  No, no wait. You hit this button here  No, that's not it. Let's see.  Menu...  Function 
+"
+6 5 Chef "Let's see.  Aw, dammit!
+"
+6 5 Chef "I'm tryin', children! Menu, back, function-  Enter? No, no. Back? H.E.M?? 
+"
+6 5 Chef "Yes, is this customer service? I'm havin' problems with my new television. It sprouted legs and guns 'n started walkin' around shootin' people. Uh huh. Okay. Ohhh, so I press ""menu,"" then ""function."" 
+"
+6 5 Chef "No, that didn't work. Did I set the internal clock? Uh, no.  Oh, really? Well, how do I do that?
+"
+6 5 Chef "...Yes, I pressed ""menu"" three times!  No! It's givin' me the same error message!  Yes I read the instruction manual!
+"
+6 5 Chef "So I'm supposed to press ""menu,"" then ""function,"" then ""enter.""
+"
+6 7 Chef "Oh, welll, hello there, children.
+"
+6 7 Chef "Ohh, I'm sure your little cracker problems ain't all that bad. Come on in.  Now, just sit down and take a deep breath and tell ol' Chef what's goin' on.
+"
+6 7 Chef "Nowww, children, every problem can be worked out. What was it?
+"
+6 7 Chef "...Oh, children, that's a problem we all have to face at one time or another. Here: let me sing you a little song that might cheer you up. Sometimes you kill your teacher and they find your semen in her stomach, and uh Wait! What the what?!
+"
+6 7 Chef "Alright, children, I got you four tickets to Thailand  and three hundred dollars cash . It's gonna be tough living for a while. You might have to do things for money you never thought of doin' before.
+"
+6 7 Chef "...Wait, what? Sea people?
+"
+6 7 Chef "Uhh, maybe you'd better start from the beginning.
+"
+6 7 Chef "Oohhh, children, you misunderstood. Sea people is different from se-men.
+"
+6 7 Chef "Yes! That stuff that was in that vial didn't come from you, it came from someone else.  I thought you children took turns rapin' and then murdered the teacher. 
+"
+6 7 Chef "Relax, children, junk that's in brine can't kill you. Your teacher must have died from something else.
+"
+6 7 Chef "Alright. You children have had a long night. Why don't we all get some rest and on Monday, I'll sing you a song explainin' the difference between semen and sea people.  Come on, children. I'll walk you all home. 
+"
+6 7 Chef "Hello there, children!
+"
+6 7 Chef "Yeah. In fact, that episode was a rip-off of a Twilight Zone episode.
+"
+6 7 Chef "Good for you!
+"
+6 8 Chef "Hello there, children!
+"
+6 8 Chef "Good-bah! 
+"
+6 14 Chef "Hello there, children!
+"
+6 14 Chef "How's it goin'?
+"
+6 14 Chef "Why bad?
+"
+6 14 Chef "...Intolerant of who?
+"
+6 14 Chef "Now why do you wanna go be intolerant of gay people, children?  I thought you knew better.
+"
+6 14 Chef "Children, a lot of times the reason get uncomfortable around gay people is that they have some issues themselves. You have to ask yourself, ""What is it about their behavior that, for some reason, makes me uncomfortable?""
+"
+6 14 Chef "Right. And you see, children, that's why you need to- Whoa! What?!
+"
+6 14 Chef "Children, there's a BIG difference between gay people and Mr. Garrison! Do you understand that??
+"
+6 14 Chef "You children just take your lunches. I'm gonna have a talk with the principal.
+"
+6 14 Chef "You don't need three lunches, Eric! You're fat enough as it is!
+"
+6 14 Chef "Sending Chef to a tolerance seminar?! You've got to be fuckin' crazy!!
+"
+6 14 Chef "He IS a sick queer!!
+"
+6 14 Chef "Kiss my black ass!! 
+"
+6 15 Chef "Hello there, children.
+"
+6 15 Chef "Well what's wrong with him?
+"
+6 15 Chef "Children, why didn't you tell me about this sooner?
+"
+6 15 Chef "Well, you should. Cartman is your friend whether you like him or not! Now, come on! We've gotta get to that hospital!
+"
+6 15 Chef "Cartman?
+"
+6 15 Chef "Oh my God! Eric, how long have you been channelin' Kenny?
+"
+6 15 Chef "Kenny? Kenny, do you know what you need to get free?
+"
+6 15 Chef "Ms. Cartman, we need to get Cartman to a meeting room to speak with people who have crossed over.
+"
+6 15 Chef "This hospital isn't gonna do any good. We need to take him to see John Edward.
+"
+6 15 Chef "That's right. We have to go see him in New York.
+"
+6 15 Chef "Good. You children need to come too. Eric needs all the support he can get right now.
+"
+6 15 Chef "This must be the place.
+"
+6 15 Chef "Don't worry, Eric. I'm sure he will be able to help you.
+"
+6 15 Chef "Look uh, Mr. Edward, can you just ask Kenny how we can get him out, please?
+"
+6 15 Chef "Aw man, I can't believe I got fooled by that asshole!
+"
+6 15 Chef "Yeah. They must edit his shows down on television to only show him getting mostly right answers.
+"
+6 15 Chef "We've got no choice. The only people I know now who might be able to help Eric are my parents. We'll have to take the next flight to Scotland.
+"
+6 15 Chef "Okay children, this is your flight back to Colorado. Your parents are meeting you at the airport in Denver.
+"
+6 15 Chef "Come on, we gotta catch our plane. You children get right on that plane now.
+"
+6 15 Chef "Hi Pop.
+"
+6 15 Chef "These are my friends, the Cartmans. 
+"
+6 15 Chef "Hi, Momma! 
+"
+6 15 Chef "Mom, this is my friend, Ms. Cartman.
+"
+6 15 Chef "Yeah, Pop. This is Eric.
+"
+6 15 Chef "The victim child?
+"
+6 15 Chef "Where were we gonna find a child to secrifice?
+"
+6 15 Chef "What do we do with it now?
+"
+6 15 Chef "Eric, you're okay! 
+"
+6 15 Chef "Well, come on. We'd better get Kenny back to his parents. Wait a minute. Who's got the pot roast?
+"
+6 15 Chef "Aw, damnit! Come on!  We've gotta find him! Kenny!
+"

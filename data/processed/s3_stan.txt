@@ -2594,3 +2594,1301 @@ For auld lang syne...
 "
 3 17 Stan "You do?
 "
+3 1 Stan "Choirs suck.
+"
+3 1 Stan "It's just some dumb activist kids' choir thing.
+"
+3 1 Stan "What?!
+"
+3 1 Stan "But we don't even care about the rainforest.
+"
+3 1 Stan "Please don't make me go on a choir tour, Mom, please!
+"
+3 1 Stan "Nooo-ho! 
+"
+3 1 Stan "No, dude! I think Cartman might actually be right.
+"
+3 1 Stan "Dude! Maybe you really don't have any rhythm. 
+"
+3 1 Stan "Aaah! Snake!
+"
+3 1 Stan "Oh.  Aaah! Snake!
+"
+3 1 Stan "Oh.
+"
+3 1 Stan "AAAAAAA! 
+"
+3 1 Stan "SNAAAKE! 
+"
+3 1 Stan "AAAAAAA! 
+"
+3 1 Stan "I'm just a-scared of snakes.
+"
+3 1 Stan "Dude!
+"
+3 1 Stan "Oh my God, dude!! I just saw Tony Danza!!
+"
+3 1 Stan "I don't wanna burrito, I want a taco. Supreme.
+"
+3 1 Stan "This doesn't look very safe.
+"
+3 1 Stan "Hey. Maybe Cartman was right.
+"
+3 1 Stan "Hey, look over there. Isn't that smoke? 
+"
+3 1 Stan "Holy crap! 
+"
+3 1 Stan "Jesus Christ!
+"
+3 1 Stan "We're sinking.
+"
+3 1 Stan "All we ever heard growing up was, ""Save the rainforest. The rainforest is fragile""!
+"
+3 1 Stan "Oh, now she figures it out.
+"
+3 1 Stan "Wow!
+"
+3 1 Stan "Oh my God, they killed Kenny.
+"
+3 1 Stan "They did.
+"
+3 1 Stan "You know, ""they.""
+"
+3 1 Stan "Help ...him?
+"
+3 2 Stan "Is this what you're looking for, Kyle?
+"
+3 2 Stan "Why is that funny?
+"
+3 2 Stan "That's the fifth store we've been kicked out of. Why is it so hard to get a nurection?
+"
+3 2 Stan "Oh my God, they killed Kenny!
+"
+3 2 Stan "He just... ignited.
+"
+3 2 Stan "Dude, he looks so peaceful without his little orange coat on.
+"
+3 2 Stan "Wow, that was short. 
+"
+3 2 Stan "The what?
+"
+3 2 Stan "I don't know, dude. I'm gonna have to go look in the Bible.
+"
+3 2 Stan "Dad, where's our Bible?
+"
+3 2 Stan "Or else what?
+"
+3 2 Stan "...What?
+"
+3 2 Stan "Where's our Bible?
+"
+3 2 Stan "Yeah, he started seeing this girl and he spent a lot of time taking the bus to go visit her. What does that have to do with his death?
+"
+3 2 Stan "...Well, we're gonna go work on getting Kyle's dad a nurection. 
+"
+3 2 Stan "Let's see: Jesus got crucified, then he died, then three days later he had his urection. Let's see, there's fourteen Stations of the Cross. Now, it says we can makes costumes out of sheets.
+"
+3 2 Stan "Station One: Jesus is condemned to death by Pilate.
+"
+3 2 Stan "Station Two: Jesus takes his cross.
+"
+3 2 Stan "And then Jesus' disciple, Peter, denies he knows him. 
+"
+3 2 Stan "Station Eleven: Jesus is nailed to the cross. 
+"
+3 2 Stan "Then a crown of thorns was placed on Jesus's head, and Jesus was all like, ""Thanks.""
+"
+3 2 Stan "And then Jesus was lead away  to Mount Sinai, where he dies, and has a resurrurection three days later.
+"
+3 2 Stan "This spot looks good. 
+"
+3 2 Stan "Okay, cool. See you, Cartman.
+"
+3 2 Stan "Huh I don't know. I'm going home, I guess.
+"
+3 2 Stan "Yeah, dummy, you have to get a nurection.
+"
+3 2 Stan "Whoa, dude, my dad's famous.
+"
+3 2 Stan "Wow, he died.
+"
+3 2 Stan "Cartman??
+"
+3 2 Stan "Look, fatass: after you die and get resurrurected, you'll have all kinds of superpowers, just like Jesus.
+"
+3 2 Stan "(Sick, dude!)
+"
+3 2 Stan "(Okay, okay, just go away!) 
+"
+3 2 Stan "Uh. We've been taking care of him.
+"
+3 2 Stan "Apples?
+"
+3 2 Stan "(Dude!)
+"
+3 2 Stan "(I don't think I like this new law.)
+"
+3 2 Stan "Yeah.
+"
+3 2 Stan "Wow, my dad's the best! All other dads suck compared to my dad!
+"
+3 2 Stan "Dude, he's still not dead.
+"
+3 2 Stan "That's not your mom calling!
+"
+3 2 Stan "He is right. It has been getting really hot lately.
+"
+3 2 Stan "Hey, yeah! 
+"
+3 2 Stan "Dad, where's the phone book?
+"
+3 2 Stan "Yeah, um, Jesus, after you got crucified, how long did it take you to die and resurrect?
+"
+3 2 Stan "Oh.
+"
+3 2 Stan "Uh, it... sucks ass.
+"
+3 2 Stan "Oh my God, what's going on?
+"
+3 2 Stan "Dude, that's my dad!
+"
+3 2 Stan "I know, huh?
+"
+3 2 Stan "He's hiding down in the basement. I I don't know what to do.
+"
+3 2 Stan "What are you doing, dad?
+"
+3 2 Stan "No, he's not! He can't even get a nurection!
+"
+3 2 Stan "Dad, you've got to work! People are dying, dad. You've got to come up with a solution!
+"
+3 2 Stan "Well, that doesn't matter! I learned something from the Stations of the Cross.
+"
+3 2 Stan "See, at first, Jesus was all like, ""Why me?"" And he was all pissed off and stuff. But then he saw that what mattered most was everybody else. So he stopped thinking about his own misery, and did what had to be done. Right as Jesus was dying,  he raised his hand and said, ""The needs of the many outweigh the needs of the few.""
+"
+3 2 Stan "It ain't bad. You should try reading it sometime. 
+"
+3 2 Stan "Huh?
+"
+3 2 Stan "Uh, well, Bible, Wrath of Khan, what's the difference?
+"
+3 2 Stan "Dad. Dad! 
+"
+3 2 Stan "Dad, what are you doin?! You have to get started!
+"
+3 2 Stan "See? My dad is the coolest after all.
+"
+3 2 Stan "Cartman!
+"
+3 2 Stan "He's been up there for like, three weeks.
+"
+3 2 Stan "That's amazing!
+"
+3 2 Stan "Dude, you survived all this time on the fat stored up in your body?
+"
+3 3 Stan "Yeah. Usually when he ditches school, he still shows up for lunch.
+"
+3 3 Stan "Whoa, what happened to your eyes, Cartman? 
+"
+3 3 Stan "Why do you have to see an eye doctor?
+"
+3 3 Stan "Where's Chef?
+"
+3 3 Stan "Why did Chef quit?
+"
+3 3 Stan "Could you just hand us some food please?
+"
+3 3 Stan "Yeah, we gotta talk to Chef after school and get him to come back.
+"
+3 3 Stan "Chef, what the hell are you doing? We almost starved to death at lunch today.
+"
+3 3 Stan "But why? Why would you quit?
+"
+3 3 Stan "So you made sweet love to her down by the fire.
+"
+3 3 Stan "Talked?!
+"
+3 3 Stan "That's nice. Look Chef, Cartman's got this eye doctor, see, and he- Girlfriend?!
+"
+3 3 Stan "What the hell is going on?!
+"
+3 3 Stan "She's stealing Chef from us.
+"
+3 3 Stan "Wait you guys.  Maybe, is it possible that we're just jealous because Chef is our friend, and now he's paying attention to somebody new? 
+"
+3 3 Stan "...Yeah, screw that bitch.
+"
+3 3 Stan "Let's find out where he's working and go see him there tomorrow.
+"
+3 3 Stan "We wanna talk to Chef.
+"
+3 3 Stan "And a chef hat.
+"
+3 3 Stan "Huh?
+"
+3 3 Stan "Chef, you have to dump the bitch!
+"
+3 3 Stan "But we don't like her.
+"
+3 3 Stan "I don't know-uh. No reason I guess.
+"
+3 3 Stan "Dude! He bailed on us!
+"
+3 3 Stan "Come on! We're going to his house! 
+"
+3 3 Stan "You forgot!
+"
+3 3 Stan "Oh no! No nononononono!
+"
+3 3 Stan "Normally we go to Chef with our problems, but wuh we can't this time.
+"
+3 3 Stan "What's a succubus?
+"
+3 3 Stan "Yeah!
+"
+3 3 Stan "Wow, you are smart, Mr. Garrison!
+"
+3 3 Stan "Yeah! He's gonna be so thankful we told him. 
+"
+3 3 Stan "Who are you?
+"
+3 3 Stan "Chef, we have to talk to you!
+"
+3 3 Stan "You're Chef's parents?
+"
+3 3 Stan "No, that's okay.
+"
+3 3 Stan "He wanted money?
+"
+3 3 Stan "Uh, could you just tell Chef we were here?
+"
+3 3 Stan "Cartman, what the hell are you doing?!
+"
+3 3 Stan "Damn, your eyes must really suck, Cartman.
+"
+3 3 Stan "Well, we couldn't even talk to him. She's so evil. She has him totally kept away from us.
+"
+3 3 Stan "We know what you are, lady!
+"
+3 3 Stan "A demon from Hell sent to suck the life out of men!
+"
+3 3 Stan "I guess.
+"
+3 3 Stan "Jesus dude! 
+"
+3 3 Stan "Excuse me!  We're sorry to interrupt, but we've got bad news. 
+"
+3 3 Stan "Yeah! She's evil and wants to suck Chef's life out of him
+"
+3 3 Stan "Chef, but-
+"
+3 3 Stan "No! I'm not willing to give up! Chef wouldn't give up on us!
+"
+3 3 Stan "Oh man! There's tons of stuff on succubuses, but nothing on how to stop them.
+"
+3 3 Stan "Dude! Chef's wedding is in three hours. We've got that much time to find out how to destroy a Succubus.
+"
+3 3 Stan "What the hell does that mean?
+"
+3 3 Stan "Right.
+"
+3 3 Stan "Yeah?
+"
+3 3 Stan "Oh-hoho!
+"
+3 3 Stan "That's it! We gotta learn that song backwards.
+"
+3 3 Stan "We can't fall asleep. We gotta nail that song.  You got the tape recorder, Cartman? Cartman?? 
+"
+3 3 Stan "God-damnit! You can't fall asleep.
+"
+3 3 Stan "There she is! 
+"
+3 3 Stan "Bitch. Bitch.
+"
+3 3 Stan "Bitch.
+"
+3 3 Stan "All right. Kyle and I are gonna take our positions up front.
+"
+3 3 Stan "Here it goes.
+"
+3 3 Stan "Now, Cartman! 
+"
+3 3 Stan "Come on Cartman!
+"
+3 3 Stan "Oh my God! She killed Kenny!
+"
+3 3 Stan "We're sorry Chef, we had to do it!
+"
+3 3 Stan "We'd love them!
+"
+3 4 Stan "Because we had to choose between this and home ec, and we didn't wanna be sissies?
+"
+3 4 Stan "Tweek is!
+"
+3 4 Stan "Now way, dude. Home ec is for girls.
+"
+3 4 Stan "I don't know. He's such a wuss.
+"
+3 4 Stan "No he's not dude. Craig is a wuss.
+"
+3 4 Stan "How much?
+"
+3 4 Stan "You're on!
+"
+3 4 Stan "Hey Tweek.
+"
+3 4 Stan "Dude. Craig chooses you. He wants to fight.
+"
+3 4 Stan "Yeah. He's all pissed off at you. So, will you fight?
+"
+3 4 Stan "He's really got it out for you, dude.
+"
+3 4 Stan "Super. See you there. 
+"
+3 4 Stan "Mr. Adler! Mr. Ad-ler!
+"
+3 4 Stan "The bell rang. Can we go?
+"
+3 4 Stan "Come on, you guys. 
+"
+3 4 Stan "This is gonna be so sweet, dude.
+"
+3 4 Stan "You're on, fatass! 
+"
+3 4 Stan "How come you wanna take home ec., Kenny?
+"
+3 4 Stan "Aw, hell!
+"
+3 4 Stan "Tweek?
+"
+3 4 Stan "How come you didn't show up for the fight, Tweek?!
+"
+3 4 Stan "Yeah. He was standing there waiting for you, and he was all like, ""Man, Tweek's a wuss,"" and we were all like, ""No he's not, Craig,"" and he was all like, ""Yeah he is, he isn't showing up. He's a big wuss, and he has crooked teeth!""
+"
+3 4 Stan "Yeah, it was weak.
+"
+3 4 Stan "Tomorrow?
+"
+3 4 Stan "Okay, so, just to set the record straight here, the fight will be happening out by the tetherball pole at 3:30. Tweek just weighed in at 48 pounds, Craig at 45.
+"
+3 4 Stan "Stay pissed, Tweek. Stay pissed.  All right. Here we go.
+"
+3 4 Stan "Well?
+"
+3 4 Stan "Huh?
+"
+3 4 Stan "Aw, dude, come on!!
+"
+3 4 Stan "All right, all right, screw it! We have to postpone the fight 'til Tweek and Craig can learn how to fight.
+"
+3 4 Stan "All right. Tweek, we'll teach you how to fight, and Cartman, you teach Craig.
+"
+3 4 Stan "Oh yeah? Well, I'm gonna have my uncle Jimbo teach Tweek how to box!
+"
+3 4 Stan "Fine! We'll see you back here tomorrow!
+"
+3 4 Stan "Damn it!
+"
+3 4 Stan "Okay, the time has finally come. 
+"
+3 4 Stan "You ready Tweek? You ready Craig? Let's get in on!
+"
+3 4 Stan "Ye-hah!
+"
+3 4 Stan "Come on, Tweek! You got him!
+"
+3 4 Stan "Yeah.
+"
+3 4 Stan "Here they are.
+"
+3 4 Stan "Tweek and Craig are fighting. We're just watching. 
+"
+3 4 Stan "Oh my God, they killed Kenny!
+"
+3 4 Stan "Dude, this is pretty fucked up right here.
+"
+3 4 Stan "Hi. We're here to visit our good friends, Tweek and Craig.
+"
+3 4 Stan "Hey, you guys. How are you feeling?
+"
+3 4 Stan "Well, uh. We just came by because we have something to tell you.
+"
+3 4 Stan "So I guess we'll be going now, and live with the knowledge that... you're both kind of sissies. 
+"
+3 4 Stan "Well, I mean, that's what was on the news.
+"
+3 4 Stan "Come on, Tweek! You got him!
+"
+3 5 Stan "Where are you going?
+"
+3 5 Stan "So? You can poo in the wilderness.
+"
+3 5 Stan "Not here! Go further away!
+"
+3 5 Stan "Sick, dude!
+"
+3 5 Stan "We don't wanna look at it, Cartman!
+"
+3 5 Stan "I see it!
+"
+3 5 Stan "I saw it this way!
+"
+3 5 Stan "Uncle Jimbo, Cartman found a big animal creature and it ran over that way!
+"
+3 5 Stan "I think his name is Junjun.
+"
+3 5 Stan "Who's that? One of your mom's boyfriends?
+"
+3 5 Stan "Wow!
+"
+3 5 Stan "No, he's annoying.
+"
+3 5 Stan "Why don't we just tell our parents?
+"
+3 5 Stan "Sshh! Be quit. We could get in big trouble for being here.
+"
+3 5 Stan "Sh! Keep quiet, stupid!
+"
+3 5 Stan "Okay, uh, Jakov, why don't you just take bunga here and go back to Stark's Pond?
+"
+3 5 Stan "God-damn!
+"
+3 5 Stan "Dude, do we really want another one of these things hanging around?
+"
+3 5 Stan "Huh-I'm not so sure this is a good thing.
+"
+3 5 Stan "Dude, it's crowded in here.
+"
+3 5 Stan "Oh, no! Nothing's worse than Cartman with authoritah!
+"
+3 5 Stan "Oh, he'll win. Don't worry.
+"
+3 5 Stan "Cartman, jakovasaurs are making South Park suck. You have to understand that.
+"
+3 5 Stan "Yeah. I guess he finally found something that's as annoying as he is.
+"
+3 6 Stan "Ohh, dude, get me out of here!
+"
+3 6 Stan "You would think that, you little ass-sucker.
+"
+3 6 Stan "An ass-sucker. It means you suck ass. You see an ass, you suck it. You're an ass-sucker.
+"
+3 6 Stan "What?
+"
+3 6 Stan "No you can't, you little ass-sucker!
+"
+3 6 Stan "Hoh, whatever! 
+"
+3 6 Stan "I called you an ass-sucker!
+"
+3 6 Stan "What?! Cartman, you call people names all the time!
+"
+3 6 Stan "Wwhat do you mean?
+"
+3 6 Stan "Uh... I'm eight?
+"
+3 6 Stan "Huh?
+"
+3 6 Stan "I have to give him half my stuff?
+"
+3 6 Stan "Yeah, dude. That's my favorite toy.
+"
+3 6 Stan "Uh, no! I hate that toy!
+"
+3 6 Stan "Damnit!
+"
+3 6 Stan "Where's our desks?
+"
+3 6 Stan "You see, Cartman? You see what this has done?
+"
+3 6 Stan "Bad.
+"
+3 6 Stan "Chef, how can we stop all these sexual assment lawsuits?
+"
+3 6 Stan "Yeah, Sexual Harassment Panda. He's the one that started all this. We have to find him!
+"
+3 6 Stan "'Scuse me. We'd like to speak with Sexual Harassment Panda, please.
+"
+3 6 Stan "We want Sexual Harassment Panda.
+"
+3 6 Stan "Well, where is he?!
+"
+3 6 Stan "What the hell is wrong with these people?!
+"
+3 6 Stan "'Scuse me.
+"
+3 6 Stan "Somebody told us they saw a big panda bear in here.
+"
+3 6 Stan "...Coats?
+"
+3 6 Stan "Dude, what the hell is going in?!
+"
+3 6 Stan "Well, we don't take kindly to you!
+"
+3 6 Stan "Come on, we'd better hurry. 
+"
+3 6 Stan """Island Of Misfit Mascots Commune"". This must be the place. 
+"
+3 6 Stan "Whoa! Who are you?
+"
+3 6 Stan "...Thanks a lot, dude.
+"
+3 6 Stan "Have you seen any panda bears?
+"
+3 6 Stan "Oh my God! They killed Kenny!
+"
+3 6 Stan "Dude, are we glad to find you! You have to come back to South Park, quick!
+"
+3 6 Stan "Please, Sexual Harassment Panda. People listen to you. You have to get them to stop suing each other.
+"
+3 6 Stan "Okay, yyou are a panda. But being Sexual Harassment Panda isn't helping anyone right now. You used to use your panda powers to teach people about sexual harassment. But now you need to teach a new message. A new massage that people will find useful again.
+"
+3 6 Stan "No! He's a whole new panda now, and he's got something to say.
+"
+3 8 Stan "I don't want to go to this stupid party!
+"
+3 8 Stan "No, you guys are gonna have a great time! Whenever there's a party, the adults get to hang out and have fun while the kids spend the night locked in the basement eating stale pretzels.
+"
+3 8 Stan "Awww!
+"
+3 8 Stan "I don't wanna hang out in the kids' room. I won't know anybody
+"
+3 8 Stan "Dad! You can't leave me here! These guys are total Melvins!
+"
+3 8 Stan "No! Mom, please! They're the geekiest kids at our school!
+"
+3 8 Stan "Shut up, Pip.
+"
+3 8 Stan "Butters, is there any way out of here?
+"
+3 8 Stan "Oh my God.
+"
+3 8 Stan "No.
+"
+3 8 Stan "Yes.
+"
+3 8 Stan "Oh, dude, you've gotta be kidding me.
+"
+3 8 Stan "Dude, I'm not putting on ladies' clothes, and I'm not playing Charlie's Angels! You guys are Melvins, and I'm not one of you! So you go ahead and be Melvins, and leave me alone!
+"
+3 8 Stan "What?
+"
+3 8 Stan "What do I have to do?
+"
+3 8 Stan "Alright, alright. Here's your mission. In ten minutes this room is gonna fill up with water and drown everybody. You have to find me a way out of this room, fast.
+"
+3 8 Stan "What, Pip?
+"
+3 8 Stan "What the hell do you want?!
+"
+3 8 Stan "You did? 
+"
+3 8 Stan "We're going upstairs.
+"
+3 8 Stan "Because, you stupid Melvins, they have rad food and desserts upstairs! 
+"
+3 8 Stan "Alright, Angels. Uh, your next job is to get Bosley some cookies and a TV set.
+"
+3 8 Stan "I don't care, just hurry! 
+"
+3 8 Stan "Rad! 
+"
+3 8 Stan "There are no more missions. I have everything I want. 
+"
+3 8 Stan "Just... play something else! God!
+"
+3 8 Stan "Whoa, cool!
+"
+3 8 Stan "Wait a minute  Oh my God!  Dude! That's this house. They think our parents are the religious cult!
+"
+3 8 Stan "Dude!
+"
+3 8 Stan "Hey you guys! We've got a big problem!  The ATF is outside and they think you're all a religious cult. You've gotta go talk to them. 
+"
+3 8 Stan "Mom, go look outside.
+"
+3 8 Stan "Come on, we're gonna have to go tell 'em ourselves. 
+"
+3 8 Stan "We don't have any weapons.
+"
+3 8 Stan "Get back inside! 
+"
+3 8 Stan "Dad! Dad, they shot at us.
+"
+3 8 Stan "Mom!
+"
+3 8 Stan "Get a hold of yourself, man!
+"
+3 8 Stan "Come on. We have to find out what's happening. 
+"
+3 8 Stan "Sh!
+"
+3 8 Stan "We have to let them know that this isn't a cult party.
+"
+3 8 Stan "Come on, Angels. We've got a new mission. And this time, it's for real. 
+"
+3 8 Stan "Tell them not to burn us down.
+"
+3 8 Stan "Now we find a way to get this tape to the real reporters.
+"
+3 8 Stan "You're right. You are, Dougie. You did an awesome job. 
+"
+3 8 Stan "Oh no, we're out of time!  Are you sure you can do this, Butters?
+"
+3 8 Stan "We're just gonna slide you down this rope, and then you've gotta get our exclusive video to that reporter down there. 
+"
+3 8 Stan "Can you hit a target, Pip?
+"
+3 8 Stan "Hit something nice and solid now. 
+"
+3 8 Stan "Nice job, Pip.
+"
+3 8 Stan "Alright, Butters. Now it's your turn. 
+"
+3 8 Stan "He made it down. 
+"
+3 8 Stan "But you know, I learned something today. I used to call you guys Melvins. But you're just kids, like me. We separate you in school because you talk different and you study too hard, but we've proven tonight that we can all get along.
+"
+3 8 Stan "You?! You think you had a bad night?! I had to hang out all night with these friggin' Melvins!
+"
+3 8 Stan "Super weak.
+"
+3 10 Stan "Hey, fat ass.
+"
+3 10 Stan "Yep. I got Roostor, Lambtron, and Shoe.
+"
+3 10 Stan "What are these? They're Chinpokomon!
+"
+3 10 Stan "Yeah, like ancient history.
+"
+3 10 Stan "No, dude!
+"
+3 10 Stan "Dude, if you collect Chinpokomon you can complete the Primary Main Objective.
+"
+3 10 Stan "The Primary Main Objective is to destroy the Evil Power.
+"
+3 10 Stan "Ogh..!
+"
+3 10 Stan "Yeah, get with the times, dude. 
+"
+3 10 Stan "Yeah, dude. Don't you know? It's all about the Chinpokomon video game now. Did you bring your special Chinpokomon game controller?
+"
+3 10 Stan "Dude, the video game gave Kenny a seizure!
+"
+3 10 Stan "How's it goin', fat ass?
+"
+3 10 Stan "What?! You've been out here all weekend! How are we gonna raise money to get into the Chinpokomon camp?
+"
+3 10 Stan "We can't do anything. Kenny still hasn't come out of his seizure. 
+"
+3 10 Stan "Yeah. Nobody plays the Chinpokomon video games anymore. Now it's all about the big weekend Chinpokomon camp.
+"
+3 10 Stan "You didn't know that?
+"
+3 10 Stan "Dude, did you just say ""a-ight""?
+"
+3 10 Stan "Yeah, dude. Nobody says ""a-ight"" anymore.
+"
+3 10 Stan "Can you see anything? 
+"
+3 10 Stan "It's starting, it's starting!
+"
+3 10 Stan "Juuhachi desu ka? 
+"
+3 10 Stan "Juuhachi is eighteen, Garrison-san.
+"
+3 10 Stan "He said, ""Garrison-san sabuchii da naa.""
+"
+3 10 Stan "Yeah, dude. That was totally gay.
+"
+3 10 Stan "Totally gay.
+"
+3 10 Stan "Kore wa watashi no uchi desu. 
+"
+3 10 Stan "Nan da kore? 
+"
+3 10 Stan "What?
+"
+3 10 Stan "You like it?
+"
+3 10 Stan "No.  Screw this, dude. 
+"
+3 10 Stan "Huh, I don't know. Chinpokomon just doesn't seem that cool anymore. I'm gonna go kill some ants or something. 
+"
+3 10 Stan "Hey, Mom, I'm sorry I went a little nutty with that Chinpokomon stuff. Can I have $5 to buy a football?
+"
+3 10 Stan "Dude, Chinpokomon isn't cool anymore.
+"
+3 10 Stan "No, Kyle. You see, we learned something today. This whole Chinpokomon thing happened because we all followed the group. We only liked Chinpokomon because everyone else did. And look at the damage it caused.
+"
+3 10 Stan "...Ye-eah.
+"
+3 10 Stan "Oh... Wait.  Actually, I was wrong. You see, Kyle, I learned something, just now. It is good to go with the group. A group mentality is healthy, sometimes.
+"
+3 10 Stan "What the..? 
+"
+3 11 Stan "What??
+"
+3 11 Stan "* I told you, fatass.
+"
+3 11 Stan "Sshh!
+"
+3 11 Stan "We don't know. 
+"
+3 11 Stan "Whatever. Let's go see what's on TV.
+"
+3 11 Stan "Come on, dude. There's gotta be somethin' about Starvin' Marvin in the news.
+"
+3 11 Stan "Dude, you're gonna get busted for taking this thing.
+"
+3 11 Stan "Kick ass!  Wow, this thing is awesome!
+"
+3 11 Stan "Wow!
+"
+3 11 Stan "This is great!
+"
+3 11 Stan "Yeah, that's better.
+"
+3 11 Stan "Dude, it looks like he's tried everywhere in the world. 
+"
+3 11 Stan "What the hell did you hit, Cartman?! 
+"
+3 11 Stan "We're on like, some foreign planet.
+"
+3 11 Stan "Uh, thanks.
+"
+3 11 Stan "U-uh, cool. My name is Stan, and a-uh, I'm the leader of Earth.
+"
+3 11 Stan "Cool!
+"
+3 11 Stan "Screw you, Cartman! I called leader first!
+"
+3 11 Stan "Yeah, so it would be really cool if you would let Marvin and all his people come live here.
+"
+3 11 Stan "Uuh. Thanks.
+"
+3 11 Stan "Nno. No, it's okay. The ship took us to another planet. A beautiful, lush place called Marklar.
+"
+3 11 Stan "What??
+"
+3 11 Stan "Oh. 
+"
+3 11 Stan "Run for it!
+"
+3 11 Stan "He's not done for, he's standing right there.
+"
+3 11 Stan "Alright, we made it!
+"
+3 11 Stan "They're shooting at us.
+"
+3 11 Stan "Cartman just hit the button, and the ship flew itself.
+"
+3 11 Stan "You dumbass, Cartman!
+"
+3 11 Stan "You got 'em, Marvin.
+"
+3 11 Stan "Sally Struthers is saving us!
+"
+3 11 Stan "Now's our chance!
+"
+3 11 Stan "We brought Marvin and his people to live here, but these buttholes followed us.
+"
+3 11 Stan "Wow! Good job, dude!
+"
+3 11 Stan "Well Marvin, it was sure cool seeing you again.
+"
+3 11 Stan "Maybe we'll come and visit sometime.
+"
+3 11 Stan "Dude!
+"
+3 11 Stan "I know, but you don't tell him that!
+"
+3 12 Stan "This one time, like eight months ago, I saw two guys kissing in a park. And that was the gayest thing I'd ever seen, until I saw the KOZY-FM Halloween Haunt. 
+"
+3 12 Stan "Christmas?
+"
+3 12 Stan "W-we weren't scared!
+"
+3 12 Stan "That's just an old legend.
+"
+3 12 Stan "I'm sick of those fifth graders scaring us all the time! We should come up with a way to scare them!
+"
+3 12 Stan "Come on, you guys, think! How can we scare the fifth graders? It has to be something reeaally scary.
+"
+3 12 Stan "Well, come on! We can think of something better than stupid pirate ghosts! 
+"
+3 12 Stan "Come on, fatass, we have to go!
+"
+3 12 Stan "Yes you can, porky. 
+"
+3 12 Stan "Okay, so we figured out how to scare the fifth graders.
+"
+3 12 Stan "What's the scariest thing we could get?
+"
+3 12 Stan "No!  A dead body.
+"
+3 12 Stan "We could never make one that looks real enough.  To be really scary, it would have to be real.
+"
+3 12 Stan "We're gonna dig up Kyle's dead grandma.
+"
+3 12 Stan "Dude, she's perfect. She only died, like, three months ago, right?
+"
+3 12 Stan "All we have to do is sneak in the graveyard, dig her up, scare the fifth graders, then put her back before anyone notices she's gone,
+"
+3 12 Stan "Relax, dude. What's the big deal? Think about it: if your grandma knew that she could help you, even in death, she would want to.
+"
+3 12 Stan "Cartman, will you stop singing Christmas carols? We have to be quiet, or else we're gonna get busted!
+"
+3 12 Stan "Well, let's dig 'er up! 
+"
+3 12 Stan "Of course it's cool! She's gonna be all rotted and scary!
+"
+3 12 Stan "You guys be quiet! Now, do you wanna get back at the fifth graders or not?!
+"
+3 12 Stan "Yes you do! Now, dig! 
+"
+3 12 Stan "Okay. It's almost open. Ready? One, two, three!  Whoa, dude.
+"
+3 12 Stan "Eheh, yes, it ihis, heh.
+"
+3 12 Stan "Okay, grab the sled. 
+"
+3 12 Stan "Okay. Let's just hide her here, and tomorrow, during the Halloween party, we'll come back in our costumes and use her to scare the fifth graders.
+"
+3 12 Stan "Who was that?
+"
+3 12 Stan "Dude, not cool. This is scary. 
+"
+3 12 Stan "Hay, you're that band KoRn.
+"
+3 12 Stan "What are you guys doing out here?
+"
+3 12 Stan "Aw, dude, that was just the fifth graders.
+"
+3 12 Stan "Don't worry. We're about to go get 'em back.
+"
+3 12 Stan "Yeah, dude. It's right over there.
+"
+3 12 Stan "Alright, let's just set her over here behind these boxes. 
+"
+3 12 Stan "Kyle, will you stop worrying? God! Now, we'll all be back here tomorrow with our costumes, and then, when the Halloween party gets going, we'll bust out dead Grandma! Let's go! 
+"
+3 12 Stan "Where's Kenny? He said he had the best Halloween costume ever. 
+"
+3 12 Stan "Where's your costume, fatass?
+"
+3 12 Stan "Hey, Kenny.
+"
+3 12 Stan "Alright. The fifth graders are gonna be here soon. Let's get Kyle's grandma!  This is gonna be sweet
+"
+3 12 Stan "What's the problem?
+"
+3 12 Stan "She has to be here! 
+"
+3 12 Stan "We dug her up 'cause we wanted to scare the fifth graders, but then, something took her body away.
+"
+3 12 Stan "Maybe there really are pirate ghosts and they took her inside.
+"
+3 12 Stan "How should we split up?
+"
+3 12 Stan "This place gives me the creeps.
+"
+3 12 Stan "We've got to hide!
+"
+3 12 Stan "Ow!
+"
+3 12 Stan "There she is!
+"
+3 12 Stan "Oh, no! The pirate ghosts are back! 
+"
+3 12 Stan "Boo!
+"
+3 13 Stan "I don't know, dude. I've never seen them before. 
+"
+3 13 Stan "Damn, dude. Those home-schooled kids are smart.
+"
+3 13 Stan "We've never seen you before. Do you live in the woods or something?
+"
+3 13 Stan "What's that?
+"
+3 13 Stan "Shut up, Cartman?
+"
+3 13 Stan "You shut up,  gaywad!
+"
+3 13 Stan "No, we're friends.
+"
+3 13 Stan "What?
+"
+3 13 Stan "Dude, what a bunch of freakin' nerdos.
+"
+3 13 Stan "Oh, God. This kid's gonna last about five seconds out on the playground.
+"
+3 13 Stan "You don't wanna be home-schooled, fatass.
+"
+3 13 Stan "Come on, Pip, say it. Say ""Please, hit me.""
+"
+3 13 Stan "No! I'm gonna hit you if you don't say it. If you say ""Please, hit me,"" I won't hit you.
+"
+3 13 Stan "All right. 
+"
+3 13 Stan "Alright, we'll try this again, Pip.
+"
+3 13 Stan "Oh, boy. Sorry, dude, you're on your own. 
+"
+3 13 Stan "Aw, man, if you have to.
+"
+3 13 Stan "Dude, what happened to you? You're a total wuss now. 
+"
+3 13 Stan "Yeah, dude, but guys just do that. We rip on each other and stuff.
+"
+3 13 Stan "Ah, dude, you don't say that.
+"
+3 13 Stan "Yeah. I wonder how Cartman is doing with his home-schooling.
+"
+3 13 Stan "Hey, fatass, how's home-schooling going?
+"
+3 13 Stan "Well, get your ass out of bed!  We have to go deal with that home-school kid!
+"
+3 13 Stan "But the big dance is tomorrow and all the guys are gonna duct-tape him to a flagpole.
+"
+3 13 Stan "Oh my God, Fonics Monkey killed Kenny!
+"
+3 13 Stan "Are you sure? He can be out here all night on the flagpole.
+"
+3 13 Stan "Don't call me a buttpipe, buttpipe!
+"
+3 13 Stan "Dude, we're gonna go duct-tape that Mark kid to the bleachers. You wanna help? 
+"
+3 13 Stan "Oh, brother! 
+"
+3 13 Stan "You suck now, Kyle! 
+"
+3 13 Stan "Dude, he's kicking the crap out of Kyle!
+"
+3 13 Stan "Hey, you're pretty cool, Mark. 
+"
+3 13 Stan "Do you wanna go have some cake with me, Mark? 
+"
+3 13 Stan "Nice speech, nerdo.
+"
+3 14 Stan "Ready? 1-2-3-4. 
+"
+3 14 Stan "That's it, Cartman, you can't be the drummer!
+"
+3 14 Stan "Alright alright. Let's just try it again. 1-2-3-4. 
+"
+3 14 Stan "Cartman, I'm the leader of the Reenactment Fife and Drum Squad, and I say you play the flute!
+"
+3 14 Stan "Where the hell is Cartman? If he misses the orientation, they're not gonna let him in the reenactment. 
+"
+3 14 Stan "He'd better!
+"
+3 14 Stan "Dude, that's not cool.
+"
+3 14 Stan "Cartman, what the hell are you doing?
+"
+3 14 Stan "You can't just come to a Civil War reenactment dressed up like General Lee, fatass!
+"
+3 14 Stan "Hoohoo what a dumbass!
+"
+3 14 Stan "It's gonna be rad having Cartman be our slave.
+"
+3 14 Stan "Cartman, you can't do that!
+"
+3 14 Stan "Run for your life, dude! 
+"
+3 14 Stan "Yeah, but it doesn't matter, because the bet was that the South doesn't win the war! And the South still didn't win the war, dipshit!
+"
+3 14 Stan "Dude, my mom is sooo pissed at my dad for going to Kansas.
+"
+3 14 Stan "Oh here comes the bus.  Butters? Are you the only one that came back?
+"
+3 14 Stan "What battlefield?!
+"
+3 14 Stan "God damnit, that fat piece of shit!
+"
+3 14 Stan "That would suck so much ass.
+"
+3 14 Stan "I'll go get my grandpa. He'll help us. Where's the Confederate Army now, Butters?
+"
+3 14 Stan "Oh, boy. This is worse than I thought.
+"
+3 14 Stan "Dad, Dad.  Mom wants you to come home.
+"
+3 14 Stan "Oh, my God! They killed Kenny!
+"
+3 14 Stan "I know! But we'll have to wait until dark.
+"
+3 14 Stan "There, you see? We take the s'more schnapps, and by morning they're all gonna wanna go home.
+"
+3 14 Stan "Now we just wait until morning. Check-mate, Cartman. Pretty soon, you're gonna be our slave.
+"
+3 14 Stan "Haha! You lose, fatass!
+"
+3 14 Stan "Where are you going?
+"
+3 14 Stan "Oh, no.
+"
+3 14 Stan "Give up, fatass! There's over a hundred National Guards down here.
+"
+3 14 Stan "No, you can't do that. Our dads are there.
+"
+3 14 Stan "Aw, damnit!
+"
+3 14 Stan "Dude, let's just give up right now and accept that we have to be Cartman's slaves.
+"
+3 14 Stan "Well, we've tried everything, Grandpa. What else can we do?
+"
+3 14 Stan "Yes, and I'm Jefferson Davis, President of the Confederacy.
+"
+3 14 Stan "Men, I want you all to know that as President of the Confederacy, I am hereby surrendering.
+"
+3 14 Stan "It's finally over, Cartman. You lost!
+"
+3 14 Stan "Don't touch me. 
+"
+3 14 Stan "Now, the first thing I want you to do for us is-
+"
+3 14 Stan "Awwww!
+"
+3 14 Stan "Aw, the hell with it. Let's go home.  Thanks a lot, Bill Clinton!
+"
+3 15 Stan "What's going on? ...Oh, it's that Hanukkah thing.
+"
+3 15 Stan "Let me try. 
+I'll try to make it spin.
+It fell; I'll try again.
+"
+3 15 Stan "I'll try to make it spin.
+"
+3 15 Stan "It fell; I'll try again.
+"
+3 15 Stan "I'll try
+"
+3 15 Stan "to make it spin.
+"
+3 15 Stan "It fell;
+"
+3 15 Stan "I'll try again.
+"
+3 15 Stan "I'll try
+"
+3 15 Stan "to make it spin.
+"
+3 15 Stan "It fell;
+"
+3 15 Stan "I'll try again.
+"
+3 15 Stan "I'll try
+"
+3 15 Stan "to make it spin.
+"
+3 15 Stan "It fell;
+"
+3 15 Stan "I'll try again.
+"
+3 15 Stan "I'll try
+"
+3 15 Stan "to make it spin.
+"
+3 15 Stan "It fell;
+"
+3 15 Stan "I'll try again.
+"
+3 15 Stan "I'll try
+"
+3 15 Stan "to make it spin.
+"
+3 15 Stan "It fell;
+"
+3 15 Stan "I'll try again.
+"
+3 15 Stan "I'll try
+"
+3 15 Stan "to make it spin.
+"
+3 15 Stan "It fell;
+"
+3 15 Stan "I'll try again.
+"
+3 15 Stan "AAAA! 
+"
+3 16 Stan "Dude, what are we gonna do for New Year's Eve? It has to be awesome.
+"
+3 16 Stan "No you didn't!
+"
+3 16 Stan "How do you know?
+"
+3 16 Stan "You're making that up!  Miss Aliton, what's it mean to get a period?
+"
+3 16 Stan "Please, it's important.
+"
+3 16 Stan "Dude, Cartman can't hit puberty before us.
+"
+3 16 Stan "Hello?
+"
+3 16 Stan "No, there's no blood coming out of my ass.
+"
+3 16 Stan "Well, if Cartman is the only one who get it and he thinks he's too grown-up to hang out with us on New Year's Eve, then screw him anyways.
+"
+3 16 Stan "Come on, Cartman, we have to make plans for New Year's.
+"
+3 16 Stan "So you guys aren't gonna spend New Year's Eve with us?
+"
+3 16 Stan "You did?
+"
+3 16 Stan "Are you there, God? It's me, Stan. If you wouldn't mind, I don't wanna be the only kid who doesn't get his period before the new year. Could you speed up my development a little? Thanks, God. Your friend, Stan 
+"
+3 16 Stan "Dammit! Dammit dammit dammit!
+"
+3 16 Stan "I'm not bleeding out my aahass!
+"
+3 16 Stan "No it's not! It's terrible!  Are you there, God? It's me, Stan. How come you didn't help me? I know you're really busy with things, but this is a matter of life and death. If I don't get my period, my friends won't let me hang out with them on New Year's Eve. Please, please give me my period soon.
+"
+3 16 Stan "Hey, Chef.
+"
+3 16 Stan "Bad.
+"
+3 16 Stan "Can I come in?
+"
+3 16 Stan "Chef, I have ...this friend, see? And this person is really bummed out, because everyone else the same age has gotten their period, and this person hasn't.
+"
+3 16 Stan "No.
+"
+3 16 Stan "Look, it doesn't matter who it is. The point is that everyone else got their period and this person hasn't.
+"
+3 16 Stan "Yeah, Cartman told us.
+"
+3 16 Stan "Okay.
+"
+3 16 Stan "...So what you're saying is, this person shouldn't be bummed because everybody has their period at a different time.
+"
+3 16 Stan "But it's not fair! It's not fair that one day you're on top, that you're the coolest kid in town, and then the next day you're at the bottom again, 'cause everyone has blood coming out their ass but you, and if I can't menstruate, then by God, I'm not gonna sit around and be the only periodless 8-year-old boy! I'm gonna do something about it! 
+"
+3 16 Stan "But what happens if there's someone who never went through puberty.
+"
+3 16 Stan "Nn-nobody! I mean, uh, well, m-my dad.
+"
+3 16 Stan "No. And uh, that's why he sent me here; 'cause he's too embarrassed to come himself.
+"
+3 16 Stan "So do you know anything that can help him?
+"
+3 16 Stan "Hormones? 
+"
+3 16 Stan "Thanks a lot, Dr. Mephesto. You're the best! 
+"
+3 16 Stan "Hey assholes! 
+"
+3 16 Stan "Don't you worry about that! I've started taking hormones!
+"
+3 16 Stan "Yeah, they make you have your puberty quicker. And I'm just here to tell you that my puberty is gonna be bigger than any of you guys's!
+"
+3 16 Stan "So what are we gonna do for New Year's?
+"
+3 16 Stan "Aaaargh. I'm gonna go take some more hormones. 
+"
+3 16 Stan "Who-o-oa, du-ude. I've got boobs.
+"
+3 16 Stan "Have I missed anything?
+"
+3 16 Stan "No. I didn't, but-
+"
+3 16 Stan "Jesus, why does God hate me?
+"
+3 16 Stan "He hates me more. He doesn't answer my prayers. I prayed to him every day and he never answered me.
+"
+3 16 Stan "Well then, why didn't he give me what I wanted?
+"
+3 16 Stan "What do you mean?
+"
+3 16 Stan "I just wanted my period.
+"
+3 16 Stan "I have it. I have the question.  Now you have to answer me once and for all! How come I haven't gotten my period yet?! 
+"
+3 16 Stan "Did you hear that everybody? I'm not even supposed to have my period; that's why God wasn't answering me before!  Boy, I'm sure everything worked out okay.  I guess now we can all celebrate the New Year, huh?
+Should auld acquaintance be forgot
+And never brought to mind?
+Should auld acquaintance be forgot
+And auld lang syne?
+For auld lang syne, my dear,
+For auld lang syne...
+"
+3 16 Stan "Let's have a cup o-Aaaa! 
+"
+3 17 Stan "What's Arkansas—is that a state?
+"
+3 17 Stan "What's ""lose bowel control?""
+"
+3 17 Stan "Who's Karen Carpenter?
+"
+3 17 Stan "Whoa! Mr. Mackey and Mr. Hat are fighting. 
+"
+3 17 Stan "We're not rednecks!
+"
+3 17 Stan "Why?! Don't you know?!
+"
+3 17 Stan "Well keep looking! We gotta find out what it means before we see those New Yorker kids again!
+"
+3 17 Stan "Damnit! 
+"
+3 17 Stan "You did? 
+"
+3 17 Stan "Damnit Cartman, wha-?!
+"
+3 17 Stan "Who cares? We have to find out what queef means! Keep reading! 
+"
+3 17 Stan "Those New Yorker kids are gonna be here any second, and we still don't know what queef means.
+"
+3 17 Stan "No, they'll catch on. Hey, wait a minute. I've got a great idea. Let's make up our own word. We can make up a word, and then use it, ...and then they'll act like they know it, and then we'll bust 'em.
+"
+3 17 Stan "What word could we make up?
+"
+3 17 Stan "No, uhno, not finkleroy.
+"
+3 17 Stan "Yeah, mung.
+"
+3 17 Stan "Sh. Here they come. 
+"
+3 17 Stan "You know what you guys are? You guys are nothing but mung?
+"
+3 17 Stan "We busted you!
+"
+3 17 Stan "It is?
+"
+3 17 Stan "Ooogh.
+"
+3 17 Stan "You dumbass, Cartman!
+"
+3 17 Stan "I have no idea.
+"
+3 17 Stan "I wish we could find a way to get back at those New Yorker kids.
+"
+3 17 Stan "You found what?
+"
+3 17 Stan "No way.
+"
+3 17 Stan "Dude, are you thinking what I'm thinking?
+"
+3 17 Stan "No! That we could use the brown noise to get back at those asshole New Yorker kids.
+"
+3 17 Stan "How do we write he note, Cartman?
+"
+3 17 Stan "Alright. Now all we do is wipe out the last note on their sheet music, and change it to the note Cartman played.  Come on.  There.  That should do it.
+"
+3 17 Stan "Okay, let's get back to the room. 
+"
+3 17 Stan "Dude, I can't wait 'til those New Yorker kids play the brown noise and crap their pants.
+"
+3 17 Stan "Oh no, dude. Look!  It's the music we changed! 
+"
+3 17 Stan "Stop! Stop! 
+"
+3 17 Stan "Yeah, but you know? I learned something today. We were so worried about how cool we looked to those New Yorker kids that we forgot: we're already totally cool, even if we don't know what queef means. 
+"
+3 17 Stan "Oh, brother. Let's just get out of here.
+"
+3 17 Stan "Uuuuh...
+"
+3 17 Stan "You do?
+"

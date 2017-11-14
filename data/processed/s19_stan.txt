@@ -378,3 +378,193 @@
 "
 19 10 Stan "This is going to be really hard.
 "
+19 1 Stan "Man, I guess things are going to be different around here.
+"
+19 1 Stan "But, this isn't you, Cartman.
+"
+19 1 Stan "Right! And what does Tom Brady do after breaking the rules?
+"
+19 1 Stan "Yeah!
+"
+19 1 Stan "Cartman?
+"
+19 1 Stan "Yeah.
+"
+19 1 Stan "Dude, what happened?
+"
+19 1 Stan "Hang on.  Dad, did you draw dicks on my friend's face?
+"
+19 1 Stan "That's my best friend, Dad! Stop shaming him because you want to fit in!
+"
+19 1 Stan "Look, Kyle, maybe you should just say Caitlyn Jenner is a hero.
+"
+19 1 Stan "Her.
+"
+19 1 Stan "So I guess PC Principal is here to stay, huh?
+"
+19 1 Stan "It just seems to me like we all lost in this, and that the only person who won was you.
+"
+19 2 Stan "What are they doing now? 
+"
+19 2 Stan "You did kind of go overboard, dude.
+"
+19 2 Stan "It's just... I know you like giving speeches and stuff, but not everything is black and white.
+"
+19 2 Stan "Oh boy, here we go again. 
+"
+19 2 Stan "Dude, the Canadians are pissed off.
+"
+19 2 Stan "That doesn't matter. We have to think of a way to smooth this over, fast.
+"
+19 2 Stan "Unbelievable! 
+"
+19 3 Stan "So not cool. How does someone just rip on us like that?
+"
+19 3 Stan "I just hope somebody finds a way to fix this.
+"
+19 4 Stan "Stop it.
+"
+19 5 Stan "Dude, Butters! 
+"
+19 6 Stan "I just don't get it. I mean, Tweek and Craig aren't gay. Right?
+"
+19 6 Stan "And if it can happen to Tweek and Craig... could it happen to any of us?
+"
+19 6 Stan "I'm confused, Dad. There was this thing at school.
+"
+19 6 Stan "I just don't understand how it's decided.
+"
+19 6 Stan "No, I mean like, what makes the Asians decide who they're gonna make gay?
+"
+19 6 Stan "So you've heard of yaoi?
+"
+19 6 Stan "And so my dad talked to me about it.
+"
+19 6 Stan "And my dad said that Asians have always done this, and they, like, do make people gay.
+"
+19 6 Stan "But why?
+"
+19 7 Stan "Who?
+"
+19 7 Stan "You and Kenny built all this?
+"
+19 7 Stan "Then why'd you say it was gay before?
+"
+19 7 Stan "I'm Stan.
+"
+19 7 Stan "What?
+"
+19 7 Stan "How's they found out who we were?
+"
+19 7 Stan "Cool. Thanks, dude.
+"
+19 7 Stan "That's Clyde.
+"
+19 7 Stan "What shall we do with him? 
+"
+19 8 Stan "Again?
+"
+19 8 Stan "Aaah, he's in charge of the school paper.  You gonna break his legs, PC Principal?
+"
+19 9 Stan "No, I don't. 
+"
+19 9 Stan "Dude, Kyle. Will you look at this? 
+"
+19 9 Stan "It doesn't make any sense, dude. PC Principal is using the school paper to cover something up.
+"
+19 9 Stan "You don't wanna get involved? Dude, what's wrong with you?
+"
+19 9 Stan "What's that supposed to mean?
+"
+19 9 Stan "That is not what happened! Something is very wrong here! We all have to stand up to PC Principal together!
+"
+19 9 Stan "You have quotes in here from Jimmy. Did you talk to him?
+"
+19 9 Stan "Come on, we'll get to the bottom of this. 
+"
+19 9 Stan "I think it was Vermont.
+"
+19 9 Stan "That's an ad for skiing in Vermont.
+"
+19 9 Stan "Just click out of it.
+"
+19 9 Stan "That's a pretty sweet-looking guitar.
+"
+19 9 Stan "Hit the arrow, I wanna see where it's playing.
+"
+19 9 Stan "Wait wait wait wait wait whoa, whoa. What the hell are we doing?
+"
+19 9 Stan "But what about Jimmy? We were all like totally trying to find out what happened to him.
+"
+19 9 Stan "Wait wait wait wait whoa whoa. What the hell are we doing?
+"
+19 9 Stan "No. That's not what we set out to do.
+"
+19 9 Stan "No, we didn't.
+"
+19 9 Stan "Yeah, like one of us is purposefully trying to keep us from digging too deep because they're afraid.
+"
+19 9 Stan "Why are you looking at me?
+"
+19 9 Stan "Think about it, you guys. From the moment that PC Principal took over Kyle has been different. Haven't you noticed?
+"
+19 9 Stan "He's distracting us, either because he's too afraid or because he- 
+"
+19 9 Stan "Kyle, I think it's pretty obvious you don't want us investigating PC Principal.
+"
+19 9 Stan "I don't know.
+"
+19 9 Stan "My dad's stupid, not a bitch! This is about you being scared, Kyle!
+"
+19 9 Stan "Don't you dare call me a Cartman!
+"
+19 9 Stan "Fuck you, Kyle! 
+"
+19 10 Stan "Alright Kyle, what's this about?
+"
+19 10 Stan "How do you know all this?
+"
+19 10 Stan "Kyle!
+"
+19 10 Stan "You're letting paranoia and suspicion get the better of you! 
+"
+19 10 Stan "What?
+"
+19 10 Stan "Dad, where were you last night?
+"
+19 10 Stan "Work on what?
+"
+19 10 Stan "Principal Victoria?  Mr. Garrison? Caitlyn Jenner?
+"
+19 10 Stan "Tell me what's going on, Dad?
+"
+19 10 Stan "No! I wanna know what the hell is going on right now!
+"
+19 10 Stan "Kyle said I couldn't trust you! What are you planning, Dad?
+"
+19 10 Stan "Then what is it?!
+"
+19 10 Stan "I'm gonna go tell Mom!
+"
+19 10 Stan "Mom!
+"
+19 10 Stan "Because you wouldn't talk to me, Dad!
+"
+19 10 Stan "She doesn't always take my side!
+"
+19 10 Stan "We all need to be better to each other! 
+"
+19 10 Stan "We love you too, Dad.  We just wanna know what's going on with you.
+"
+19 10 Stan "Wait... That's Leslie.  Oh my God... It's Kyle.
+"
+19 10 Stan "Kyle has been protecting Leslie. They're together. He's been making everyone feel paranoid and saying you're the enemy, Dad.
+"
+19 10 Stan "Yeah!
+"
+19 10 Stan "Fuck you, Kyle! You're the enemy!
+"
+19 10 Stan "So now we know who got Principal Victoria fired!
+"
+19 10 Stan "This is going to be really hard.
+"

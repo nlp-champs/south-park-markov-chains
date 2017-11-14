@@ -1,0 +1,220 @@
+2 4 "Mr. Mackey" "Nuh-now, who was that?  That is not appropriate behavior, m'kay?
+"
+2 4 "Mr. Mackey" "Uh... That's okay, just don't let it happen again.
+"
+2 4 "Mr. Mackey" "Uh, okay, okay, that's fine.
+"
+2 4 "Mr. Mackey" "Okay.  Now, uh, as your counselor, I'm here to tell you about drugs and alcohol and why they're bad, m'kay? Uh, so, first of all, uh, smokin's bad.  You shouldn't smoke. And-uh, alcohol is bad.  You shouldn't drink alcohol. And-uh, as for drugs, well, drugs are bad. You shouldn't do drugs. Okay, that about wraps up my introduction, now uh, are there any questions?  Yes, Stan?
+"
+2 4 "Mr. Mackey" "Uhhh, well, I'm not sure.
+"
+2 4 "Mr. Mackey" "Now-uh, let's focus our discussion first on marijawana.  Marijawana's bad, and it also has a very distinct smell, okay? I'm gonna pass around just a little tiny bit. Now, I want you all to take a smell,  so you know when someone is smoking marijawana near you. M'kay, just take a smell, pass it on,  and when it gets back up to me,  we'll finish talking about it. In the meantime, I want to get into alcohol a little, okay? Uh, alcohol is bad. Uh, if you drink alcohol you…
+"
+2 4 "Mr. Mackey" "…and so uh, that's why alcohol is bad. Uh, ha-has that marijawana made it back up here yet?  No? O-okay. Let's talk about LSD.  Uh, children, LSD i-is bad. It's a drug made famous by John Lennon and Paul McCartney…
+"
+2 4 "Mr. Mackey" "Boys, are you paying attention?
+"
+2 4 "Mr. Mackey" "Okay. Now, children, has that marijawana made it around yet?  Uhh, who-who has the marijawana now?  Ummm okay, whoe-whoever has the marijawana, just pass it up to the front row, m'kay?  Uh-oh.
+"
+2 4 "Mr. Mackey" "I'm sorry, Prinshipal Victoria.
+"
+2 4 "Mr. Mackey" "You mean I'm fired?
+"
+2 4 "Mr. Mackey" "But-but it was an honest error of judgment, m'kay? I-I really thought it was important for the kids to know the smell of marijawana--
+"
+2 4 "Mr. Mackey" "But--
+"
+2 4 "Mr. Mackey" "Huh, how am I going to make ends meet...m-m'kay? Wha-what will I do for money??
+"
+2 4 "Mr. Mackey" "No-uho-uho-uho!  Not o-uho-uhokay!
+"
+2 4 "Mr. Mackey" "Uuuuuugh! 
+"
+2 4 "Mr. Mackey" "Naw, I just-- I had to get away, m-m'kay? I just lost my job.
+"
+2 4 "Mr. Mackey" "Oh-uh-uh, I don't drink, m'kay?
+"
+2 4 "Mr. Mackey" "Ughuh...  Drinkin's bad.
+"
+2 4 "Mr. Mackey" "Woah, about the same.
+"
+2 4 "Mr. Mackey" "Why, Mr. Freely?
+"
+2 4 "Mr. Mackey" "No, no, no, m'kay? I-it wasn't like that.
+"
+2 4 "Mr. Mackey" "But I've never taken drugs either.
+"
+2 4 "Mr. Mackey" "Huuhh?  Ow, m'kay?!
+"
+2 4 "Mr. Mackey" "Uh, uh-- 
+"
+2 4 "Mr. Mackey" "Whoa, wait! 
+"
+2 4 "Mr. Mackey" "Hoh! I can't sleep; it's too cold, m'kay?
+"
+2 4 "Mr. Mackey" "Oh, I didn't know this dark alley was taken.
+"
+2 4 "Mr. Mackey" "Marijuwana's bad.
+"
+2 4 "Mr. Mackey" "Ma-marijuwana makes you feel depressed and low, m'kay?
+"
+2 4 "Mr. Mackey" "Oh, good point.  No, I don't feel any d-oooohh...  Oh, baby, get down, m'kay?
+"
+2 4 "Mr. Mackey" "Man, this alley is cool! It's so alive and beautiful! 
+"
+2 4 "Mr. Mackey" "Oh, man, where am I?
+"
+2 4 "Mr. Mackey" "Uh, hi, boys, how are you today?
+"
+2 4 "Mr. Mackey" "Oh, I've been better. I've been kicked out of town for doing drugs.
+"
+2 4 "Mr. Mackey" "Oh. O Fortune, how you mock me?
+"
+2 4 "Mr. Mackey" "Uh-uh, boys, LSD is bad. Hmmm...  Man, who put all this cotton in my mouth?  Yeah, baby... The world is so small.  I'm free... I'm free...
+"
+2 4 "Mr. Mackey" "Hi, boys.
+"
+2 4 "Mr. Mackey" "Are you boys stayin' out of trouble?
+"
+2 4 "Mr. Mackey" "Okay, I-I'm just gonna go over here for a while. 
+"
+2 4 "Mr. Mackey" "I don't need to take you right-wing authoritative bullshit!
+"
+2 4 "Mr. Mackey" "Aw, you're just like the government, man! Trying to prosecute outta one side of your mouth, m'kay, while supporting guns outta the other, m'kay?
+"
+2 4 "Mr. Mackey" "I can't, man. Jerry Bear's dead, m'kay?
+"
+2 4 "Mr. Mackey" "What? Oh, thanks, man.
+"
+2 4 "Mr. Mackey" "Sure, man. Finger-paintin's cool, m'kay? 
+"
+2 4 "Mr. Mackey" "At long last I have foundA true reason to beNow I feel I can start anew--  Woo, whoa! Ow! Hey!  Uh oh hel-m. Hey!
+"
+2 4 "Mr. Mackey" "Uh-- What the hell is going on?!
+"
+2 4 "Mr. Mackey" "I don't want to go to rehab! I haven't even done drugs in weeks!
+"
+2 4 "Mr. Mackey" "I don't want help!
+"
+2 4 "Mr. Mackey" "But I don't think I really have a problem.
+"
+2 4 "Mr. Mackey" "I don't really have a family.
+"
+2 4 "Mr. Mackey" "No, I lost my job before that.
+"
+2 4 "Mr. Mackey" "Drugs are baad.
+"
+2 4 "Mr. Mackey" "Uhh... Dru-drugs are baad.
+"
+2 4 "Mr. Mackey" "I can't thank you enough for everything, m'kay? I feel like my old self again.
+"
+2 4 "Mr. Mackey" "I will, Ms. Social Worker. I will.  M'kay?
+"
+2 4 "Mr. Mackey" "Okay, kids? Uh, you shouldn't do drugs, m'kay? Drugs are bad. You see, I was at the bottom of the barrel. I was a wreck; why, I didn't even care about money. I was-I was wasting my life... 
+"
+2 4 "Mr. Mackey" "Now boys, you need to listen up, m'kay? Wha-what I'm talkin' about might save your life someday, m'kay?
+"
+2 4 "Mr. Mackey" "M'kay.
+"
+2 4 "Mr. Mackey" "M'kay.
+"
+2 4 "Mr. Mackey" "Okay.  Now, as I was sayin, uh... drugs are bad. You shouldn't do drugs. Eh, uh if you do them, you're bad. Because drugs are bad, m'kay? It's a bad thing to do drugs. So-uh so don't be bad, by doing drugs, unkay? That'd be bad, 'cause drugs are bad. M'kay?
+"
+2 5 "Mr. Mackey" "Uh, Nurse Gollum is absolutely qualified to be a--
+"
+2 5 "Mr. Mackey" "Uh, Principal Victoria, Nurse Gollum has conjoined twin myslexia.
+"
+2 5 "Mr. Mackey" "Y-you never noticed that?
+"
+2 5 "Mr. Mackey" "Do we have to eat kosher stuff?
+"
+2 5 "Mr. Mackey" "Yeah, but you know, it-it doesn't matter though. The-the Denver team always wins, m'kay?
+"
+2 5 "Mr. Mackey" "Could I get some more pork?
+"
+2 5 "Mr. Mackey" "Th-the school could put out pamphlets, m'kay? And we could have seminars to educate, m'kay?
+"
+2 6 "Mr. Mackey" "Welcome to detention, m'kay? Mr. Garrison told me about your little joke. It's important for you all to know why you're in detention for you to obtain the full benefits from it.
+"
+2 6 "Mr. Mackey" "You're here because you are inferior, m'kay? You are here because you are awkward, m'kay?
+"
+2 6 "Mr. Mackey" "Shh! M'kay?
+"
+2 6 "Mr. Mackey" "Shh! M'kay?
+"
+2 7 "Mr. Mackey" "Oh oh okay? Let's try to calm down, nkay? This type of thing happens all the time.
+"
+2 7 "Mr. Mackey" "Well, 99% of the time, when a child is missing, it's because they've run away. M'kay? 
+"
+2 7 "Mr. Mackey" "Well, we just need to make some posters, nkay? Hand out brochures, onkay? That way, the public can know what the chldren look like and can call in if thry're spotted, m'kay?
+"
+2 11 "Mr. Mackey" "Okay uh van Gelder-
+"
+2 11 "Mr. Mackey" "-okay uh I'm Counselor Mackey. Have you been smokin' marijawana? Marijawana's bad, mkay?
+"
+2 11 "Mr. Mackey" "Well, I've never seen anything like this. What do you think, principal?
+"
+2 11 "Mr. Mackey" "Um. How's he doing, nurse?
+"
+2 11 "Mr. Mackey" "Drugs are good, mkay?
+"
+2 11 "Mr. Mackey" "The machine is aaaah? Uh that's probably bad.
+"
+2 11 "Mr. Mackey" "Uh, there's only one way to get any sense out of him. We're gonna have to try a mind meld, mkay?
+"
+2 11 "Mr. Mackey" "Well, it's an ancient technique handed down from school counselor to school counselor. I don't like to use it, but it may be our only hope.
+"
+2 11 "Mr. Mackey" "Just time to prepare, nurse. Just time.  Mkay?
+"
+2 11 "Mr. Mackey" "Our minds are one. Mkay? Our thoughts are one. Mkay?
+"
+2 11 "Mr. Mackey" "Please, nurse, for a woman with a dead fetus on your head, you're not being very open-minded.  Open your mind to your counselor. Open your mind.
+"
+2 11 "Mr. Mackey" "Yes.
+"
+2 11 "Mr. Mackey" "Mkay?
+"
+2 11 "Mr. Mackey" "Abuh. Please, nurse, you're throwin' off my chi! Mkay?
+"
+2 11 "Mr. Mackey" "Aha! Caught you red-handed! Mkay!
+"
+2 11 "Mr. Mackey" "Officer Barbrady, uh, this man is using some kind of mind control.
+"
+2 11 "Mr. Mackey" "Oh no, apparently, he thinks he's Charlton Heston.
+"
+2 11 "Mr. Mackey" "Uh oh.
+"
+2 11 "Mr. Mackey" "Eric, you really saved the day. Mkay?
+"
+2 11 "Mr. Mackey" "Think hard, Elvis. You're not really the king of rock and roll. You're a fat, stupid, worthless policeman in a small town. Mkay?
+"
+2 12 "Mr. Mackey" "Now, young man, uh- school is a time for learning, mkay? Not for immature skylarkings.
+"
+2 12 "Mr. Mackey" "You know, like tomfooleries.
+"
+2 12 "Mr. Mackey" "Oh, your parents are here.
+"
+2 12 "Mr. Mackey" "Thank you for coming on such short notice. I was just disciplining your son for his skylarkings.
+"
+2 12 "Mr. Mackey" "Yeahmkay?
+"
+2 12 "Mr. Mackey" "Okay. Stanley, we're all here to get to the root of your behavior disorder.
+"
+2 12 "Mr. Mackey" "Okay, uh-- Perhaps you should let your wife finish talking, Mr. Marsh. Now, Stan, I want to you to be--
+"
+2 12 "Mr. Mackey" "Uh. U-uh, taking over any conversation's bad.
+"
+2 12 "Mr. Mackey" "Uuuhh. Mmm mkay.
+"
+2 12 "Mr. Mackey" "Okay uh uh uh-apparently we have a bit of a communication problem here. Uh, Mr. Marsh, tell me how you're feeling.
+"
+2 12 "Mr. Mackey" "Mkay. That's valid. Now, uh, Mrs. Marsh--
+"
+2 12 "Mr. Mackey" "-how do you feel?
+"
+2 12 "Mr. Mackey" "Who tries to control the marriage? And by that I mean, who's dominating the aspects of the relationship?
+"
+2 12 "Mr. Mackey" "Mmkay.
+"
+2 14 "Mr. Mackey" "Whooaa..!
+"

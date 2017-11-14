@@ -1,0 +1,144 @@
+17 2 "Mr. Mackey" "Butters, your dad threw you down a well?
+"
+17 2 "Mr. Mackey" "Well what the hell is that?
+"
+17 3 "Mr. Mackey" "Eric, somethin' is clearly wrong, m'kay, and it would be best to jus' get it out in the open.
+"
+17 3 "Mr. Mackey" "And why do you think Token is a tickin' time bomb?
+"
+17 3 "Mr. Mackey" "Do you think he blames you for somethin'?
+"
+17 3 "Mr. Mackey" "Wull have you, thought about maybe writin' your feelin's down? In a poem? Uh- write a poem and give that to, g-give that to Token?
+"
+17 3 "Mr. Mackey" "Well Eric, you need to do somethin' because you keep losing sleep. M'kay and sleep is very important to your success at school. M'kay?
+"
+17 3 "Mr. Mackey" "M'kay, you sure? Because I'm here when you need me.
+"
+17 3 "Mr. Mackey" "Now Eric, whatever it is you and Token are going through, you need to talk through it, m'kay? The problems you two are havin' have become a distraction for everybody else. Agreed?
+"
+17 3 "Mr. Mackey" "Okay. Token, come on in, please. 
+"
+17 3 "Mr. Mackey" "Token, I've been talkin' with Eric and he's really upset that you two aren't gettin' along. You have some things you wanna say, Eric?
+"
+17 3 "Mr. Mackey" "Okay Token, what are your feelings about that?
+"
+17 3 "Mr. Mackey" "Eric, do you feel better about all this?
+"
+17 3 "Mr. Mackey" "Okay, thanks Token. 
+"
+17 3 "Mr. Mackey" "Now, Token, what you need to understand, m'kay, is that a school assembly is not the time and the place to be yellin' and causin' distractions. M'kay? If there's somebody causin' you problems, then we don't disrupt the assembly, m'kay. You come and you talk to me.
+"
+17 3 "Mr. Mackey" "Well that's your side of it, Token, but you know Eric has his side as well. Have you thought about maybe writin' him a poem? M'kay? Write E- write Eric a poem, tell him how you feel.  You know, m'kay? Well I'm tellin' you, Token, you let it go, and he'll let it go, and it'll all be fine. Can ya?
+"
+17 3 "Mr. Mackey" "Eric Cartman to the counselor's office please.
+"
+17 3 "Mr. Mackey" "Have a seat, Eric. Now boys, I for one am sick and tired of this little feud you're having, okay? This has clearly gone too far, and you owe each other an apology or you're gettin' detention!
+"
+17 3 "Mr. Mackey" "Well he was technically standing his ground, Token.
+"
+17 5 "Mr. Mackey" "Students, I would like to introduce you all to the future.  M'kay. Starting today, our school will be operating entirely on IntelliLink.  Now whenever you need to see the school nurse, or talk to me, your counselor, you can simply sign up using this simple, integrated portal.  M'kay...  You can use a computer or any of the IntelliLink panels which are located throughout the school.  Lat's say you're in the cafeteria, m'kay. You start cougin' up blood and need to see the nurse. You just click on ""school clinic"" Mkay, see nurse. M'kay. Respiration problems.  Uh, okay, I must have I must have been in the wrong menu, uhkay. As you can see, you can control the sound system as well. Okay.  It's all integrated and smartlinked, and this is a great idea, m'kay. Let's look at the message board.  Mesage... board.  Here you can easily write messages to each other or to the faculty, m'kay? For instance,  here we go. Here's a message from Kyle's little brother, Ike Broflovski.  Okay, little Ike says ""My brother is a homo"" Ike made a little drawing of his brother too.  Drew a nice picture with a... nice bird hangin' off Kyle's forehead, m'kay, that's nice.  It's a nice... crane, a nice whoopin' crane comin' off Kyle's head there.
+"
+17 5 "Mr. Mackey" "Come in, m'kay.
+"
+17 5 "Mr. Mackey" "Oh-kay, have you set up a counseling appointment on IntelliLink?
+"
+17 5 "Mr. Mackey" "Ookay, that's fine, that's fine. We can use IntelliLink to see what's available. Let's see, counseling request. Students. Make appointment.  Okay, ah whoops. Okay, uh sume, uh students make appoint-alala here we go. Make, make appointment.  Uhkay, here we go. Uhkay, what do you need counseling with?
+"
+17 5 "Mr. Mackey" "Okay, I'll click on family issues. What time did you want counseling?
+"
+17 5 "Mr. Mackey" "Oo-kay, aaand, what is your brother's Intelligrated smart name?
+"
+17 5 "Mr. Mackey" "Alright, I can do a lookup for the name. Uh go back. Main menu.  Oh... Damnit. Okay now, back.  Set- no, set appointment. Okay, speakers off.  Okay, uh... Okay, what is your smart name, Kyle?
+"
+17 5 "Mr. Mackey" "Sorry, Kyle, we're gonna need to maybe go somewhere else. Uh... find an IntelliLink panel somewhere.
+"
+17 5 "Mr. Mackey" "Okay, let's see, lights.  Mood.  Start counseling timer.  Okay there we go. Okay, we got it.  Okay now, Kyle, you had some concerns about your little brother?
+"
+17 5 "Mr. Mackey" "Well it sounds like he's hittin' puberty.
+"
+17 5 "Mr. Mackey" "Well, your brother is Canadian. Perhaps Canadian puberty is a little different. Why don't you educate yourself about Canadian puberty and it could be somethin' yeeyou and your brother can actually do together. M'kay?  You know, this is the first time I've been able to do counseling aaand go to the bathroom at the same time. IntelliLink is amazing.
+"
+17 5 "Mr. Mackey" "Okay, there we go. That's cut the speakers off. Now what was it you were trying to do, Kyle?
+"
+17 5 "Mr. Mackey" "No, this is gonna work! I called IntelliLink and they said they were sending over an engineer. 
+"
+17 5 "Mr. Mackey" "Yes!
+"
+17 5 "Mr. Mackey" "Yeah, a student is trying to make an appointment to see the principal. M'kay?
+"
+17 5 "Mr. Mackey" "Oh I see.
+"
+17 5 "Mr. Mackey" "Uh, I I needed the silver package? Okay okay? Can we do that?
+"
+17 5 "Mr. Mackey" "Well yeah, but see, the problem is not everyone is not everyone is signed on to it yet.
+"
+17 5 "Mr. Mackey" "I know that IntelliLink has had some... hiccups... uhkay. But I've hired a new faculty member whose sole responsibility will be to oversee the IntelliLink system and make sure it runs smoothly. I want you all to meet Pat Conners. 
+"
+17 5 "Mr. Mackey" "Don't ""Hello"" us, Pat! This system that you're responsible for now isn't working out! So  what the hell are you gonna do about it?!
+"
+17 5 "Mr. Mackey" "Getting acclimated?!  Do you know how much money we wated on that thing?! How about you take some damned responsibility! Get the hell out of here, Pat! You're fired! Get out!  Well. How the hell are we gonna clean up Pat's mess? I guess, I dunno, I guess we got no choice, m'kay. We're just gonna need to the upgrade to the IntelliLink Gold Package. 
+"
+17 5 "Mr. Mackey" "No, see, it's a $10,000 upgrade, but it should clean up all of Pat's mistakes.
+"
+17 5 "Mr. Mackey" "Well ih it's good to be a little defensive around you, Miles, m'kay. Let's, let's not forget that your wife died of an ""accident"" while you were ""drinking"" on a ""hike,"" ""N'kay!""
+"
+17 5 "Mr. Mackey" "No! Now you listen to me!  IntelliLink is a great idea, and we just need the Goddamned Gold Package! We are doublin' down!
+"
+17 5 "Mr. Mackey" "No, they have to be able to get grades!
+"
+17 5 "Mr. Mackey" "No! There's no more upgrades, m;kay?! I just want this  to work!
+"
+17 5 "Mr. Mackey" "I just want students to be able to make appointments to see the counselor, be able to see the school norse in the easiest, most streamlined fashion!
+"
+17 5 "Mr. Mackey" "Alright, upgrade me to the Centurion package.
+"
+17 6 "Mr. Mackey" "Your attention, please. Will Kyle Broflovski report to the principal's office?
+"
+17 6 "Mr. Mackey" "Kyle Broflovski to the principal's office. Please. Umkay?
+"
+17 6 "Mr. Mackey" "Ah, thanks for comin', Kyle.
+"
+17 6 "Mr. Mackey" "Kyle, please try your best. It seems pretty important.  This.. boy... uhkay... is Jew. Uhkay? Jew... like you. Uhkay? Please... uh, please try... speak... to Jew.
+"
+17 6 "Mr. Mackey" "Anything?
+"
+17 6 "Mr. Mackey" "You catch any of that, Kyle? 
+"
+17 6 "Mr. Mackey" "What's goin' on, Kyle??
+"
+17 6 "Mr. Mackey" "Come on in.
+"
+17 6 "Mr. Mackey" "Wuh sure, Kyle. What's the matter?
+"
+17 6 "Mr. Mackey" "Well, Kyle, living with a lie is never a good thing. Okay. Could... could you maybe just tell me?
+"
+17 6 "Mr. Mackey" "Well... why do you like his farts in your tummy?
+"
+17 6 "Mr. Mackey" "Well Kyle, that's kind of odd. Uh, not sure how to help you with that.
+"
+17 6 "Mr. Mackey" "Mmmmmmmmmmmmmmmmmmmmmm kaaaaaaaaaaaaaaaay.
+"
+17 10 "Mr. Mackey" "Uh, take a seat, Wendy. I guess some mean things were said and I need to get to the bottom of it.
+"
+17 10 "Mr. Mackey" "Uh, no Wendy, apparently, you called Butters' girlfriend a hobbit.
+"
+17 10 "Mr. Mackey" "Uh but, but Wendy, Kim Kardashian is considered to be extremely beautiful, mkay?
+"
+17 10 "Mr. Mackey" "Now, Wendy, Kim might be uh, full-figured, but a woman's outward appearance isn't all that matters, nkay?! Have you stopped to consider that maybe, just maybe, you're jel?
+"
+17 10 "Mr. Mackey" "Uh that may be true, but there is a very fine line, Wendy, between being a feminist and being a hater, mkay? And you're gonna have to find that line because nobody likes a girl who's jelly!
+"
+17 10 "Mr. Mackey" "Now Wendy, I've tried to be patient with you 'cause you've always been a good student! M'kay?! But calling a little girl fat and ugly is NEVER n'kay!
+"
+17 10 "Mr. Mackey" "No! No excuses! You have a problem bein' jelly, Wendy! Okay?! Just maybe, I should have you sent off to jelly school!
+"
+17 10 "Mr. Mackey" "That's right! In fact, I'm gonna call the jelly school right now, okay?!  I'm sorry about this, but it's gone too far! I've had it! Hello, is this the jelly school?! ... Okay, I have a girl here who's extremely jelly! Uh, see if you can take her in for a few weeks! Okay, you're full? Okay, yeah, I guess she dodged a bullet this time, but she'd better watch her jelly behavior!
+"
+17 10 "Mr. Mackey" "Yuh, you do? Okay, well I'm not actually on the phone with a... jelly school, Wendy, okay?
+"
+17 10 "Mr. Mackey" "Okay, well Wendy, I'm just tryin' to uh- Oh, bye, jelly school.  Uh, Wendy, I'm just tryin' to make you understand how serious it is when you lash out at other girls.
+"
+17 10 "Mr. Mackey" "M-okay.
+"
+17 10 "Mr. Mackey" "WENDY, IN MY OFFICE, RIGHT NOW! OKAY?!
+"

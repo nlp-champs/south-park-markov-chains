@@ -1110,3 +1110,559 @@
 "
 14 14 Stan "Hey no, no. All you people get out of here.
 "
+14 1 Stan "What are you guys doing?
+"
+14 1 Stan "Aw dude, I clocked you!
+"
+14 1 Stan "Hang on, hang on, I'm switching to a 7-iron. 
+"
+14 1 Stan "Hit A and X together.
+"
+14 1 Stan "I don't think so dude, I got the pre-nup power-up.
+"
+14 1 Stan "Yeah, back in that water level.  Is Kyle still at sex-addiction therapy? That must be really intense.
+"
+14 1 Stan "Yeah, where's all the fighting?
+"
+14 1 Stan "Yeah, golf is stupid again. 
+"
+14 2 Stan "All right!
+"
+14 2 Stan "Did you get to any dirty parts yet?
+"
+14 2 Stan "I don't get it dude, w-what's so controversial about this? All he's done is said ""shit"" and ""fuck"" a few times.
+"
+14 2 Stan "Why would anyone think this book so obscene or dangerous?
+"
+14 2 Stan "Hey yeah, we should write our own banned book. 
+"
+14 2 Stan "Guys, guys! We are totally fucked! The book is gone from my dresser drawer. My parents must have found it!
+"
+14 2 Stan "Hey hey! I'm not taking the heat for this alone! We all wrote it! If I'm going down, somebody has to go down with me!
+"
+14 2 Stan "Well dude, somebody has got to go down!
+"
+14 2 Stan "Butters, listen: you are in big trouble!
+"
+14 2 Stan "Okay, well... a-actually it was all written by... Butters. 
+"
+14 2 Stan "Hey, wait a minute, that's ours!
+"
+14 2 Stan "What? Hey! 
+"
+14 2 Stan "Yeah, but that was when we thought we were gonna get in trouble, asshole! 
+"
+14 2 Stan "God-damnit!
+"
+14 2 Stan "More and more of us are against this book every day! The author is cruel and offensive! And for these reasons, we demand this book be banned from all school, stores, and libraries! This book is nothing but smut and vulgarity purely for the sake of smut and vulgarity!
+"
+14 2 Stan "Goddamnit there is no deeper meaning in this book! Read it again!
+"
+14 2 Stan "What? Dude, that is not in the book at all!
+"
+14 2 Stan "What?
+"
+14 2 Stan "There's nothing about liberals or conservatives!
+"
+14 2 Stan "I can't believe they won't ban our book!
+"
+14 2 Stan "Shut up, Cartman! Just face it. We lost this one. 
+"
+14 2 Stan "So dude, if Butters wrote a second book, then everyone's gonna know he couldn't have written the first one!
+"
+14 2 Stan "Aw dude, this is even lamer than we thought. 
+"
+14 2 Stan "You can't be serious! You people like this?!
+"
+14 2 Stan "God-damnit, will you people stop reading into stuff that isn't there!!
+"
+14 2 Stan "They're saying they're gonna ban both your books now, completely. You're not making any more money!
+"
+14 2 Stan "Yeah, dude, eh, that's why we all need to avoid books and stick to television.
+"
+14 3 Stan "Hey it looks different.
+"
+14 3 Stan "A what?
+"
+14 3 Stan "What'd they say?
+"
+14 3 Stan "The doctor? But Dad, we wanna eat.
+"
+14 3 Stan "Dad, Mom says to stop trying to give yourself cancer.
+"
+14 4 Stan "Aww, are you guys doing that stupid Facebook stuff again?
+"
+14 4 Stan "Why are you guys in here wasting your time? We're supposed to be outside playing video games.
+"
+14 4 Stan "Dude, who the hell wants to play Yahtzee?
+"
+14 4 Stan "Noo, I told you guys I don't wanna be on Facebook!
+"
+14 4 Stan "I'm not collecting friends and I'm not building any farms! I don't wanna get sucked into this!
+"
+14 4 Stan "Who?
+"
+14 4 Stan "You guys are retarded I'm playing Xbox. 
+"
+14 4 Stan "Yeah, Dad, I was kinda forced to.
+"
+14 4 Stan "No- Dad, I I really don't wanna get more into it.
+"
+14 4 Stan "...Dad, you are my friend.
+"
+14 4 Stan "Dad it's just a stupid click of a button, it takes two seconds!
+"
+14 4 Stan "I just wanna do my homework!
+"
+14 4 Stan "Alright, Dad, I'll add you!
+"
+14 4 Stan "What?
+"
+14 4 Stan "...Um, no?
+"
+14 4 Stan "Oh Goddamnit no! I just got that because Kyle-
+"
+14 4 Stan "Relationship stat- I didn't even pay any attention to that-
+"
+14 4 Stan "Alright, I'll add you as a friend. I'm sorry.
+"
+14 4 Stan "How?
+"
+14 4 Stan "Okay, I'm sorry!
+"
+14 4 Stan """Edit profile. Basic... settings"" Jesus Christ!
+"
+14 4 Stan "...Aw. Dad, I just really don't wanna pay attention to this thing!
+"
+14 4 Stan "Alright, Dad, I'll add Grandma as a friend.
+"
+14 4 Stan "Dude, fuck Facebook! Seriously!  What the hell is this?! Podcast?
+"
+14 4 Stan "Sure dude.  Dude, what's the matter?
+"
+14 4 Stan "What?
+"
+14 4 Stan "Okay dude, I'm I'm here for you.
+"
+14 4 Stan "NO.
+"
+14 4 Stan "Dude, I've already had to become friends with all of Wendy's frends and my grandma's friends! I do NOT want to start doing all the farming stuff too! I'm not getting sucked into that!
+"
+14 4 Stan "Ah fuck.
+"
+14 4 Stan "Okay it says I'm at your farm.
+"
+14 4 Stan "'Kay, it says you and I are now very good friends.
+"
+14 4 Stan "What?
+"
+14 4 Stan "...I have no idea.
+"
+14 4 Stan "Susan92 is a friend of my grandma's and she's 92 years old! 
+"
+14 4 Stan "Fine! 
+"
+14 4 Stan "I don't know you!
+"
+14 4 Stan "...Dad, I didn't even wanna do th-
+"
+14 4 Stan "No. NO! Screw this! You know what? ""Edit Profile &gt; Update Profile."" There! ""Delete Profile""!  ""You have requested to delete your Facebook profile. If this is an error, hit Cancel"" Proceed!  ""Delete yor profile, are you sure? Yes. No."" Yes! ""Are you totally sure?"" Yes! 
+"
+14 4 Stan "You can't let me do that? What are you talking about? 
+"
+14 4 Stan "Delete Profile! ""Are you totally sure? Yes or-"" Yes! Goddamnit yes! Delete! Delete delete!  Hey dad?  Dad?  Oh dude, what the fuck? 
+"
+14 4 Stan "Profile? I'm not a profile.
+"
+14 4 Stan "AAH. 
+"
+14 4 Stan "'Scuse me, my name is-
+"
+14 4 Stan "Eh hey, could you tell me how I-
+"
+14 4 Stan "Aw Goddamnit I got sucked into Facebook!
+"
+14 4 Stan "Excuse me. Could you tell me what the hell's going on?
+"
+14 4 Stan "No, I seriously don't want any more friends.
+"
+14 4 Stan "Okay I'll be your friend.
+"
+14 4 Stan "Awww!
+"
+14 4 Stan "Why oh oh?
+"
+14 4 Stan "Yahtzee?
+"
+14 4 Stan "Can't we play on speeder bikes or something?
+"
+14 4 Stan "Yahtzee. 
+"
+14 4 Stan "I've made them complicated?! I don't even wanna be here!
+"
+14 4 Stan "My profile? Goddamnit my Facebook profile has taken on a life of its own! Where is it?!
+"
+14 4 Stan "Oh yeah? I can try! 
+"
+14 4 Stan "You're an asshole, Kyle!
+"
+14 4 Stan "What's the one thing I told you?! That I didn't wanna get sucked into Facebook! This is all your fault!
+"
+14 4 Stan "What's it look like I'm doing?! I found your farm in Facebook so you can help me deal with this bullshit! You've gotta go check out my profile status!
+"
+14 4 Stan "Just bring up my Facebook page and see what it says my status is!
+"
+14 4 Stan "Dude! Fuck your crops! 
+"
+14 4 Stan "Where?
+"
+14 4 Stan "Son of a bitch! 
+"
+14 4 Stan "Jesus Christ.
+"
+14 4 Stan "Has anybody seen my stupid profile?!
+"
+14 4 Stan "Alright alright, enough! Everybody just shut up!  Where is profile Stan Marsh! 
+"
+14 4 Stan "Oh...
+"
+14 4 Stan "What do you want from me, dude?!
+"
+14 4 Stan "Damnit I should have deleted you a long time ago!
+"
+14 4 Stan "Who cares? Friends shouldn't be some kind of... commodity for a person's status!
+"
+14 4 Stan "Fuckin' Yahtzee again? Seriously? 
+"
+14 4 Stan "Yahtzee.
+"
+14 4 Stan "Yahtzee. Sixes.
+"
+14 4 Stan "Awgh!  Oh thank God.
+"
+14 4 Stan "My Facebook profile went rogue, Dad. I had to go into the circuitry and do battle with it. I sent all my friends somewhere else.
+"
+14 4 Stan "Fuck off, Dad. 
+"
+14 5 Stan "Oh God, you guys, really? This again? 
+"
+14 5 Stan "You guys stop! All you're doing is rehashing a bunch of old stuff! 
+"
+14 5 Stan "Huh?  Oh wow it is! Hey guys check it out, Tom Cruise is a fudge packer!
+"
+14 5 Stan "Then why are you packing fudge?
+"
+14 5 Stan "Dude, you are in a fudge factory packing fudge.
+"
+14 5 Stan "For what?
+"
+14 5 Stan "But dude-
+"
+14 5 Stan "I have no idea...
+"
+14 5 Stan "Aww... he was packing fudge!
+"
+14 5 Stan "It wasn't just me. Other kids called him a fudge packer, even Mr. Gar-
+"
+14 5 Stan "Ooooooo...
+"
+14 5 Stan "I saw him once. 
+"
+14 5 Stan "Yeah, one time, my friends joined David Blaine's cult, and I had to go to the Super Best Friends to rescue them, and Muhammad was one of the Super Best Friends.
+"
+14 5 Stan "No, dude, it was totally fine.
+"
+14 5 Stan "Well, a giant John Wilkes Booth shot Abraham Lincoln...
+"
+14 5 Stan "Jesus, all we are asking you to do is bring Muhammad to our town for like an hour.
+"
+14 5 Stan "Awww, not you guys too... Jesus fucking Christ!
+"
+14 5 Stan "Okay. A suit of armor? We just have Muhammad in a suit of armor so you can't see anything.
+"
+14 5 Stan "Well yeah, he's got to talk or nobody knows he's in there!
+"
+14 5 Stan "What! No, dad. we promised the Super Best Friends that Muhammad would stay in the truck.
+"
+14 5 Stan "No, you can't even show his feet.
+"
+14 5 Stan "Muhammad, are you okay? 
+"
+14 5 Stan "They want his power?
+"
+14 5 Stan "Yeah, we said we'd take care of him.
+"
+14 5 Stan "We made a promise... to Jesus! 
+"
+14 5 Stan "Dude, we can't do that
+"
+14 6 Stan "It's no trick, dude. My friend and I went to the Super Best Friends and brought him here!
+"
+14 6 Stan "Okay, so um, see? This is Muhammad.
+"
+14 6 Stan "When you all said you were gonna hand Muhammad over to Tom Cruise. We promised Jesus that Muhammad would stay safely in the U-Haul!
+"
+14 6 Stan "If we were gonna have someone in a bear costume, why would we actually have it be Muhammad, you fucking idiot?!
+"
+14 6 Stan "Kenny! Kenny! Dude, what the hell?! You're supposed to be watching Muhammad!
+"
+14 6 Stan "Oh thank God. Hey Muhammad.
+"
+14 6 Stan "The gingers and celebrities all want a piece of him. I don't know where we can go.
+"
+14 6 Stan "...Yeah.
+"
+14 6 Stan "Dr. Mephesto, we need your help!
+"
+14 6 Stan "Dude, that doesn't matter to people right now!
+"
+14 6 Stan "Alright alright, just tell Cartman who his dad is real quick so we can clone Muhammad.
+"
+14 6 Stan "Come on, guys, we're running out of time! 
+"
+14 6 Stan "That's not cool!
+"
+14 6 Stan "We don't live in the '60s anymore, you know! We have a black president!
+"
+14 6 Stan "Oh crap, the gingers!
+"
+14 6 Stan "What head ginger?! And where's Cartman?!
+"
+14 6 Stan "Hey look! Tom Cruise has Seaman on his back. 
+"
+14 6 Stan "Yeah.
+"
+14 6 Stan "Oh dude, look.  Hey, Cartman...
+"
+14 6 Stan "Yeah dude, we, we know what it means.
+"
+14 6 Stan "Look, Mr. Cruise, I'm sorry I said you were a fudge packer and that seaman on your back.
+"
+14 6 Stan "We do? Oh Oh yeah, we do!
+"
+14 6 Stan "We'll do better than that. We'll help you get there.
+"
+14 7 Stan "Towelie has become a complete nightmare in our town! He's broken into my house twice, and stolen my allowance! I-I've got almost nothing left!
+"
+14 7 Stan "There's noo doubt in my mind that if we don't get Towelie help, our entire summer is gonna be ruined! 
+"
+14 7 Stan "We went out and got Towelie a job so he could try to pay us back all the money he owes us!  Stupid towel!
+"
+14 7 Stan "A lot of times, when Towelie shoots heroin he just... gets angry at everybody.
+"
+14 7 Stan "Today is Towelie's intervention. We have ...no idea how he's gonna react.
+"
+14 7 Stan "Towelie, if you do not go to treatment, we will all ignore you forever. Will you go?
+"
+14 8 Stan "Cartman, dude, what's wrong?
+"
+14 8 Stan "Why not?
+"
+14 8 Stan "Cartman, tell us.
+"
+14 8 Stan "Well Cartman, if you wanna drive NASCAR when you grow up, you can.
+"
+14 8 Stan "Dude, noo, you- you don't know that.
+"
+14 8 Stan "Dude, I don't think just poor and stupid people like NASCAR!
+"
+14 8 Stan "Dude, you are so retarded!
+"
+14 9 Stan "You guys do not understand. Having neighbors from Jersey is the worst! All night long they keep me awake! They're either screaming at each other or making some disgusting sex sounds. It seems like all people from Jersey do is hump and punch each other!
+"
+14 9 Stan "They talk way too loud, they flip out for no reason, and every time they act like selfish assholes, they just go, ""Oh, it's a Jersey thing. It's a Jersey thing.""
+"
+14 9 Stan "Did you know your mom was from Jersey?
+"
+14 9 Stan "No, uh, it just explains a lot.
+"
+14 9 Stan "Stop it, Cartman. Just 'cause Kyle's mom is a Jersey asshole doesn't mean Kyle is.
+"
+14 9 Stan "Tryin' to help. My dad says to distribute all these guns.
+"
+14 9 Stan "Cartman, what the hell are we doing at Sizzler?
+"
+14 9 Stan "Dude, what are you doing?
+"
+14 9 Stan "Try to find a way past it!
+"
+14 9 Stan "Jesus Christ, what the hell do we do?
+"
+14 9 Stan "Why? 
+"
+14 9 Stan "Dude.
+"
+14 9 Stan "Well, Kyle, looks like you're totally back to normal.
+"
+14 9 Stan "I just have one question, Kyle. At Sizzler when you were yelling ""Muff cabbage,"" what's muff cabbage?
+"
+14 10 Stan "A note?
+"
+14 10 Stan "We need to talk.
+"
+14 10 Stan "Is something wrong, Wendy? 
+"
+14 10 Stan "My locker?
+"
+14 10 Stan "Are you serious?
+"
+14 10 Stan "Well it's just a little messy.
+"
+14 10 Stan "Aw come on.
+"
+14 10 Stan "Yeah, alright.
+"
+14 10 Stan "What, come on, it's not that bad.
+"
+14 10 Stan "My psychosis? Look, it isn't that big a deal, I'll just throw this stuff away.
+"
+14 10 Stan "Well, no, that's my pencil box. I need my pencil box.
+"
+14 10 Stan "Well... it's good to have that, because sometimes I really wanna brush after lunch, and I-
+"
+14 10 Stan "Yeah, but it works perfectly fine and I-
+"
+14 10 Stan "Well, that, I mean, yeah, I mean... I kinda need that. Let's, let's just keep that.
+"
+14 10 Stan "Well, I might need it if I every have to, you know, like-
+"
+14 10 Stan "Well, I- I guess so, but-  Whoa-whoa-wait, this is all happening a little fast. Can we just slow down? 
+"
+14 10 Stan "Well no, don't throw that out.
+"
+14 10 Stan "No, because there could be something written on one of them that's important and uh-! No, don't take my empty bottle-!  G-give me back my sandwich! 
+"
+14 10 Stan "I don't... I don't know.
+"
+14 10 Stan "Well, my friends are worried that I'm showing signs of... ""hoarding.""
+"
+14 10 Stan "Well, apparently, it's when you... don't throw anything away and soon you find yourself, living with a, bunch of... junk?
+"
+14 10 Stan "Mr. Mackey, is there, maybe anything you wanna talk about?
+"
+14 10 Stan "Well like, you've got an old milk carton here from a month ago that's like-
+"
+14 10 Stan "What? Whoa wait, what am I doing here?
+"
+14 10 Stan "What the hell's going on?!
+"
+14 10 Stan "Mr. Mackey.
+"
+14 10 Stan "Mr. Mackey, what are you doing?
+"
+14 10 Stan "Come on, dude, you've gotta wake up!
+"
+14 10 Stan "Mr. Mackey, I realize this might be fun for you, but it totally isn't for me.
+"
+14 10 Stan "I'm working on it!
+"
+14 10 Stan "Dude, please wake up! You're a grown man in a psychiatrist's office! 
+"
+14 10 Stan "Is that why we're here? Did something really bad happen on the field trip?
+"
+14 10 Stan "Ohhhhhhh.
+"
+14 10 Stan "Wait wait, where the hell are we now?
+"
+14 10 Stan "Mr. Mackey, you have to wake up! I don't belong here! I need to have my own regression therapy!
+"
+14 10 Stan "Please, I don't wanna go on your field trip, Mackey.
+"
+14 10 Stan "Dad? Is that you?
+"
+14 10 Stan "Where are you?
+"
+14 10 Stan "The hell are you doing, dad?
+"
+14 10 Stan "Did you come here to help me?
+"
+14 10 Stan "Dad, you gotta stop Mackey and bring us back to reality!
+"
+14 10 Stan "DAD!
+"
+14 10 Stan "Aaaaaagh!
+"
+14 10 Stan "Who's that?
+"
+14 10 Stan "What the fuck?
+"
+14 10 Stan "Mr. Mackey, stop running!
+"
+14 10 Stan "Look, dude!  Whatever happened with those bullies, you just have to stop running and face it! It's just a dream dude! You can control what happens. Stand up to them this time.
+"
+14 10 Stan "Mr. Mackey, go, and face it! Please. So that we can get out of here and find out why we're hoarding.
+"
+14 10 Stan "Shut up!
+"
+14 10 Stan "You can do it Mr. Mackey.
+"
+14 10 Stan "What the hell?
+"
+14 10 Stan "Who are you people?
+"
+14 10 Stan "Well uh, wouldn't it be better to have Mackey face them on his own?
+"
+14 10 Stan "...Well then why aren't we waking up?
+"
+14 10 Stan "Mr. Mackey, you have to wake up now!
+"
+14 10 Stan "I think I have a better idea.
+"
+14 10 Stan "Whatever it is, I don't wanna know. I'm just gonna throw this crap away like I should have to begin with.
+"
+14 10 Stan "Don't care. After going through all that crap and seeing what happened to Mackey, I don't want any part of therapy!
+"
+14 11 Stan "Who's Captain Hindsight?
+"
+14 11 Stan "Hey you guys are just repeating what that hindsight guy said.
+"
+14 11 Stan "Mom, Dad? I I finished dinner. Can I go up to my room?
+"
+14 11 Stan "Uh oh, I have a feeling we'd better get into our costumes again, guys.
+"
+14 11 Stan "It's up to us, guys. Let's get to the Gulf! 
+"
+14 14 Stan "Dad, what are you doing?
+"
+14 14 Stan "Aw crap. 
+"
+14 14 Stan "Can I have a Pop Tart?
+"
+14 14 Stan "Dad, you know Mom doesn't want you watching food channels.
+"
+14 14 Stan "You guys have no idea how much it sucks! My dad's obsessed! Every day it's Bobby Flay this, Gordon Ramsey that. This morning he was pretending to read Playboy, but he actually had a Bon Appetit magazine hidden inside it!
+"
+14 14 Stan "Awww what?!
+"
+14 14 Stan "No, dad! No!
+"
+14 14 Stan "Dad, you're a geologist! What about your real job?!
+"
+14 14 Stan "Dad, no! I'm gonna tell Mom. Go back to your other job right now!
+"
+14 14 Stan "Mom? Mom! You've gotta do something! Dad's trying to be our new school chef.
+"
+14 14 Stan "Well you've gotta tell him to stop, Mom!
+"
+14 14 Stan "Mom, Dad's food sucks and kids at school are starting to get pissed at me!
+"
+14 14 Stan "Dad, what are you doing?
+"
+14 14 Stan "Dad! You aren't ever going to be a celebrity chef!
+"
+14 14 Stan "No Dad, that's enough! You need to be focusing on getting Mom back!
+"
+14 14 Stan "He's not going to listen to us! We already tried!
+"
+14 14 Stan "That's stupid, Cartman.
+"
+14 14 Stan "You guys, my dad is retarded, but not that retarded.
+"
+14 14 Stan "...Uh yeah Dad, he'd like to talk to you.
+"
+14 14 Stan "Alright Dad, Gordon Ramsay said you suck. It's time to give up.
+"
+14 14 Stan "Dad! You aren't ever going to become a celebrity chef, Dad! Give up on your dream! 
+"
+14 14 Stan "Hey no, no. All you people get out of here.
+"

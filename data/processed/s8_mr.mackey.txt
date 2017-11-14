@@ -1,0 +1,24 @@
+8 2 "Mr. Mackey" "Oh, hi Timmy. Come on in.  I understand you have somethin' important you wanna talk to me about, m'kay?
+"
+8 2 "Mr. Mackey" "Well, Timmy, as your counselor, I want you to know that you can tell me anything, m'kay? And whatever's troublin' you, I wanna try and, and help you with it.
+"
+8 2 "Mr. Mackey" "Mmm'kay, right, you're Timmy. ...Yo-you have a problem?
+"
+8 2 "Mr. Mackey" "Ji-Jimmy?
+"
+8 2 "Mr. Mackey" "Oh, Jimmy Valmer! Oh, okay, what about him?
+"
+8 2 "Mr. Mackey" "Mmmmm'kaaay. I don't quite follow, Timmy.
+"
+8 2 "Mr. Mackey" "Right, Jimmy Valmer.
+"
+8 2 "Mr. Mackey" "Right. He's Jimmy, yeah.
+"
+8 8 "Mr. Mackey" "M'kay... that's one more vote for Turd Sandwich.
+"
+8 8 "Mr. Mackey" "It's pretty close, but it looks like Giant Douche is gonna win.
+"
+8 8 "Mr. Mackey" "Stan's vote bring the total votes for Turd Sandwich to... thirty six! And Giant Douche has... one thousand, four hundred, and ten. Giant Douche still wins!
+"
+8 8 "Mr. Mackey" "What the? They're all dead? Well, that means...
+"

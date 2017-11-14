@@ -1418,3 +1418,713 @@
 "
 10 14 Kyle "All right, but it's gonna take more than one good player to beat the champions, Stan. You'd better have a really good game plan.
 "
+10 1 Kyle "Going away? For how long?
+"
+10 1 Kyle "Draw two card, fatass.
+"
+10 1 Kyle "Yeah!
+"
+10 1 Kyle "Chef! I can't believe you're back!
+"
+10 1 Kyle "Well, I- guess we'll see you in school tomorrow, Chef.
+"
+10 1 Kyle "Yeah. I'm sure whatever that Super Adventure Club does is pretty tiring.
+"
+10 1 Kyle "Yeah. I hope he makes his Salisbury steak with buttered noodles! 
+"
+10 1 Kyle "Like what?
+"
+10 1 Kyle "Weirdo. 
+"
+10 1 Kyle "Good.
+"
+10 1 Kyle "...Chef?? A-are you okay?
+"
+10 1 Kyle "This doesn't make any sense!
+"
+10 1 Kyle "Goddammit, Chef isn't like that! Something funny is going on around here!
+"
+10 1 Kyle "Chef, the police are asking questions about you!
+"
+10 1 Kyle "Chef, CHEF! You need to get out of here before you get arrested, all right?!
+"
+10 1 Kyle "He didn't want us for sex, fatass! Something is making him say those things.
+"
+10 1 Kyle "Something must have happened to Chef while he was gone. Maybe he hit his head or, or got stuck in some quantum time vortex.
+"
+10 1 Kyle "All right, come on guys!
+"
+10 1 Kyle "Ahh, hi, can we speak to the head guy or something?
+"
+10 1 Kyle "Uh, hi. Our friend joined your club a while back, and now he wants to molest kids. 
+"
+10 1 Kyle "Well, we thought you went exploring and like, hunting and stuff!
+"
+10 1 Kyle "...Dude!
+"
+10 1 Kyle "Dude, what are you doing?!
+"
+10 1 Kyle "Just what the hell is that thing?!
+"
+10 1 Kyle "HA! I knew it!
+"
+10 1 Kyle "The reason Chef has been saying those terrible things about us is because he's been brainwashed! By this- fruity little club!
+"
+10 1 Kyle "All right, come on. 
+"
+10 1 Kyle "Hi, uh- our friend has been brainwashed by some fruity little club.
+"
+10 1 Kyle "But we don't have years! If Chef keeps this up, he's gonna go to jail forever!
+"
+10 1 Kyle "No thanks. We're trying to unbrainwash our friend.
+"
+10 1 Kyle "Come on, Chef! You can do it!
+"
+10 1 Kyle "...Do you realize how retarded that sounds?
+"
+10 1 Kyle "We're not going anywhere without Chef.
+"
+10 1 Kyle "No! Hey!
+"
+10 1 Kyle "Sorry, dude, but this fruity little club isn't taking our friend!
+"
+10 1 Kyle "Chef, come on!
+"
+10 1 Kyle "Here! 
+"
+10 1 Kyle "Get outside! 
+"
+10 1 Kyle "Yeah, he wanted adventure! Not a bunch of ridiculous bullcrap! Right Chef?  Chef?
+"
+10 1 Kyle "No! Chef, they've filled your head with lies! Can't you see that??
+"
+10 1 Kyle "CHEF! 
+"
+10 1 Kyle "You bastards. YOU BASTARDS!
+"
+10 1 Kyle "We're all here today because Chef has been such an important part of our lives. A lot of us don't agree with the choices Chef has made in the past few days.  Some of us... feel hurt... and confused that he seemed to turn his back on us.  But we can't let the events of the last week take away the memories of how much Chef made us smile.  I'm gonna remember Chef as the jolly old guy who always broke into song.  I'm gonna remember Chef... as the guy who gave us advice to live by.  So you see, we shouldn't be mad at Chef for leaving us. We should be mad at that little fruity club for scrambling his brains.
+"
+10 1 Kyle "And in the end, I know that somewhere out there... there's the good part of Chef... that's still alive in us all. 
+"
+10 2 Kyle "Dad, can we go home? All you ever do since you got this car is drive around and show it off! 
+"
+10 2 Kyle "Dad, I think Ike is starving to death. 
+"
+10 2 Kyle "What?!
+"
+10 2 Kyle "Dad, can we go home, please?
+"
+10 2 Kyle "But Dad, I want-
+"
+10 2 Kyle "Aw, hey dude. What are you doing here?
+"
+10 2 Kyle "Helping my Dad give people fake tickets. 
+"
+10 2 Kyle "Dad, let's just go!
+"
+10 2 Kyle "Dad.  Dad, Ike and I have been talking, and well, we feel that your new car is changing you.
+"
+10 2 Kyle "We're thinking that a lot of people in town starting too... 
+"
+10 2 Kyle "...a-are starting to take offense at your actions. We feel like you're starting to become-hmm... 
+"
+10 2 Kyle "...star-starting to become alienated from some of your friends.
+"
+10 2 Kyle "You do??
+"
+10 2 Kyle "Righ!  Okay, good.
+"
+10 2 Kyle "What??
+"
+10 2 Kyle "My Dad says he can't live here anymore.
+"
+10 2 Kyle "So... what do you do for fun?
+"
+10 2 Kyle "Oh, no thanks. We don't do that stuff.
+"
+10 2 Kyle "Yeah, fine, Dad.
+"
+10 2 Kyle "Well... maybe I'll take just half a hit of acid.
+"
+10 2 Kyle "The acid. Dude, I'm totally tripping balls.
+"
+10 2 Kyle "Hey Stan.
+"
+10 2 Kyle "NO! Hybrid cars are a good thing!
+"
+10 2 Kyle "Hybrid cars don't cause smugness, people do.  Look, hybrid cars are important. They may even save our planet one day. What you all need to do is just learn to drive hybrids and not be smug about it.
+"
+10 2 Kyle "Yeah!
+"
+10 2 Kyle "Yeah, I guess so.
+"
+10 2 Kyle "Don't belittle my people, you fucking fatass! 
+"
+10 3 Kyle "I have no idea!
+"
+10 3 Kyle "I TIVO every episode. We can go to my house and see what they did.
+"
+10 3 Kyle "Okay you guys, check it out. 
+"
+10 3 Kyle "Dude, it's a good show.
+"
+10 3 Kyle "Hehaha, heh.
+"
+10 3 Kyle "That's it? That's all they did?
+"
+10 3 Kyle "Since when you care about being sensitive to people's religion, Cartman?!
+"
+10 3 Kyle "Uhhh...
+"
+10 3 Kyle "Dad, Dad, Jesus Christ!
+"
+10 3 Kyle "Mom, it was nothing. Mohammad just stood there and then drank some tea.
+"
+10 3 Kyle "No, Muslims can't show an image of Mohammad.
+"
+10 3 Kyle "Well good for them. They shouldn't! The writers are standing up and saying they aren't going to be intimidated!
+"
+10 3 Kyle "All right dude, what the hell has gotten into you?! I don't trust for one second that your sudden concern for the Muslim people is real!
+"
+10 3 Kyle "Dad? Are you sure there's time?
+"
+10 3 Kyle "No!
+"
+10 3 Kyle "Ike? Iiike!  Ike! 
+"
+10 3 Kyle "Ike!  This way!  Iiike! 
+"
+10 3 Kyle "Nooooo! 
+"
+10 3 Kyle "I didn't come to stop you. I... I think you're right, Cartman. I want to help you get the Family Guy episode pulled.
+"
+10 3 Kyle "Look, Cartman, I don't know what's gotten into you, but... I I think it's pretty amazing. And I think it's real. You have to understand why I didn't believe you before.
+"
+10 3 Kyle "It's a long trip, dude. You're gonna need help. We can try and get the episode pulled together.
+"
+10 3 Kyle "I know. But just like you, I feel like I have to try. People can really get hurt, and a joke just isn't worth that.
+"
+10 3 Kyle "I got some sound advice... from an old friend. 
+"
+10 3 Kyle "Yeah! 
+"
+10 3 Kyle "I'm set! Let's do this!
+"
+10 3 Kyle "We got six days to make it to Los Angeles. If we keep our stops to a minimum, we should be able to get the episode pulled just in time.
+"
+10 3 Kyle "Off the air? But... we're just going to try to get the Mohammad episode pulled.
+"
+10 3 Kyle "Whoa whoa wait a minute!  This isn't what I signed up for! I like Family Guy. Why do we have to get it off the air forever?
+"
+10 3 Kyle "But that doesn't mean it has to go off the air. You should like that show. Your sense of humor is just like Family Guy.
+"
+10 3 Kyle "You unbelievable son of a bitch. You never cared about the Muslim religion. Or the safety of people in America. You just want Family Guy off the air!
+"
+10 3 Kyle "What are you talking about?!
+"
+10 3 Kyle "I can't believe I let you scare me into taking your side. You used fear to make me stop believing in free speech.
+"
+10 3 Kyle "No!  I am NOT letting you go to that television studio and pretend... to care about safety and sensitivity to get a show you don't like off the air!
+"
+10 3 Kyle "What?  CARTMAN! 
+"
+10 3 Kyle "Ahhh!
+"
+10 3 Kyle "No!  AAAAH!  AAAAH! 
+"
+10 3 Kyle "You son of a bitch! I won't let you win! You hear me?!
+"
+10 4 Kyle "You just want Family Guy off the air...
+"
+10 4 Kyle "You son of a bitch! I won't let you win!
+"
+10 4 Kyle "What the hell is going on?  Hello?  Excuse me, I need to get to Los Angeles.  Hello?! 
+"
+10 4 Kyle "Who?
+"
+10 4 Kyle "Thanks a lot for the ride.
+"
+10 4 Kyle "I'll do everything I can.
+"
+10 4 Kyle "Excuse me.  Do you know which way the network president's office is?
+"
+10 4 Kyle "Look, my fat bastard friend is trying to trick the network into getting Family Guy off the air.
+"
+10 4 Kyle "Oh thanks, dude.
+"
+10 4 Kyle "Hello? This can't be right, I-  Ow!
+"
+10 4 Kyle "Let me out of here, kid! Why are you doing this?
+"
+10 4 Kyle "Cartman!
+"
+10 4 Kyle "You fat sun of a bitch!
+"
+10 4 Kyle "Well, a lot of people like Family Guy too! Who are you to decide it shouldn't be on the air?!
+"
+10 4 Kyle "Cartman, let me out of this stupid net!!
+"
+10 4 Kyle "WHAT?!
+"
+10 4 Kyle "Cartman!!  You fucking fatass!
+"
+10 4 Kyle "That kid and I had a long talk! I told him he was on a slippery slope to becoming a monster like you!
+"
+10 4 Kyle "You are NOT KILLING FAMILY GUY!!
+"
+10 4 Kyle "There's still time to tell the network president you're full of CRAP! 
+"
+10 4 Kyle "Get out of my way or I'll kick your ass!
+"
+10 4 Kyle "Ow. Quit it!
+"
+10 4 Kyle "Ow. Quit it!
+"
+10 4 Kyle "No more timeouts, fatass!
+"
+10 4 Kyle "Thanks, kid.
+"
+10 4 Kyle "Sir! Mister television executive! Stop!
+"
+10 4 Kyle "Listen to me: the little boy who convinced you to pull the episode is a bastard child. He only wants you to pull it because he knows it will be the end of Family Guy forever!
+"
+10 4 Kyle "Pulling an episode because someone is offended starts a chain reaction. You'll have to pull more and more episodes until the show goes off the air completely. It's what happened to Laverne & Shirley.
+"
+10 4 Kyle "What manatees??!! 
+"
+10 4 Kyle "No! You have to show Mohammad, Mr. President!
+"
+10 4 Kyle "Sir, just think about what you're doing to free speech!
+"
+10 4 Kyle "Noo! Wait! You can't listen to him! He's a lying deceitful monster who only wants Family Guy off the air!
+"
+10 4 Kyle "You can't do what he wants just because he's the one threatening you with violence!
+"
+10 4 Kyle "Yes, people can get hurt. That's how terrorism works. But if you give into that, Doug, you're allowing terrorism to work. Do the right thing here.
+"
+10 4 Kyle "Do the right thing, Mr. President.
+"
+10 4 Kyle "I wish that was good enough, but if you censor out Mohammad, then soon you'll have to censor out more.
+"
+10 4 Kyle "If you don't show Mohammad, then you've made a distinction what is okay to poke fun at, and what isn't. Either it's all okay, or none of it is.
+"
+10 4 Kyle "Do the right thing. Show Mohammad.  Do. The right. Thing.
+"
+10 4 Kyle "Yes! 
+"
+10 6 Kyle "Dick Cheney?
+"
+10 6 Kyle "ManBearPig? 
+"
+10 6 Kyle "Just play the game, fatass!
+"
+10 6 Kyle "Just take a shot or pass the ball, asshole! It's getting late!
+"
+10 6 Kyle "We know. 
+"
+10 6 Kyle "Okay, Mr. Marsh. 
+"
+10 6 Kyle "He's half man and half bearpig
+"
+10 6 Kyle "That doesn't make any sense.
+"
+10 6 Kyle "Yeah, that's Cave of the Winds. It's a tourist attraction.
+"
+10 6 Kyle "Yeah, we've got school anyway.
+"
+10 6 Kyle "What do ManBearPig droppings look like?
+"
+10 6 Kyle "What?
+"
+10 6 Kyle "What are you doing?! 
+"
+10 6 Kyle "Hello?
+"
+10 6 Kyle "We're trapped in here!
+"
+10 6 Kyle "Hello, help!
+"
+10 6 Kyle "Forget it! They can't hear us!
+"
+10 6 Kyle "A-all right, let's split up and look for a passageway. E-everyone take a different direction.  Oh man, we're in big trouble here.
+"
+10 6 Kyle "You see anything, Kenny??
+"
+10 6 Kyle "Cartman?? Cartman, you see anything??
+"
+10 6 Kyle "Cartman, you okay??  You need help??
+"
+10 6 Kyle "It looks like we're completely sealed in.
+"
+10 6 Kyle "Maybe we should go for it.
+"
+10 6 Kyle "Why?
+"
+10 6 Kyle "No, we'll stay here too. If we start wandering off, we're gonna get lost or killed. Let's just wait here and hope help comes soon.
+"
+10 6 Kyle "Aw, dude! 
+"
+10 6 Kyle "They saw us on the tour.  Dude, where do you keep going, Cartman?
+"
+10 6 Kyle "Dude, it's bad enough we have to sit here without you taking a crap every ten minutes!
+"
+10 6 Kyle "C-Cartman?
+"
+10 6 Kyle "Dude, what are you doing?
+"
+10 6 Kyle "Dude, get away from me!
+"
+10 6 Kyle "Stan! Stan, wake up!
+"
+10 6 Kyle "No, it's Cartman. Something's really wrong with him. 
+"
+10 6 Kyle "We can't wait here any longer! Dude, we've gotta get him out of here or he's gonna die.
+"
+10 6 Kyle "Maybe we should get out first. See if we can find a way out and then come back for him.
+"
+10 6 Kyle "Come on come on! Pull!
+"
+10 6 Kyle "What the hell is that??
+"
+10 6 Kyle "What the hell is that?  Oh my God. 
+"
+10 6 Kyle "Ruuun! 
+"
+10 6 Kyle "Car... Cartman! You've gotta swim! Kick with your legs!
+"
+10 6 Kyle "Yes you can!
+"
+10 6 Kyle "I need your help!
+"
+10 6 Kyle "We need to get our friend to a hospital right away!
+"
+10 6 Kyle "Dude, did Cartman just crap treasure?
+"
+10 6 Kyle "You made us pull you to safety because you ate treasure?! You son of a bitch!
+"
+10 7 Kyle "You'er not staying at my house either.
+"
+10 7 Kyle "Dude, don't kill your mom. That's not cool.
+"
+10 7 Kyle "NO, Cartman!
+"
+10 8 Kyle "We're over here, by the cart. 
+"
+10 8 Kyle "If you didn't eat so much, you wouldn't have diarrhea all the time, fatass!
+"
+10 8 Kyle "Come on, we have to finish the quest in Stonehaven. 
+"
+10 8 Kyle "See where I am? It's this way. 
+"
+10 8 Kyle "Wow, look at all these people playing right now.
+"
+10 8 Kyle "Who is this?
+"
+10 8 Kyle "It's all right. He can't kill us unless we agree to duel. 
+"
+10 8 Kyle "You bastard! 
+"
+10 8 Kyle "Who is that guy?
+"
+10 8 Kyle "The past...four nights we've tried to play, he shows up and kills us!
+"
+10 8 Kyle "He's targeting us.
+"
+10 8 Kyle "Ike, look out! 
+"
+10 8 Kyle "We don't have a choice, dude. That guy killed our characters 14 times.
+"
+10 8 Kyle "Boars?
+"
+10 8 Kyle "Dude, boars are only worth two experience points apiece. Do you know how many we would have to kill to get up 30 levels?
+"
+10 8 Kyle "Dude, my mouse-clicking finger hurts.
+"
+10 8 Kyle "Me too.
+"
+10 8 Kyle "Hang on, I'm chaining my fire spells for max range.
+"
+10 8 Kyle "Hold on, this fight could last more than twelve hours. What if we run out of food?
+"
+10 8 Kyle "What's the autolocate macro?
+"
+10 8 Kyle "Okay, right behind Stan.
+"
+10 8 Kyle "Casting...there's an 8-second cast time.
+"
+10 8 Kyle "No, ah, I'm an arcane fire mage.
+"
+10 8 Kyle "Cast on him again.
+"
+10 8 Kyle "Aaaa...  AH! Huh?! 
+"
+10 8 Kyle "Carpal tunnel! Carpal tunnel! It's aaaah! 
+"
+10 8 Kyle "I can't. Just leave me behind.
+"
+10 8 Kyle "I'm out of mana, I told you.
+"
+10 8 Kyle "Attack! 
+"
+10 8 Kyle "Yeah yeah.
+"
+10 8 Kyle "That was such über pwnage
+"
+10 8 Kyle "Oh yeah.
+"
+10 9 Kyle "Oh God, here we go again! 9/11 was not a conspiracy, fatass!
+"
+10 9 Kyle "Not yet.
+"
+10 9 Kyle "Will you shut up about 9/11!
+"
+10 9 Kyle "Because anybody who thinks 9/11 was a conspiracy is a retard!
+"
+10 9 Kyle "Yes. I'm saying one-fourth of Americans are retards.
+"
+10 9 Kyle "Let's take a test sample: There's four of us, you're a retard, that's one-fourth.
+"
+10 9 Kyle "Where did you hear that?
+"
+10 9 Kyle "Butters, you don't really believe that, do you?
+"
+10 9 Kyle "Goddamnit, you see what happens when you spread this stupid crap, fatass?
+"
+10 9 Kyle "Oh no...
+"
+10 9 Kyle "Oh Christ...
+"
+10 9 Kyle "Me??!
+"
+10 9 Kyle "Hey Token.  You-you gonna watch the game tonight, Butters? 
+"
+10 9 Kyle "All right, all right, I was not responsible for 9/11!  God-damnit!
+"
+10 9 Kyle "Terrible.
+"
+10 9 Kyle "But, everyone thinks I was responsible for 9/11.
+"
+10 9 Kyle "Aaaah!
+"
+10 9 Kyle "I don't know, dude. It's like everyone's putting pieces together that aren't there.
+"
+10 9 Kyle "It's not my fault.
+"
+10 9 Kyle "Really?
+"
+10 9 Kyle "......Dude.
+"
+10 9 Kyle "They are?
+"
+10 9 Kyle "What? No no no.
+"
+10 9 Kyle "...That's retarded.
+"
+10 9 Kyle "There's a lot of holes in the Theory of Evolution too; it doesn't mean it's wrong.
+"
+10 9 Kyle "Code 234
+"
+10 9 Kyle "What is it?
+"
+10 9 Kyle "Anthrax?!
+"
+10 9 Kyle "Stan, we can't be seen with this nutjob!  Aw, aw, awww!
+"
+10 9 Kyle "Eh-xcuse me, there's been a misunderstanding.
+"
+10 9 Kyle "Uh, Mr. President, my name is-
+"
+10 9 Kyle "Really?
+"
+10 9 Kyle "No. Way.
+"
+10 9 Kyle "...Really??
+"
+10 9 Kyle "...Really??
+"
+10 9 Kyle "It just... doesn't seem right.
+"
+10 9 Kyle "Yeah... but doesn't it seem like we got out of the White House pretty easily? I mean, it seems like it would be pretty hard to escape from the White House with everyone chasing you, and we just kind of... ran out. 
+"
+10 9 Kyle "Hey!  Dude. You're alive?  Come back here! 
+"
+10 9 Kyle "Dude! What the hell is going on?!
+"
+10 9 Kyle "Dude, we aren't going to kill you. 
+"
+10 9 Kyle "Who the fuck are you?!
+"
+10 9 Kyle "Do you mind telling us what the hell is going on??
+"
+10 9 Kyle "You f-figured this thing all out?
+"
+10 9 Kyle "Why would the government want people to believe they caused 9/11?
+"
+10 9 Kyle "I knew it! You didn't plan 9/11 and you really didn't shoot that guy!
+"
+10 9 Kyle "Well why don't you just tell people the truth?!
+"
+10 9 Kyle "Stan! What the fuck?!
+"
+10 9 Kyle "You knew this whole time? Why?
+"
+10 9 Kyle "What??
+"
+10 9 Kyle "So you blamed the government?!
+"
+10 9 Kyle "So wait, wait: Stan took a dump in the urinal and he contacted the conspiracy Web site? But the conspiracy site was run by the government?
+"
+10 9 Kyle "So then, who was responsible for 9/11?
+"
+10 10 Kyle "Huh?
+"
+10 10 Kyle "What's he doing at his teacher's house?
+"
+10 10 Kyle "Hello?  Excuse me. I'm here to pick up Ike?  Uh, hello? Is Ike here?  Hello? 
+"
+10 10 Kyle "Oh God!  I'm sorry.  I didn't mean to-ah, I'm looking for my brother.  Ike??  What the hell is going on??
+"
+10 10 Kyle "Really?! What's there not to understand?!
+"
+10 10 Kyle "He's a little young, don't you think?!
+"
+10 10 Kyle "All right! We're getting the hell out of here! 
+"
+10 10 Kyle "Ike, you can't possibly want this. We have to tell Mom.
+"
+10 10 Kyle "Ike?
+"
+10 10 Kyle "This is nuts.
+"
+10 10 Kyle "Mom, Dad, have you ever met Ike's kindergarten teacher? 
+"
+10 10 Kyle "Yeah. Well, she likes Ike a whole lot.
+"
+10 10 Kyle "Yyeah, except maybe it's not perfectly great, because to some degree, Ike and Ms. Stevenson are having an-.
+"
+10 10 Kyle "Mom, there might be something that you should look into about Ike staying after school all the time-
+"
+10 10 Kyle "Would you excuse us for a second?  You just can't expect me to sit there and say nothing. No, Ike, I'm supposed to be looking out for you. So what? I wasn't going to just blurt it out, I was gonna use some tact, but you won't even let me... What? Uh uh! Stop right there, Ike!  Mom, I think maybe you should talk to Ike about love and sex!
+"
+10 10 Kyle "Ex, excuse me?  My name is... Brad. And uh I need to report a crime. Anonymously.
+"
+10 10 Kyle "Well, I attend South Park Elementary, ah-and... w-one of the teachers is having sssex with a student.
+"
+10 10 Kyle "Well, it isn't a guy teacher. It's a woman.
+"
+10 10 Kyle "Yeah. She's having sex with a boy. 
+"
+10 10 Kyle "Well no, not really. It's the Kindergarten teacher, Miss Stevenson.
+"
+10 10 Kyle "Yeah.
+"
+10 10 Kyle "Yes.
+"
+10 10 Kyle "What?! No, you don't understand-
+"
+10 10 Kyle "Yeah.
+"
+10 10 Kyle "I think so.
+"
+10 10 Kyle "Hay! He's totally underage. She's taking advantage of him.
+"
+10 10 Kyle "Guys, can I talk to you?
+"
+10 10 Kyle "I need you to keep quiet about this, all right?  My little brother and his tea-
+"
+10 10 Kyle "Not now, Cartman! I have really serious problems!
+"
+10 10 Kyle "The kindergarten teacher is having sex with my little brother.
+"
+10 10 Kyle "It's not cool! Ike isn't old enough to understand.
+"
+10 10 Kyle """stick it inside her and pee""
+"
+10 10 Kyle "You guys don't understand! His wacko teacher is like a schoolgirl! They pass notes to each other in the classroom, they have sex at her house over lunch break,  and during class they sneak out and kiss in the hallways! 
+"
+10 10 Kyle "They sneak out during class and make out in the hallways!
+"
+10 10 Kyle "Well they're doing it!
+"
+10 10 Kyle "Wow. I think I owe you one, Cartman.
+"
+10 10 Kyle "Ike, I didn't tell on you, you got busted by the hallway monitor.  Okay, okay. I did have something to do with it. But someday you're gonna realize it was for the best.
+"
+10 10 Kyle "What?
+"
+10 10 Kyle "I'm dead to you?
+"
+10 10 Kyle "What?
+"
+10 10 Kyle "Ike, are you okay?  Ike?  Iiiike! 
+"
+10 10 Kyle "Dude, my brother's in Milan. There's nothing I can do.
+"
+10 10 Kyle "How do you know that?
+"
+10 10 Kyle "Who's Beth?
+"
+10 10 Kyle "Can we get going now, please?!
+"
+10 10 Kyle "Oh crap! 
+"
+10 10 Kyle "No! Ike, don't do it!
+"
+10 10 Kyle "Ike, please. I know your first love seems like the only love, but trust me, it's not. You have so much life ahead of you. 
+"
+10 10 Kyle "Ike, you need to have a life. Have fun. Then ruin it by having a serious relationship. 
+"
+10 10 Kyle "Ike!
+"
+10 11 Kyle "I am doing it.
+"
+10 11 Kyle "Biggie. Smalls... Biggie Smalls...
+"
+10 11 Kyle "Fine!  Then YOU do it, you're so tough!
+"
+10 11 Kyle "Prove it!
+"
+10 11 Kyle "You're afraid to do it, too.
+"
+10 11 Kyle "He's right. It's just a spook story.
+"
+10 11 Kyle "I can do it. It just got... look, it just doesn't matter, because it's not true.
+"
+10 11 Kyle "...Smalls. 
+"
+10 11 Kyle "Holy crap!!
+"
+10 11 Kyle "See? You can still make it for the end of the party.
+"
+10 12 Kyle "Will you shut up already?! 
+"
+10 12 Kyle "Well there's nothing you can do, so you just have to be patient.
+"
+10 12 Kyle "No.
+"
+10 12 Kyle "You'll die, retard!
+"
+10 12 Kyle "Yeah, I hate you, but I'm not going to help kill you.
+"
+10 13 Kyle "Hello? 
+"
+10 13 Kyle "Hello?
+"
+10 13 Kyle "What do you want?!
+"
+10 13 Kyle "I'm not going to help you freeze yourself, Cartman! It's a stupid idea!
+"
+10 13 Kyle "... Uh huh.
+"
+10 13 Kyle "... I'm hanging up now.
+"
+10 13 Kyle "Suck my balls, fatass.
+"
+10 13 Kyle "Aw Goddamnit, now you've made me miss my ride! My whole day is screwed up because of you! 
+"
+10 14 Kyle "You got it, Stan!
+"
+10 14 Kyle "Stan, I told you. My mom doesn't want Ike playing hockey. She thinks it's dangerous.
+"
+10 14 Kyle "All right, but it's gonna take more than one good player to beat the champions, Stan. You'd better have a really good game plan.
+"

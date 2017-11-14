@@ -1,0 +1,154 @@
+3 1 "Mr. Mackey" "I am tired of seeing you in my office, young man!  You get sent here every day, Craig!
+"
+3 1 "Mr. Mackey" "Why can't you behave?
+"
+3 1 "Mr. Mackey" "What do you have to say for yourself?!  Well, I tell you what, young man. Uh, you're gonna be held back a grade if you don't luh-  Did you just flip me off?
+"
+3 1 "Mr. Mackey" "Yes you did, you just flipped me the bird! Now, see? This is exactly what I'm talking about! If you don't shape up, m'kay, and get your head straight, uh-  There! You just flipped me off again!
+"
+3 1 "Mr. Mackey" "Yes you did! And until you stop flipping people off, you can just go back to the waiting room, m'kay?! Next!  Well, well, well, if it isn't Stan, Kyle, Kenny, and Eric. 
+"
+3 1 "Mr. Mackey" "Sit down, boys. Now, let's see. What did Mr. Garrison send you in here for? ""The boys were being rude while a choir teacher was giving some stupid presentation-""
+"
+3 1 "Mr. Mackey" "Uh, young man, ""Getting Gay With Kids"" is not dumb, m'kay? It just so happens that I'm on the board of directors.
+"
+3 1 "Mr. Mackey" "Well, guess what, boys? I think that ""Getting Gay With Kids"" is just what you need. I'm gonna sign up all four of you.
+"
+3 1 "Mr. Mackey" "I think this will be very good for you 
+"
+3 1 "Mr. Mackey" "And that's exactly why you need to go!
+"
+3 1 "Mr. Mackey" "Sorry I'm late.
+"
+3 1 "Mr. Mackey" "Oh, no problem.  Usted es choir de Estados Unidos, mbien?
+"
+3 1 "Mr. Mackey" "Uh, he says Pablo here will take you on a rainforest tour.
+"
+3 1 "Mr. Mackey" "Buenos dias, Señor Presidente, ¿mbien? (Hello, El Presidente)
+"
+3 1 "Mr. Mackey" "Uh, muy bien. Señor Presidente, um... ¿Usted no ha visto el coro, no, mm-hm bien? (Oh fine, fine... You, uh, haven't seen the choir have you?)
+"
+3 1 "Mr. Mackey" "Parece que anoche no regresaron al hotel, hmbien. (Well, they never came back to the hotel last night...)
+"
+3 1 "Mr. Mackey" "Estoy seguro que-uh-mmm, que-aaah llegá- llegáran. No se preocupe. Eh, olvidelo, ¿yeah-mbien? (I am sure they'll get here. No problem, forget I said anything.)
+"
+3 1 "Mr. Mackey" "No se preocupe, ¿mbien? El Presidente, estáran aqui. Este evento es muy importante para que la maestra del coro se lo pierda. ¿M-m-mbien? (Don't worry, El Presidente, they'll be here. This is too important for the choir teacher to miss.)
+"
+3 1 "Mr. Mackey" "Estoy seguro que llegáran. Eh-solo poquito mas de tiempo, ¿mbien? (I'm sure the choir will be here. We just need a little more time)
+"
+3 1 "Mr. Mackey" "Mbien.
+"
+3 2 "Mr. Mackey" "Hi, boys.
+"
+3 2 "Mr. Mackey" "Have you guys been sure to pass gas regularly so you don't spontaneously combust?
+"
+3 2 "Mr. Mackey" "Well, let me show you, just to be sure, m'kay?  Hmm, come on. Be good, now. 
+"
+3 2 "Mr. Mackey" "I had a steak wrapped with bacon last night. 
+"
+3 2 "Mr. Mackey" "So, you boys understand you have to do that regularly, oh-mkay? 
+"
+3 5 "Mr. Mackey" "Jakovasaurs kinda piss me off, mkay.
+"
+3 6 "Mr. Mackey" "Uh, Your Honor, this young man commented on the shape of my ass.
+"
+3 7 "Mr. Mackey" "Mhm, mkay? 
+"
+3 8 "Mr. Mackey" "Hello! Welcome, hmkay? This is already a wild party, hm.
+"
+3 8 "Mr. Mackey" "Oh, that's okay. I've got a special kids' room down in the basement.
+"
+3 8 "Mr. Mackey" "Be sure to help yourselves to the crab soufflé, and uh, eh, Juanita?  Juanita?  We need some more finger sandwiches? 
+"
+3 8 "Mr. Mackey" "Here you go, it's right in here. 
+"
+3 8 "Mr. Mackey" "We'll come get you kids when the meteor shower starts. 
+"
+3 8 "Mr. Mackey" "Anyone for some meteor mai tai punch? It packs quite a wallop.
+"
+3 8 "Mr. Mackey" "Come on! Loosen up! Meteor showers only come once in a great while. 
+"
+3 8 "Mr. Mackey" "Here it is. I just had the hot tub put in last week.
+"
+3 8 "Mr. Mackey" "Yeah, you can get a lot of action when you have a hot tub.
+"
+3 8 "Mr. Mackey" "Sure, go ahead. It's a-it's a party, isn't it? Mkahy?
+"
+3 8 "Mr. Mackey" "Hm huheh, that's okay. 
+"
+3 8 "Mr. Mackey" "Oh, come on in. Join the party, mkay?  Would you like a meteor mai tai?
+"
+3 8 "Mr. Mackey" "Well, are you sure you have to leave so early?
+"
+3 8 "Mr. Mackey" "Mkay. Drive carefully, mkay? 
+"
+3 8 "Mr. Mackey" "Uh this is Cher. This is her new album.
+"
+3 16 "Mr. Mackey" "Only one?
+"
+3 17 "Mr. Mackey" "M'kay, that sounded great, kids. 
+"
+3 17 "Mr. Mackey" "M'kay, kids. Uh, we have some news. Uh, there's been a terrible flood in Oklahoma, m'kay? So the 4-million-recorder-children's event is being moved to Arkansas.
+"
+3 17 "Mr. Mackey" "Eh, the trip shouldn't take any longer, but I'll hand out these updated contact sheets so that your parents will know where you are, m'kay? 
+"
+3 17 "Mr. Mackey" "M'kay. 
+"
+3 17 "Mr. Mackey" "What? We can't find anybody to fill in for you. Why can't you go to Arkansas?
+"
+3 17 "Mr. Mackey" "Well, don't you want to see them?
+"
+3 17 "Mr. Mackey" "Uh, perhaps you should sit down, Mr. Garrison, m'kay?  Mr. Garrison, I know this is very difficult, m'kay, but I must ask: is there a history of sexual abuse in your family?
+"
+3 17 "Mr. Mackey" "When was that?
+"
+3 17 "Mr. Mackey" "M'kay, eh, and your father? He molested you when you were a boy?  Mr. Garrison, I think, when we get to Arkansas, you need to see your father. You need to face this demon in your closet, m'kay?
+"
+3 17 "Mr. Mackey" "M'kay.
+"
+3 17 "Mr. Mackey" "Mr. Garrison, are you alright?
+"
+3 17 "Mr. Mackey" "M'kay-Mr. Garrison, you're just having a hard time dealing with the memories of your father's sexual abuse, so you switch personalities to Mr. Hat, m'kay?
+"
+3 17 "Mr. Mackey" "M'kay-I think the best thing for Mr. Garrison to do is to go see his father.
+"
+3 17 "Mr. Mackey" "M'kay! Mr. Hat, you need to let me talk to Mr. Garrison, m'kay?!
+"
+3 17 "Mr. Mackey" "What did you say?!
+"
+3 17 "Mr. Mackey" "Why, you son of a bitch! 
+"
+3 17 "Mr. Mackey" "I'm gonna kick your ass, m'kay?! 
+"
+3 17 "Mr. Mackey" "Yuh-NO!  You may have won this time, Mr. Hat.
+"
+3 17 "Mr. Mackey" "M'kay, I want everyone to stay together, m'kay? Nobody move!
+"
+3 17 "Mr. Mackey" "Excuse me?
+"
+3 17 "Mr. Mackey" "Oh, uh we're from South Park, Colorado?
+"
+3 17 "Mr. Mackey" "Uh, Mr. Garrison, Sr.?
+"
+3 17 "Mr. Mackey" "Uh, my name is Mr. Mackey. I'm your school counselor, m'kay.
+"
+3 17 "Mr. Mackey" "Uh-I wanna talk to you about your son—I'm his n-therapist, m'kay.
+"
+3 17 "Mr. Mackey" "Eh, you didn't?
+"
+3 17 "Mr. Mackey" "Oh. Hm. Uh, I guess that's a little different.
+"
+3 17 "Mr. Mackey" "Well, now, uh, what's he supposed to think, Mr. Garrison? I mean, uh, look at all the media, all the magazine ads and television ads talkin' about ""sexual molestation"", m'kay? He sees all that and assumes you didn't molest him because of some flaw in his looks or personality.
+"
+3 17 "Mr. Mackey" "I know, I know, but I'm afraid this problem has run very deep through Mr. Garrison's mental state. I'm worried that if... you don't do something, well it could kill him.
+"
+3 17 "Mr. Mackey" "There comes a time in every father's life when he must ask himself, ""How far will I go to save my son's life?""
+"
+3 17 "Mr. Mackey" "Well, I've said all I can say.  I know it's difficult, but... family... is about compromises. m'kay?  Don't lose your son over this, Mr. Garrison.  Don't lose... your son, m'kay? 
+"
+3 17 "Mr. Mackey" "Uh, aren't those our boys?
+"
+3 17 "Mr. Mackey" "Alright, come on, everybody. We've got a long bus ride back to Colorado, m'kay? 
+"
+3 17 "Mr. Mackey" "Uh, queef is a vaginal expulsion of gas, m'kay. 
+"

@@ -186,3 +186,97 @@
 "
 12 13 Craig "Peru.
 "
+12 4 Craig "Nothing! 
+"
+12 7 Craig "These Pioneer Village workers are really committed to their jobs. 
+"
+12 9 Craig "Don't worry, Stan, I don't think the fight's even gonna happen. Cartman said that Wendy's already begging him to call it off.
+"
+12 9 Craig "Then why'd you crap on Garrison's desk?
+"
+12 9 Craig "Okay, that's good, because we moved the fight to first thing in the morning tomorrow.
+"
+12 9 Craig "All right, let's DO IT!
+"
+12 9 Craig "No, it's true. We've always hated you.
+"
+12 9 Craig "What?
+"
+12 10 Craig "...Fine.
+"
+12 10 Craig "...Yeah.
+"
+12 10 Craig "What do you guys want?
+"
+12 10 Craig "You mean like those guys you see at all the tourist spots?
+"
+12 10 Craig "You guys never hang out with me. You never invite me to do stuff. But now you want me to be in a band with you because my grandma gave me a hundred dollars.
+"
+12 10 Craig "I'll go get the money. 
+"
+12 10 Craig """Hey, Craig. You know that money your grandma gave you for your birthday? How would you like to invest in a Peruvian flute band? You can double your money in one afternoon. Come on, Craig, don't be an asshole."" 
+"
+12 10 Craig "Do you guys know why nobody else at school likes hanging out with you?  Because you're always doing stuff like this. You're always coming up with some stupid idea to do something, and then it backfires, and then you end up in some foreign country, or in outer space or something. That's why no one likes hanging out with you guys.
+"
+12 10 Craig "Can we please just go home, sir?
+"
+12 10 Craig "Was there ever a moment when you guys first came up with the genius plan to become a Peruvian flute band that any of you said ""Hey, you know? This plan might backfire.""  No, that never occurred to you. Because you guys are jerks, and you never learn from your mistakes, and that's why everyone at school thinks you guys are assholes.
+"
+12 10 Craig "I'm being a dick?
+"
+12 10 Craig "You guys took my birthday money, got me arrested and sent to Miami with no way home except to take down the country of Peru, and I'm being a dick?
+"
+12 10 Craig "That would be great. Thank you.
+"
+12 11 Craig "My name is Craig Tucker. Last week was my birthday.  My Grandma gave me a check for a hundred dollars.  I was sooo happy. But then, four kids from school came to my house  and said I should use my hundred dollars to invest in becoming a Peruvian flute band.  They promised I would double my money in one afternoon.  But the government arrested us along with all the other Peruvian flute bands and took us to an internment camp in Miami.  We begged to go home, but instead the government told us they were sending us to Peru.  And so that is now why I'm in Peru. If I die, let it be known that it is because four guys I don't even like from school lied to me and took my birthday money. 
+"
+12 11 Craig "Oh, that's awesome.
+"
+12 11 Craig "This is fun. Let's walk for miles through a spooky jungle. It just keeps getting better and better.
+"
+12 11 Craig "That's a shock. I decided to follow you guys, and now I'm in the land of the giants lost world.
+"
+12 11 Craig "Stuff just happens.
+"
+12 11 Craig "You just wind up being sent by the government to take down the city of Lima only to wind up in the land of the giants lost world.
+"
+12 11 Craig "You know when stuff happens to most kids? They fall off their bikes. They get in fights with their parents. They get swindled out of their birthday money.
+"
+12 11 Craig """Let's see what's in there."" That's why you guys get into these situations. Because when you come across a spooky, ancient ruin, you say ""Let's see what's in there.""
+"
+12 11 Craig "What?
+"
+12 11 Craig "I have no idea.
+"
+12 11 Craig "I don't know.
+"
+12 11 Craig "No.
+"
+12 11 Craig "I'm not following you guys any more.
+"
+12 11 Craig "Why?
+"
+12 11 Craig "Every time bad things happen, you guys end up putting yourselves deeper into the middle of it, because ""that's just the way it is.""
+"
+12 11 Craig "I don't care. I've decided that I'm done. I am choosing not to be a part of this anymore.
+"
+12 11 Craig "It's easy. Watch. 
+"
+12 11 Craig "No.
+"
+12 11 Craig "...Nope.
+"
+12 11 Craig "Yup, nice and boring. Just the way I like it.
+"
+12 11 Craig "I didn't say anything.
+"
+12 11 Craig "Sir, I promise you, I'm not going to ruin your plans. I'll just walk away. See? 
+"
+12 11 Craig "Okay, now there's sparks shooting out of my eyes.
+"
+12 11 Craig "My name is Craig Tucker. Last week I stopped a guinea pirate from taking over the earth. All the Peruvian flute bands were released,  and drove the guinea creatures back to the Andes mountains.  Many people had died, but mankind had prevailed.  All over the world, survivors were found, living witnesses to the horror that had been seen.
+"
+12 11 Craig "The guinea pirate lived, but was taken to prison to live out the rest of his days.  And people all over the world learned to support their local Peruvian flute bands, and buy their CDs. For they protect us from the guinea creatures. As for me, I was returned home by Homeland Security.  My parents were sooo happy.  I realized that we don't always have control over what happens to us.  We are but players on the stage of life. And I also learned to never listen when people come asking you for money. 
+"
+12 13 Craig "Peru.
+"

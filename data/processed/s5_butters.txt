@@ -716,3 +716,362 @@ Oh, nutsack  Oops.
 "
 5 14 Butters "That's me!
 "
+5 1 Butters "Oh, sorry, I can't.  They're gonna say ""shit"" on Cop Drama, and my mom and dad say I have to watch it with them so that I don't take it the wrong way.
+"
+5 1 Butters "Uh, Ms. Choksondik, eh, can we say it in the expletive? Like, ""Oh, shit,"" or, ""shit on a shingle""?
+"
+5 2 Butters "Hey, fellas!
+"
+5 2 Butters "Boy, am I glad to see you guys! There's lots of kids here from other schools, and I don't know anybody.
+"
+5 2 Butters "Yeah, well, he's the coolest kid with disabilities in the world!
+"
+5 2 Butters "Oh, well, here he is.
+"
+5 2 Butters "We can't tell you.
+"
+5 2 Butters "Oh, no. No. Oh, no. No! Oh no no! 
+"
+5 2 Butters "Hey! Why don't we have Jimmy do some stand-up comedy? Like at our bake sale, very much?
+"
+5 2 Butters "Uh yeah, ah I think so.
+"
+5 2 Butters "Me neither. 
+"
+5 3 Butters "Uh this feller David Blaine. He's doin' magic tricks. Hey, where'd you get that ice cream?
+"
+5 3 Butters "I don't think I'm very happy. I always fall asleep to the sounds of my own screams.
+"
+5 3 Butters "And then I always get woken up in the morning by the sounds of my own screams. Do you think I'm unhappy?
+"
+5 3 Butters "I am prepared.  Hoh, jeez, eh it sure got cold in here.
+"
+5 3 Butters "Ha-I'm not Kyle, I'm Butters. I thought you were Kyle.
+"
+5 4 Butters "Wuh what are you gonna do?
+"
+5 5 Butters "Wow, yuh-you guys ore gonna see Terrance and Phillip Live?
+"
+5 6 Butters "Hoh.
+"
+5 6 Butters "Hoh boy, oh boy! 
+"
+5 6 Butters "We're waitin' in line for the-ah spook house.
+"
+5 6 Butters "Well we wanna see the spook house. Uh well, we paid twenty-nine ninety five; we should be able to go in the spook house. 
+"
+5 7 Butters "Oh, jeez. Ah I don't wanna get the AIDS, fellas.
+"
+5 7 Butters "Uh what are we gonna do, huh?
+"
+5 7 Butters "Ha-I'll be nine next week.
+"
+5 7 Butters "Fifty?? Uh, can't we just use the same one every day?
+"
+5 7 Butters "Nope. It looks like you're just supposed to roll it over your wiener.  ""If used properly, latex condoms are effective against pregnancy, AIDS and other studzes""
+"
+5 7 Butters "How the heck should I know?  Why, it's just a little doughnut.  Hoh- it's all gooey.
+"
+5 7 Butters "Ha-a how come I gotta go first?
+"
+5 7 Butters "Ma-a-a-a-a-a alright, man.  O-o-o-o-h, it's sticky.
+"
+5 7 Butters "I don't even understand how this thing... ooh, wait. Oh, I see. 
+"
+5 7 Butters "But it won't stay on. I- I need a rubber band or somethin'.
+"
+5 7 Butters "Ow! Huhuh, ow! Okay, eh.  Ow! There. Okay, I think it's on.
+"
+5 7 Butters "...Pretty good.
+"
+5 7 Butters "Yeah, there ain't nothin' that's gettin' in my wiener through this thing? A-and it's even got a little reservoir at the end so you can... pee in it.
+"
+5 7 Butters "Uh, me?? Huh, what the heck am I supposed to say?
+"
+5 7 Butters "Just walk away. You can put a stop to all this. Just walk away and we will spare your lives. Just walk away.
+"
+5 9 Butters "Uh, hey!  How's it goin', fellas?
+"
+5 9 Butters "Huh, well, I'm just standin' around bein' a kid. Why? How come you're all wearing those spooky spaceman masks?
+"
+5 9 Butters "What?!  Oh, Jesus! I don't wanna get the 'thrax, fellas! Uh, what do I do?
+"
+5 9 Butters "Stop breathin'?
+"
+5 9 Butters "Well. Alright, then. 
+"
+5 10 Butters "Ah, hang on a second. My mom said to make sure I look good this time in... the school pictures. 
+"
+5 10 Butters "Um-me?? Huh but I didn't do nothin'.
+"
+5 10 Butters "But, buut, but but what hey! Wait a minute! 
+"
+5 10 Butters "Bu-but Teacher, I didn't mean to look stupid in my picture. Honest!
+"
+5 10 Butters "I tried to make a good picture. Honest.
+"
+5 10 Butters "My mom?  Oh, sweet Jesus!
+"
+5 10 Butters "W-what?
+"
+5 10 Butters "Ahah-I can't, fellas. Ah-I'm grounded for lookin' stupid in my school picture.
+"
+5 10 Butters "Huh, but I told you mom: ah-I didn't mean to look... like a jackass, eh. It just happened.
+"
+5 10 Butters "No! That's just what I look like. See?
+"
+5 10 Butters "I'm not makin' a face, mom!
+"
+5 10 Butters "Another week?  I hate my stupid face.
+"
+5 10 Butters "Hehyeah?
+"
+5 10 Butters "Aw gee, thah-at sounds swell, fellas, but I can't go 'cause I'm still havin' behavioral problems.
+"
+5 10 Butters "Uh, my parents are makin' me wear this paper bag until I learn... to stop makin' silly faces all the time. They've really had it up to  here with me.
+"
+5 10 Butters "I sure am, Dad!
+"
+5 10 Butters "Thanks, Dad! Ah I'm sorry I was bad-
+"
+5 10 Butters "Hububut Dad, ah I didn't lick a-
+"
+5 10 Butters "I'm not wearin' makeup Dad! I uh-
+"
+5 10 Butters "Yes, sir. 
+"
+5 12 Butters "...And so, just like in nature, ah I can add the mixture into the volcano and...  O Pele! God of Fire! Show us you uh-  Aw, it's all uh g-gooey.
+"
+5 12 Butters "Ah, thank you, Ms. Choksondik!  I got a check. That's like a C!
+"
+5 12 Butters "Yeah. And their own sprinkler system. You don't think you're rich? 
+"
+5 12 Butters "They sure do.
+"
+5 12 Butters "Heh yeah, later, puss.
+"
+5 13 Butters "Hehehey, fellas! Ah, hey fellas!
+"
+5 13 Butters "Eric says you gotta come to his house right away.
+"
+5 13 Butters "Oh, ah, well, he knew you'd say that, so, he told me to tell you that you don't wanna miss this.
+"
+5 13 Butters "Yeah, he ah knew you'd say that, too, so he said t'say, uh, up your ass, Jew.  Yeah.
+"
+5 13 Butters "Oh, it's all sticky. 
+"
+5 13 Butters "Uh, yeah?
+"
+5 13 Butters "Eh, just about.
+"
+5 13 Butters "Oh. Well, uh okay. 
+"
+5 13 Butters "Right.  Uh hello? Is this Mr. Thompson with Anatomy Research? ...Yes, uh, hello sir. Uh, aah, we have a surplus of unborn fetuses that we think you can use for a ...dissection study. Uh huh, ah, how much do you pay for that? ...You're breaking my balls. ...I said, you're breaking my balls, Mr. Thompson. ...My, my balls.
+"
+5 14 Butters "Heh-alright, Mom, I'm all done wrappin' Dad's anniversary present for ya.
+"
+5 14 Butters "It's a-  Awww, shucks,  I can't tell you. Uh, but it's really nifty.
+"
+5 14 Butters "Bennigan's?? Oh, boy, you mean it??  Whoopee, at Bennigan's I'm gonna get the Rain Champ baby-back ribs! 
+"
+5 14 Butters "Four days? Oh, I don't know how I'm gonna wait that long!
+"
+5 14 Butters "That's me.
+"
+5 14 Butters "That's me.
+"
+5 14 Butters "Thaat's that's me,  Yeah. .
+"
+5 14 Butters "Three more days till we eat at Bennigan's. That's s-seventy-two hours. Aw gee whiz.
+"
+5 14 Butters "Yes sir! 
+"
+5 14 Butters "We won't know until we're at Bennigan's.
+"
+5 14 Butters "Dad's a good shopper all right.
+"
+5 14 Butters "You mean, spy on him? Uh but... ain't that kind of like... fibbin'?
+"
+5 14 Butters "Sure I do!
+"
+5 14 Butters "Inspector Butters in on the case, ma'am! 
+"
+5 14 Butters "Uh, that's me!
+"
+5 14 Butters "Hm. Dad's going to see a movie. How nice.
+"
+5 14 Butters """White Swallow Bath House""
+"
+5 14 Butters "Uh, that's me!
+"
+5 14 Butters "I'm back, Ma!
+"
+5 14 Butters "I sure did.  Dad sure had a nice night out.
+"
+5 14 Butters "Well first, he went to see a movie.
+"
+5 14 Butters "I don't know. But it wasn't the movie theater at the mall. No, it was that, really old theater downtown. The Studcat.  I didn't know it was open. 
+"
+5 14 Butters """Fisting Firemen 9""  I've never seen 1 through 8.
+"
+5 14 Butters "Uh but it must have been a real short movie, though, because Dad came out, like, ten minutes later. ...And it must have been a sad film, too, because, he had a bunch of tissue paper with him when he came out. Poor old Dad, the movie really got to him.
+"
+5 14 Butters "To the gym.
+"
+5 14 Butters "Yeah. The White Swallow Spa.
+"
+5 14 Butters "Yep. He went in there and wrestled with all kinds o' guys. He wasn't too good, though. This one black guy had him pinned down for fifteen minutes straight!
+"
+5 14 Butters "Inspector Butters gets all the facts. I even got some neato pictures.  The only thing I can't figure out is why dad told you he was goin' shoppin' for your present when he was goin' out to see the movies an' wrestlin'.  Oh, did you have a nice ""trip,"" Mom? See you next ""fall."" Hahaha, yo- Ma?
+"
+5 14 Butters "Uh, that's me!
+"
+5 14 Butters "Hm. Uh-I can't think of one.
+"
+5 14 Butters "Should I go see what he gets you again, Mom?
+"
+5 14 Butters "Hey, a new paint brush. That's what Dad could get Mom for their anniversary. I gotta go tell him. 
+"
+5 14 Butters "That's me!
+"
+5 14 Butters "One please.
+"
+5 14 Butters "Uh thanks! 
+"
+5 14 Butters "Dad?  Dad, you in here?
+"
+5 14 Butters "Hello? Eh-anybody in here?
+"
+5 14 Butters "Uh, Mr. Garrison?
+"
+5 14 Butters "Da-ad? Da-ad??  Are you wrestlin' in here?  Dad?
+"
+5 14 Butters "Oh, uh, pardon me, sirs.  Dad? No.  Hm. 
+"
+5 14 Butters "Hi Dad! 
+"
+5 14 Butters "I'm glad I found ya. I think I know the perfect anniversary present for Mom. But what are you doin' with your wiener out there, Dad?
+"
+5 14 Butters "Oh. Well, alright then. Well, see ya at home. 
+"
+5 14 Butters "That's me!
+"
+5 14 Butters "Uh, hey Dad.
+"
+5 14 Butters "Well, sure thing, Dad.
+"
+5 14 Butters "Well, I know lying's bad, Dad. Y-you told me so.
+"
+5 14 Butters "Little white lies?
+"
+5 14 Butters "...Uh, who's Jack?
+"
+5 14 Butters "Oh no, that won't happen, Dad.
+"
+5 14 Butters "Eh, no. Because I already told Mom and she's fine.
+"
+5 14 Butters "A drive? Oh, boy!  I- I love a good drive. Is Dad comin' too?
+"
+5 14 Butters "Alright. See ya in a bit, Dad.  Oh boy, a drive!
+"
+5 14 Butters "Oh, jeez, you wouldn't have believed how angry I was when Teacher said I had to share my fingerpaints, because I've been sharin' them all along.
+"
+5 14 Butters "Well, sure I do, Mom. I love you, too.
+"
+5 14 Butters "Oh, you mean like the time you washed my mouth out with soap for sayin' ""nutsack"" in front of Grandma. Yeah, I need to behave myself.
+"
+5 14 Butters "Well, sure, that makes sense, I suppose, yeah. Hey, did you seen my mittens anywhere?  It's cold out here.
+"
+5 14 Butters "Oh. Well, alright, Mom. O-o-okay then.  You know, I think the car might be movin', Mom.  Yep, I'm pretty sure the car is movin'. Looks like I'm headin' for the water.
+"
+5 14 Butters "Well, I think I- Yup, it looks like the car is fillin' up with water!  Yeah. I think right now might be a good time to try to get the car out, Mom! 
+"
+5 14 Butters "That's me!
+"
+5 14 Butters "Oh, boy! This thing ain't never gonna stop! I must be all the way down to Denver by now.  Ohhh, whoopee! Finally. Uh now that the car has come to a stop, it's safe for me to unfasten my seat belt.  Boy, Mom must be- worried sick about- me right now. Ah I gotta get back home.  Wuh gee whiz, where the heck am I?
+"
+5 14 Butters "That's me!
+"
+5 14 Butters "That's me!
+"
+5 14 Butters "And so them my friend started hollerin' at me, sayin' ""you took my rubber bands."" Well, I didn't take 'em, Craig, did. I saw Craig take 'em. Anyway, boy, I sure am lucky you came along, Mister.
+"
+5 14 Butters "Yeah. I could use some God-damned poontang myself right now. Have you ever been to Bennigan's, Mister? Oh, it sure is great. I'm goin' to Bennigan's tomorrow night with my family. Oh, I can just see it now.  We'll walk in the front doors,  and the nice Bennigan's hostess lady will take us to our cozy booth  Then we'll order some mozzarella sticks, for appetizers.  Dad will open his present, and Mom will open hers  Uh then the Bennigan's wait staff will sing
+Happy Happy Anniversary from everyone at Bennigan's
+''
+Happy Happy Anniversary-eh from everyone at Bennigan's
+Happy Happy Anniversary from everyone at Bennigan's
+Happy Ha- Whoa, are we stoppin' for sodas? Hey, can I have chocolate milk?  He must like TGI Fridays.
+"
+5 14 Butters "Oh. Hello? Uh, who is this?
+"
+5 14 Butters "Uh, is this the Stotch residence?
+"
+5 14 Butters "...No.
+"
+5 14 Butters "...No.
+"
+5 14 Butters "That's me!
+"
+5 14 Butters "Sir? Hello?
+"
+5 14 Butters "Wah I have to get to South Park. Eh, if you give me a ride, I could pay you the four dollars I made at the titty bar.
+"
+5 14 Butters "I can't wait till Sunday. I'm eating with my family at Bennigan's tomorrow.
+"
+5 14 Butters "Uh will I eventually get to South Park if I follow this road? 
+"
+5 14 Butters "...Well, it's my parents' anniversary tomorrow,  and they're gonna be awful sad if I'm not there with 'em.
+"
+5 14 Butters "Oh jeez. 
+"
+5 14 Butters "For family fun and great food, too, come on down to... Bennigan's
+Buffalo wings and fried food, cokes, and Foster Farms at... Bennigan's
+Uhuh, hello?
+So come and eat at...
+"
+5 14 Butters "...Bennigan's.
+You'll love all our... shenanigans.
+Oh, nutsack  Oops.
+&lt;/poem&gt;
+"
+5 14 Butters "That's me!
+"
+5 14 Butters "Happy Anniversary!
+"
+5 14 Butters "Oh.  Alright, then. I-
+"
+5 14 Butters "Ah, I'm sorry. The car just rolled into the lake, and it floated all the way down the river. I tried callin' home, but it was-
+"
+5 14 Butters "I ain't grounded, am I?
+"
+5 14 Butters "Lie?
+"
+5 14 Butters "Hey, you stop hollerin'! It's your anniversary.
+"
+5 14 Butters "Uh stop it, Mom and Dad.
+"
+5 14 Butters "Now gosh darn it, you!  You listen here! Now I am sick of these harmless lies and l-little white lies. You know, you can call a shovel an ice-cream machine, but it's still a shovel, Mom and Dad. Ah, and you can call a lie whatever you want, but it's still a no-good stinkin' lie! And when you start coverin' up one lie with another why, now that's when you get into real trouble!  Boy I've, I've just about had it up to here  with you two! 
+"
+5 14 Butters "Well I ain't in trouble for hollerin' at ya, am I?
+"
+5 14 Butters "...Well ah, I'm happy you're alive too, Mom. So now can we go to Bennigan's?
+"
+5 14 Butters "Yeah!
+"
+5 14 Butters "Yeah! 
+"
+5 14 Butters "Ye-!  wait, what?
+"
+5 14 Butters "Uh, k-kill me? Uh Jesus Christ!
+"
+5 14 Butters "Yeah. Boy, you fellas are sure gonna rip on me at school now.
+"
+5 14 Butters "I really wish I didn't know that stuff. I guess I learned that sometimes, lying can be for the best. Yup. Oh well, when I want a chipotle bleu cheese bacon burger at Bennigan's, I forget all about my dad... bein' queer and my mom tryin' to kill me. I'm gonna be okay.
+"
+5 14 Butters "Naw, I'm lyin'
+"
+5 14 Butters "Wuh comin', Dad! 
+"
+5 14 Butters "That's me!
+"

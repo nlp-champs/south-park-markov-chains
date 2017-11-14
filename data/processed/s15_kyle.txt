@@ -1138,3 +1138,573 @@
 "
 15 14 Kyle "How was jail, fatass?!
 "
+15 1 Kyle "Just let us see your iPad, Cartman.
+"
+15 1 Kyle "So, plug it in.
+"
+15 1 Kyle "You see? And then I can take all my homework on my iPad, and swipe it over to my iPhone.
+"
+15 1 Kyle "Aw, that's just a rumor. They don't really track y- 
+"
+15 1 Kyle "What? Ready for what?
+"
+15 1 Kyle "What ""agreement""?!
+"
+15 1 Kyle "Hey! You can't do that! 
+"
+15 1 Kyle "What are you talking about?!
+"
+15 1 Kyle "The water tank?   Hey I'm not going with you!
+"
+15 1 Kyle "You guys!  You gotta help me. These business casual G-men are trying to kidnap me!
+"
+15 1 Kyle "It's crazy, dude! They're saying it's because I agreed to the latest terms and conditions on iTunes!
+"
+15 1 Kyle "I don't know, I didn't read them!
+"
+15 1 Kyle "Who the hell reads that entire thing every time it pops up?
+"
+15 1 Kyle "You're telling me that every time you guys download an update for iTunes, you read the entire terms and conditions?
+"
+15 1 Kyle "Well, I turned off all my Apple stuff. They can't locate you if you don't have your stuff on, right? 
+"
+15 1 Kyle "Gahhh! 
+"
+15 1 Kyle "Dad! Dad, I need a lawyer!
+"
+15 1 Kyle "Dad, if you agree to something but you didn't mean to agree to it, what do you do?!
+"
+15 1 Kyle "But it's like eight pages long and they send me a new one like every three weeks! How can they know if I-
+"
+15 1 Kyle "AAHH!
+"
+15 1 Kyle "Dad! You tasered my dad!
+"
+15 1 Kyle "What is this? What's going on?
+"
+15 1 Kyle "...What?
+"
+15 1 Kyle "Hey! Hey, let me out of here! This is a mistake! I agreed by accident!
+"
+15 1 Kyle "We didn't read them!
+"
+15 1 Kyle "The first what?
+"
+15 1 Kyle "(I need some help! I can't take it!)
+"
+15 1 Kyle "(I can't take it! I want out right now!)
+"
+15 1 Kyle "(Yes! Please! Let me go!)
+"
+15 1 Kyle "(You're fine!)
+"
+15 1 Kyle "(Yaaaaah!) 
+"
+15 1 Kyle "(Vanilla paste! Vanilla paste!)
+"
+15 1 Kyle "(No! That's not what I said! Vanilla paste!)
+"
+15 1 Kyle "(NOOOO!) 
+"
+15 1 Kyle "(Yes. Yes, hurry up.) 
+"
+15 1 Kyle "(Oh, shit!)
+"
+15 1 Kyle "(Yes. I promise I'll read.)
+"
+15 2 Kyle "Dude, an awards show just for comedy sounds like a bad idea.
+"
+15 2 Kyle "Yeah, sorry dude uh, I can't make it either.
+"
+15 2 Kyle "A big success?! You can't even get Tyler Perry to go back home!
+"
+15 2 Kyle "Jimmy, you're got to explain to the Germans that this is your fault, not ours!
+"
+15 2 Kyle "Don't hurt anybody, sir. We could try and fix this.
+"
+15 2 Kyle "Butters! Butters, is everything okay?
+"
+15 2 Kyle "Plase sir, they're gonna kill our friend!
+"
+15 2 Kyle "I think you're awesome, Funnybot. Uh, but you can't go around taking everyone else's jobs.
+"
+15 2 Kyle "Dude, killing everyone isn't funny!
+"
+15 2 Kyle "Wait! Wait a minute.  What about a logic loop?
+"
+15 2 Kyle "Ahhh I've seen this before. Whenever they try to distract a robot in the movies, they tell it some kind of paradox, to get its processors all tripped out.
+"
+15 2 Kyle "It's working! 
+"
+15 2 Kyle "No problem, Funnybot.
+"
+15 3 Kyle "Where are you going?  Ike, where are you going?
+"
+15 3 Kyle "...I don't know.
+"
+15 3 Kyle "Well, cou, couldn't just you know, get rid of the part of Tooth Decay?
+"
+15 3 Kyle "I am Tooth Decay. Your teeth shall be mine. With candy and treats I will take-
+"
+15 3 Kyle "I'm just doing the line.
+"
+15 3 Kyle "Uh I'm trying, Mr. Mackey, I really am.
+"
+15 3 Kyle "Oh no, dental floss, what will I do?
+"
+15 3 Kyle "I mean, come on guys, that's pretty cool, right? My little brother is a knight in Canada. 
+"
+15 3 Kyle "Hmmm, yeah.
+"
+15 4 Kyle "...No, dude, that's not the trailer for Terminator 5, that really happened.
+"
+15 4 Kyle "You get in trouble again, Cartman?
+"
+15 4 Kyle "No they didn't.
+"
+15 4 Kyle "That doesn't make any sense.
+"
+15 4 Kyle "How big do they say mine is? 
+"
+15 4 Kyle "Well everyone has already seen it; nothing we can do about it now.
+"
+15 4 Kyle "Didn't you forget something?
+"
+15 4 Kyle "You measured everyone's wiener except for yours.
+"
+15 4 Kyle "Thirteen point seven inches?
+"
+15 4 Kyle "Your wiener is not 13 inches long!
+"
+15 5 Kyle "Dude, this is probably the best episode they've ever done!
+"
+15 5 Kyle "I'm so happy! 
+"
+15 5 Kyle "Oh no! It's that  super-sad Sarah McLachlan commercial! Look away!
+"
+15 5 Kyle "Dude, this is the saddest commercial ever! Don't watch! 
+"
+15 5 Kyle "Why do they have to put this on TV?! 
+"
+15 5 Kyle "Aaaggh, God.
+"
+15 5 Kyle "I can't take it anymore! I gotta go volunteer, dude! 
+"
+15 5 Kyle "What exactly can I do to help?
+"
+15 5 Kyle "Oh it's, it's so sad.
+"
+15 5 Kyle "What are you doing here?
+"
+15 5 Kyle "...What are you doing here?!
+"
+15 5 Kyle "Why do you have a video camera?
+"
+15 5 Kyle "I'm sorry, can I come back in just a little bit?
+"
+15 5 Kyle "Thanks. 
+"
+15 5 Kyle "What's going on?!
+"
+15 5 Kyle "So what are you doing?!
+"
+15 5 Kyle "Alright, what is it?!
+"
+15 5 Kyle "Why do you need me?
+"
+15 5 Kyle "I knew you were doing something terrible!
+"
+15 5 Kyle "Lots of people will when I tell them!
+"
+15 5 Kyle "You what?
+"
+15 5 Kyle "A thousand dollars.
+"
+15 5 Kyle "There's a big wait to sit down.
+"
+15 5 Kyle "Jesus Christ.
+"
+15 5 Kyle "Wow...
+"
+15 5 Kyle "And it actually helps the crack babies. It's like volunteering but, but we just make a little on the side.
+"
+15 5 Kyle "Hey Stan. Dude, I want you to have this. It's the twenty bucks I owed you plus thirty dollars interest.
+"
+15 5 Kyle "I got a job, Stan. I am making tons of money doing some really cool stuff.
+"
+15 5 Kyle "Crack baby... basketball.
+"
+15 5 Kyle "No no, it's n-it's not like it sounds. Here, check it out.  See look, we just video the babies fighting over a ball full of crack. It's really getting popular!  I mean it, it's cool because like the commercial said, the crack babies had nothing before.  It, it's great, because everyone wins, you know? You see that? Two million hits.  Did you know they're putting bacon inside of pancakes at Denny's?
+"
+15 5 Kyle "Dude, what actually makes total sense about it, if you look at it, is that the crack babies are finally getting some attention and the care that they need.  Yeah. It's pretty cool, dude. Because most of these babies would normally not even get out, you know? Huh, or be able to do anything.  Just because we are making money doesn't mean that those babies aren't benefiting. It isn't exploiting them. They're finding a useful place in society. What's so unethical about that? 
+"
+15 5 Kyle "Ooogh. Dude, the thing is, we're not the ones that made them crack babies. That's their moms' goddamned fault!
+"
+15 5 Kyle "I do not sound like Cartman goddamnit!  Okay, so, see ya. 
+"
+15 5 Kyle "I need to talk to you. 
+"
+15 5 Kyle "In our deal with EA Sports we are giving them the right to use images of the crack babies and their names. But we aren't paying the crack babies.
+"
+15 5 Kyle "But this video game can make a million dollars. We have to give the crack babies a piece of that.
+"
+15 5 Kyle "Gut they're the ones risking injury.
+"
+15 5 Kyle "The government could come after us, Cartman.
+"
+15 5 Kyle "So then where did the eight hundred dollars we made from selling an Internet ad to Payless Shoe Source go?
+"
+15 5 Kyle "A hot tub?!
+"
+15 5 Kyle "Gravy?
+"
+15 5 Kyle "No way.
+"
+15 5 Kyle "I know, but dude, we can't license our games to EA Sports and pay the crack babies nothing. Slavery is illegal.
+"
+15 5 Kyle "What other companies?
+"
+15 5 Kyle "Here's the thing: Whether or not I'm a part of it, crack baby basketball is popular. Somebody's going to do it. So the only way for me to try and help the situation is to be involved in it, so that I can steer things in a direction that is more beneficial to the actual crack babies.  Oh, it's sooo easy for you, isn't it? I mean, what do you have to do except lay there and think about what you did at school today, or what you want to watch on TV tomorrow? Well sorry, Skippy, but the world isn't always black and white! Just because some people are born poorer than others doesn't mean I can't enjoy a few McDonald's French fries in a hot tub of gravy from Kentucky Fried Chicken!
+"
+15 5 Kyle "It happens to be called poutine in Montreal! 
+"
+15 5 Kyle "Alright Cartman, I've been doin' a lot of thinking about how the company's gonna spend the money we make off the EA Sports deal. We're going to use thirty percent of the money to build an orphanage for the crack babies.
+"
+15 5 Kyle "I've designed it to be the best place for them to live. A place where they can finally have the care and happiness they deserve. And if you think it's a bad idea, I really don't care!
+"
+15 5 Kyle "...What?
+"
+15 5 Kyle "And so, thirty percent of the money we make off the licensing agreement with EA Sports goes to the orphanage for the needy crack babies. Did you see the blueprints? The babies will have their own putt putt golf course.  Why does it matter how much I'm making, Stan? If the crack babies are getting a place to grow and develop, why does my salary matter?
+"
+15 5 Kyle "What?
+"
+15 5 Kyle "Look, let's just get our money from EA Sports and get out of this whole thing once and for all!
+"
+15 5 Kyle "Wait a minute. According to this you now own all the rights to Crack Baby Basketball and we got nothing.
+"
+15 5 Kyle "You can't do this! We were gonna build an orphanage! So the crack babies have somewhere to go!
+"
+15 5 Kyle "You guys, we've just been screwed over and lied to!
+"
+15 5 Kyle "It's unbelievable, Stan. EA Sports just used us the entire time. We worked for nothing and EA made all the money. You know, I don't think we actually deserved getting screwed over but, but I guess making tons of money off of people who are making nothing is always gonna cause problems. I know, I know, right? We might've got screwed, but the really tragic thing is that those, those poor crack babies at the hospitals are just gonna be stuck there, with nowhere to go.  No way!  This is it!
+"
+15 5 Kyle "This is it, Stan!  It's just like I designed it. There's the miniature gold course over there! And slides and uh,  excuse me, what is this place?
+"
+15 5 Kyle "But who paid for all this? 
+"
+15 5 Kyle "You don't think that-? But he isn't real.
+"
+15 7 Kyle "Wait wait it-it's Stan's birthday.
+"
+15 7 Kyle "Oh God...
+"
+15 7 Kyle "Here, this one's from me, Stan.
+"
+15 7 Kyle "Yeah dude!
+"
+15 7 Kyle "Yeah they're the best!
+"
+15 7 Kyle "But that's our music! We like it!
+"
+15 7 Kyle "Gross!
+"
+15 7 Kyle "Oh dude! Dude, this is the part I was talking about. Check out the bassline on this! 
+"
+15 7 Kyle "Hey Stan. 
+"
+15 7 Kyle "Dude, have you really listened to the sixth track? I think it's my new favorite.
+"
+15 7 Kyle "Sure.  What's up?
+"
+15 7 Kyle "Oh. Really? Um well that's okay.
+"
+15 7 Kyle "Why? What's it sound like?
+"
+15 7 Kyle "What? You mean like you don't like the singing, or the lyrics, or what?
+"
+15 7 Kyle "No.
+"
+15 7 Kyle "NO. Dude, maybe you should see a doctor.
+"
+15 7 Kyle "Alright guys, do you think he's lying or telling the truth?
+"
+15 7 Kyle "Hey, Stan. What did the doctor say?
+"
+15 7 Kyle "What's that?
+"
+15 7 Kyle "Oh. Well, come on, we're playing L.A. Noire.
+"
+15 7 Kyle "Yeah, we got him!
+"
+15 7 Kyle "We're gonna level up to detective!
+"
+15 7 Kyle "Alright, ahhh, why don't we do something else?
+"
+15 7 Kyle "You don't wanna eat it?
+"
+15 7 Kyle "Erm, okay, I know. How about we go to the mall?
+"
+15 7 Kyle "Ugh, okay Stan, what do you wanna do?
+"
+15 7 Kyle "I know! That's so hilarious!
+"
+15 7 Kyle "No, ah I didn't lie to you. Ah I was um... uh I felt better and then the guys called and said that they felt better and uh-
+"
+15 7 Kyle "Alright dude, we were going to the movies.
+"
+15 7 Kyle "Look, Stam, we-we just wanted to be able to go to the movies and enjoy ourselves, you know? I'm sorry but... you're a bummer to be around. Everything is ""that looks like shit"" and, and ""this is shitty!""
+"
+15 7 Kyle "Look dude, it's just one movie. We wanna have a good time.
+"
+15 7 Kyle "Okay. But you've gotta promise to not complain.
+"
+15 7 Kyle "Dude, you said you wouldn't say everything looked like shit!
+"
+15 7 Kyle "Shhh, you're doing it again!
+"
+15 7 Kyle "No, they're penguins! Stop it!
+"
+15 7 Kyle "That's it, Stan! I'm not sitting through a whole movie with you! 
+"
+15 7 Kyle "Dude, you've... you've changed.
+"
+15 7 Kyle "No. And I don't want to. Look Stan, maybe we should fo- 
+"
+15 8 Kyle "Oh shut up Cartman! You don't even know what you're talking about!
+"
+15 8 Kyle "That's only a vaccination for girls, stupid!
+"
+15 8 Kyle "Because some people think vaccinations can give you autism or Asperger's!
+"
+15 8 Kyle "That's what they're talking about on the news!
+"
+15 8 Kyle "Yes!
+"
+15 8 Kyle "You wanna bet?  Let's go ask my Dad right now!
+"
+15 8 Kyle "I've tried, Wendy. I've called him, I've been to his house. But since his diagnosis, all he's done is gotten worse.
+"
+15 8 Kyle "I can't keep doing it, Wendy. I know he has an illness, but goddamn, it uh, it's like being around a black hole that just sucks the life out of everything.
+"
+15 8 Kyle "NO. I can't, Wendy.  All his negativity is starting to make me depressed. I have to let him go.  And whatever happens next, I'm going to embrace with a totally  positive attitude.
+"
+15 8 Kyle "What's the matter dude?
+"
+15 8 Kyle "You made hamburgers? Well that's awesome! I'd love one.  Mmm. Hm, wow  This is really good, Cartman.
+"
+15 8 Kyle "Yeah.  Hey Riley! Try this hamburger.  Cartman made them himself.
+"
+15 8 Kyle "Seriously, Cartman. You could make money with these!
+"
+15 8 Kyle "About three minutes, fatass!
+"
+15 8 Kyle "Dude, come on Cartman. As employees, don't you think we should get to see what the final secret flavor enhancer is?
+"
+15 8 Kyle "Stan? 
+"
+15 8 Kyle "Hey, Stan!
+"
+15 8 Kyle "Stan, are you alright?
+"
+15 8 Kyle "Really? Uh, Stan, that's great. 
+"
+15 8 Kyle "Dude. Have you been drinking?
+"
+15 8 Kyle "It's too late for that. Things just can't go back, Stan, uh.  Ah-I'm with Cartman Burger now.
+"
+15 8 Kyle "See? There you go again. Look at you dude. Look what you've become.
+"
+15 8 Kyle "Yeah, it's fine.
+"
+15 8 Kyle "Yeah yeah, ahh I'll be right there.
+"
+15 8 Kyle "Look, dude, things around here have changed. Sometimes, the only way to keep going is to make a left turn.
+"
+15 8 Kyle "There, ten mediums and five medium-rares.
+"
+15 8 Kyle "Next please.  Oh, hey.
+"
+15 8 Kyle "What are you doing?
+"
+15 8 Kyle "I don't know.
+"
+15 8 Kyle "Why?! So that we can lose our business and everything can go back to old times?!
+"
+15 8 Kyle "Oh God! Look, I know you got Asperger's from the school and I I'm sorry. But your negativity is poison to me!
+"
+15 8 Kyle "You said ""fuck you"" to my face, Stan.
+"
+15 8 Kyle "Alright, look. I honestly don't know the secret, dude. Only Cartman does, and that's how it's gonna work for us.
+"
+15 8 Kyle "You were sticking these in your ass, Cartman?!
+"
+15 8 Kyle "Dude, we're gonna see the new Zoopeeker movie!
+"
+15 9 Kyle "Look guys, all we need to do is split up and apply some good diversion tactics. We'll use the Texans' emotions against them.
+"
+15 9 Kyle "Hey Texans! Let me through; we want a treaty!
+"
+15 9 Kyle "Better than being a fatass Texan!
+"
+15 9 Kyle "No, you're fat to begin with, chubby! Now you're Texan too!
+"
+15 9 Kyle "So then don't have a slumber party if you're gonna be an asshole all night!
+"
+15 9 Kyle "He was with us at dinner. Wait. Was he with us at dinner?
+"
+15 9 Kyle "Butters?
+"
+15 9 Kyle "Jesus, it's freezing out here. He, he could be dead.
+"
+15 9 Kyle "Wugh, game on. 
+"
+15 9 Kyle "Cartman, what the hell is this?! 
+"
+15 9 Kyle """Wanted by U.S. Border Patrol""?! ""Permission to shoot on sight""?!
+"
+15 9 Kyle "Butters has been missing for a week! You might have inadvertently gotten him killed!
+"
+15 9 Kyle "Stop being a pouty little bitch 'cause you lost, Cartman!
+"
+15 9 Kyle "Yeah, you're a great Meheecan, Butters, just not a great leader of Meheeco. 
+"
+15 10 Kyle "The blond kid?
+"
+15 10 Kyle "How do you know?!
+"
+15 10 Kyle "What's that?
+"
+15 10 Kyle "Dude, that's so wrong!
+"
+15 10 Kyle "What's up?
+"
+15 10 Kyle "Dude, that's fucked up.
+"
+15 10 Kyle "It's funny that something that should be completely private is put up on a Web site for everyone to see??
+"
+15 10 Kyle "That's not funny.
+"
+15 10 Kyle "I'm not looking at that!
+"
+15 10 Kyle "It wouldn't be funny if that Web site posted something about you!
+"
+15 10 Kyle "So, just to be completely clear, now it isn't funny, right?
+"
+15 10 Kyle "Where is it coming from?
+"
+15 10 Kyle "If it's on the school network we can track the IP address.  This way. In here.  Whoever it is using the computer in the music room.
+"
+15 10 Kyle "Get ready guys. Whoever is in here is the kid that's hacking our e-mails and phone calls! You guys ready?!
+"
+15 10 Kyle "One.  Two. Three! 
+"
+15 10 Kyle "Get it! 
+"
+15 10 Kyle "Wikileaks.  It says here his name is Wikileaks.
+"
+15 10 Kyle "What?
+"
+15 10 Kyle "What is that thing?
+"
+15 10 Kyle "Just tell us where Lemmiwinks is being held prisoner so we can kill this stupid rat!
+"
+15 10 Kyle "Here's a shoebox! 
+"
+15 10 Kyle "Grab him! 
+"
+15 10 Kyle "What the hell happened?!
+"
+15 10 Kyle "Yeah, but you know? I think we all learned an important lesson about laughing at other people's misfortunes.
+"
+15 12 Kyle "Four weeks we gotta do this?
+"
+15 12 Kyle "Shut the hell up, Cartman!
+"
+15 12 Kyle "How do you murder a stuffed animal?!
+"
+15 12 Kyle "Hey dude, ah are you the guys messing with Cartman's stuffed animals?
+"
+15 12 Kyle "Yeah, but dude, he seriously could have died in that fire.
+"
+15 12 Kyle "It's not me! I'm here to help you, fatass!
+"
+15 12 Kyle "We told him to grow up. So he got rid of his stuffed animals.
+"
+15 13 Kyle "Well, it is kinda true, you know? Thanksgiving is fun and all, but the Native Americans got pretty screwed over.
+"
+15 13 Kyle "Hey, fatass! Instead of laying in bed eating, why don't you come and help?!
+"
+15 13 Kyle "How is that gonna help?!
+"
+15 13 Kyle "What? This isn't history.
+"
+15 13 Kyle "What??
+"
+15 13 Kyle "We're not basing research for our report on this crap!
+"
+15 13 Kyle "Dude!
+"
+15 13 Kyle "Alright, fine! Let's just get this stupid report over with!
+"
+15 13 Kyle "Dude, shut your fuckin' mouth!
+"
+15 13 Kyle "Dude, look, we, we just saw all this stuff on History Channel.
+"
+15 13 Kyle "We saw it on your channel.
+"
+15 13 Kyle "You might as well just say Pilgrims and Indians were all aliens who came here and made some kind of intergalactic treaty!
+"
+15 13 Kyle "How can they make a show out of this? I wasn't even agreeing with them. 
+"
+15 13 Kyle "...Uh oh.
+"
+15 13 Kyle "I was just explaining how a negative argument doesn't make a po-
+"
+15 13 Kyle "Ack dude! 
+"
+15 13 Kyle "Dude, there's a guy with a gun here!
+"
+15 13 Kyle "Would you guys stop!
+"
+15 13 Kyle "No, ah I don't.
+"
+15 13 Kyle "I actually only just said that sarcastically.
+"
+15 13 Kyle "But I always read that Native Americans were here, and that Pilgrims and other settlers kind of took their lands from them.
+"
+15 13 Kyle "I'm not a professor.
+"
+15 13 Kyle "You are the fucking History Channel!
+"
+15 13 Kyle "So, do you uh, do you have any brothers or sisters, Natalie?
+"
+15 13 Kyle "Wow, awesome. Um...
+"
+15 13 Kyle "Um... so...  So dual citizenship, wow, uh... You know that I, I never knew anyone that had that.
+"
+15 13 Kyle "Cool. Cool... You wanna order some dessert?
+"
+15 13 Kyle "Yeah, it was cool, thanks.  Um, so... Is there any way you'd
+"
+15 13 Kyle "You know, could youuu...
+"
+15 13 Kyle "Would you please just open your wormhole?!
+"
+15 13 Kyle "Errh!
+"
+15 13 Kyle "Yeeah, you're welcome. I'm sorry I doubted you. And guys, I'm I'm sorry I acted like a know-it-all. 
+"
+15 13 Kyle "I guess we should all realize...  that history and alien technology really do go hand in hand. 
+"
+15 13 Kyle "Oh, come on!!
+"
+15 14 Kyle "Dude, I don't think Kenny's coming back. My dad said those Child Protective Services people are pretty serious.
+"
+15 14 Kyle "That's what you care about?! Who's the poorest kid in school now?!
+"
+15 14 Kyle "My name. Is not. ""Kyel.""
+"
+15 14 Kyle "I hear your parents might give up selling meth for good.
+"
+15 14 Kyle "How was jail, fatass?!
+"

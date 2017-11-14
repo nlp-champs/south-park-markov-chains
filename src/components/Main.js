@@ -21,13 +21,7 @@ let stan = require('../images/stan.jpg');
 let kyle = require('../images/kyle.jpg');
 let kenny = require('../images/kenny.jpg');
 let pcprincipal = require('../images/pcprincipal.png');
-
-// bootstrap stuff (note: imports have to be in this exact order!)
-import jquery from 'jquery';
-window.jQuery = jquery;
-window.Popper = require('popper.js');
-window.Tether = require('tether');
-require('bootstrap');
+let mrmackey = require('../images/mackey.jpg');
 
 var $ = require("jquery");
 
@@ -37,7 +31,8 @@ var oImageRefs = {
   'stan': stan,
   'kyle': kyle,
   'kenny': kenny,
-  'pcprincipal': pcprincipal
+  'pcprincipal': pcprincipal,
+  'mr.mackey': mrmackey
 }
 var oMarkovOptions = [
   { value: '2', label: '2 - not very legible but creative' },
@@ -51,7 +46,8 @@ var oCharacterOptions = [
   { value: 'stan', label: 'Stan' },
   { value: 'kyle', label: 'Kyle' },
   { value: 'kenny', label: 'Kenny' },
-  { value: 'pcprincipal', label: 'PC Principal' }
+  { value: 'pcprincipal', label: 'PC Principal' },
+  { value: 'mr.mackey', label: 'Mr. Mackey' }
 ];
 
 // magic ES6... because ben is mean :)
@@ -96,6 +92,7 @@ class AppComponent extends React.Component {
       season: this.state.season,
       character: this.state.character
     });
+    if (typeof window !== 'undefined') {
      $.ajax({
         url: '/generate_sentence',
         type: 'POST',
@@ -115,6 +112,7 @@ class AppComponent extends React.Component {
         error: function() {
         }
       });
+    }
   }
   render() {
     return (
@@ -226,7 +224,7 @@ class AppComponent extends React.Component {
             <hr className="star-primary" />
             <div className="row">
               <div className="col-lg-8 mx-auto">
-                <p>Why, NLP Champs my dear person! Who are the NLP Champ? NLP Champs are a bunch of bloggers who insist on making natural language processing (NLP) avaliable to all, from the champiest of champs, to the noobiest of noobs. You can start anywhere, just dive in! Don't know what NLP is? Don't want to be a champ? Don't care? It doesn't matter! Check out our user friendly site <a href="http://nlp-champs.com">here</a>. (We made a <a href="http://npl-champs.com/blog2">blog post</a> about how we built this very site!)</p>
+                <p>Why, NLP Champs my dear person! Who are the NLP Champ? NLP Champs are a bunch of bloggers who insist on making natural language processing (NLP) avaliable to all, from the champiest of champs, to the noobiest of noobs. You can start anywhere, just dive in! Don't know what NLP is? Don't want to be a champ? Don't care? It doesn't matter! Check out our NLP-beginner-and-expert friendly site <a href="https://nlp-champs.com">here</a>. (We made a <a href="http://npl-champs.com/creating-markov-chains-for-various-characters-of-south-park-with-react-and-ritajs">blog post</a> about how we built this very site!)</p>
               </div>
             </div>
           </div>

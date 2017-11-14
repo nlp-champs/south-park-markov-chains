@@ -1222,3 +1222,615 @@
 "
 11 14 Stan "Yeah well, I guess a lot of things... change, don't they?  Bwaaaagh! Bwaaaagh! 
 "
+11 1 Stan "Oooo. 
+"
+11 1 Stan "Can we just drop this please? I don't wanna talk about it!
+"
+11 1 Stan "No he's not.  Is he?
+"
+11 1 Stan "I just need to explain things.  Hey Token. Look, I don't know if you saw Wheel of Fortune last night, but-
+"
+11 1 Stan "Listen, Token, my dad isn't a racist. He's just stupid, all right? He just blurted out the N-word, and it's no big deal, okay?
+"
+11 1 Stan "Token, my dad wasn't trying to be offensive. Just forget about it.
+"
+11 1 Stan "Yeah, but he didn't say it in anger or anything like that.
+"
+11 1 Stan "Hey Token. I just wanted to let you know that everything is cool now. My dad apologized to Jesse Jackson.
+"
+11 1 Stan "Well, yeah.
+"
+11 1 Stan "Dude, Jesse Jackson said it's okay!
+"
+11 1 Stan "He told my dad he was...
+"
+11 1 Stan "Token! Hey, wait up.  I just wanted to say, I get it now. You know, after that ""little person"" talk at that assembly the other day, I understand how you feel about somebody saying the N word.
+"
+11 1 Stan "God dammit!
+"
+11 1 Stan "Now look, Token, I've done everything I can to make this right! You have no reason to still be mad!
+"
+11 1 Stan "I'm not responsible for what my dad did!
+"
+11 1 Stan "What the hell do you want from me?! 
+"
+11 1 Stan "Then stop being mad!
+"
+11 1 Stan "What was his point?
+"
+11 1 Stan "Dude, I don't get it.
+"
+11 1 Stan "Wait a minute. That's it! I don't get it.
+"
+11 1 Stan "Don't you see, Kyle? I don't get it!  Token, I get it now. I don't get it. I've been trying to say that I understand how you feel, but, I'll never understand. I'll never really get how it feels for a black person to have somebody use the N word. I don't get it.
+"
+11 1 Stan "Yeah. I totally don't get it.
+"
+11 2 Stan "Come on, let's go. 
+"
+11 2 Stan "What'cha do to Butters this time?
+"
+11 2 Stan "Dude, how is putting Butters' wiener in his mouth getting him?
+"
+11 2 Stan "You are now.
+"
+11 2 Stan "You can't!
+"
+11 2 Stan "Because it's really, really funny.
+"
+11 2 Stan "That isn't funny.
+"
+11 2 Stan "Aw man, I've got H O R S now. 
+"
+11 2 Stan "What the hell are you doing, Cartman?!
+"
+11 3 Stan "What do you think happens if you do have it?
+"
+11 3 Stan "Somebody in this class?
+"
+11 3 Stan "You guys stop it! This isn't getting us anywhere!
+"
+11 3 Stan "Yeah... Or you. 
+"
+11 3 Stan "Why are you saying that, Kyle? You can't be the one who had head lice.  Because I was. You're just trying to make me feel bad because you figured that out, didn't you?!
+"
+11 3 Stan "You had head lice?
+"
+11 4 Stan "Dude, we totally got let out of school.
+"
+11 4 Stan "Russian?
+"
+11 4 Stan "So he's a Hillary Clinton fan.
+"
+11 4 Stan "Do a WebCrawler search: maybe he has podcasts up somewhere.
+"
+11 4 Stan "You should be able to search his username on eBay and see what he's been buying and selling. 
+"
+11 4 Stan "Look, these Russian guys all have blogs talking about this like it's just some big diversion for something much bigger!
+"
+11 5 Stan "Uh, can I ask a question? Why do we do this?
+"
+11 5 Stan "Right, so, why do we color eggs? 
+"
+11 5 Stan "Yeah, but why?
+"
+11 5 Stan "So we dip eggs in colored vinegar and a giant rabbit hides them?
+"
+11 5 Stan "You don't see the missteps in logic with that?  Look, I'm just saying that somewhere between Jesus dying on the Cross and a giant bunny hiding eggs there seems to be a, a gap of information.
+"
+11 5 Stan "I don't feel like coloring eggs! I don't get it!
+"
+11 5 Stan "All right, can you explain to me what's going on?
+"
+11 5 Stan "What is the deal with the coloring the eggs and you hiding them and all that? What does that have to do with Jesus dying on the Cross?  It is symbolic? Are you trying to reference something that happened in Biblical times?  Answer me!
+"
+11 5 Stan "I know that! But I figure you must have some knowledge of what Easter's about if you're playing the Easter Bunny at the mall!
+"
+11 5 Stan "No, I'm not gonna just go with it! I'm gonna find out what's behind all this! 
+"
+11 5 Stan "Mom? Dad?  Anybody home?
+"
+11 5 Stan "Dad! You've gotta help me! 
+"
+11 5 Stan "Dad! There's Easter bunnies chasing me!
+"
+11 5 Stan "They chased me from the mall! I don't know what they want!  They're coming in! Dad, open the door!  Dad?
+"
+11 5 Stan "Why were those other rabbit guys chasing me?!
+"
+11 5 Stan "Does Mom know about this?
+"
+11 5 Stan "I don't understand!
+"
+11 5 Stan "Could, could you, take off, the ears, please?
+"
+11 5 Stan "So what is the secret of Easter?
+"
+11 5 Stan "Grandpa's in it too?
+"
+11 5 Stan "Dad, do I have to wear this bag over my head the entire time?
+"
+11 5 Stan "You mean the old Galveston Lodge? 
+"
+11 5 Stan "Must I?
+"
+11 5 Stan "Hi Grandpa.
+"
+11 5 Stan "...Stan.
+"
+11 5 Stan "Yeah.
+"
+11 5 Stan "Yeah, I wanna know already.
+"
+11 5 Stan "Where am I supposed to go?
+"
+11 5 Stan "Jesus Christ! 
+"
+11 5 Stan "Oh no... 
+"
+11 5 Stan "Help.
+"
+11 5 Stan "My Dad's in a rabbit-worshiping cult called the Hare Club For Men they protect the secret of Easter but before they said what it was they were attacked by ninjas and put me in charge of Snowball.
+"
+11 5 Stan "Dude, they took my Dad away. They even shot one of his fellow hares. And now they're after me!  Do you know anything about Easter? What is the connection between Jesus and rabbits and colored eggs?
+"
+11 5 Stan "Please? Do you know anything about the Hare Club For Men? 
+"
+11 5 Stan "My Dad is in it. This... rabbit is too somehow.
+"
+11 5 Stan "Just bread...
+"
+11 5 Stan "He was the disciple that Jesus made into the first pope.
+"
+11 5 Stan "He looks like a guy.
+"
+11 5 Stan "But why would Jesus want a rabbit to run his church?
+"
+11 5 Stan "I don't get it. Why would the pope be holding my Dad hostage for Snowball?
+"
+11 5 Stan "They found me!
+"
+11 5 Stan "If the pope has my Dad... I have to give him what he wants.
+"
+11 5 Stan "What choice do I have?! There's nobody left who can help us!  Wait... unless... maybe there is.  Here, hold this.  Jesus, I know we haven't talked in a long time, and I know that every time you appear we end up killing you somehow, but... I don't know what to do. And I could really use your help. 
+"
+11 5 Stan "First, you have to promise you won't hurt it! And that you'll let everybody go!
+"
+11 5 Stan "Okay, fine. 
+"
+11 5 Stan "You said ""hand over the bunny.""
+"
+11 5 Stan "Hey, what the hell!
+"
+11 5 Stan "Jesus, you did answer my prayer! 
+"
+11 5 Stan "No! No! 
+"
+11 5 Stan "Snowball! 
+"
+11 5 Stan "All right Jesus!
+"
+11 5 Stan "Yeah. I've learned not to ask questions. Just dye the eggs and keep my mouth shut.
+"
+11 6 Stan "Uh oh, this isn't good.
+"
+11 6 Stan "No ma'am.
+"
+11 6 Stan "Dude, we can't read an entire book in one weekend.
+"
+11 6 Stan "Dude, how are we supposed to read an entire book over the weekend and write an essay?
+"
+11 6 Stan "We don't?
+"
+11 6 Stan "Dude, that is awesome. I had no idea you could do that.
+"
+11 6 Stan "That's it, that's the whole story?
+"
+11 6 Stan "You guys, school starts in ten minutes!
+"
+11 6 Stan "Clyde? Clyde! Heyhey Clyde!  You didn't finish your essay either, right?
+"
+11 6 Stan "Again?
+"
+11 6 Stan "These guys are pretty good.
+"
+11 7 Stan "Oh, dude, what's with all the homeless people?  Sir, could you move a little, please?
+"
+11 7 Stan "Well dude, what are we supposed to do?
+"
+11 7 Stan "Yeah, it's all set.
+"
+11 7 Stan "That was a sweet idea, Kyle. 
+"
+11 7 Stan "Dude, what are all these homeless people doing in front of your house?
+"
+11 7 Stan "I don't get it. My Dad said as long as nobody gave them money, they'd move on.
+"
+11 7 Stan "Kyle, what were you thinking?
+"
+11 7 Stan "Dude, it's our dads.
+"
+11 7 Stan "Come on, we have to try and help our stupid parents. 
+"
+11 7 Stan "Our parents are stuck on top of a building in town.
+"
+11 7 Stan "Over here!  Jump down! Go! 
+"
+11 7 Stan "Come on, we gotta get to that scientist's house. 
+"
+11 7 Stan "Are you the head of Homeless Studies?
+"
+11 7 Stan "We think this may be our friend's fault.  He gave one of the homeless twenty dollars yesterday-
+"
+11 7 Stan "There's a bunch of people trapped in the middle of town surrounded by homeless people. W-we can't get to them.
+"
+11 7 Stan "Kyle, enough! Cartman jumping more homeless people isn't gonna solve anything right now!
+"
+11 7 Stan "What the hell happened here? 
+"
+11 7 Stan "We, just came to ask a question.
+"
+11 7 Stan "Look, we just need help with our own homeless problem.
+"
+11 7 Stan "Kyle, knock it off! We're here to find out how to get rid of the homeless, not how many homeless Cartman can jump!
+"
+11 7 Stan "What?
+"
+11 7 Stan "But then you didn't solve the problem, you just moved it!
+"
+11 7 Stan "Dude, our parents are just as stupid as these people, our town is gonna end up just like this!
+"
+11 7 Stan "No no, we're not having Cartman jump any more homeless people, Kyle!
+"
+11 7 Stan "All right, I'm turning around
+"
+11 7 Stan "Honestly, I don't know what you see in this, Kyle.
+"
+11 9 Stan "No way!
+"
+11 9 Stan "No, never.
+"
+11 9 Stan "That uh, a little bigger than your brother's there, Gerald?
+"
+11 9 Stan "Dad, um, I think dinner's almost ready.
+"
+11 9 Stan "Gee, thanks a lot, Dad.
+"
+11 9 Stan "You don't understand, Mom. You just don't understand. 
+"
+11 9 Stan "Hi, could I speak with Mr. Bono, please?
+"
+11 9 Stan "Hi, my name is Stan Marsh. My dad's trying to beat your record for biggest crap.
+"
+11 9 Stan "That's kind of what I'm here for: Do you really need the biggest crap record? Could you maybe see your way to just... letting my dad have this one?
+"
+11 9 Stan "Look, you you gotta understand, sir. My dad's never won an award for anything. Ever. He doesn't have one single trophy. I mean, even I have a second-place trophy for most Sports Illustrated subscriptions sold.
+"
+11 9 Stan "Dude, don't you have enough? I mean, you got tons of money, a jet, and the biggest rock band in the world, a hot wife, and, you've been knighted. I mean, at some point, can't you just kind of... fuck off?
+"
+11 9 Stan "All I'm asking is that maybe with this one thing, let my dad be number 1. A-and you can still be number 2.
+"
+11 9 Stan "Agh!
+"
+11 9 Stan "I take it back!
+"
+11 9 Stan "You're not number two!
+"
+11 9 Stan "What is wrong with that guy?
+"
+11 9 Stan "What are you saying?! How do you know my dad is gonna die?!
+"
+11 9 Stan "So Bono's newest record is a lie!
+"
+11 9 Stan "So?
+"
+11 9 Stan "He's the record.
+"
+11 9 Stan "Wait! Stop! Dad, your old crap counts. Bono never took a second crap to beat yours.
+"
+11 9 Stan "Somebody's been keeping it a secret. Bono was never the record holder! He's the record!
+"
+11 9 Stan "Dude.
+"
+11 9 Stan "That's why he's able to do so much, try to help so many people, but still seem like such a piece of shit.
+"
+11 9 Stan "Dad, are you all right?
+"
+11 10 Stan "Dude...
+"
+11 10 Stan "Cool.
+"
+11 10 Stan "Where'd he go? 
+"
+11 10 Stan "Dude, why did you ever agree to suck his balls in the first place.
+"
+11 10 Stan "...What do you know about the leprechaun?
+"
+11 10 Stan "Who the hell are you?
+"
+11 10 Stan "Come on, guys. 
+"
+11 10 Stan "What is this place?
+"
+11 10 Stan "Well he said there was gonna be a- ...that there was... gonna be a-
+"
+11 10 Stan "Butters.
+"
+11 10 Stan "Hello?
+"
+11 10 Stan "No no I I hardly got any sleep. I had this whole messed up dream about some gay Mayor guy taking us to Imaginationland where all these imaginary characters live?
+"
+11 10 Stan "Yeah! How'd you know?
+"
+11 10 Stan "Why?
+"
+11 10 Stan "Dude, do you really have to do it?
+"
+11 11 Stan "What is this place?
+"
+11 11 Stan "Look, we already told you everything we know. Some guy just showed up in a big balloon and took us into Imaginationland.
+"
+11 11 Stan "Dude, we don't remember.
+"
+11 11 Stan "No.
+"
+11 11 Stan "Your what?
+"
+11 11 Stan "If you already built a doorway to the imagination, then why do you need us?
+"
+11 11 Stan "That's not very imaginative.
+"
+11 11 Stan "The Imagination song?
+"
+11 11 Stan "Imagina-he-hey-
+"
+11 11 Stan "Dude, we don't remember. It was really long and stupid.
+"
+11 11 Stan "Waitwaitwait, maybe that's where he went really flat, like that half-step key change? Imagina-ation.
+"
+11 11 Stan "Dude, you did make a deal... 
+"
+11 11 Stan "Wait, woodland critters... 
+"
+11 11 Stan "Get them out of there!
+"
+11 11 Stan "Tell them to get away now!
+"
+11 11 Stan "KYLE!! 
+"
+11 12 Stan "Hello?  Hello? Anybody? 
+"
+11 12 Stan "Hello?
+"
+11 12 Stan "Hello? Can anybody hear me?
+"
+11 12 Stan "Kyle? Where are you? I, I don't see you.
+"
+11 12 Stan "...Oh that makes sense.
+"
+11 12 Stan "I'm in like a gumdrop forest. I just saw Strawberry Shortcake tied up and dead with pee in her eye.  Ha-hang on. I think something really big is about to go down.
+"
+11 12 Stan "Kyle? What's happening?
+"
+11 12 Stan "What?! You can't let them do that!
+"
+11 12 Stan "Dude you have to stall them!  Uh- ...uh oh, what is that? Hey! G-get out of here! Leave me alone!
+"
+11 12 Stan "No, no! I got sucked through Operation Imagination Doorway at the Pentagon.
+"
+11 12 Stan "No, no, you don't understand. There's a nuke. The government is about to level this entire place.
+"
+11 12 Stan "So the terrorists can't ever use it against us again.
+"
+11 12 Stan "The Chosen One?
+"
+11 12 Stan "Kyle? Kyle, what happened?
+"
+11 12 Stan "What??
+"
+11 12 Stan "Dude, you can't let the government fire off that nuke!
+"
+11 12 Stan "Well you have to convince them they are real!
+"
+11 12 Stan "Whatever it takes, you have to do it, all right?!  Hang- hang on, Kyle, Jesus wants to talk to you.
+"
+11 12 Stan "Kyle!
+"
+11 12 Stan "Dude! How did you do that, Butters?
+"
+11 12 Stan "Dude.
+"
+11 13 Stan "Dude, listen to that video crowd! They love us! 
+"
+11 13 Stan "Dad? Dad! What are you doing?!
+"
+11 13 Stan "Yeah, that's stupid, Dad.
+"
+11 13 Stan "Alright, let's try to score 60,000 points this time. 
+"
+11 13 Stan "Dude, we are total rock stars now!
+"
+11 13 Stan "Hang on.
+"
+11 13 Stan "Yeah?
+"
+11 13 Stan "Yeah, we did. 
+"
+11 13 Stan "Wow, really??  Dude! Dude, Kyle, this guy wants to be our manager!
+"
+11 13 Stan "That'd be awesome!
+"
+11 13 Stan "Wow, this is a huge party.
+"
+11 13 Stan "Dude, dude, that's Ron Zappolo from Channel 4 News! 
+"
+11 13 Stan "Dude! Dude, that's Jay Cutler over there!  Quarterback for the Denver Broncos!
+"
+11 13 Stan "Are you serious??
+"
+11 13 Stan "Nice to meet you!  I mean, you kind of suck, but my dad says you might be good someday.
+"
+11 13 Stan "Yeah. Life is finally going to not suck so hard for us.
+"
+11 13 Stan "Yeah dude, that's almost impossible.
+"
+11 13 Stan "Really? That'd be sweet.
+"
+11 13 Stan "What, you mean, Kyle?
+"
+11 13 Stan "But, Kyle and I always play together. We both chipped in for the game system.
+"
+11 13 Stan "Yeah, but can he play Buckethead on Expert Level?
+"
+11 13 Stan "Yeah, that's pretty good. But can you play ""John the Fisherman""? 
+"
+11 13 Stan "...Kyle. ...I, I thought you were sick.
+"
+11 13 Stan "This is um, Thad Jarvis.
+"
+11 13 Stan "Kyle, I was gonna tell you later. Mr. Kincaid thinks I should play with Thad for a while.
+"
+11 13 Stan "I know, and, and I wanna be fair about it, so, I'll buy you out of your part.
+"
+11 13 Stan "Don't put this all on me, Kyle!
+"
+11 13 Stan "You were the one that's been blowing off playing after midnight, not playing 'cause you were sick,-
+"
+11 13 Stan "Look, the point is I'm never gonna break a million points playing with you! You know that's true!
+"
+11 13 Stan "Let's just do this, all right? 
+"
+11 13 Stan "It's okay, I guess. But I need some game guides for it. My manager and producer set up this live thing at the video arcade where I'm supposed to break a million in front of everybody and I'm I'm stressing out.
+"
+11 13 Stan "Huh?
+"
+11 13 Stan "Hero-Heroin Hero?
+"
+11 13 Stan "And there's no score? No crowds?
+"
+11 13 Stan "Dude, this is awesome.
+"
+11 13 Stan "Ugh. Damint.
+"
+11 13 Stan "Yeah, I practiced last night! Just shut up and play!  No no, you know what?! Screw this!  I'm not playing this song! Why did you pick this stupid song?!
+"
+11 13 Stan "Yeah? Well I changed my mind! We're changing the song to Cheap Trick!
+"
+11 13 Stan "Yeah? Well you're not the leader, are you, Thad?! We play the music I wanna play!
+"
+11 13 Stan "We're playing what I want, and I'll select a different song!
+"
+11 13 Stan "You know what? That's great with me, Thad, 'cause I don't need you to break a million points! I never did!
+"
+11 13 Stan "I just wanna play alone, alright?! I can't concentrate with all these assholes riding me all the time! 
+"
+11 13 Stan "Man...
+"
+11 13 Stan "Just, just a little.
+"
+11 13 Stan "I know, but it mellos me out, okay?!
+"
+11 13 Stan "No problem.
+"
+11 13 Stan "Huh? What, uh?
+"
+11 13 Stan "The dragon. Where did it go?
+"
+11 13 Stan "No, I didn't break a million points and unlock superstardom, all right? I'm done with that stupid game!
+"
+11 13 Stan "I just wanna find something else to play.
+"
+11 13 Stan "I just want a nice, simple... driving game. How about that?
+"
+11 13 Stan "Kyle, could I just talk to you for like five minutes?
+"
+11 13 Stan "Please, ih ih, it won't take long.
+"
+11 13 Stan "I was listening to you for a while. Dude, you've gotten a lot better. 
+"
+11 13 Stan "Look, Kyle, the game is still set up at my house and, maybe we could go try playing it again over there.
+"
+11 13 Stan "That isn't it at all. 
+"
+11 13 Stan "I know. I need you.  I thought I was having a great time because I was getting signed by managers and, going to big sex and coke parties, but, then I realized, I was having fun because I was doing all that...  ...with my best friend.
+"
+11 13 Stan "Yeah.
+"
+11 13 Stan "I don't care. I'd just like to play with you again. For the fun of it.
+"
+11 13 Stan "What, you mean it?
+"
+11 13 Stan "Then let's go, dude! 
+"
+11 13 Stan "All right, dude, let's do this.  What the hell? 
+"
+11 13 Stan "Aw Goddammit! Dad, get off our Xbox!
+"
+11 13 Stan "No, me and Kyle are gonna play Guitar Hero!
+"
+11 13 Stan "You don't ever catch the dragon, Dad! 
+"
+11 13 Stan "Mom, will you get Dad out of here?
+"
+11 13 Stan "That's it?
+"
+11 14 Stan "Dude, Butters, calm down.
+"
+11 14 Stan "Yeah. You think they rate us just for looks, or they take personality into account?
+"
+11 14 Stan "It's listed in order from cutest to ugliest. Clyde's number one.
+"
+11 14 Stan "And then Token, and then me.
+"
+11 14 Stan "Cartman, lay off! You're next to last.
+"
+11 14 Stan "Dude, it's just a stupid list, remember?
+"
+11 14 Stan "Who cares what dumb girls think, right? 
+"
+11 14 Stan "Uh Wendy. Could I talk to you?
+"
+11 14 Stan "Just for a minute. Over here. 
+"
+11 14 Stan "Yeah well, I wanna talk to you about this list you girls made.
+"
+11 14 Stan "The one where you rated the boys' looks in the class. Look, it really messed Kyle up, okay? How could you vote him the ugliest?
+"
+11 14 Stan "So it wasn't unanimous. Maybe you can just change the list.
+"
+11 14 Stan "Can't we just talk to all the girls who made the list and find out why they voted Kyle last?
+"
+11 14 Stan "Aaah, I was just thinking that maybe you voted a little... hastily on the cutest boy?
+"
+11 14 Stan "NO.
+"
+11 14 Stan "I have no idea what you're talking about.
+"
+11 14 Stan "That didn't sparkle with her, did it?
+"
+11 14 Stan "What's going on?
+"
+11 14 Stan "Jesus, dude! 
+"
+11 14 Stan "Hey, kid, have you seen Kyle? We've looked everywhere and we have to show him something.
+"
+11 14 Stan "Kyle! Kyle, don't!
+"
+11 14 Stan "The list was a forgery, Kyle!
+"
+11 14 Stan "It didn't sparkle with all the girls. We have the real list. 
+"
+11 14 Stan "It was about shoes, Kyle. The girls wanted shoes, so they set you up.
+"
+11 14 Stan "Wendy!
+"
+11 14 Stan "Wendy! 
+"
+11 14 Stan "Here, Kyle.  We've been through a lot, but, you can finally see where you really are on the list. 
+"
+11 14 Stan "Are you sure you're okay with this, Kyle?
+"
+11 14 Stan "...Abe Lincoln?
+"
+11 14 Stan "Yeah well, I guess a lot of things... change, don't they?  Bwaaaagh! Bwaaaagh! 
+"

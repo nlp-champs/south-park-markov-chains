@@ -1138,3 +1138,573 @@ And now that I stood up for my dream I finally have the chance.
 "
 12 14 Stan "Dude, aw! Who's using the flak jacket cheat?!
 "
+12 1 Stan "What's going on? Are we in trouble?
+"
+12 1 Stan "...What?
+"
+12 1 Stan "Oh dude, was that yesterday? We forgot.
+"
+12 1 Stan "Well, did... Elton John sing a song for you?
+"
+12 1 Stan "He does feel bad for you, Cartman; he just thinks it's... ironic.
+"
+12 1 Stan "Well, you know, you're always such a dick and stuff, and, and now...
+"
+12 1 Stan "Not me! That's, uh, kinda what he thinks.
+"
+12 1 Stan "What did he do?
+"
+12 2 Stan "Ugh, Dad, can we please not watch this?
+"
+12 2 Stan "And she's at a hotel in our town. 
+"
+12 2 Stan "Butters, don't be such a pussy.
+"
+12 2 Stan "Oh no.
+"
+12 2 Stan "Yeah, don't you recognize us? We're Britney Spears' kids.
+"
+12 2 Stan "I told you that would work!
+"
+12 2 Stan "Butters, do you want your share of the hundred thousand dollars or not?
+"
+12 2 Stan "Yeah, we'll just get a picture of her doing something else.
+"
+12 2 Stan "You do?
+"
+12 2 Stan "We should have just left her alone. But we just had to push her.
+"
+12 2 Stan "Oh, thank God.
+"
+12 2 Stan "We don't wanna upset her, we just want to tell her that we're sorry.
+"
+12 2 Stan "Oh no!
+"
+12 2 Stan "Ms. Spears, uh... we're... really... sorry for making you want to kill yourself.
+"
+12 2 Stan "Yeah, of course. 
+"
+12 2 Stan "Jesus Christ!
+"
+12 2 Stan "Look, uh, we feel really bad, and, and we wanna help Britney however we can.
+"
+12 2 Stan "Would you put a stop to this, please? This is only gonna make things worse.
+"
+12 2 Stan "What do you expect?! Look at her! She doesn't have most of her brain!
+"
+12 2 Stan "No, I mean, she literally doesn't have most of her brain! Her head is gone!
+"
+12 2 Stan "She doesn't have any lips!
+"
+12 2 Stan "We have to get her away from all this, dude. People just aren't gonna let up. We have to take her somewhere to just be at peace.
+"
+12 2 Stan "I know where.
+"
+12 2 Stan "We want three tickets to the North Pole. 
+"
+12 2 Stan "We do. Me, my friend, and his aunt. 
+"
+12 2 Stan "Oh no. 
+"
+12 2 Stan "Dude, they're never gonna let us through.
+"
+12 2 Stan "It's okay, you'll be in the North Pole soon. 
+"
+12 2 Stan "You doing okay, Ms. Spears? 
+"
+12 2 Stan "Oh no!
+"
+12 2 Stan "Come on, Britney!  Come on, come on! 
+"
+12 2 Stan "Kyle, what the fuck is going on now?
+"
+12 2 Stan "Sacrificed? For what?
+"
+12 2 Stan "All right, enough already! This has all gone on long enough!
+"
+12 2 Stan "No wait. 
+"
+12 3 Stan "That's not true. You can't get high off of cat urine, can you?
+"
+12 3 Stan "Yeah, this is not gonna work.
+"
+12 3 Stan "Do you feel anything?
+"
+12 3 Stan "What titties?
+"
+12 3 Stan "Yeah, and then you ran through town screaming and started tearing off all your clothes.
+"
+12 3 Stan "Nah, I think Kenny's out sick today.
+"
+12 3 Stan "Yeah, and where is he gonna find cats anyway? They've been outlawed.
+"
+12 3 Stan "Kenny, you home? 
+"
+12 3 Stan "Yes, we do. We're your friends, dude. We're not gonna let you ruin your life.
+"
+12 3 Stan "Kenny, I know we're super-cool and everything, but if we ever catch you cheesing again, we're gonna tell on you.
+"
+12 3 Stan "Dude, we've got a big problem. Cartman says Kenny is really messed up.
+"
+12 3 Stan "He apparently got to all the cats Cartman's been hiding in his attic.
+"
+12 3 Stan "Come on, we've gotta find Kenny before he hurts himself.
+"
+12 3 Stan "What the hell is he talking about?
+"
+12 3 Stan "I'm sure glad that's over with. 
+"
+12 3 Stan "You guys! Check it out.  It's Kenny.  Isn't that great? He's just getting high on life.
+"
+12 3 Stan "What the hell kind of flowers are those?
+"
+12 4 Stan "Sh ush ush, it'sa it's on!
+"
+12 4 Stan "God, they've replayed this one like eighty times now!
+"
+12 4 Stan "It's not a big deal. We can just watch American comedy. 
+"
+12 4 Stan "What'd they say?
+"
+12 4 Stan "This is going great!
+"
+12 4 Stan "Ah, hi. We made a really successful thing on the Internet, and we'd like to collect our money.
+"
+12 4 Stan "It's Tron Guy. I saw him on YouToob.
+"
+12 4 Stan "We're the ones you told to get Internet money.
+"
+12 4 Stan "Hey, we worked really hard to get this theoretical money!
+"
+12 4 Stan "Boy, I'm sure glad that's over with.
+"
+12 4 Stan "...Yeah.
+"
+12 5 Stan "Dude, wanna do some math problems?
+"
+12 6 Stan "Mom, I just gotta do a couple more things
+"
+12 6 Stan "Aw man! 
+"
+12 6 Stan "What the hell?
+"
+12 6 Stan "What?
+"
+12 6 Stan "My Internet's not working either.
+"
+12 6 Stan "I'm getting on it first.
+"
+12 6 Stan "Kyle, I need to use your Internet
+"
+12 6 Stan "What about Starbucks? They have free Internet.
+"
+12 6 Stan "Dad, you've gotta do something! She's out of control!
+"
+12 6 Stan "What's so funny about that?
+"
+12 6 Stan "Don', don't cry, Shelly. You'll be able to get online when we get to Californee. 
+"
+12 6 Stan "All right!
+"
+12 6 Stan "Eight fifty one.
+"
+12 6 Stan "Hey! Mom!
+"
+12 6 Stan "It's gotta be our turn soon.
+"
+12 6 Stan "Dad?
+"
+12 7 Stan "Ughh.
+"
+12 7 Stan "Naw, I'm with Wendy.
+"
+12 7 Stan "Uhhh, look, can we just drop the whole roleplaying thing? I would play along, but my girlfriend's here and I don't wanna look like a total dork in front of her.
+"
+12 7 Stan "Sounds like police sirens.
+"
+12 7 Stan "I don't know. 
+"
+12 7 Stan "Jesus Christ!  We've gotta call the police. Where's your phone?
+"
+12 7 Stan "What?!
+"
+12 7 Stan "Dude, they just shot a guy in the face! We've gotta call the cops!
+"
+12 7 Stan "This is not the time for that!
+"
+12 7 Stan "Dude, do you understand what's going on here?! 
+"
+12 7 Stan "Wait, you have guns here?
+"
+12 7 Stan "Well why don't you go get them and bring them back here?!
+"
+12 7 Stan "I can't let them do it.  I've got to make the ultimate sacrifice. 
+"
+12 7 Stan "Wendy, I have to do something. Please look away. 
+"
+12 7 Stan "Well howdy there, strangers.  Sorry to interrupt ye, but I done come from Pagosa Springs to buy me some wares an' sich..
+"
+12 7 Stan "I heard you all had some difficulty with a criminal getsin' out of your jail.
+"
+12 7 Stan "I reckon that maybe you could make a jail door that opened with numbers instead of keys. You know, like a biiiiig safe.
+"
+12 7 Stan "If'n you all was to have such a giant safe, what would you villagers want the number to be to unlock that thar jail door shuckamuck?
+"
+12 7 Stan "Hey, m-Murderin' Murphy, you see that there feller?
+"
+12 7 Stan "He done killed yer pahr.
+"
+12 7 Stan "I know.
+"
+12 8 Stan "Kyle, you're supposed to tell Cartman he's being racist or something?
+"
+12 8 Stan "Kyle.  Kyle, you can't keep doing this. You know what, at some point, you you've got to let this go.
+"
+12 8 Stan "Look, what happened, happened. We can't change it now. We have to move on.
+"
+12 8 Stan "There was nothing we could do, Kyle!  There was nothing we could do. We had to get out of there.
+"
+12 8 Stan "How?
+"
+12 8 Stan "You can't keep torturing yourself like this, Kyle. Let it... go.
+"
+12 8 Stan "God damn it.
+"
+12 8 Stan "Let's get out of here!
+"
+12 8 Stan "Come on!
+"
+12 8 Stan "Oh God!
+"
+12 8 Stan "I can't watch!  Let's get out of here Kyle! 
+"
+12 8 Stan "COME ON LET'S GO! 
+"
+12 8 Stan "JUST RUN!! 
+"
+12 8 Stan "Why aliens? Aliens don't belong in an Indiana Jones movie?  Come on dude! There's nothing we can do!
+"
+12 8 Stan "Let's just go, Let's just go! 
+"
+12 8 Stan "Jimmy? I don't know what to do about Kyle.  You know, I... I don't think he's ever going to be the same.
+"
+12 8 Stan "Yeah well I, I just try not to think about it.
+"
+12 8 Stan "I don't need this now.  I just want things to be the way they were! 
+"
+12 8 Stan "Indiana Jones! All right! 
+"
+12 8 Stan "You bet, Indiana!  No!... Look out Indy, it's... Steven Spielberg and George Lucas!
+"
+12 8 Stan "No! Uh what are you gonna do to him?! 
+"
+12 8 Stan "Indy! 
+"
+12 8 Stan "No, stop! Raape!
+"
+12 8 Stan "You aren't alone. 
+"
+12 8 Stan "We'll all testify. We can't let them ever do this again.  I love you.
+"
+12 8 Stan "Wh-why?
+"
+12 8 Stan "Then you saw what Lucas and Spielberg did to him!
+"
+12 8 Stan "But they raped Indiana Jones!
+"
+12 8 Stan "So, what now?
+"
+12 9 Stan "What?
+"
+12 9 Stan "I guess so.
+"
+12 9 Stan "What am I supposed to do about it? 
+"
+12 9 Stan "What?
+"
+12 9 Stan "Yeah?
+"
+12 9 Stan "I can't do anything; she really wants to fight you. 
+"
+12 9 Stan "Really?
+"
+12 9 Stan "Dude, there's nothing I can do about it.
+"
+12 9 Stan "Ugh, I'm glad that's over with.
+"
+12 9 Stan "Dude, we never thought you were cool.
+"
+12 10 Stan "Oh Jesus, there's another one!  Another pan flute band! Have you guys noticed there's bands like this everywhere you go lately? 
+"
+12 10 Stan "I'm so sick of hearing this music everywhere I go!
+"
+12 10 Stan "I gotta get home for dinner.
+"
+12 10 Stan "God!
+"
+12 10 Stan "I'm outta here; see ya guys. 
+"
+12 10 Stan "They're in London too?
+"
+12 10 Stan "Where's dad?
+"
+12 10 Stan "Why?
+"
+12 10 Stan "Oh Jesus Christ! 
+"
+12 10 Stan "You guys! You guys, check this out: I saw another Peruvian flute band outside my house last night.
+"
+12 10 Stan "So? So I just sat there and watched them for a while and, guess how much money they made selling their crappy CDs?
+"
+12 10 Stan "Over two hundred bucks.
+"
+12 10 Stan "Yeah dude, I'm- I'm starting to realize that it's like the easiest job in the world. You know, I mean, we could do that! 
+"
+12 10 Stan "Yeah, why not? We get some instruments and some costumes and then... make some crappy pan flute music CDs on my computer.
+"
+12 10 Stan "Yeah!
+"
+12 10 Stan "Craig, how would you like to turn that hundred dollars into a thousand dollars? 
+"
+12 10 Stan "There's a reason they're everywhere, Craig: because they make bank! We just need your money to buy instruments and make some CDs.
+"
+12 10 Stan "All right guys, just like we rehearsed it. You ready Craig? All right, let's jam!
+"
+12 10 Stan "Ya see, Craig? 
+"
+12 10 Stan "Hey, you guys can't play here. We were here first. 
+"
+12 10 Stan "This is our Peruvian flute band's turf, you got that?! 
+"
+12 10 Stan "Come on, guys. 
+"
+12 10 Stan "Jesus Christ!
+"
+12 10 Stan "Hey, back off!
+"
+12 10 Stan "Eh-excuse us. Hello?  Uh excuse me. Sir? Sir, there's been a misunderstanding. Can, can I talk to you for a minute?
+"
+12 10 Stan "No. Sir, there's been a biiig misunderstanding. We actually aren't a Peruvian-
+"
+12 10 Stan "Don't worry you guys. I'm sure our parents are freaking out right now trying to find us.
+"
+12 10 Stan "This is a mistake, sir, we aren't really a Peruvian flute band.
+"
+12 10 Stan "We... we- we're just kids, you know? We, we were just trying to make some money.
+"
+12 10 Stan "We we speak English!
+"
+12 10 Stan "Help you how?
+"
+12 10 Stan "Kyle, calm down.
+"
+12 10 Stan "One of our friends was raped in Peru. It was very traumatic. 
+"
+12 10 Stan "Yeah dude, kids at school totally like us. Craig is just being a dick because we're having a tough time right now.
+"
+12 10 Stan "Yes!
+"
+12 10 Stan "All right, fine, Craig. When we get back home we'll get you your money back, and we'll never talk to you again. How's that?
+"
+12 11 Stan "We didn't lie, Craig, it was a sweet idea!
+"
+12 11 Stan "Guinea pigs?
+"
+12 11 Stan "Ah all right, just let me get this straight: the head of Homeland Security ordered you to fly us, five kids, to Peru, but had you land way up in the Andes Mountains of Peru so that other government people could meet us and then... somehow tell us how to go to the capital of Peru, way over in Lima, and take down their government.
+"
+12 11 Stan "None of what that Homeland Security guy does make sense, so could you just fly us home, please?!
+"
+12 11 Stan "Dude, what is this place?
+"
+12 11 Stan "Craig, it isn't our fault! You make it sound like we always wanna be in situations like this but we don't have any choice!
+"
+12 11 Stan "Let's see what's in there.
+"
+12 11 Stan "It might be a way out, Craig!
+"
+12 11 Stan "You guys, look at this.  It's a wall of ancient drawings. 
+"
+12 11 Stan "I know, a-and look. 
+"
+12 11 Stan "And then the guinea pigs killing people.  And then... 
+"
+12 11 Stan "Dude, Craig, what's goin' on?
+"
+12 11 Stan "Let's head over this way, guys.
+"
+12 11 Stan "Wow. 
+"
+12 11 Stan "All right, let's go. 
+"
+12 11 Stan "Wait, whattaya mean no?
+"
+12 11 Stan "Dude, we we have to go check this out.
+"
+12 11 Stan "'Cause just, that, that's just the way it is.
+"
+12 11 Stan "Hey, we aren't the ones on an ancient temple prophecy wall, buttwipe!
+"
+12 11 Stan "Craig, dude, wait up.
+"
+12 11 Stan "Hey look, there's something here.
+"
+12 11 Stan "No no, listen to me. The Peruvian flute bands were keeping the guinea creatures away. Whatever is happening to the world is happening because you guys got rid of all the flute bands.
+"
+12 11 Stan "Jesus Christ!
+"
+12 12 Stan "No, everyone is out partying in the streets. What's wrong with your brother?
+"
+12 12 Stan "Yes, I'd like to make a noise complaint. 
+"
+12 12 Stan "Jesus Christ...
+"
+12 12 Stan "Kyle, Kyle you gotta get out here.
+"
+12 12 Stan "Your little brother has climbed out of the window. I I think he's gonna jump!
+"
+12 12 Stan "Dad Dad, we have a problem.
+"
+12 12 Stan "No, Dad, we gotta take Kyle's brother to the hospital.
+"
+12 12 Stan "Dude, he's wasted.
+"
+12 12 Stan "Dad, what are you doing?!
+"
+12 12 Stan "Hey, there's some people. 
+"
+12 12 Stan "Let go of my face, asshole!
+"
+12 12 Stan "Why does that matter?
+"
+12 12 Stan "So where's the other doctor? 
+"
+12 12 Stan "Dad, your boss called. He said you're fired.
+"
+12 13 Stan "What's High School Musical 1 and 2?
+"
+12 13 Stan "I have no idea. 
+"
+12 13 Stan "Who the hell is that?
+"
+12 13 Stan "Yeah, I guess we'd better check that movie out...
+"
+12 13 Stan "Says this DVD sold more copies than any DVD ever made.
+"
+12 13 Stan "I don't care how popular being like these kids becomes, I'm not doing it.
+"
+12 13 Stan "All right, do we promise? We have to swear to each other right now we'll never become this. 
+"
+12 13 Stan "Okay, good.
+"
+12 13 Stan "But you didn't die?
+"
+12 13 Stan "I don't know. There's nothin' I can do about it anyway.
+"
+12 13 Stan "Stop. 
+"
+12 13 Stan "Uh, Wendy?
+"
+12 13 Stan "Look, I just want you to know, if you want to, you know, be with that Bridon kid, then you should.
+"
+12 13 Stan "I mean, I see the way you two are together and I don't wanna be in your way.
+"
+12 13 Stan "It is?
+"
+12 13 Stan "Really?
+"
+12 13 Stan "What am I supposed to do? Can't just sit back and watch some kid steal my girlfriend away.  I mean, Wendy said she'd never leave me for him.  But what if she just doesn't wanna hurt my feelings? She said he could get any girl he wants, and that means if he wanted, he could have my girl.  This is all so crazy. I mean really, how could my day get any worse?  No-no, no, I'm not doing it! I'm not doing it!
+"
+12 13 Stan "No, fuck off. I'm not doing it.
+"
+12 13 Stan "Hey, kid, over here.  Hey, uh, listen. You know this whole singing and dancing thing you do? I think you need to uh, ease off a little bit.
+"
+12 13 Stan "Yeah, look, I I know you think the kids in school like you, but, actually they're all getting really annoyed.
+"
+12 13 Stan "Yeah. You don't know 'cause you're just a third grader, but, take it from me,  you're driving everyone crazy.
+"
+12 13 Stan "You don't like doing it?
+"
+12 13 Stan "Basketball?
+"
+12 13 Stan "Dude, you should do that! You should join the basketball team, right now!
+"
+12 13 Stan "Yes, you can. What's stopping you?
+"
+12 13 Stan "No, dude, listen, you need to take a stand and tell your dad what you want!
+"
+12 13 Stan "When you grow up and you're a fourth grader, you'll understand that you have to be tough and direct with your parents. Go to your dad and tell him you wanna give up singing and dancing, and join the basketball team.
+"
+12 13 Stan "Sweet.
+"
+12 13 Stan "Aww!
+"
+12 13 Stan "Hey kid, what happened?! I th-I thought you didn't wanna sing and dance anymore?!
+"
+12 13 Stan "Dude, what did I tell you?! You have to be tough and stand up for yourself!  Mr. Garrett, Mr. Garrett.  This kid wants to join the basketball team. He's really good.
+"
+12 13 Stan "You see? They need you. This is fate, kid, fate.
+"
+12 13 Stan "Yeah, just go in at recess and shoot some ball with the team, God damn it!
+"
+12 13 Stan "Ah, shit.
+"
+12 13 Stan "You guys, this High School Musical thing isn't gonna go away. I think we'd better just get on board with it.
+"
+12 13 Stan "I know, but... I think we're really starting to become outcasts at school. We're losing all our credibility. I mean, look at who you guys are hanging out with now. Scott Malkinson, for Christ's sake.
+"
+12 13 Stan "You can rip on him, but you guys are hanging out with him. Doesn't that make you think maybe your clout at school has slipped a little?
+"
+12 13 Stan "That isn't true!  Okay, that's totally true. But you guys, we are at risk of becoming the unpopular kids
+"
+12 13 Stan "God damn it!  No matter what I do, this kid just won't stop.  And now they're gonna be in a show together? Jesus, it's all over for me.  They'll probably even have a kissing scene. What did I do to deserve this? And what am I suppose to do now? 
+Sooooomeooooone's in the kitchen with Dinah,
+Someone's in the kitchen, I know.
+Someone's in the kitchen with Dinah
+Strummin' on the old banjo and go and
+Fee, fie, fiddle-e-i-o.
+Fee, fie, fiddle-e-i-o-o-o-o.
+Fee, fie, fiddle-e-i-o.
+Strumming on the old banjo jo jo...
+Go tell Aunt Rhodie
+Go tell Aunt Rhodie
+Go tell Aunt Rhodie
+The old gray goose is...
+Happy Birthday to you
+Happy Birthday to...
+"
+12 13 Stan "Actually, this is High School Musical 2. It has a dance-along part.
+"
+12 13 Stan "Look, you guys might be fine with being outcasts and hanging out with Scott Malkinson, but I'm not!
+"
+12 13 Stan "Scott Malkinson has a lisp and diabetes! Nobody's gonna let him do a musical!
+"
+12 13 Stan "Look, guys.  The world is changing. We can't fight it, we have to change with it. I've been watching these movies, and from the looks of it, there's gonna be a lot more singing and dancing when we get to high school.  And if you think we'll gain any respect by ignoring this thing and being individuals, then think about this: right now,  everyone thinks Butters is way cooler than any of you.
+"
+12 13 Stan "That's right. You know, sometimes you have to go with what your heart tells you. There's things we're all good at. And we just can't keep them bottled up inside. 
+'Cause you gotta do what you wanna do.
+Don't let nothin' get in your way, chase your dream every day. 
+True, girl, you know it's true,
+that if you really wanna be you, you've gotta do what you wanna do. 
+He was unhappy 'cause he just wanted to play ball
+"
+12 13 Stan "Just like me, all I ever wanted was to sing and dance.
+And now that I stood up for my dream I finally have the chance.
+"
+12 13 Stan "Try to do what you wanna do!
+"
+12 13 Stan "involves needing scissors and glue!
+"
+12 13 Stan "Huh? 
+"
+12 13 Stan "But the girls like singing and dancing.
+"
+12 13 Stan "But... No, we just... No, no wait. We just got good at this! Aw!.
+"
+12 14 Stan "No, I'm on the Japanese side.
+"
+12 14 Stan "Dude, what?
+"
+12 14 Stan "What?
+"
+12 14 Stan "Dude, aw! Who's using the flak jacket cheat?!
+"

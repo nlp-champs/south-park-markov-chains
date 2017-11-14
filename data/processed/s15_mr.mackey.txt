@@ -1,0 +1,104 @@
+15 2 "Mr. Mackey" "Attention students, m'kay? There will be a presentation by the special education department in the gymnasium Friday during lunch and recess, m'kay? Attendance to this assembly is mandatory. All students and faculty are required to go. Uh which, which I guess means I gotta suck it too, huh? Uh huh, m'kay.
+"
+15 3 "Mr. Mackey" "Where is Tooth Decay? Tooth Decay that's your cue! 
+"
+15 3 "Mr. Mackey" "What do you mean he's not here?
+"
+15 3 "Mr. Mackey" "The what??
+"
+15 3 "Mr. Mackey" "Is this some kind of joke? We are two weeks into tent rehearsals! Who the heck would sit at home watching the royal wedding?!
+"
+15 3 "Mr. Mackey" "His name is Toothuhkay! 
+"
+15 3 "Mr. Mackey" "Now, now, Tooth Decay, your character is supposed to be mean and nasty. M'kay. Stop cryin'.  Nono. See, Tooth Decay can't be sad until Toothbrush and Dental Floss have gotten rid of him. You can't just start already sad; there's nowhere to go. Besides, there's no arc. M'kay. Oh for crying out loud! Alright, alright Tooth Decay, you just go home and sort yourself out! The rest of us will rehearse the finale again! And you'd better come back tomorrow with a different attitude, Tooth Decay! M'kay?! 
+"
+15 3 "Mr. Mackey" "Kyle Broflovski! Do you mind telling me where your brother is?!
+"
+15 3 "Mr. Mackey" "How am I supposed to do a play, okay, teaching students about the importance of dental hygiene without Tooth Decay?! We have two more days of tape, and then previews start on Monday! What am I supposed to do, Kyle?! You tell me!
+"
+15 3 "Mr. Mackey" "Getting rid of Tooth Decay is what I'm tryin' to fuckin' do!  He's your brother, Kyle Broflovski! Okay! How are you going to fix this?!
+"
+15 3 "Mr. Mackey" "Hold it, hold it, stop!  What. The fuck. Was that?
+"
+15 3 "Mr. Mackey" "The audience is supposed to feel scared of tooth decay, Kyle! Hukay?! If Tooth Decay has no believability, then Tooth Past and Dental Floss have nothing to play against!
+"
+15 3 "Mr. Mackey" "Oh you're trying! You call rolling your fat ass out on the stage and lazily blurting out your lines like a turtle takin' a shit, you call that tryin'?! This play is supposed to change  how people think, Kyle! Get it fucking right!  Pick it up from there!
+"
+15 3 "Mr. Mackey" "Wokay, in fifteen fucking minutes you all are not gonna care about this anymore, so I'll just say what I need to say. That was the worst rehearsal we have ever had! We are two days away from opening and you're all fuckin' around!
+"
+15 3 "Mr. Mackey" "Oh don't put this all on Tooth Decay!  Let me tell you something, Dental Floss! You're not as good as you fuckin' think you are! You're already acting like you're a star and we haven't even opened yet! OPEN YOUR FUCKIN' EYES, DENTAL FLOSS! YOU'RE ABOUT TO BLOW YOUR SHOT!
+"
+15 3 "Mr. Mackey" "I don't know what the Goddamned problem is. Maybe you all don't know serious tooth decay is, maybe you all just don't give a fuck. You all probably think you can live your lives cavity-free, m'kay, never givin' two shits about the plaque that's building on your teeth. Kyle, you have single-handedly destroyed all that which I worked on for the past six years. And so I want you to know, Kyle, once and for all, why this whole ""dental hygiene"" thing is so important to me.  Two years ago, I lost my father to tooth decay. M'kay? He was an intelligent, hard-workin' man, and my whole family watched as tooth decay took him in the blink of an eye! You've been told to brush and to floss, but do you really know the importance behind it?!  DO YOU?!
+"
+15 3 "Mr. Mackey" "FLAT! You're FLAT!
+"
+15 3 "Mr. Mackey" "I want you all to take a serious fucking look at yourselves! M'kay?! Act I was pure fucking dogshit! If Tooth Decay is singin' flat, then the whole fuckin' thing sounds flat! Wuhkay?!
+"
+15 3 "Mr. Mackey" "What?! Why?! Don't worry, I will be better! These kids just aren't listenin' to me!
+"
+15 3 "Mr. Mackey" "What?
+"
+15 3 "Mr. Mackey" "Oho... Oh God... Go on home, kids. M'kay? It's over!
+"
+15 4 "Mr. Mackey" "You're right. They, they really seem into it, m'kay. 
+"
+15 6 "Mr. Mackey" "Okay, kids, today we have a special assembly, m'kay. Today we're going to learn about ""the diversity of Asian people."" Please welcome Mr. Lu Kim and Mr. Junichi Takiyama. 
+"
+15 8 "Mr. Mackey" "M'kay, Stan, you, you've gotta try and pull yourself out of this, m'kay? I know that... your parents recently got divorced. M'kay, that's gotta be hard. I know that's... that's bad. But when you walk around all mopey, m'kay, and sayin' everything is... just shitty, well, that's called bein' a Debbie Downer, Stan. And nobody likes a Debbie Downer, m'kay. ...I mean you've gotta, you've gotta snap out of it, Debbie. Come on, Debbie, you're even bummin' me out now, m'kay? Your attitude just- just sucks.
+"
+15 8 "Mr. Mackey" "Okay, well, that's not gonna happen, Debbie. Okay, you know, uh life, life has to change, m'kay?
+"
+15 8 "Mr. Mackey" "Huh... e-excuse me a minute, Stan. m'kay?  Uh, hi, Ms. Bronski? Did we vaccinate Stan for the flu last year? We did? Uh oh... I think he's got Asperger's.
+"
+15 10 "Mr. Mackey" "Attention South Park Students: will the following students report to the Principal's office immediately? Eric Cartman? Thank you.
+"
+15 10 "Mr. Mackey" "Yes, and the reason he killed himself, Eric, was that the ridicule and the torment from other students,  spearheaded by you, cause him-!
+"
+15 10 "Mr. Mackey" "Spearheaded by you, m'kay, made him feel there was no other way out.
+"
+15 10 "Mr. Mackey" "We are hoping that if you don't fan the flames, Eric, the other students might forget might forget about it!
+"
+15 10 "Mr. Mackey" "No, not cool! M'kay, she's on suicide watch, Eric! She's given up on life!
+"
+15 10 "Mr. Mackey" "Our students did average, maybe just below average.
+"
+15 10 "Mr. Mackey" "Uh, hi Jan, it's Counselor Mackey. Uh... how long would it take to organize a Pizza Friday for the students? Yeah, yeah no they uh, they actually did really well on the state exam. Yeah, mkay.
+"
+15 10 "Mr. Mackey" "Eh, Is this one good?
+"
+15 10 "Mr. Mackey" "Alright Eric, well, well get back to class. We don't want anyone seeing you in here with us.
+"
+15 10 "Mr. Mackey" "Alright, fine. Bring her in, Adler. 
+"
+15 10 "Mr. Mackey" "I/m sorry about this, Ms. Gomez.  Alright, get her the fuck out of here. 
+"
+15 10 "Mr. Mackey" "Alright now, get back to class! Adler, get rid of those laxative bottles! Trash all the Arby's horsey sauce packages too! There cannot be one piece of evidence of what we did here!  What the?  Oh shit!  Stop that rat!
+"
+15 10 "Mr. Mackey" "We're alone, now what the hell are we gonna do?
+"
+15 10 "Mr. Mackey" "Oh right! ""The School Faculty Tries To Poison All Their Students."" That's not gonna be on Wikileaks!
+"
+15 10 "Mr. Mackey" "All we were tryin' to do was keep another one of our students from killing themselves! We're not bad!
+"
+15 10 "Mr. Mackey" "We're not bad. I mean, maybe what we needed was just to think outside the box here. I mean, if there's anything we've learned is that the only thing that makes a juicy story go away is a juicier story.
+"
+15 10 "Mr. Mackey" "Hey that's right. Corey Duran killed himself last year and we're STILL dealing with the fallout. Maybe there is a way out of this. But we're gonna have to throw Eric Cartman under the bus.
+"
+15 10 "Mr. Mackey" "We get a bus... and then we... throw Eric Cartman under it.
+"
+15 10 "Mr. Mackey" "Oh! Oh God! Oh God he killed himself! Eric Cartman killed himself! Did you see that? Oh why would he do it?  Oh wait uh here, here's a suicide note. Mkay.  Dear Guys, I just cannot go on mkay. I'm tired of being FAT, mkay, and I have to end it all. Mkay. -Eric Cartman.
+"
+15 10 "Mr. Mackey" "Well why the hell didn't you say so! Come on, let's go!
+"
+15 10 "Mr. Mackey" "Okay, let's just delete all this tabloid garbage, mkay.
+"
+15 10 "Mr. Mackey" "Oh Eric! Uh, Eric, I know we kinda threw you under the bus, mkay, but I hope you understand the faculty didn't really have a choice.
+"
+15 10 "Mr. Mackey" "Well I think you're being very mature about this, Eric. It was an overly generous move to give all the faculty those cupcakes. I wanna thank you. Mkay.
+"
+15 10 "Mr. Mackey" "Well students, why don't we uh-  Oooh. Oh, gee, uh...
+"
+15 10 "Mr. Mackey" "Yeah, I j-I just uh I'll be right back. Oh!  Aaaah! Oh it's bad!  Excuse me kids, I need to run, I gotta WUUGH!  OW!
+"
+15 10 "Mr. Mackey" "Okay, can somebody get me some paper towels?? Or maybe a  Ooowww, okay!  Ooohhh, it's bad!
+"

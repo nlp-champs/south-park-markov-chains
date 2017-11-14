@@ -834,3 +834,421 @@ Put 'em in your mouth and suck 'em and suck 'em...
 "
 2 15 Chef "How do you mean?
 "
+2 2 Chef "Is everybody okay? That sounded like a gunshot!
+"
+2 2 Chef "Is he ...dead?
+"
+2 2 Chef "Waait!  He's still breathin'! He's not dead.
+"
+2 2 Chef "We've got to get him to the hospital.
+"
+2 2 Chef "Come on, children! 
+"
+2 2 Chef "Don't let him bleed on my Meredith Baxter-Birney memorial towel.
+"
+2 2 Chef "I actually was with Meredith Baxter-Birney in this very car. And afterwards we used that towel to...  Wait a minute. Why am I telling you this?
+"
+2 2 Chef "What? We have to get to the hospital.
+"
+2 2 Chef "Sorry, Stan. We just gotta drop Mephesto off and then we can get outta there, alright?
+"
+2 2 Chef "Come on, children! We've gotta find a doctor! 
+"
+2 2 Chef "Doctor!
+"
+2 2 Chef "Doctor! We've got a shot cracker outside!
+"
+2 2 Chef "Whoa!
+"
+2 2 Chef "Wait a second. They've closed the pass??
+"
+2 2 Chef "What do you want me to do?
+"
+2 2 Chef "I used to watch Quincy.
+"
+2 2 Chef "So how do we get to it?
+"
+2 2 Chef "The power! 
+"
+2 2 Chef "You're at the hospital, Mr. Mephesto. You were shot. Now, we don't know who tried to shoot you, but--
+"
+2 2 Chef "Ooohhh.
+"
+2 2 Chef "He went off looking for Mr. Kenny.
+"
+2 2 Chef "What???
+"
+2 2 Chef "You mean, at the Drunken Barn Dance, when we all got together with her, she was a he?!
+"
+2 4 Chef "Hello there, children.
+"
+2 4 Chef "Bad.
+"
+2 4 Chef "Children, I heard about what happened at school today. Now, none of you took that nasty marijuana, did you?
+"
+2 4 Chef "Okay. Because I just want to tell you that drugs are bad!
+"
+2 4 Chef "Right. But do you know why they're bad?
+"
+2 4 Chef "And do you have any idea what that means?
+"
+2 4 Chef "Look, children. This is all I'm goin' to say about drugs: stay away from them. There's a time and place for everything, and it's called college. Do you understand?
+"
+2 4 Chef "Okay. 
+"
+2 4 Chef "Oh, hell no! I can't bear to see that!
+"
+2 4 Chef "Don't you boys know what a bris is? They're going to circumcise him.
+"
+2 4 Chef "Oh boy. Here we go again.  Children... Uhh... What's the one thing that's more sacred to a man than anything else in the world?
+"
+2 4 Chef "No, no, no, children, I'm talkin' about the most important part of a man's body.
+"
+2 4 Chef "That's right.
+"
+2 4 Chef "A ""fireman""?
+"
+2 4 Chef "Dammit, children! Why do I always have to be the one to explain all this stuff to you?  Ask your parents for once!
+"
+2 5 Chef "Okay, children, it's Friday, and you know what that means for PE class. We're gonna play dodgeball! 
+"
+2 5 Chef "So let's have half the children on this side  and half the children on that side. 
+"
+2 5 Chef "Play ball! 
+"
+2 5 Chef "Aheeheh, you're out, Clyde! Heheheh.
+"
+2 5 Chef "Concentrate on your ge-hame! Be the buhaw-hall! 
+"
+2 5 Chef "Great catch, Kyle! Now your team's on offense!
+"
+2 5 Chef "Okay, that was pretty good, Pip, but you're supposed to hit the kids on the other team.
+"
+2 5 Chef "That nose is bleeding pretty bad, Kyle. I think you might have to go to the nurse's office. 
+"
+2 5 Chef "Sorry, son. You'll have to let the nurse look at it. Come on. 
+"
+2 5 Chef "Children! Great news! We've been asked to play in the State Finals for dodgeball!
+"
+2 5 Chef "You-you don't understand, children. If we can win State, we can play in the Nationals in Washington, D.C.!
+"
+2 5 Chef "That's right! Now, come on! We have a lot of practicing to do! 
+"
+2 5 Chef "Okay children.  Now, who's gonna win the State Finals? 
+"
+2 5 Chef "Here we go Ca-ows, here we go: Unh, unh!
+Here we go Ca-ows, here we go: Unh, unh!
+I think we need to get off on this exit.
+"
+2 5 Chef "But it's quicker to get to the Denver school that way!
+"
+2 5 Chef "How many times do I have to explain this to you?! I'm not a student! You can't give me an office referral, and-!
+"
+2 5 Chef "Yes, ma'am.
+"
+2 5 Chef "I'm Chef, coach of the South Park Cows.
+"
+2 5 Chef "Yeah.
+"
+2 5 Chef "Dammit, come on!  Somebody catch the ball! 
+"
+2 5 Chef "Great job, children! Just stay focused now.
+"
+2 5 Chef "Whoa-ho-ho-ho! Great shot, Pip!
+"
+2 5 Chef "You got just one more, Pip. You get this kid, and we are State Champions.
+"
+2 5 Chef "We did it, children, we did it! We're going to Washington, D.C.!
+"
+2 5 Chef "Oh, sorry about whoopin' your ass there, Coach!
+Ooo, baby, come on
+Just whooped Denver's ass
+Gonna need some cream for your ass
+It's all swollen and red
+"
+2 5 Chef "How much further is Washington, D.C.?
+"
+2 5 Chef "I need to know how far it is, lady!
+"
+2 5 Chef "Yeah, whatever, you old, dried-up, fat hog.
+"
+2 5 Chef "I said, ""I've always wanted to visit Prague.""
+"
+2 5 Chef "Damn, man. This is the big time, alright.
+"
+2 5 Chef "You can eat after the game. You children win this one, and you're National Champions! Then you can go on and play the Chinese.
+"
+2 5 Chef "What?
+"
+2 5 Chef "Yeah.
+"
+2 5 Chef "What? We did it! Children, we won!
+"
+2 5 Chef "Okay, children, back in the bus.
+"
+2 5 Chef "Okay, children, now, we're almost to China. I want you all to try and focus on your game.
+"
+2 5 Chef "Nonsense! If we win this one, we're world champions.
+"
+2 5 Chef "And just what price would you pay for eternal glory?  Just imagine: a big yellow ""Dodgeball Champions"" banner hanging in the cafeteria! Imagine it!
+"
+2 5 Chef "You'll be in the news all over the world. South Park will finally have a sport that it's good at. Ohh, children, it'll be glorious!
+"
+2 5 Chef "Hey, hey hey!  Children, that's not cool! You don't make fun of somebody because of their ethnicity.
+"
+2 5 Chef "No, no, no, no, no, that's different. I made fun of them because they are from China. You see, it's not okay to make fun of an American because they're black, brown, or whatever, but it is okay to make fun of foreigners because they are from another country.
+"
+2 5 Chef "All right, let's go, Cows! Let's show 'em what we've got!
+"
+2 5 Chef "Holy crap..!  God damn...
+"
+2 5 Chef "Oh, what have I done?  You know, Eric, I just realized something. I have been obsessed, and obsession isn't good.  If we had won the world championship, what then?  It would only be a bigger letdown the next year if we didn't win! Our lives would have to revolve around dodgeball. Our lives were fine before.  Oh, I'm sorry, children. I let it all go to my head. Can you ever forgive me?  Come on, forget this stupid game. Let's go home.
+"
+2 5 Chef "Shut up, Pip.
+"
+2 8 Chef "Baby, you know you're the girl for me-eeAnd all that I want to be-ee-ee is... You and meAnd her; simultaneousYou and me, and you and youSimultaneous lovin', babyTwo or three; simultaneousOoh, that's right... Hello? What? Oh, hello, children. It's a what? A giant snake? Killing everybody?! Growing bigger?! Children, you know I rarely say this but... Well, futch ya. Simultaneous, you and meAnd you and youSimultaneous lovin', babyTwo or three...
+"
+2 8 Chef "Hey, children, everybody! I'm back! I'm back from Aruba! What the..? 
+"
+2 8 Chef "Okay! E-verbody get in a line, so I can whoop all your asses!
+"
+2 9 Chef "Hello there, children!
+"
+2 9 Chef "Children, this whole film festival thing has quite lucrative monetary possibilities. Now I'm gonna sell some of my famous cookies, to these Hollywood types, and make a mint!
+"
+2 9 Chef "They're little cookies, with fudge in the middle. And I call them, ""Fudge 'Ems"" 
+"
+2 9 Chef "I can just see the commercial now. ""Wife got you down? Boss makin' you angry? Kids yellin' atcha? Well, Fudge 'Ems.""
+"
+2 9 Chef "And I've also got my double chocolate cookies, ""Fudge This.""
+"
+2 9 Chef "Well, perhaps you'd like to try my low-calorie cookies, ""Go Fudge Yourself,"" or my all-natural, ""I Don't Really Give A Flying Fudge.""
+"
+2 9 Chef "Huh?
+"
+2 9 Chef "Whose goose?
+"
+2 9 Chef "Get 'em while they're hot! My all new cookies! ""I Just Went And Fudged Your Momma!""
+"
+2 9 Chef "Children! I'm glad you're here! I want you to check out my new confectioneries. I think they're going to sell right through the roof! I call them, ""Chef's Salty Chocolate Balls."" 
+"
+2 9 Chef "Try 'em. 
+"
+2 9 Chef "Hey, everybody, have you seen my balls? They're big and salty and brown
+If you ever need a quick pick-me-up, just stick my balls in your mouth
+Ooooo, suck on my cho-colate salty balls
+put 'em in your mouth
+Put 'em in your mouth and suck 'em and suck 'em...
+"
+2 9 Chef "It's all gone to hell, children. And we're all to blame. Even me!  I was sellin' out my town, too! And now look at it. 
+"
+2 9 Chef "There's nothin' we can do. Just sit here and suck on my balls.
+"
+2 9 Chef "Come on, Kyle. It's time to go.
+"
+2 9 Chef "Well, uh-I kinda hope not.  I mean, sure it does.  Here. I'll give him one of my Salty Balls to take with him to poo heaven.  Come on, let's go. 
+"
+2 9 Chef "My Salty Chocolate Balls must have re-juvenated him!
+"
+2 9 Chef "You're daaamn right.
+"
+2 9 Chef "Well, it worked once before. 
+"
+2 10 Chef "Oh, damn it, not now!  Damn it! Children, what are you doing here? Terrance and Phillip are about to go into surgery!
+"
+2 10 Chef "What makes you think I would know anything about that?
+"
+2 10 Chef "Well you get it by sharin' relations with somebody who already has it. You have to be very careful around someone who has herpes.
+"
+2 10 Chef "Well, there's old Frida down on Main Street. She has a mouthful of herpes. You need to stay away from her.
+"
+2 10 Chef "Oh, then, Frida's the right person to go to.
+"
+2 10 Chef "O-kay!  Wait a minute. What the hell did I just do?
+"
+2 11 Chef "Hello, children.
+"
+2 11 Chef "Welcome to the planetarium. 
+"
+2 11 Chef "I love my work.
+"
+2 12 Chef "And then, they'll ask, ""Truth or Dare?'
+"
+2 12 Chef "No no! You say, ""Truth.""
+"
+2 12 Chef "You have to say ""Truth"" the first few times. Or else, you seem too eager.
+"
+2 12 Chef "You can't seem too eager. You've got to play it cool, like you don't even care what happens.
+"
+2 12 Chef "Then, after a few ""Truth""s, you finally answer, ""Dare.""
+"
+2 12 Chef "But not like that, son. Like this: ""Daaare"". 
+"
+2 12 Chef "And then her little friend will dare you to kiss Wendy.
+"
+2 12 Chef "Of course she will. They're women. They've had this whole thing planned out months ahead of time.
+"
+2 14 Chef "Hello there, children.
+"
+2 14 Chef "What did you say?
+"
+2 14 Chef "Eric, where did you hear that song?
+"
+2 14 Chef "Well, I'll be sodomized on Christmas.
+"
+2 14 Chef "Children, I wrote that song 20 years ago.
+"
+2 14 Chef "Yeah. Back when I used to be in the rock business. And now it looks like some big record company has published one of my songs.
+"
+2 14 Chef "Aww, I don't want any money. I just like to see my name on the credits, that's all.
+"
+2 14 Chef "Well, all right. Maybe I will go. I’ll play them my version of the song.
+"
+2 14 Chef "So you see, Mr. Big Record Producer,  ""Stinky Britches"" was something I wrote several years ago.
+"
+2 14 Chef "Huh?
+"
+2 14 Chef "Now, look, I’m trying to be cool about this, but you just can't rip people's music off! It's against the law!
+"
+2 14 Chef "Sue me?! You stole one of my songs, and you’re gonna sue me?
+"
+2 14 Chef "Right. 
+"
+2 14 Chef "Why ""uh-oh""?
+"
+2 14 Chef "Uh-oh.
+"
+2 14 Chef "What?
+"
+2 14 Chef "Whoops?!
+"
+2 14 Chef "Do I look like I have $2 million?
+"
+2 14 Chef "This can't be happening..!
+"
+2 14 Chef "Hey, that's my favorite chair!
+"
+2 14 Chef "Hey, children.
+"
+2 14 Chef "Children, that record company guy is takin' all my belongings. And if I don't come up with $2 million, I'm going to jail.
+"
+2 14 Chef "Okay, okay, children, thank you very much. I feel much better.
+"
+2 14 Chef "Sure. Just please stop.
+"
+2 14 Chef "This? This is my photo album of all my times in the rock business.
+"
+2 14 Chef "Did I? Janis Joplin, The Beatles, Elton John... I got to travel all around the world, hanging out with bands, going to lavish parties, lovin' many, many women.
+"
+2 14 Chef "Nothing.  Anyway--
+"
+2 14 Chef "Hey! That has no monetary value! What the hell are you taking that for?!
+"
+2 14 Chef "But I have 24 hours to come up with your money! That's the law!
+"
+2 14 Chef "That does it. You know what I'm gonna do? I'm gonna raise that $2 million, but I'm not going to use it to pay you back. I'm going to use it to hire Johnnie Cochran myself and sue you!
+"
+2 14 Chef "Watch me. Now get the fudge out of my house!
+"
+2 14 Chef "Okay. Thank you, Mr. Cochran.  Well, Johnnie Cochran will take my case if I can pay his legal fee, $2 million.
+"
+2 14 Chef "Oh, they wouldn't remember me. All I did was cook for them.
+"
+2 14 Chef "I appreciate that, children,  but raising $2 million is not an easy thing to do.  My only hope is to whore myself to every woman in town.  Wish me luck, children. 
+"
+2 14 Chef "Hey, Elton, don't feel so down, baby. Have some of my Scottish haggis. It'll cheer you up.
+"
+2 14 Chef "Look, Elton, you are a great singer, but a retarded monkey could write better lyrics.
+"
+2 14 Chef "What you need is a guy to write really good lyrics for you. I know a guy named Bernie Taupin who's working at Moth Burger right now. I'll give him a call.
+"
+2 14 Chef "And, Elton, why don't you get yourself some new threads? You know; some slick glasses and shit.
+"
+2 14 Chef "No problem, Ms. Broflovski. Uhh, now, about that hundred bucks?
+"
+2 14 Chef "I have a lo-o-o-o-o-ong way to come to go to raise the kind of money I need. 
+"
+2 14 Chef "There, there, Cous-Cous. It'll be all right. Maybe you just need to change your image.
+"
+2 14 Chef "Nobody wants to see a guy named Cous-Cous. You need a big, strong beefy name.
+"
+2 14 Chef "That's not bad. Here, have some meat loaf.
+"
+2 14 Chef "Uh-uh, hold on a second, Ms. Crabtree. How would you like to use some… sex toys?
+"
+2 14 Chef "Like this very special device.  I call it ""Chef’s pleasure bag"".
+"
+2 14 Chef "Now, all you do is put this paper bag over your head, and it increases your sexual pleasure.
+"
+2 14 Chef "Ahh, yeah. That's much better.
+"
+2 14 Chef "I can't keep doing this. It's killing me.
+"
+2 14 Chef "I'm serious! I'm not gonna make it.
+"
+2 14 Chef "It's over, children. I couldn't raise the $2 million to hire Johnnie Cochran. Now I have to go to jail.
+"
+2 14 Chef "Huh?
+"
+2 14 Chef "Did what?! Wow! How much did you make?
+"
+2 14 Chef "Oh.
+"
+2 14 Chef "I made about $410,300, but--
+"
+2 14 Chef "Goodbye, children. Thanks for all your help.
+"
+2 14 Chef "Ow! What the hell did you do that for?!
+"
+2 14 Chef "Ow! (whack) Ow!
+"
+2 14 Chef "You finally snapped, huh, Garrison?
+"
+2 14 Chef "Don't you get it, Garrison? It's all you! You're Mr. Hat and Mr. Twig! You've got split personality schizophrenic jeebies.
+"
+2 14 Chef "What?!
+"
+2 14 Chef "No, Garrison! Shut the hell up!
+"
+2 14 Chef "What the..?
+"
+2 14 Chef "How the hell did he reach the gas pedal?
+"
+2 14 Chef "What the hell is this? 
+"
+2 14 Chef "Mr. Hat busted me out. Children, did you do this?
+"
+2 14 Chef "I don’t believe it!
+"
+2 14 Chef "You will?
+"
+2 14 Chef "It feels great! I just can't find the words to thank all the artists who put on Chef Aid. And most of all, I want to thank the children.
+"
+2 14 Chef "Get back to what's important. It's Tuesday. And means tomorrow is tuna casserole day.
+"
+2 15 Chef "Hello there, children! 
+"
+2 15 Chef "All ready for our Halloween lunch? Today I've got spooooooky spaghetti, with freeeeeaky French fries.
+"
+2 15 Chef "Or haaauuunted hash browns.
+"
+2 15 Chef "And a creeeeeepy cookie, and moooooonstrous milk!
+"
+2 15 Chef "And a teeeeerrifying napkin!
+"
+2 15 Chef "What?!
+"
+2 15 Chef "Well, what's the first problem?
+"
+2 15 Chef "Oh. Well, uh, don't worry, Stan. I'm sure it'll work out. Now, what's the other problem?  Oh, nohoho.  Oh, DEAR GOD, NO!
+"
+2 15 Chef "Exactly what do you remember?
+"
+2 15 Chef "Of course! That's it!
+"
+2 15 Chef "Don't you see, children? This Cartman is from an evil, parallel universe where everything exists as its opposite!
+"
+2 15 Chef "Children, somewhere in South Park, something has created a door to the evil, parallel universe!
+"
+2 15 Chef "How do you mean?
+"

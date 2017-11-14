@@ -1,0 +1,44 @@
+6 1 "Mr. Mackey" "Uh hey, yeah. We, we woulda never laughed about this before.
+"
+6 1 "Mr. Mackey" "I knew it would be funny someday!  AIDS!
+"
+6 10 "Mr. Mackey" "M'kay kids, let's take our seats, m'kay?  I know this has been a difficult couple o'weeks for you all with the untimely death of your teacher, but it's time for us to try to move on and learn, m'kay?
+"
+6 10 "Mr. Mackey" "No. Eric, what we're gonna do is learn to hide our emotions with math problems.  M'kay, so let's start with some multiplication tables over here, m'kay. First we'll do uh, four time four, m'kay?
+"
+6 10 "Mr. Mackey" "Okay, and so uh,  so who can tell me the answer to the first problem, six times eight? Uh, Bebe?
+"
+6 10 "Mr. Mackey" "M'kay. Kids, I asked you to write a paper to read aloud for the class. Now, who want to start?  M'kay, class.
+"
+6 10 "Mr. Mackey" "M'kay, very nice, Clyde. Uh, Token, why don't you read your paper?
+"
+6 10 "Mr. Mackey" "M'kay, interesting, Token, Uh... Who would like to go next?  Uh how about someone who didn't write about how cool Bebe is?
+"
+6 10 "Mr. Mackey" "M'kay, Bebe?
+"
+6 10 "Mr. Mackey" "M'kay. Wendy, why don't we hear your paper?
+"
+6 10 "Mr. Mackey" "M'kay. Kids, we need to talk about your failing grades.
+"
+6 10 "Mr. Mackey" "M'kay, we all need to start studying more and fighting less, m'kay? 
+"
+6 10 "Mr. Mackey" "Aw, that's so sweet, m'kay?
+"
+6 11 "Mr. Mackey" "M'kay, kids, so, now, who can tell me what year the first moon landing took place?  Uh, how about you, Clyde?
+"
+6 11 "Mr. Mackey" "No helping!  M'kay, I'm not really sure havin' all the parents here is a good idea, m'kay?
+"
+6 11 "Mr. Mackey" "Oh, this is too much to take.  Mom, Dad, could you please leave me alone?
+"
+6 11 "Mr. Mackey" "M'kay.
+"
+6 14 "Mr. Mackey" "M'kay kids, I know the past few weeks have been really hard with the death of your teacher, Ms. Choksondik. 
+"
+6 14 "Mr. Mackey" "BUT... the principal has finally hired a teacher to take her place. So I want you all to give your best behavior to your new Fourth Grade teacher, Mr. Garrison. 
+"
+6 14 "Mr. Mackey" "Good luck, m'kay.
+"
+6 14 "Mr. Mackey" "Parents, I had to call you in here because your boys have refused to attend class with their homosexual teachers, m'kay?
+"
+6 14 "Mr. Mackey" "Well there is an intensive seminar camp. It's a bit severe, but it might be the only way. M'kay?
+"

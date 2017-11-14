@@ -2782,3 +2782,1395 @@ She works hard for the money, so you'd better treat her right
 "
 2 18 Cartman "Ey! Ey, get me out of here! God-damnit! Ugh. Smells like Kenny's house in here.
 "
+2 1 Cartman "He's my father?! 
+"
+2 2 Cartman "Man, this feels like the longest minute of my life.
+"
+2 2 Cartman "Ey! Wait a minute! I didn't find out who my father was!
+"
+2 2 Cartman "Goddammit! Who's my father?
+"
+2 2 Cartman "You've got to be kidding me!
+"
+2 2 Cartman "Eeeehh..!
+"
+2 2 Cartman "Is he awake yet?
+"
+2 2 Cartman "They can't. Mephesto can't die.
+"
+2 2 Cartman "No way, dude! I can't stand to leave things unfinished. It's like when you hear the first part of that song, ""Come Sail Away"", by Styx. If I hear the first part of that song, I have to finish it.
+"
+2 2 Cartman "Yeah, du-I can't do anything until it's done.
+"
+2 2 Cartman "No! Don't!
+"
+2 2 Cartman "Eh-- 
+For I've got to be free
+Free to face the life that's ahead of me
+On board I'm the captain, so climb aboard
+We'll search for tomorrow, on every shore
+And I'll try, oh lord, I'll try to carry on
+Maymaynemay Maymaynemay Maymaynemay Maymaynemay
+A gathering of angels appeared above my head
+They sang to us this song of hope
+And this is what they said
+Come sail away, come sail away, come sail away with me... lads
+Come sail away, come sail away, come sail away with me
+I thought that they were angels, but to my surprise
+We climbed about their starship and headed for the skies
+Come sail away, come sail away, come sail away with me... lads
+Come sail away, come sail away, come sail away with me... lads
+"
+2 2 Cartman "Yeah, stop being a wuss!
+"
+2 2 Cartman "Can't you get him to talk? I have to know who my father is.
+"
+2 2 Cartman "Wake up, you son of a bitch!
+"
+2 2 Cartman "I can't wait anymore. What am I supposed to do?
+"
+2 2 Cartman "What?
+"
+2 2 Cartman "--way; Set an open course for the virgin sea
+For I've got to be free, free to face the life that's ahead of me
+On board I'm the captain, so climb aboard...
+"
+2 2 Cartman "...Some happy, some sad; I think of childhood friends and the dreams we had
+We lived happily forever, so the--
+"
+2 2 Cartman "Come sail away, come sail away, come sail away with me... lads
+Come sail away, come sail away, come sail away with me-hee
+"
+2 2 Cartman "What about Mephesto? Are you taking care of him?
+"
+2 2 Cartman "Lady-m? Is Mephesto gonna be okay?
+"
+2 2 Cartman "Sweet.
+"
+2 2 Cartman "Hey, who's screwing with the lights?
+"
+2 2 Cartman "That is really starting to piss me off.
+"
+2 2 Cartman "Nnoh, that sounds pretty sweet to me.
+"
+2 2 Cartman "What if Mephesto never wakes up, and I never find out who my father is?
+"
+2 2 Cartman "Go, Kenny!
+"
+2 2 Cartman "Yeah. And now he's a freezy-pop. 
+"
+2 2 Cartman "Just tell us already!
+"
+2 2 Cartman "Dammit! Tell me who my father is already!
+"
+2 2 Cartman "Ugh. Man, this is fuckin' weak.
+"
+2 2 Cartman "Oh, wow, gee whiz, you think so, Mom?!
+"
+2 2 Cartman "No no, wait a minute! If... if she's my dad, then... who's my mom?!
+"
+2 2 Cartman "Ooohhh, forget it! 
+"
+2 3 Cartman "Reading sucks ass.
+"
+2 3 Cartman "Hey, there's a lot of big words in these books.
+"
+2 3 Cartman "God, shut up, dude.
+"
+2 3 Cartman "I don't know, I'm kinda getting a tingly feeling looking at these. 
+"
+2 3 Cartman "Oh, how about Stan? Or Kyle?
+"
+2 3 Cartman "Oooaaagh.
+"
+2 3 Cartman "I'm prepared!  For my book report, I read The Lion, The Witch and the Wardrobe. It was very, very good. Have you read it, Mr. Garrison?
+"
+2 3 Cartman "Oh, good. In The Lion, The Witch, and the Wardrobe, a bunch of uh, hippies, walk around and paint stuff. They eat lunch, and then they find a magical... camel... which they have to eat to stay alive. And that's pretty much it; I give it a B-minus.
+"
+2 3 Cartman "God-dammit! 
+"
+2 3 Cartman "Goody two-shoes.
+"
+2 3 Cartman "Really? I wanna be a cop.
+"
+2 3 Cartman "Do I get a nightstick?
+"
+2 3 Cartman "10-4, sergeant! 
+"
+2 3 Cartman "Ey! 
+"
+2 3 Cartman "I clocked you at 40 miles an hour back there. Do you know what the speed limit is heawh?
+"
+2 3 Cartman "Step out of the car, please, sir.
+"
+2 3 Cartman "Sir, step out of the car, please.
+"
+2 3 Cartman "Ey! I am a cop, and you will respect my authoritah!
+"
+2 3 Cartman "Get your ass to jail! 
+"
+2 3 Cartman "Sweet.
+"
+2 3 Cartman "Yeah, I've been working this beat for about three days now. You definitely have to have pretty thick skin or else these people, they just walk all over you.  Sometimes you have to go undercover to get the worst of them. 
+"
+2 3 Cartman "Well, hi there.  Uh, wha-what are you doing tonight?
+"
+2 3 Cartman "Sir, step out of the car, please.
+"
+2 3 Cartman "Sir, step out of the car.
+"
+2 3 Cartman "Maybe this'll teach you to listen to authoritah. 
+"
+2 3 Cartman "Yeah... Sometimes upholding the law is messy. But you get by. One day at a time.
+"
+2 3 Cartman "Sir, could you step out of the car, please?
+"
+2 3 Cartman "And-uhh who's, who's in here with you?
+"
+2 3 Cartman "Poor people tend to live in clusters.
+"
+2 3 Cartman "Nothing. Now, sir, is there some kind of a...
+"
+2 3 Cartman "Okay, okay, let's try to watch the language; there's children present heuh.
+"
+2 3 Cartman "Now, the first thing to do in domestic disturbance calls like this one is to just calm everybody down. Respect my authoritah! 
+"
+2 3 Cartman "Chickenlover!
+"
+2 3 Cartman "Dammit! Can't this thing go any faster?! 
+"
+2 3 Cartman "Freeze! Put your hands in the air!
+"
+2 3 Cartman "I got reports that the suspect is in this area!
+"
+2 3 Cartman "A-ha! 
+"
+2 3 Cartman "Well, he is not listening to my authoritah!
+"
+2 3 Cartman "Ooohhhh.
+"
+2 3 Cartman "Ey, that's what I've been saying all along, you guys.
+"
+2 4 Cartman "Okay?
+"
+2 4 Cartman "What the hell is a ""bris""?
+"
+2 4 Cartman "Oh, kick ass! I wanna have a bris!
+"
+2 4 Cartman "Yeah, my ass is killing me.
+"
+2 4 Cartman "I wonder who took it.
+"
+2 4 Cartman "I know. Drugs are bad because if you do drugs, you're a hippie, and hippies suck.
+"
+2 4 Cartman "Wo-what's that?
+"
+2 4 Cartman "Ham?
+"
+2 4 Cartman "Screw you! It's ham, isn't it?
+"
+2 4 Cartman "Hey! My mom says you're not supposed to call it a penis, Kenny! You're supposed to call it a fireman.
+"
+2 4 Cartman "That's the proper way to say it, or else you get a spanking.
+"
+2 4 Cartman "Dude! That is not cool! Choppin' off wee wees is not cool!
+"
+2 4 Cartman "Dude, yuh-eh-you just don't...chop off somebody's fireman!
+"
+2 4 Cartman "What the hell is gahekgafuga?
+"
+2 4 Cartman "They are gonna cut off his fireman!
+"
+2 4 Cartman "No way, dude! We're not staying alone in your house with your wee-wee-choppin' parents!
+"
+2 4 Cartman "What the hell is that supposed to be?
+"
+2 4 Cartman "Is that why it stinks so bad? 
+"
+2 4 Cartman "No way! I'm never going back to your parents' house!
+"
+2 4 Cartman "Eech.  Wait a minute! No, you wouldn't!
+"
+2 4 Cartman "Fireman!
+"
+2 4 Cartman "Well, I guess the chopping is about to commence.
+"
+2 4 Cartman "Yes. The fireman is very magical. If you rub his helmet, he spits in your eye. 
+"
+2 4 Cartman "Heyeah, I want to get a circumstision, too. 
+"
+2 4 Cartman "Eah, screw you guys! I don't wanna be in your penis-choppin' family anyway!
+"
+2 4 Cartman "Hey, you guys wanna come to my bris tomorrow?
+"
+2 4 Cartman "No way, I set up mine first, hippie!
+"
+2 4 Cartman "Okay?
+"
+2 5 Cartman "What? Don't you have dodgeball in France?
+"
+2 5 Cartman "Damn, Pip. I didn't know you had it in you.
+"
+2 5 Cartman "Dude! He's going to the nurse's office.
+"
+2 5 Cartman "Stan? Has anybody actually seen the nurse, and come back to tell about it?
+"
+2 5 Cartman "Did it talk? The little fetus, did it talk?
+"
+2 5 Cartman "Who the hell cares what it's called, as long as she doesn't have to touch me.
+"
+2 5 Cartman "AGGHHH! Let me live! AGGGHHH!
+"
+2 5 Cartman "Yeah. I thought we only played on Fridays.
+"
+2 5 Cartman "Heyh! They have a zoo there!
+"
+2 5 Cartman "Now, let's try not to send anyone to that monster nurse this time, Frenchy.
+"
+2 5 Cartman "I caught it, I caught it!
+"
+2 5 Cartman "Yeah, and if you don't, you're a big dumbass European hippie piece of crap. 
+"
+2 5 Cartman "I got a jelly roll! I got a jelly roll! 
+"
+2 5 Cartman "My mom says there's a lot of black people in China.
+"
+2 5 Cartman "So, Captain Ahab has to get his whale, huh? 
+"
+2 5 Cartman "I dunno.
+"
+2 5 Cartman "Come on, rice picker!
+"
+2 5 Cartman "Oooh, I get it.
+"
+2 5 Cartman "Holy crap!
+"
+2 5 Cartman "I love you guys.  Ah, screw you guys(!)
+"
+2 6 Cartman "Mr. Garrison, what's Vietnam?
+"
+2 6 Cartman "Son of a bitch.
+"
+2 6 Cartman "Was it fun?
+"
+2 6 Cartman "Man, Vietnam was sweet!
+"
+2 6 Cartman "Sweet.
+"
+2 6 Cartman "You're dead, Stan.
+"
+2 6 Cartman "Well, Stan, thanks a lot for having such a cool uncle that got us all detention for a week.
+"
+2 6 Cartman "Well, let's see... Maybe 'cause he's an old, drunk hillbilly dick!
+"
+2 6 Cartman "Totally.
+"
+2 6 Cartman "Sweet. Oh, yeah, sweet. That's super sweet. Ah-yes!
+"
+2 6 Cartman "Lying kicks ass!
+"
+2 6 Cartman "Blululululululuh. I am the deadly Mexican staring frog of Southern Sri Lanka. I am very scary... And dangerous!
+"
+2 6 Cartman "What?
+"
+2 6 Cartman "I know that!
+"
+2 6 Cartman "It's a Sri Lanka frog!
+"
+2 6 Cartman "Der yourself, hippie!
+"
+2 6 Cartman "I'm ready, Steven Spielberg! 
+"
+2 6 Cartman "Blulululuh. Screw you guys.
+"
+2 6 Cartman "Well, why do I have to dress up like an old lady?
+"
+2 6 Cartman "Ee-goddammit!
+"
+2 6 Cartman "They better not!
+"
+2 6 Cartman "Scared of a plastic frog?
+"
+2 6 Cartman "Man, this is stupid.
+"
+2 6 Cartman "Eee-ee-ee-ee! 
+"
+2 6 Cartman "Dude, totally.
+"
+2 6 Cartman "Revenge is so very, very sweet.
+"
+2 6 Cartman "Dibs!
+"
+2 6 Cartman "That's it! Now I'm all pissed off!  Take that, hippie! 
+"
+2 6 Cartman "Ey, get off of him, you fuckin' nutsack!
+"
+2 6 Cartman "Ey, you guys! 
+"
+2 6 Cartman "Yeah. I didn't wanna do it, Jesus. They made me do that.
+"
+2 6 Cartman "Sent her away where?
+"
+2 7 Cartman "What?
+"
+2 7 Cartman "Hmmm, let me see. No!
+"
+2 7 Cartman "Mmm. It's chocolaty and delightful.
+"
+2 7 Cartman "Mmm. I can't possibly finish this whole cake. Oh, yes I can. 
+"
+2 7 Cartman "I can not possibly eat one more bite of its chocolaty goodness. Oh, but but but, but I'll try.
+"
+2 7 Cartman "All done!
+"
+2 7 Cartman "Ms. Crabtree?
+"
+2 7 Cartman "You guys. What if Ms. Crabtree doesn't come back, and we're all trapped here forever.
+"
+2 7 Cartman "I don't wanna die on this- bus with you assholes!  You guys suck!
+"
+2 7 Cartman "Oh, man, this sucks.
+"
+2 7 Cartman "Ow!
+"
+2 7 Cartman "Really? Uh, I don't think I have to fart anymore tonight.
+"
+2 7 Cartman "I don't wanna.
+"
+2 7 Cartman "Okay, that's does it! Now listen! Why is it that everything today has involved things either going in or coming out of my ass?! 
+"
+2 7 Cartman "It's completely immature! 
+"
+2 7 Cartman "You guys can't scare me!
+"
+2 7 Cartman "Was that how it happened?
+"
+2 7 Cartman "God-dammit, how long is this goin' to take?
+"
+2 7 Cartman "What?! I'm missing the new Fantasy Island.
+"
+2 7 Cartman "What do you think it is?
+"
+2 7 Cartman "Heellp! 
+"
+2 7 Cartman "What?! Scuzzlebutt's real?!
+"
+2 7 Cartman "Scuzzlebutt kicks ass!
+"
+2 7 Cartman "Hey. Maybe it's our teacher, Mr. Garrison.
+"
+2 7 Cartman "Oh no? Don't you remember the time he went crazy, and tried to kill Kathie Lee Gifford?
+"
+2 7 Cartman "Beefcaake!
+"
+2 7 Cartman "Now, that's what I call a sticky situation. 
+"
+2 7 Cartman "Oh, yeah.
+"
+2 7 Cartman "Hey you guys. Can we order a pizza?
+"
+2 7 Cartman "I wonder when the monster is gonna come back to feed again? 
+"
+2 7 Cartman "Hay, wait a minute.
+"
+2 7 Cartman "Remember the time when Fonzie jumped over the buses with his motorcycle?
+"
+2 7 Cartman "You can do it, Fonzie.
+"
+2 7 Cartman "Now, that's what I call a sticky situation. Uheheheh, heh.
+"
+2 7 Cartman "Oh yeah, I guess that doesn't make sense. 
+"
+2 7 Cartman "It does?
+"
+2 7 Cartman "Aw damn, man. Now I'm missing the new Barnaby Jones.
+"
+2 7 Cartman "Hey! Do you guys remember the time I found out who my father was?
+"
+2 7 Cartman "Sweeeeeett! 
+"
+2 7 Cartman "This kicks ass, you guys! John Elway is my father! 
+My father is John Elway, my father is John Elway
+Deedun, Deedun.
+"
+2 7 Cartman "Now, that's what I call a sti-
+"
+2 7 Cartman "What?! Eeyy, you son of a bitch! I'll kick you in the nuts! 
+"
+2 7 Cartman "Wait, wait wait wait. This doesn't make sense. This whole thing doesn't make any sense. I must be-
+"
+2 7 Cartman "Deah, eh eh.  Oh man, what a weird dream!
+"
+2 7 Cartman "Ma? I just dreamt that me and Stan and Kyle and Kenny were trapped on our bus, and we were talking about everything that happened to us, except that it was all wrong and everything ended with us eating ice cream.
+"
+2 7 Cartman "Yes, please. 
+"
+2 7 Cartman "Mmmm.  Mmmm.
+"
+2 8 Cartman "Your parents are dead? Goddamn, you suck, Pip! 
+"
+2 8 Cartman "Eeyy! If you so much as touch Kitty's ass, I'll put firecrackers in your nutsack and blow your balls all over your pants!
+"
+2 8 Cartman "Well, I'm just saying na, don't mess with Kitty na.
+"
+2 8 Cartman "Okay, that's it!  Screw you guys! I'm going home. 
+"
+2 8 Cartman "What do you guys want to do? We've got the whole summer to play!
+"
+2 8 Cartman "Stan?
+"
+2 8 Cartman "Guys? Don't you notice anything wrong with this picture?
+"
+2 8 Cartman "Ugh... Whatever. 
+"
+2 8 Cartman "Hey, you guys, my mom signed me up for swimming lessons at the community pool. You wanna come? 
+"
+2 8 Cartman "It is not!
+"
+2 8 Cartman "I am not swimming around in pee!
+"
+2 8 Cartman "My mom says that if I take swimming lessons, I could be in the Olympics someday.
+"
+2 8 Cartman "I'm trying to make the best out of a bad situation! I don't need to hear crap from a bunch of hippie freaks living in denial! Screw you guys! I'm going home.
+"
+2 8 Cartman "Uh, screw you guys. Home. 
+"
+2 8 Cartman "Eh-eh-eh-eh... 
+"
+2 8 Cartman "Nuh-uh.
+"
+2 8 Cartman "I don't wanna.
+"
+2 8 Cartman "Egh-- 
+"
+2 8 Cartman "Huh? First graders?  Awww! Weak! Weak! Oh, y-you sons of bitches!
+"
+2 8 Cartman "Later's fine.
+"
+2 8 Cartman "I only know how to do it doggie style.
+"
+2 8 Cartman "Can I do it doggie style?
+"
+2 8 Cartman "Sweet..!  Awww, dammit! Aw, not again!
+"
+2 8 Cartman "No way! Those sons of bitches! I'm going home.
+"
+2 8 Cartman "Fine.
+"
+2 8 Cartman "Well, you heard wrong, hippie!
+"
+2 8 Cartman "Hey! You guys are screwin' up the song! 
+"
+2 8 Cartman "Where is Chef?
+"
+2 8 Cartman "Wow.
+"
+2 8 Cartman "Okay. No first graders around. I can swim to the deep end.  Yeah... I can do it. I can do it. I can-- I'm gonna make it. 
+"
+2 8 Cartman "I'm gonna make it. I'm gonna make it to the deep end.  I did it! I did it! I made it to the deep end! Hooray for me!
+"
+2 8 Cartman "Huh?  Oh, no, you sons of bitches! Aww, sons of bitches..! 
+"
+2 8 Cartman "How's it going? 
+"
+2 9 Cartman "No, dude, independent films are those black and white hippie movies. They're always about gay cowboys eating pudding.
+"
+2 9 Cartman "Byeh, sure. Well, you show me one independent film that  isn't about gay cowboys eating pudding!
+"
+2 9 Cartman "I'm not fat! I just haven't grown into my body yet, skinny bitch!
+"
+2 9 Cartman "...bitch.
+"
+2 9 Cartman "I'm going! 
+"
+2 9 Cartman "I can't believe I got sent to the principal's office because of your stupid girlfriend!
+"
+2 9 Cartman "What kind of cookies?
+"
+2 9 Cartman "I wanna Fudge 'Em.
+"
+2 9 Cartman "Stan, nunh tunh tunh tunh tunh tunh tunh tunh tunh tunh tunh tunh hunh. Tunh tunh tunh tunh tinh teenh?
+"
+2 9 Cartman "She'll be the death of him, Kyle. Mark my words: she'll be the death of him.
+"
+2 9 Cartman "Jesus, he sure ran that one into the ground.
+"
+2 9 Cartman "Wait, I thought Mr. Hankey only came at Christmastime.
+"
+2 9 Cartman "It had a bunch of gay cowboys eating pudding, huh?
+"
+2 9 Cartman "Yeah!
+"
+2 9 Cartman "Ay!
+"
+2 9 Cartman "Okay, that's enough fatass jokes for this week.
+"
+2 9 Cartman "Okay, that does it. Screw you guys, I'm going home. 
+"
+2 9 Cartman "I'm gonna, just give me a minute.
+"
+2 9 Cartman "Yeah, I love these Salty Chocolate Balls, Chef. 
+"
+2 9 Cartman "Aw, man, smells like ass down here.
+"
+2 9 Cartman "Aw, man, let's get out of here!
+"
+2 9 Cartman "What are you doing down in the sewer with a bunch of snorkel stuff on?
+"
+2 9 Cartman "This is ridiculous! What the hell are we, the Goonies?
+"
+2 9 Cartman "Okay, that does it. Screw you guys, I'm home. 
+"
+2 9 Cartman "Hi, Mr. Hankey. Nice to see yuh.
+"
+2 9 Cartman "No. 
+"
+2 9 Cartman "Oh my God.
+"
+2 9 Cartman "Huh? Uhuh, yeah, I guess.
+"
+2 9 Cartman "All of us?
+"
+2 9 Cartman "Ye-ah, screw those guys. I don't even like them.
+"
+2 9 Cartman "Who the hell cast Tom Hanks in this?! Tom Hanks can't act his way out of a nutsack!
+"
+2 9 Cartman "I'll momaymumyeu, Meemuhmammy.
+"
+2 9 Cartman "Eh but, but this doesn't make sense to me, Marty! Okay, you told me the movie made a lot of money!
+"
+2 9 Cartman "I'm not a sellout! What's a sellout?
+"
+2 9 Cartman "Step on up, get them here! Mr. Hankey & Me T-shirts! Get them while they last, folks. for only $14.95! 
+"
+2 9 Cartman "Selling T-shirts kicks ass!
+"
+2 9 Cartman "Whoa!
+"
+2 9 Cartman "Yes. And I've learned something, too.  Being a sellout is sweet. Because you make a lot of money. And when you have money, you don't have to hang out with any poor-ass losers- like you guys. Screw you guys, I'ma goin' home.
+"
+2 10 Cartman "No way, dude. Kenny's family's poor; they live in the ghetto.
+"
+2 10 Cartman "Oh weak!
+"
+2 10 Cartman "In the ghetto
+On a cold and gray Chicago morn 
+Another little baby child is born
+In the ghetto... In the ghetto
+"
+2 10 Cartman "And his momma cried
+'Cause if there's one thing that she don't need
+Is another little hungry mouth to feed
+In the ghetto In the ghetto
+"
+2 10 Cartman "What?
+"
+2 10 Cartman "Where is the Nintendo?
+"
+2 10 Cartman "Oh, good. I'm starving.
+"
+2 10 Cartman "Pfff..!
+"
+2 10 Cartman "What kind of side dishes will we be enjoying this evening with our frozen waffles?  Am I to understand there will be no side dishes?
+"
+2 10 Cartman "Puh! I heard that.
+"
+2 10 Cartman "Oh, Jesus, are you fucking kidding me?
+"
+2 10 Cartman "Heh, we apparently don't say 'side dishes' at the table, either.
+"
+2 10 Cartman "Ey! 
+"
+2 10 Cartman "Man, your family sucks ass, Kenny. Whoever heard of frozen waffles for dinner?
+"
+2 10 Cartman "It's my Urkel sleeping bag. Isn't it coool?
+"
+2 10 Cartman "Argh! You have rats in your house, too, Kenny?!
+"
+2 10 Cartman "Dude, seriously, you'd better stop being so poor, or else I'm gonna start huckin' rocks atcha.
+"
+2 10 Cartman "But mom, seriously, it itches. I can't stand it!
+"
+2 10 Cartman "Mom, seriously, it itches. It itches!
+"
+2 10 Cartman "I don't wanna.
+"
+2 10 Cartman "Ugh. Uunnh.  Ey, give me that!  Ahhhh...
+"
+2 10 Cartman "More calamine lotion!
+"
+2 10 Cartman "Dammit, where's that calamine lotion?!
+"
+2 10 Cartman "Oh, no.  Damnit!  No, Kitty! That's a-- Wait a minute. Come 'ere, Kitty!  Uh. Yes. Uh...
+"
+2 10 Cartman "It's about friggin' time! Give me that! 
+"
+2 10 Cartman "Uugh!  Yeessss.  Ooohhh yyou guys, seriiously, it calms yer ass. Ahhhh... 
+"
+2 10 Cartman """I hope that one day America could be more like Endor, where the Ewoks live. Endor is very cool.""  Mom, answer that! ""They have trees and Ewoks, and barbecues, which is why I like Endor more than America. It's cool."" 
+"
+2 10 Cartman "I remember frozen waffles with no side dishes.
+"
+2 10 Cartman "She what?!
+"
+2 10 Cartman "That bitch! I'm gonna go downstairs and kick her square in the nuts!
+"
+2 10 Cartman "We want you to give our parents herpes.
+"
+2 10 Cartman "Hell no, you guys get your own!
+"
+2 10 Cartman "Hey, how come you don't have sores on your lips, Ma?
+"
+2 10 Cartman "Hooray!
+"
+2 10 Cartman "Well, I know one thing for sure.
+"
+2 10 Cartman "We're all gonna need a lot more calamine lotion.
+"
+2 11 Cartman "Planetariums suck!
+"
+2 11 Cartman "I can sing the Cheesy Poofs song!
+"
+2 11 Cartman "Hey, there it is!
+"
+2 11 Cartman "I can sing the Cheesy Poofs song with both hands tied behnd my back!
+"
+2 11 Cartman "But I'll have to sing the Cheesy Poofs song for that talent va-a-an!
+"
+2 11 Cartman "But I wanna sing the Cheesy Poofs song on the commercial!
+"
+2 11 Cartman "How long is that Chessy Poofs van gonna be outside?
+"
+2 11 Cartman "As if we care.
+"
+2 11 Cartman "Aw man, screw this. 
+"
+2 11 Cartman "Excuse me, but I do believe that sucked ass!
+"
+2 11 Cartman "Eric Cartman.
+"
+2 11 Cartman "I love Cheesy Poofs, you love Cheesy Poofs
+If we didn't eat Cheesy Poofs, we'd be lame.
+I'm talkin' Night-Court-in-it's-fifth-season lame-aaaahh!
+"
+2 11 Cartman "Thaat's right, suck on that. 
+"
+2 11 Cartman "I did it! I did it!
+"
+2 11 Cartman "I got a call-back for the Cheesy Poofs song!
+"
+2 11 Cartman "Yeah, dude, but I got in the finals for tomorrow!
+"
+2 11 Cartman "Hey you guys, when I'm done with that- Cheesy Poofs commercial, I bet I get all the free Cheesy Poofs I want.
+"
+2 11 Cartman "It's sad how jealous you are, Kyle. It really is.
+"
+2 11 Cartman "Hey, be careful, asshole!
+"
+2 11 Cartman "Well, hello, it's all my little friends with all their little dreams. 
+"
+2 11 Cartman "Let's see, where have I been, where have I been?
+"
+2 11 Cartman "Wweell, I might have been over at the Cheesy Poofs call-back, winning regional championship! 
+"
+2 11 Cartman "This is my regional championship certificate! Do you like it?  Hey, where is your regional champsionship 'tificate, Clyde? Oh, you don't have one?  Hmmm. Do you have a regional certificate, Wendy? Nno?  Apparently, only I do.
+"
+2 11 Cartman "Your haiku insults have no effect on me, Kyle. I'm regional champion.
+"
+2 11 Cartman "It's between me and four other kids. I'm on my way now with my mom to the finals.
+"
+2 11 Cartman "Shut your God-damned mouth
+or else I'm... gonna... kick you
+square in the balls... ass-hole
+Aw, damn it! 
+"
+2 11 Cartman "I wasn't picking it-I had an itch, for cryin' out loud!
+"
+2 11 Cartman "I don't know. There's a lot of competition here.
+"
+2 11 Cartman "Hey, look! They're giving away bread outside!
+"
+2 11 Cartman "Psych!
+"
+2 11 Cartman "I know, I know! 
+She works hard for the money
+So hard for it, honey
+She works hard for the money, so you'd better treat her right
+She works hard for the money
+So hard for it, honey
+She works hard for the money, so you'd better treat her right
+"
+2 11 Cartman "Thank you.
+"
+2 11 Cartman "I'm not pickin' it ma! God damn it, I have an itch! 
+"
+2 11 Cartman "Yes! I'm the best!
+"
+2 11 Cartman "Sweeet!
+"
+2 11 Cartman "I'm over here. 
+"
+2 11 Cartman "Aay!  Let's hurry. This costume is hot.
+"
+2 11 Cartman "I love Cheesy Poofs, you-
+"
+2 11 Cartman "Oh, Mom, for Pete's sake! 
+"
+2 11 Cartman "I love Cheesy Poofs-
+"
+2 11 Cartman "Oh, man, c'mon!
+"
+2 11 Cartman "I love Cheesy Poofs, you love Chee-
+"
+2 11 Cartman "What?!
+"
+2 11 Cartman "Oh, God damnit!
+"
+2 11 Cartman "Hi, Grandma. It's me, Eric.
+"
+2 11 Cartman "I just wanted to remind you that I'm gonna be on television tonight, so be sure to watch.
+"
+2 11 Cartman "Okay, bye. 
+"
+2 11 Cartman "Stan? I'm gonna be on TV tonight. Be sure to watch. 
+"
+2 11 Cartman "Where the hell is everybody?! I'm gonna be on TV tonight. You guys better not miss it!
+"
+2 11 Cartman "Oh, dude, here it comes!
+"
+2 11 Cartman "Yes! Yes, that was me! I was on television!
+"
+2 11 Cartman "Well, well well! You guys can now kiss my ass, because I was on television!  Ey! Didn't you guys see it?! I was on television!  You missed it! You missed it because of this stupid planetarium!  Planetariums suck ass! 
+"
+2 11 Cartman "What the hell are you talking about?
+"
+2 11 Cartman "Wow. What a day this has been. I was on TV, and, I'm a hero. 
+"
+2 11 Cartman "God damnit, Mom, I wasn't pickin' it! I have an itch!
+"
+2 12 Cartman "What is this? Halt!  It will take more than your weak American weapons to destroy me!
+"
+2 12 Cartman "I have Class 4 armor on, that, uh, ih-ih--
+"
+2 12 Cartman "--special armor, that's impenetrable to American bullets.
+"
+2 12 Cartman "That's fine! I'd like playing with myself! I'll play with myself all day long!  What?
+"
+2 12 Cartman "Herr Kommandant Cartman has ways of making you talk! 
+"
+2 12 Cartman "What are you guys doing?
+"
+2 12 Cartman "A clubhouse? Heheh, that's the lamest thing I've ever heard!
+"
+2 12 Cartman "Wwwhy??
+"
+2 12 Cartman "That's fine. We'll build our own clubhouse!
+"
+2 12 Cartman "Fine! And then we'll get girls to play Truth or Dare, too!
+"
+2 12 Cartman "Fine!
+"
+2 12 Cartman "Fine! That's fine. 
+"
+2 12 Cartman "Fine!
+"
+2 12 Cartman "No, Kenny, you can't look, I'm the foreman!
+"
+2 12 Cartman "Because, Kenny, your family's poor. You have to be the worker.
+"
+2 12 Cartman "No, Kenny.
+"
+2 12 Cartman "Mom, it's not a treehouse, it's a clubhouse!
+"
+2 12 Cartman "Mom? Can we pull up the carpeting in the living room?
+"
+2 12 Cartman "But Mmmom, the blueprint says we need carpeting in the clubhouse!
+"
+2 12 Cartman "Kenny, my mom says you can go get carpeting in the living room now.
+"
+2 12 Cartman "And stop your bitchin'!
+"
+2 12 Cartman "So, how's your lame-ass clubhouse, Stan?
+"
+2 12 Cartman "We'll see about that.  Don't forget you need to cut school early and wait for the hot tub, Kenny.
+"
+2 12 Cartman "Mr. Garrison, Stan's behavior is having an adverse effect on my education.
+"
+2 12 Cartman "Look at it, Kenny. It is the greatest clubhouse ever built.  Oh, man!
+"
+2 12 Cartman "And we built it, with our own hands. Now all we need is chicks, Kenny.
+"
+2 12 Cartman "All right. You go find chicks, Kenny.
+"
+2 12 Cartman "Because I have to stay here and work! I still have to shingle the roof, test the foundation, run all kinds of inspections. I've got way too much to do, and all you have to do is to go find chicks! Now, stop your bitchin'!  Mom, can I watch American Gladiators?
+"
+2 12 Cartman "What the hell is goin' on in this cartoon?  Oh. Hey, Kenny, did you find any chicks to come to the clubhouse?
+"
+2 12 Cartman "Holy crap!  Behold! The Ewok Village 2000!
+"
+2 12 Cartman "Can I offer you ladies a cool beverage or a tasty snack? 
+"
+2 12 Cartman "How's the clubhouse coming, Stan?
+"
+2 12 Cartman "Well, I just thought I'd tell you that me and Kenny have finished our clubhouse, and we already have chicks over.
+"
+2 12 Cartman "It's only a matter of time before we're playin' Truth or Dare with them. Good luck with your piece of crap clubhouse, stupid asshole.
+"
+2 12 Cartman "Ahaw, that's weak.
+"
+2 12 Cartman "That's killer.
+"
+2 12 Cartman "That's totally weak!
+"
+2 12 Cartman "Sweet.
+"
+2 12 Cartman "Killer weak, sweet!
+"
+2 12 Cartman "I had the same thing with my mom the other day. I'm all like, ""Ey! I am not a little kid anymore! Ma, I'm eight years old! And if I wanna fingerpaint, then I'm gonna fingerpaint!"" 
+"
+2 12 Cartman "Totally. Uuuuuh my mom gives me shit sometimes, and I tell her to shut her hole before I kick her in the nuts!
+"
+2 12 Cartman "Coming, Mom.  Okay, we have to play Truth or Dare, quick!
+"
+2 12 Cartman "Who the hell are you?!
+"
+2 12 Cartman "How many people?
+"
+2 12 Cartman "Hey! When are we gonna play Truth or Dare?
+"
+2 12 Cartman "This is bullcrap! 
+"
+2 12 Cartman "This sucks, Kenny! I wish we'd never built a clubhouse! 
+"
+2 12 Cartman "Oh my God, they killed Kenny!
+"
+2 13 Cartman "Wwow!
+"
+2 13 Cartman "Oh, dude, I gotta win those. How much to play?
+"
+2 13 Cartman "Five dollars?! Jesus Christ!
+"
+2 13 Cartman "That's easy!
+"
+2 13 Cartman "Ay! Check it out!  Damn it!
+"
+2 13 Cartman "Take this, Jennifer Love Hewitt! 
+"
+2 13 Cartman "I'd like to see you do better!
+"
+2 13 Cartman "I only have three dollars left, asshole!
+"
+2 13 Cartman "Sweet.
+"
+2 13 Cartman "I only need one, dude. I only need one.
+"
+2 13 Cartman "How much is it?
+"
+2 13 Cartman "Let's see: each ticket is a dollar, so three tickets is like two twenty-five.
+"
+2 13 Cartman "Oh come on, you guys. We still have plenty of money left over.
+"
+2 13 Cartman "I'm right!
+"
+2 13 Cartman "Eh! God-damnit! 
+"
+2 13 Cartman "I don't know what you guys are talking about! That scared the crap out of me!
+"
+2 13 Cartman "Kyle, will you relax, you pink eye? We have plenty of money.  Come on, you guys! It'll be sweet!
+"
+2 13 Cartman "I think we're almost to the end.
+"
+2 13 Cartman "How much?
+"
+2 13 Cartman "Hunh that's, that's pretty sweet. 
+"
+2 13 Cartman "What? This is cool.
+"
+2 13 Cartman "It is, too! 
+"
+2 13 Cartman "Aah, three dollars.
+"
+2 13 Cartman "Yeah, but I didn't take into account the fact that I suck at math.
+"
+2 13 Cartman "Ey! Seriously!
+"
+2 13 Cartman "Well, I'm sorry!
+"
+2 13 Cartman "Hey! I bet Kenny has some food stamps on him!
+"
+2 13 Cartman "Damn it, Kenny, don't be such a food-stamp hog! Share with the rest of your friends! 
+"
+2 13 Cartman "Sweet.
+"
+2 13 Cartman "What the hell makes you think Cartman rides a bull?
+"
+2 13 Cartman "O-kay, I'll- get on the bull.
+"
+2 13 Cartman "I guess, damn!
+"
+2 13 Cartman "Hey, this is sweet.
+"
+2 13 Cartman "I'll try. Ten seconds is a long time.
+"
+2 13 Cartman "Yikes!  Ow!  Son of a bitch!
+"
+2 13 Cartman "You guys, eh seriously, my back!
+"
+2 13 Cartman "Seriously. Help.  Screw you guys. Hate you guys.
+"
+2 13 Cartman "I hate you guys!
+"
+2 13 Cartman "Hate you guys.
+"
+2 13 Cartman "Nnoo.
+"
+2 13 Cartman "All right, get down. This is my kind of bullride.
+"
+2 13 Cartman "Yeah, this is sweet!
+"
+2 13 Cartman "Eeyy!
+"
+2 13 Cartman "Ey! Seriously, dude! Do something! Dude, stop this crazy thing!  Mother f- 
+"
+2 13 Cartman "Boinsure li bonsure.
+"
+2 13 Cartman "Boyongture taur lur mahrter.
+"
+2 13 Cartman "Shunkarah puntaur lah-turi.
+"
+2 13 Cartman "Pooinshower. Madalen shine debaur. Huelar she mashartah me shur har.
+"
+2 13 Cartman "Hello. Hello, polie. Hello, polie hurrah you soldier boy. Hey, soldier boy!
+"
+2 13 Cartman "Hello? Soldier boy. Me so horny. Me love you long time.
+"
+2 13 Cartman "Hello, puhree! Puhree hello! Hello, sucky-sucky! Hello, puhree!
+"
+2 13 Cartman "Hello, fren! Hello!
+"
+2 13 Cartman "Sucky-sucky, five dollar.
+"
+2 13 Cartman "Hucky-sucky five dollar.
+"
+2 13 Cartman "Ten dollar? Eight dollar? You give me eight dollar, soldier boy!
+"
+2 13 Cartman "Eey! Freline furton! Sucky-sucky!
+"
+2 13 Cartman "Aaah! Ten dollar!  Ten dollar, soldier boy!
+"
+2 13 Cartman "Gaaah!  Heeee!
+"
+2 13 Cartman "Hey, sucky-sucky? Only ten dollar.
+"
+2 13 Cartman "Odline daur shunba shunba?
+"
+2 13 Cartman "Ten dollar? Sucky-sucky?
+"
+2 13 Cartman "What are you guys doing?
+"
+2 13 Cartman "Oh, pretty good, except I had the weirdest dream last night.
+"
+2 13 Cartman "Well, I dreamt that I was a poor Vietnamese girl, and then you guys made me ride a big, scary bull, and then Leonardo DiCaprio gave me a spankin' for several hours.  Eeyy, where did you guys win all those Terrance and Phillip dolls?
+"
+2 13 Cartman "Wait a minute! You guys did make me ride that bull!
+"
+2 13 Cartman "Oh! Son of a bitch!
+"
+2 14 Cartman "Stinky britches, you got stinky britchesStinky, stinky britches, you got stinky--
+"
+2 14 Cartman "This new song by Alanis Morissette. I can’t get it out of my head.Stinky britches, you got stinky britches
+"
+2 14 Cartman "Stinky britches, you got stinky, stinky--
+"
+2 14 Cartman "Yeah, I can’t get this stupid song out of my head.
+"
+2 14 Cartman "Yeah. Stinky, stinky britches
+"
+2 14 Cartman "Stinky britches, you got stinky--
+"
+2 14 Cartman "You got stinky britches, stinky--
+"
+2 14 Cartman "It’s all over the place. On the radio, MTV, everywhere.
+"
+2 14 Cartman "You wrote it?
+"
+2 14 Cartman "Yeah, and he’s Jewish.
+"
+2 14 Cartman "What's a Chewbacca defense?
+"
+2 14 Cartman "Goddamn,  I hate that Cochran guy! If he was in front of me, I'd be like, ""Hey! You stupid son of a bitch! You-- How... How'd you like me to kick you in the nuts?!""
+"
+2 14 Cartman "Wow, he’s good.
+"
+2 14 Cartman "Ready. I will do the German dance for youIt's fun and gay and tra-la-laI hope my will enjoy my danceFiddle-e-aye, fiddle-e-aye ayWould you like some sauerkraut, German boy, German boy?Yes, I'd like some sauerkraut--
+"
+2 14 Cartman "See? I told you guys it would work.
+"
+2 14 Cartman "What's that?
+"
+2 14 Cartman "No, it isn't, you guys. 
+"
+2 14 Cartman "We're trying to raise money for our friend, Chef.  Would you like a Moon Crunchie or a Snacky Cake?
+"
+2 14 Cartman "We have Chocolate Nuggies and S'more Crunchies…
+"
+2 14 Cartman "What?!
+"
+2 14 Cartman "Three Crispy Yum Yums.
+"
+2 14 Cartman "Mr. Loaf, we are selling candy bars for our dying friend.
+"
+2 14 Cartman "Shut your goddamn mouth.  We have Nilla Crunchies, Berry Bars--
+"
+2 14 Cartman "Well, you can see here that we raised approximately $95, falling well short of our $2 million goal illustrated here.
+"
+2 14 Cartman "No more Salisbury steak and… pecan pie. 
+"
+2 14 Cartman "Four.
+"
+2 14 Cartman "Yeah!
+"
+2 14 Cartman "I will do the German dance for youIt's fun and gay and tra-la-la I hope my will enjoy my dance Fiddle-e-aye, fiddle-e-aye ay
+"
+2 14 Cartman "Would you like sauerkraut, German boy, German boy?Yes, I'd like some sauerkraut, Fräulein Setski 
+"
+2 14 Cartman "Yeah! Now get out of here before I kick you in the nuts!
+"
+2 14 Cartman "Ha-ha, you're a wuss. 
+"
+2 15 Cartman "Hey guys. How's it going? 
+"
+2 15 Cartman "You guys, you're so funny. No matter how I'm feeling, I can always count on you guys to lighten me up.
+"
+2 15 Cartman "I had to stay home because my mother wasn't feeling well. She has the flu, and I wanted to take care of the house so she could stay in bed.  I just wanted to catch you guys to see if we were assigned any homework tonight.
+"
+2 15 Cartman "Oooh, then we can enter the carving contest! I'll run home and get money from Mother. Do you guys need some, too? 
+"
+2 15 Cartman "Heh! Yeah, right! You guys could kiss my black ass!
+"
+2 15 Cartman "Man, you guys are hella stupid! If I had money, I wouldn't give it to you assholes!
+"
+2 15 Cartman "Oh, how's Kenny gonna get one?! He's hella poor!
+"
+2 15 Cartman "'Cause I'm hella cool, that's why.
+"
+2 15 Cartman "You guys are just hella jealous.
+"
+2 15 Cartman "Hi there, folks! This is a heck of a storm out now! Thought maybe you could use some provisions.  There's some candles and food in there. It ain't much, but it should get you through the night. Take care, folks. I've got other houses to get to. 
+"
+2 15 Cartman "Well, where is it?  What the hell is that?!
+"
+2 15 Cartman "It's all you could afford?! Whoever heard of a squah-o-lantern, Kenny?! That's hella stupid!
+"
+2 15 Cartman "God, I hate you, Kenny.  I have to get another knife; this one's hella dull! 
+"
+2 15 Cartman "No, Kenny. You should cut with the blade facing away from you. You're gonna hurt yourself. Seriously, dude. Isn't this fun, you guys? Carving pumpkins for Halloween?You guys are my best friendsThrough thick and thin, we've always been togetherWe're four of a kind, havin' fun all dayPallin' around and laughin' awayJust best friends, best friends are we.I love you guys. 
+"
+2 15 Cartman "Hey, dudes. Man, it's hella cold out here.
+"
+2 15 Cartman "Who'd you expect? Maury Povich? Golly, you're hella lame!
+"
+2 15 Cartman "What do you mean, what am I doing?! Im just standing here. Jesus, mellow out, you guys.
+"
+2 15 Cartman "Why the hell not?!
+"
+2 15 Cartman "Aaah! Son of a bitch!
+"
+2 15 Cartman "I can't believe what I'm seeing.
+"
+2 15 Cartman "Dude, this is hella weird.
+"
+2 15 Cartman "...and them I saw them all at the bus stop, and this son of a bitch is standing there!
+"
+2 15 Cartman "He's my evil twin? But he doesn't even look that much like me; he's all fat and stuff. He's hella lying.
+"
+2 15 Cartman "Ey, sweet!  Sweeeeeet! Check it out, guys; you don't even have to put a quarter in her.
+"
+2 15 Cartman "Dude, this is hella cool.
+"
+2 15 Cartman "Who's ""we""? You got a turd in your pocket? I'm goin' home. I'm hella hungry!
+"
+2 15 Cartman "Shut your god-damned mouth, fatass!
+"
+2 15 Cartman "Screw you! 
+"
+2 15 Cartman "Shut up, dude! I'm trying to watch TV!
+"
+2 15 Cartman "Uh-ho-ho, man, that's hella funny! 
+"
+2 15 Cartman "No, Kitty, this is my pot pie!
+"
+2 15 Cartman "No, Kitty, this is my pot pie, Kitty!
+"
+2 15 Cartman "NO KITTY, BAD KITTY!!!  Hahaha, you-hoo suck, dude.
+"
+2 15 Cartman "Aw, man, this movie is hella scary. 
+"
+2 15 Cartman "P'h. Nice costume, you guys. You spent about a buck fifty on those?
+"
+2 15 Cartman "Oh? I've got a better idea. Why don't you two go fuck yourselves?
+"
+2 15 Cartman "What's wrong with me? Let's see. Uum.  I hate you guys. You're hella stupid.
+"
+2 15 Cartman "Don't touch me! 
+"
+2 15 Cartman "Oh, right! You guys are from the evil, parallel universe?!
+"
+2 15 Cartman "Oh, it's about freakin' time you showed up! You don't want me, you want that impostor Cartman! Come on, I'll show you. 
+"
+2 15 Cartman "Now, zap his hella ass back to your- hella universe!
+"
+2 15 Cartman "Ey, you backstabbin' sellout!
+"
+2 15 Cartman "All right, now you can try to send this Bozo through and the whole mess'll be over with!
+"
+2 15 Cartman "What?!
+"
+2 15 Cartman "Haaa hahaha! You guys are hella stupid! I knew you would fall for that!
+"
+2 15 Cartman "That's right, I did!You guys are hella stupidYou guys are hella lameYou guys are hella dumbHella hella hella!
+"
+2 16 Cartman "Every time I go to my Grandma's house, she gives me a present. You watch: as soon as I walk in the door she'll hand me a biiig present, for no reason, except that I'm cool.
+"
+2 16 Cartman "Oh, I didn't think you were coming, Stan.
+"
+2 16 Cartman "Shotgun! It's my car, I call it first: shotgun!  Kenny, I called it shotgun!  Dammit, Kenny, get in the back!  Hey, Kenny, there's a sale on orange jackets over there.  Look, Kenny, there's an elephant parade!  Ken-ny. Kenny, look. Look! Go get it! , Go get it!  ha ha ha, you poor piece of crap. 
+"
+2 16 Cartman "Let's sing that one Grandma song, Ma. How does it go?
+"
+2 16 Cartman "Argh!
+"
+2 16 Cartman "I guess, damn! 
+"
+2 16 Cartman "We don't care, Mom.
+"
+2 16 Cartman "Oh, so now everybody wants to meet Mr. Hankey! He's a piece of crap.
+"
+2 16 Cartman "How much further is it to Grandma's house? I wanna see what kind of present she got me.
+"
+2 16 Cartman "Why does Grandma have to live so far away? Why don't we just stick her in a nursing home closer to us so  I don't have to drive six hours to get a god-damned present?!
+"
+2 16 Cartman "Over the meadow and through the woods...
+"
+2 16 Cartman "Grandmagrandmagrandmagrandma! 
+"
+2 16 Cartman "Hi, Grandpa!
+"
+2 16 Cartman "Sweet. What is it?
+"
+2 16 Cartman "Yes! Move it! 
+"
+2 16 Cartman "I'm not fat, I'm big-boned. Ech.
+"
+2 16 Cartman "Al-righty then. Let's get to my presents, shall we?
+"
+2 16 Cartman "Wait a minute. This isn't a present, it's a shirt! 
+"
+2 16 Cartman "Are you telling me that I drove nine hours through butt-fucking nowhere to get a god-damned shirt?! Mom, Grandma's gone senile! It's time to stick her in a home!
+"
+2 16 Cartman "I can't believe I got a stupid shirt!  The holidays are bullcrap!
+"
+2 16 Cartman "Hi, cousin Elvin.
+"
+2 16 Cartman "Yup!
+"
+2 16 Cartman "Amen. 
+"
+2 16 Cartman "Bad Jimmy!
+"
+2 16 Cartman "Whatever it is, it's getting closer.  Ow! What the hell was that for!
+"
+2 16 Cartman "Ow!
+"
+2 16 Cartman "Yuhwell, you're not dreaming!  Ey! Cut the crap!
+"
+2 16 Cartman "Uncle Howard!
+"
+2 16 Cartman "Uncle Howard, what are you doing here?!
+"
+2 16 Cartman "Wow, cool!
+"
+2 16 Cartman "Okay.
+"
+2 16 Cartman "Who's we? You got a turd in your pocket? Hahahaha.
+"
+2 16 Cartman "What?
+"
+2 16 Cartman "All right, keeps your pants on.
+"
+2 16 Cartman "Okay. 
+"
+2 16 Cartman "Can somebody drive us to the mall?
+"
+2 16 Cartman "Hello, Mr. Hankey is appearing at the mall. Can somebody please take us?
+"
+2 16 Cartman "Uncle Stinky, can you drive us to the mall?
+"
+2 16 Cartman "Uncle Stinky, my stupid friends want to see Mr. Hankey! You have to take us!
+"
+2 16 Cartman "Damn his Goddamned authorituh!
+"
+2 16 Cartman "I don't wanna take care of Cousin Elvin!
+"
+2 16 Cartman "All right. Give me $10. 
+"
+2 16 Cartman "My family sucks ass!
+"
+2 16 Cartman "Here. We got you some sticky cinnamon buns. 
+"
+2 16 Cartman "My stupid friends want to go to the mall to visit Mr. Hankey, but nobody would drive us.
+"
+2 16 Cartman "Stan, don't be such a dumbass. You have to trust people. 
+"
+2 16 Cartman "How the hell did Mr. Hankey get so popular? Look at all this Mr. Hankey stuff. 
+"
+2 16 Cartman "And another thing: it says that Mr. Hankey is also appearing at the Crossroads Mall!
+"
+2 16 Cartman "So, how can Mr. Hankey be here, and in another mall at the same time?
+"
+2 16 Cartman "Oh, it looks like you finished your Fudgecicle, Elvin.  God damnit, be quiet, Elvin! Shut up, Elvin!  No, Elvin, bad Elvin! 
+"
+2 16 Cartman "I told you guys. The holiday season is nothing but lies and bullcrap!
+"
+2 16 Cartman "Oh, uh that's pretty cool.
+"
+2 16 Cartman "Ugh! Wait! You guys. Seriously. 
+"
+2 16 Cartman "Ey! What the hell is wrong with you people?!
+"
+2 16 Cartman "Lock the door! 
+"
+2 16 Cartman "See ya, Uncle Howard.  Thanks for being such a great role model for me.  Piece of crap.
+"
+2 17 Cartman "Yeah, that's fine.
+"
+2 17 Cartman "How about we do it on that Raymond guy on TV, you know, Everybody Loves Raymond.
+"
+2 17 Cartman "Oh, so that's where all my underpants go.
+"
+2 17 Cartman "Tweek, Tweek, you can always go on welfare. Look at Kenny's family: they're perfectly happy being poor and on welfare. Right, Kenny?
+"
+2 17 Cartman "Heheh, you suck, Kenny.
+"
+2 17 Cartman "You guys! You guys! Seriously! I'm a sorcerer! Zhyagah, zhyah, zhyagot that.
+"
+2 17 Cartman "Ey, let me have some grounds. 
+"
+2 17 Cartman "No...more...coffee. Blech. 
+"
+2 17 Cartman "What will become of the endeavoring American family?""
+"
+2 17 Cartman "Neither did we.
+"
+2 17 Cartman "Aw, man, this sucks! 
+"
+2 17 Cartman "This guy sucks ass!
+"
+2 17 Cartman "I believe in the family-owned enterprise.
+"
+2 17 Cartman "What now?
+"
+2 17 Cartman "Why can't we just read the paper we wrote last time?
+"
+2 17 Cartman "I think my mom is a corporation.
+"
+2 17 Cartman "Well, I'll be damned.
+"
+2 17 Cartman "Bad! 
+"
+2 17 Cartman "What?!
+"
+2 17 Cartman "Well, look at him. He's all, you know, uh l-look at him. 
+"
+2 17 Cartman "What?! 
+"
+2 17 Cartman "Yeah, he called me a pussy! I'm not a pussy, you're a pussy!
+"
+2 17 Cartman "Ey!
+"
+2 17 Cartman "Little pussy gnome. Don't call me a pussy, pussy gnome.
+"
+2 17 Cartman "Oh, are you gonna take us to your little pussy house?
+"
+2 17 Cartman "Oh, your pussy village?
+"
+2 17 Cartman "I hope we're not wasting our time with this little pecker.
+"
+2 17 Cartman "No it isn't, you guys!
+"
+2 17 Cartman "So what are you gonna do with all these underpants that you steal?
+"
+2 17 Cartman "Oh, I get it.
+"
+2 17 Cartman "I love you guys. 
+"
+2 18 Cartman "I told you guys.
+"
+2 18 Cartman "There's bound to be some crocs up here. I'll use my croc call and try to bring 'em out. Brigeghus, brigeghus! Brig-!
+"
+2 18 Cartman "Ogh! Now I'm gonna kick my friend Kyle in the beanbag and see what happens, by crikey!
+"
+2 18 Cartman "Come 'ere, crocky.
+"
+2 18 Cartman "Well, he shouldn't have called me fat. 
+"
+2 18 Cartman "Well, screw him, he's dead! Let's go look for crocodiles! 
+"
+2 18 Cartman "I'm right here, Kyle.
+"
+2 18 Cartman "Oh yeah?! Oh yeah?! Say that to my face, pussy!
+"
+2 18 Cartman "Nah. Come on, guys. Let's go look for crocodi-iles.
+"
+2 18 Cartman "Screw you, hippie!
+"
+2 18 Cartman "Come on, you guys, it's getting cold up here!
+"
+2 18 Cartman "Really?  Hey, there's a frozen guy down there.
+"
+2 18 Cartman "Hey you guys. This is just like that one movie, um, John Travolta and that, French chick were doing it, all summer long and went back to school and sang songs about ""Greased Lightning.""  You know, that movie where Sandra Dee thinks she's all prissy, and then they try and try to get an abortion, but she doesn't have all the-
+"
+2 18 Cartman "Aww, screw you guys anyway!
+"
+2 18 Cartman "For what?
+"
+2 18 Cartman "I think we're almost there, you guys.
+"
+2 18 Cartman "Yeah, like the kid with the wallet.
+"
+2 18 Cartman "Damn, I've never seen you guys fight like this!
+"
+2 18 Cartman "Sweet.
+"
+2 18 Cartman "Killer.
+"
+2 18 Cartman "Fine.
+"
+2 18 Cartman "Damn, I'm pretty freakin' cool all of a sudden.
+"
+2 18 Cartman "Well, I don't see any crocs out here.
+"
+2 18 Cartman "Or, in other words, I'll let this jagu-ar bop me in the face and see if it hurts. Come on, jagu-ar, let's see what you've got!  Aaah! Ow, son of a bitch! 
+"
+2 18 Cartman "You son of a bitch cat!
+"
+2 18 Cartman "Yeah, you jagu-ars can be real mean. I'm gonna have to smack it in the face. 
+"
+2 18 Cartman "He might have been, by crikey.
+"
+2 18 Cartman "Wow! Kick ass!
+"
+2 18 Cartman "Yeah, I think the same thing.
+"
+2 18 Cartman "Yeah, calm down, calm down, you sons of bitches.
+"
+2 18 Cartman "I'm gonna go jam my thumb in some'in's butthole now.
+"
+2 18 Cartman "They're all movin' pretty fast, but I'll catch up to 'em, by crikey.
+"
+2 18 Cartman "Be very very quiet. I'm hunting crocodiles, hahahahahaha.
+"
+2 18 Cartman "Oh yeah?! Well I don't need you guys anyways! You guys can kiss my-  Aha! There's a king croc right there!  And what I'm gonna do, is I'm gonna sneak up on it, and jam my thumb in its-
+"
+2 18 Cartman "Ey! Ey, get me out of here! God-damnit! Ugh. Smells like Kenny's house in here.
+"

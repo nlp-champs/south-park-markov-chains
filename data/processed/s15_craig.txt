@@ -110,3 +110,59 @@
 "
 15 14 Craig "What are you talking about?
 "
+15 1 Craig "Tom Saltzman says you don't really have an iPad.
+"
+15 1 Craig "Tom Saltzman says you just glued a piece of glass to an iPad cover and you're faking it. 
+"
+15 4 Craig "Craig Tucker, 2.4 inches. Yeah, that's about right.
+"
+15 5 Craig "It's awesome.
+"
+15 5 Craig "Oh, that's a good idea.
+"
+15 5 Craig "Please sir, it's very important.
+"
+15 5 Craig "Get out of here.
+"
+15 5 Craig "Slash isn't real. He's a made-up person that represents care and giving, and people dress up like him and lie to their kids.
+"
+15 9 Craig "I didn't hear him coming with all your screaming.
+"
+15 9 Craig "Hey. Hey, I got one.  Why do girls wear makeup and perfume?
+"
+15 9 Craig "'Cause they're ugly and they stink. 
+"
+15 9 Craig "Butters is one of those people who you can never remember if he was there or not.
+"
+15 9 Craig "Game on!
+"
+15 10 Craig "Hey, did you guys see Eavesdropper?
+"
+15 10 Craig "Hey, here's a post about Token: ""Token Black's Private Gym Photos"" 
+"
+15 10 Craig "Exclusive: Stan Marsh thinks Elise Thompson has a hot butt crack.
+"
+15 10 Craig """In an email sent yesterday to KENNY McCormick, Stan Marsh wrote 'Dude, you should have been in PE today. Elise Thompson's butt crack was totally showing.' He went on to call her butt crack quote 'nice' and that the whole experience was quote 'pretty awesome'.""
+"
+15 10 Craig "It's not somebody in this room.
+"
+15 10 Craig "Because whoever it is just now posted a new story on Eavesdropper: ""Allison Taft reveals embarrassing secret about Craig Tucker.""  Yeah. Hey wait, that's me.
+"
+15 10 Craig "Huh?
+"
+15 10 Craig "It's a rat! 
+"
+15 10 Craig "There's no telling. It could be about any of us. 
+"
+15 10 Craig "Nothing broke on the Web site yet.
+"
+15 12 Craig "Yeah. We're paying for your being fat.
+"
+15 12 Craig "Yeah, why don't you go home and cry to your stuffed animals again?! 
+"
+15 12 Craig "Where's our five dollars?
+"
+15 12 Craig "It said in the e-mail if we came we each got five dollars.
+"
+15 14 Craig "What are you talking about?
+"

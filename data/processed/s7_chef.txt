@@ -238,3 +238,123 @@
 "
 7 15 Chef "The Broflovskis need money to appeal that case to the new Canadian Prime Minister. What if this Christmas, instead of buyin' presents, we all use that money to give to the Broflovskis?
 "
+7 1 Chef "Hello there, children! 
+"
+7 1 Chef "Well, today it's Salisbury steak with hot buttered noodles
+"
+7 1 Chef "Say, did any of you children
+"
+7 1 Chef "What the?
+"
+7 1 Chef "A repeat??
+"
+7 1 Chef "I've been feelin' dйjа vu all mornin', children. I knew somethin' strange was goin' on!
+"
+7 1 Chef "We have to get Eric to a proctologist right away.
+"
+7 1 Chef "He's a doctor that specializes in your asshole, children.
+"
+7 1 Chef "That's right.
+"
+7 1 Chef "Hello Doctor. Thanks for seein' Eric on such short notice.
+"
+7 1 Chef "We just want you to take a look and tell us if you see anything abnormal.
+"
+7 1 Chef "Eric, the doctor has to feel inside your rectum.
+"
+7 1 Chef "Well, doctor?
+"
+7 1 Chef "That wasn't no hemorrhoid, it was an alien hoobajoob! Come on, children! We've got to get Eric to some real help!
+"
+7 1 Chef "That thing inside Eric's asshole looked like some kinda alien satellite dish. We need to see my friend down at the Space Center now! 
+"
+7 1 Chef "And you're the only person I could think of who might be able to help us, Jeff.
+"
+7 1 Chef "Someone just has to activate it like the proctologist did.
+"
+7 1 Chef "Kyle, the fate of the world may be at stake.
+"
+7 1 Chef "Eric, that's enough!
+"
+7 1 Chef "It stopped being funny forty seconds ago, boy! Let's just get this over with!
+"
+7 1 Chef "Okay. Now it's funny again.
+"
+7 1 Chef "What's it doing?
+"
+7 1 Chef "Where is the signal being sent to? 
+"
+7 1 Chef "Help!
+"
+7 1 Chef "Get in the car, children! Get in the car! 
+"
+7 1 Chef "Can you see anything, children? 
+"
+7 1 Chef "God damned aliens! 
+"
+7 1 Chef "Hold on, children!  We have to ditch them! 
+"
+7 1 Chef "I don't think we're outta the woods yet. 
+"
+7 1 Chef "That ain't no police! 
+"
+7 1 Chef "HA! God-damned aliens! I beat you!  Where'd you learn to drive, aliens?! Chinese auto school?! 
+"
+7 1 Chef "You're lucky I didn't just turn around and beat your white skinny alien asses anyway! Maybe next time you'll remember to...  Huh?  Aw crap! Children!
+"
+7 1 Chef "Jeff!! The aliens took the children up on their ship.
+"
+7 1 Chef "Did you find out what the aliens were up to?
+"
+7 1 Chef "They took the children, Jeff! I have to know what those aliens are up to!
+"
+7 1 Chef "Butt sex?
+"
+7 1 Chef "Who's havin' butt sex?
+"
+7 1 Chef "What the hell is that?!
+"
+7 1 Chef "Chaos theory??
+"
+7 1 Chef "Huh?
+"
+7 1 Chef "Oh my God! We have to stop them!
+"
+7 1 Chef "We have to find a way to stop those aliens!
+"
+7 1 Chef "Oh no.
+"
+7 1 Chef "That doesn't make any God-damned sense!
+"
+7 1 Chef "Hello there, children!
+"
+7 1 Chef "I don't know. But something tells me this picture might be very important, children.  You should hang on to it.
+"
+7 7 Chef "Yeah! Let the South Park people own South Park! 
+"
+7 7 Chef "What do you guys think?
+"
+7 7 Chef "I'm sorry, boys. You just don't understand economics.
+"
+7 8 Chef "What's all this fightin' about, children?!
+"
+7 8 Chef "Aw nah. Don't tell me you children have taken up this whole metrosexual fad, too!
+"
+7 8 Chef "No it isn't. Last year you children were all trying to be black, and now you're trying to be gay!
+"
+7 8 Chef "Well, then, don't buy into this fad, Kyle. Be who you are, not what's cool.
+"
+7 8 Chef "Oh, hello, Mr. Garrison.
+"
+7 8 Chef "Sure. Come on in.
+"
+7 8 Chef "Well, what do you want me to do about it?
+"
+7 8 Chef "Oh. Well, we black people just always tried to stay out in front of them.
+"
+7 8 Chef "Well, like with our slang. Black people always used to say, ""I'm in the house"" instead of ""I'm here."" But then white people all started to say ""in the house"" so we switched it to ""in the hizzouse."" Hizzouse became hizzizzouse, and then white folk started saying that, and we had to change it to hizzie, then ""in the hizzle"" which we had to change to ""hizzle fo shizzle,"" and now, because white people say ""hizzle fo shizzle,"" we have to say ""flippity floppity floop.""
+"
+7 8 Chef "Oh no! Damnit! Don't call it that! 
+"
+7 15 Chef "The Broflovskis need money to appeal that case to the new Canadian Prime Minister. What if this Christmas, instead of buyin' presents, we all use that money to give to the Broflovskis?
+"

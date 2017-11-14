@@ -46,10 +46,7 @@ app.post('/generate_sentence', function (req, res) {
   res.send(JSON.stringify(response));
 });
 
-//app.use('/static', express.static(path.join(__dirname, './dist')))
-
-
 server = http.createServer(app);
 
-// listening ports - 9000 because it is a "one off" app
-server.listen(9000);
+// listening ports
+server.listen(process.env.PORT || 9000);

@@ -1454,3 +1454,731 @@
 "
 8 14 Kyle "Goddammit, Cartman!
 "
+8 1 Kyle "Stop it, Cartman!
+"
+8 1 Kyle "Goddammit Cartman, stop throwin' those stupid poppy-things at me! 
+"
+8 1 Kyle "Wow, cool.
+"
+8 1 Kyle "Our parents won't let us have weapons, dude. 
+"
+8 1 Kyle "Why do people have to keep reminding us of what we don't have?!
+"
+8 1 Kyle "Kaii yo! 
+"
+8 1 Kyle "Yeah. And my powerful nunchakus make me into Bunroku , a deadly but compassionate ninja who protects those in trouble.
+"
+8 1 Kyle "No dude, we can't go around showing our weapons to people. Our parents'll find out we have them.
+"
+8 1 Kyle "You don't know anything about Jews, fatass!
+"
+8 1 Kyle "I still say this is a bad idea.
+"
+8 1 Kyle "But don't tell anybody we have them.
+"
+8 1 Kyle "Okay, hang on guys. I'll use my special power to see into the future and find out where we should head next.
+"
+8 1 Kyle "God dammit, Cartman! You can't keep making up new powers!
+"
+8 1 Kyle "No asshole! From now on you only get to have one power! So what is it?!
+"
+8 1 Kyle "That doesn't count, fatass!
+"
+8 1 Kyle "Who the hell is that?
+"
+8 1 Kyle "Whoa.
+"
+8 1 Kyle "Well, let's see how he likes the icy blasts from my nunchucks of Sokuromoto! 
+"
+8 1 Kyle "Okay, okay, you can have your powers back.
+"
+8 1 Kyle "God dammit Cartman!
+"
+8 1 Kyle "What the hell did you do that for, Kenny?!
+"
+8 1 Kyle "Oh man! We are in serious trouble!
+"
+8 1 Kyle "I agree with Cartman!
+"
+8 1 Kyle "You don't understand what my mom will do to me if she finds out I was playing with weapons!
+"
+8 1 Kyle "Stop dude! You're gonna scramble his brain!
+"
+8 1 Kyle "If we take him to the hospital, they're gonna find out what happened.
+"
+8 1 Kyle "God? Please, if you get me out of this, I swear, I will never play with weapons ever again.
+"
+8 1 Kyle "Oh no.
+"
+8 1 Kyle "That is the dumbest idea you guys have ever come up with! I'd expect this stupidity out of Cartman, but you, Stan?! Butters needs medical attention right now!
+"
+8 1 Kyle "We need some more fur.  I think that's good.
+"
+8 1 Kyle "We've gotta hurry, it's getting late! 
+"
+8 1 Kyle "Quick, hide Butters! 
+"
+8 1 Kyle "He said, not now, Craig!
+"
+8 1 Kyle "I swore to never fight again.
+"
+8 1 Kyle "Oh no. Butters!
+"
+8 1 Kyle "Butters! He got a ninja star stuck in his eye, and we were taking him to the vet when you fucked it all up! Butters!
+"
+8 1 Kyle "Butters!
+"
+8 1 Kyle "Dude, look! 
+"
+8 1 Kyle "Uuuh, Chef, you haven't seen Butters around, have you?
+"
+8 1 Kyle "Yeah, we know.
+"
+8 1 Kyle "Butters!
+"
+8 1 Kyle "It's hopeless, dude! Butters must have made it to the hospital. By now our parents probably know we were playing with weapons! We have to get rid of the evidence! 
+"
+8 1 Kyle "Dude, we have to get rid of our weapons so at least we can try to deny everything.
+"
+8 1 Kyle "We don't have time for that, dude! We just have to ditch them! Now!
+"
+8 1 Kyle "Screw you, fatass! 
+"
+8 1 Kyle "I- I can't do it... I can't do it. I...
+"
+8 1 Kyle "Listen, doucher! Our parents are gonna kill us, and you, if they found out that we bought these!
+"
+8 1 Kyle "Where?!
+"
+8 1 Kyle "Then it's not too late!
+"
+8 1 Kyle "We have to get past them!
+"
+8 1 Kyle "You have that power too?
+"
+8 1 Kyle "Oh dude, we are gonna get it now.
+"
+8 1 Kyle "Dude, they don't care we knocked Butters' eye out with weapons?
+"
+8 1 Kyle "Uh, yeah! I agree! Uh- my fragile little eight-year-old mind didn't know how to deal with what I was seeing. C-Cartman should be punished!
+"
+8 1 Kyle "Yeah, I c- I can't believe it.
+"
+8 1 Kyle "So I guess this means we get to keep our weapons.
+"
+8 2 Kyle "They're Olympic games for handicapped people.
+"
+8 2 Kyle "Yeah, that'd be cool.
+"
+8 2 Kyle "Well all right, we'll see you on Saturday, guys.
+"
+8 2 Kyle "...You're an asshole, Cartman.
+"
+8 2 Kyle "What?
+"
+8 2 Kyle "Oh no. Cartman, no!
+"
+8 2 Kyle "Cartman! I will not stand by and let you cheat your way to winning the Special Olympics!
+"
+8 2 Kyle "Because! 
+"
+8 2 Kyle "God damn you!
+"
+8 2 Kyle "No you're not!  I read the brochure, Cartman! If you're under eighteen, you have to have a parent with you to sign up for the Special Olympics.
+"
+8 2 Kyle "It says right there ""a parent has to be with you to sign up,"" and you'll never get your mom to agree to something so horrible, so ha! 
+"
+8 2 Kyle "Cartman, I really, really have a problem with what you're doing. I object to it morally, and I find it grossly offensive. 
+"
+8 2 Kyle "I know that I often have serious moral objections to the things that you do, but... this time I think you really need to reconsider, because if you do this, I believe you will go to hell. So I feel it is my responsibility, as your friend, to tell people what you're doing, and to put a stop to it!
+"
+8 2 Kyle "I didn't come here to talk about The Passion, Cartman!
+"
+8 2 Kyle "I came here to talk about you!
+"
+8 3 Kyle "I'm a Vulcan!
+"
+8 3 Kyle "The atmosphere is oxygen-based, should support our breathing.
+"
+8 3 Kyle "No! I'm on the away team too! 
+"
+8 3 Kyle "I don't care! You're not making me wait in the van again!
+"
+8 3 Kyle "I am picking up carbon-based life forms in Sector C. I believe we will find a village of peaceful aliens over that ridge. 
+"
+8 3 Kyle "No it doesn't. 
+"
+8 3 Kyle "No I'm not! God damn it Cartman, you're not gonna kill me off again!
+"
+8 3 Kyle "Shut up about Jews, fatass! You don't know anything!
+"
+8 3 Kyle "He does not!
+"
+8 3 Kyle "Naw uh!
+"
+8 3 Kyle "I'm not arguing about The Passion! He's being an asshole!
+"
+8 3 Kyle "People don't hate the Jews!
+"
+8 3 Kyle "...You're a stupid asshole! 
+"
+8 3 Kyle "One please.
+"
+8 3 Kyle "Yeah, I know, but I have to-
+"
+8 3 Kyle "...Thanks. 
+"
+8 3 Kyle "Haaaah! 
+"
+8 3 Kyle "How? How could the Jews do that to Jesus?
+"
+8 3 Kyle "You were right. You were right all along. I thought you were just an asshole when you ripped on Jews, but... I didn't know, I... I didn't know.
+"
+8 3 Kyle "You were, you were right?
+"
+8 3 Kyle "You were right. 
+"
+8 3 Kyle "Kill Jesus! Yesss! Arrrgh! 
+"
+8 3 Kyle "Oh okay, but did God sent Jesus TO die, or did Jesus just get kind of screwed over.
+"
+8 3 Kyle "Well, I have this friend, see? And this friend belongs to a certain, Chosen People of Israel. And it... so happens that these chosen people killed your Lord.
+"
+8 3 Kyle "Right. But he can't live with the guilt anymore. Because, even if Jesus wasn't really the Son of God, he was still a nice guy. And he didn't deserve what happened to him in Mel Gibson's movie. I I can't sleep at night. I mean, my... friend can't sleep at night.
+"
+8 3 Kyle "But how can the Jews make it better??
+"
+8 3 Kyle "Wait. That's it. Atonement. Of course.  I know what I have to do now. Thank you, Father. 
+"
+8 3 Kyle "Thank you, rabbi.  In 1973, the United States officially issued an apology to the African American community for slavery. In 1956, Germany officially apologized for World War II AND the Holocaust. And now, I believe, in 2004, the Jewish community needs to apologize for the death of Jesus.
+"
+8 3 Kyle "If we as a people choose not to believe that Jesus is the Son of God, then we can still apologize for the brutal way in which he was killed, and take our share of the responsibility for it.
+"
+8 3 Kyle "I saw The Passion!
+"
+8 3 Kyle "Both you guys, stop! Please. You're gonna make people hate us more!
+"
+8 3 Kyle "No, no, no! Don't become an angry mob!  The last time we did that we killed Jesus!
+"
+8 3 Kyle "Look out!! 
+"
+8 3 Kyle "Dude, what's wrong with him?
+"
+8 3 Kyle "Dude! I've been freaked out this whole time because of that guy's movie?
+"
+8 3 Kyle "Oh, dude, I feel so much better about being Jewish now that I see that Mel Gibson is just a big wacko douche. 
+"
+8 4 Kyle "Sweet. I made mine go off the jump. 
+"
+8 4 Kyle "Hey, who are those kids? 
+"
+8 4 Kyle "...What the hell just happened?
+"
+8 4 Kyle "Yeah.
+"
+8 4 Kyle "Dude, that is a sweet RC car!
+"
+8 4 Kyle "We're not interested, thanks.
+"
+8 4 Kyle "Yeah! Go Stan!
+"
+8 4 Kyle "All right Stan!
+"
+8 4 Kyle "Yeah! You got served!
+"
+8 4 Kyle "That's right!
+"
+8 5 Kyle "What the hell are you doing, fatass?
+"
+8 5 Kyle "Why?
+"
+8 5 Kyle "Why?
+"
+8 5 Kyle "Oh wait. Hey AWESOM-O,  I'd also like some celery sticks chopped up two inches long, with peanut butter and raisins on top.
+"
+8 6 Kyle "Yeah, I think they already moved in. I saw moving vans in their driveway two days ago.
+"
+8 6 Kyle "Hey Look! 
+"
+8 6 Kyle "Hey. Do you live here?
+"
+8 6 Kyle "Dude, he must be loaded! What does he do?
+"
+8 6 Kyle "What's wrong with his face?
+"
+8 6 Kyle "Mr. Jefferson, your son can't get up.
+"
+8 6 Kyle "Mr. Jefferson? 
+"
+8 6 Kyle "Mr. Jefferson said we can invite all the kids in town to go play over at their house.
+"
+8 6 Kyle "Dude, what happened to your knee?
+"
+8 6 Kyle "Mr. Jefferson!
+"
+8 6 Kyle "Mr-&#160;! Goddammit. Here, come on. We need to clean that up. 
+"
+8 6 Kyle "Alright, this is gonna sting for a second. 
+"
+8 6 Kyle "I know, I know. Be cool.
+"
+8 6 Kyle "So, dude, do you have any brothers or sisters?
+"
+8 6 Kyle "And where is your mom?
+"
+8 6 Kyle "You must have a mom.  You mean she doesn't live here, or she's dead, or what?
+"
+8 6 Kyle "What?
+"
+8 6 Kyle "So you never met your mom?
+"
+8 6 Kyle "Yeah. Yeah, that counts.
+"
+8 6 Kyle "You guys, I feel kinda bad for that kid.
+"
+8 6 Kyle "Mr. Jefferson just seems like he wants to be a kid, not have one.
+"
+8 6 Kyle "They're TV dinners. Don't you wanna take that veil off so you can eat?
+"
+8 6 Kyle "Dude, look who I found prowling around in my back yard.
+"
+8 6 Kyle "He was out all alone in the middle of the night. Mr. Jefferson isn't even home.
+"
+8 6 Kyle "What?!
+"
+8 6 Kyle "Come on, Blanket. 
+"
+8 6 Kyle "That poor kid.
+"
+8 6 Kyle "Hey Blanket. Uh, look, we're goin' over to help my dad chop wood. You... wanna come with?
+"
+8 6 Kyle "Jesus Christ, dude!
+"
+8 6 Kyle "Dude, we have got to get that kid away from him!
+"
+8 6 Kyle "All right. Thanks a lot for helping us, dude.
+"
+8 6 Kyle "I don't think Mr. Jefferson pays enough attention to his son to notice. Come on! 
+"
+8 6 Kyle "Shh, Blanket, we're gonna take you away for a little while, okay? 
+"
+8 6 Kyle "Come on, Blanket! We gotta go before your dad sees us. 
+"
+8 6 Kyle "You bastard! 
+"
+8 6 Kyle "Come on!
+"
+8 6 Kyle "Hang on, Blanket! 
+"
+8 6 Kyle "All right, let's just say all the bad things said about Mr. Jefferson are lies! Let's say the police department does just go around spending their time framing people for crimes they didn't commit!  Let's say it's all made up, and Mr. Jefferson is just a nice guy who's trying to be a child because he never got to have a childhood. Well that's fine, except for that he HAS children now! And when people have children, they have to grow up!
+"
+8 6 Kyle "All right! Things just might work out!
+"
+8 7 Kyle "You've been on your fucking phone since we started!
+"
+8 7 Kyle "A break from what?! You haven't done anything!
+"
+8 7 Kyle "All you ever do is talk about your balls!
+"
+8 7 Kyle "If you want your share of the money, then you're gonna shovel snow like the rest of us!
+"
+8 7 Kyle "Twenty-five cents? Well that's not even worth it.
+"
+8 7 Kyle "Dude. 
+"
+8 7 Kyle "What?!
+"
+8 7 Kyle "Dude, hold on! This is bullcrap! If they wanna live in our time, then they should learn our language!
+"
+8 7 Kyle "Aw, dude. 
+"
+8 7 Kyle "This is really gay.
+"
+8 8 Kyle "Wait. You guys, I have an awesome idea! We should secretly go around and tell all the students we can, to not check any of the mascots on this election sheet, and instead write in ""Giant Douche.""
+"
+8 8 Kyle "Turd Sandwich isn't better than Giant Douche.
+"
+8 8 Kyle "It was my idea and we're gonna tell everyone to write in ""Giant Douche!"" It's way funnier!
+"
+8 8 Kyle "Kenny, what's funnier? A giant douche or a turd sandwich?
+"
+8 8 Kyle "Stan, do you pick giant douche or turd sandwich?
+"
+8 8 Kyle "That's two against one, 'cause Stan doesn't care. So it's giant douche.
+"
+8 8 Kyle "You hate Butters.
+"
+8 8 Kyle "You misled him, fatass!
+"
+8 8 Kyle "Jimmy, we're gonna have everyone write in a mascot that's really funny, and you have to tell us which one would be funnier.
+"
+8 8 Kyle "A giant douche.
+"
+8 8 Kyle "Giant douche.
+"
+8 8 Kyle "A giant douche.
+"
+8 8 Kyle "All right, it's decided. Let's all write in ""Giant Douche.""
+"
+8 8 Kyle "Cartman? What the hell?!
+"
+8 8 Kyle "You won't get more votes than us, asshole!
+"
+8 8 Kyle "Be sure to vote for Giant Douche.
+"
+8 8 Kyle "Giant Douche is your man!
+"
+8 8 Kyle "Dude, I'm not going to lose to Cartman's stupid turd sandwich. 
+"
+8 8 Kyle "There. Do you really want that asshole to win?
+"
+8 8 Kyle "What? Y-you gotta vote, dude. Haven't you seen the Rock the Vote stuff or, or Puff Daddy's Vote or Die?!
+"
+8 8 Kyle "Kenny, we have got to make Stan understand the importance of voting, because he'll definitely vote for our guy.
+"
+8 8 Kyle "You're doing the right thing, Stan. Don't you feel like you're a part of something now?
+"
+8 8 Kyle "Look, it may not seem important now, but your vote really does count, and we all have to do our part.
+"
+8 8 Kyle "Woah... wait, what are you doing?
+"
+8 8 Kyle "No, no, you... you wrote down Turd Sandwich.
+"
+8 8 Kyle "...Dude, you're supposed to vote for Giant Douche.
+"
+8 8 Kyle "Well yeah, but not if your decision is for Turd Sandwich! What the hell is wrong with you?!
+"
+8 8 Kyle "Well, I just figured you'd vote for my guy! Who's fuckin' friend are you?!  Puffy!
+"
+8 8 Kyle "Stan, don't you think this has gone far enough? Is it really that big a deal?  Yeah, just vote. For Giant Douche.
+"
+8 8 Kyle "Ha! You lose, fatass!
+"
+8 9 Kyle "That is fucking stupid, Cartman!
+"
+8 9 Kyle "Hey! Isn't there where Stark's Pond used to be? Where we used to kayak and fish?
+"
+8 9 Kyle "Why the hell would you want three copies of the same movie?
+"
+8 9 Kyle "You only need one copy, r-tard!
+"
+8 9 Kyle "Okay, fine, I will!  H-wait a minute! I don't even want one copy of Time Cop! 
+"
+8 9 Kyle "Dude, I can't deal with Wall-Mart right now. My parents had me there for three hours last night. 
+"
+8 9 Kyle "Why, Mr. Farkle?
+"
+8 9 Kyle "Cartman, stop it!
+"
+8 9 Kyle "See?! That sucks, dude!
+"
+8 9 Kyle "Yeah, but what about all the people getting laid off from the grocery stores?  And what about all the- 
+"
+8 9 Kyle "What the hell? 
+"
+8 9 Kyle "Butters? What the hell are you doing?
+"
+8 9 Kyle "But you run the Wall-Mart.
+"
+8 9 Kyle "You hate Wall-Mart, too? 
+"
+8 9 Kyle "No! All we have to do is not shop at Wall-Mart anymore! If you want it to go away, all it takes is a little self-control and personal responsibility.
+"
+8 9 Kyle "It wasn't my idea to burn the Wall-Mart down.
+"
+8 9 Kyle "Dude, our town is going to be better without the-  What the?
+"
+8 9 Kyle "How... How did this happen?  Mom, Dad? Why are you shopping here?
+"
+8 9 Kyle "Hey! Hey!  Who the hell told you to put this thing back up?!
+"
+8 9 Kyle "But nobody wants a Wall-Mart here!
+"
+8 9 Kyle "Looks like we're gonna have to go to Arkansas. Come on, guys. We're gonna put a stop to Wall-Mart once and for all!
+"
+8 9 Kyle "No way! You wanna go with us so you can betray us at some point and keep us from destroying the Wall-Mart.
+"
+8 9 Kyle "Yeah, huh! You wanna go with us so that later you go, ""Haha, I was working for Wall-Mart all along"" or something.
+"
+8 9 Kyle "All right, fine. Come on, fatass! 
+"
+8 9 Kyle "I heard that!
+"
+8 9 Kyle "You said we have no idea that you're never let us hurt Wall-Mart!
+"
+8 9 Kyle "He is working for the Wall-Mart to stop us from succeeding!
+"
+8 9 Kyle "God-damnit! 
+"
+8 9 Kyle "It would've been faster if Cartman hadn't slashed the tires!
+"
+8 9 Kyle "Yeah. We've come to complain. We don't want a Wall-Mart in our town.
+"
+8 9 Kyle "We want to talk to who's in charge.
+"
+8 9 Kyle "So how do we stop it?
+"
+8 9 Kyle "The heart of Wall-Mart?
+"
+8 9 Kyle "All right. Come on you guys, we have to get back home. 
+"
+8 9 Kyle "All right, this is it! If Wall-Mart has a heart, we have to find it and destroy it! No matter what the Wall-Mart does to try to stop us, we have to be strong! Let's do it.
+"
+8 9 Kyle "I knew you were!
+"
+8 9 Kyle "Yes, I did! I said from the beginning that you would do this!
+"
+8 9 Kyle "Yes, I did!
+"
+8 9 Kyle "Yes, I did!
+"
+8 9 Kyle "Yes, I did!
+"
+8 9 Kyle "Yes. I did! 
+"
+8 9 Kyle "-slashed the bus tires in Arkansas! I said so! I told you the minute that I-  -and I told you that-
+"
+8 9 Kyle "We don't have time for this! Kenny, keep him away from us! 
+"
+8 9 Kyle "We've gotta find the television department. 
+"
+8 9 Kyle "I think I see the television department in the back!
+"
+8 9 Kyle "Who are you?
+"
+8 9 Kyle "Where's the heart?
+"
+8 9 Kyle "The question is, ""Where is the heart?""
+"
+8 9 Kyle "We'd better get out of here. 
+"
+8 9 Kyle "The Wall-Mart is imploding! Everybody out now! 
+"
+8 9 Kyle "All Wall-Marts start a self-destruction sequence if you break a mirror in the back.
+"
+8 9 Kyle "Duh.
+"
+8 10 Kyle "Okay, hang on a second I-
+"
+8 10 Kyle "All right, all right!  Dude, what is the matter with you?
+"
+8 10 Kyle "Trent Boyett?! The kid from preschool?!
+"
+8 10 Kyle "Oh, no! No!
+"
+8 10 Kyle "Trent Boyett is being released from Juvenile Hall.
+"
+8 10 Kyle "Yeah.
+"
+8 10 Kyle "Look, maybe he's forgiven us. I mean, we were only in preschool
+"
+8 10 Kyle "Totally, dude, let's play Fireman.
+"
+8 10 Kyle "Shut up, fatass!
+"
+8 10 Kyle "Trent Boyett will do it. He's the toughest, baddest kid in preschool! 
+"
+8 10 Kyle "Do you know how to start a fire?
+"
+8 10 Kyle "We're firemen!
+"
+8 10 Kyle "Code 7! Bring in the firemen!
+"
+8 10 Kyle "We saved the school!
+"
+8 10 Kyle "My mom is gonna break my legs!
+"
+8 10 Kyle "Not us. We're good kids.
+"
+8 10 Kyle "Dude, when he gets out of Juvenile Hall, he's gonna wanna kill us!
+"
+8 10 Kyle "We can't tell our parents, dude! We lied to everybody! Nobody knows we're responsible for Ms. Claridge's accident!
+"
+8 10 Kyle "Look, that was a long time ago. Maybe Trent Boyett has forgotten all about it.
+"
+8 10 Kyle "That's nothing compared to what my mom will do to me if she finds out I've been lying for five years!
+"
+8 10 Kyle "Dude, we shouldn't be here!
+"
+8 10 Kyle "We need you to protect us... from a bully.
+"
+8 10 Kyle "Well...  Well, what do you want?
+"
+8 10 Kyle "Wait! We'll do it.
+"
+8 10 Kyle "Why don't you just sneak in your mom's closet and get a picture when she's changing clothes?
+"
+8 10 Kyle "What else has big round squishy globes? 
+"
+8 10 Kyle "No, the nipples are more in the middle, see? 
+"
+8 10 Kyle "Oh wait! We forgot the necklace.
+"
+8 10 Kyle "God, I hope this works.
+"
+8 10 Kyle "Okay, so now you'll help us take care of Trent Boyett?
+"
+8 10 Kyle "Naw.
+"
+8 10 Kyle "Man, I would have loved to seen to seen the look on Trent Boyett's face when all the sixth graders showed up!
+"
+8 10 Kyle "Oh, Jesus. You told him that?! 
+"
+8 10 Kyle "We've gotta move away. We've gotta get as far away from this town as possible!
+"
+8 10 Kyle "From who? We can't ask adults for help and there's nobody tougher than sixth graders.
+"
+8 10 Kyle "So you're gonna help us?
+"
+8 10 Kyle "The thing is, Ms. Claridge, we did a lot of stupid things when we were kids.
+"
+8 10 Kyle "Our lives have not been enjoyable, Trent! I promise you! 
+"
+8 10 Kyle "Dude, when he gets out he's gonna be really mad!
+"
+8 11 Kyle "Another devastating loss for the Cows last night, Eric. They were ahead in the game until Kelly Anderson started crying because she missed her daddy, who's on a business trip in Thailand. Uh, Kelly was so upset she couldn't play, and the Cows had to forfeit.
+"
+8 11 Kyle "What?!
+"
+8 11 Kyle "Geez, all that from a stupid video show.
+"
+8 11 Kyle "Gah, I just don't get it.
+"
+8 11 Kyle "Yeah. Maybe if we can get higher ratings by the end of the week, they'll let us stay on the air!
+"
+8 11 Kyle "How about we revamp the name? Super School News sounds dry.
+"
+8 11 Kyle "Maybe the problem is we don't have very good stories to report on.
+"
+8 11 Kyle "Maybe we need to make students think they have to watch our news show or they'll die.
+"
+8 11 Kyle "Eric, sources are speculating that third-grade student, Pete Thelman , pees sitting down like a girl. We've also got confirmation that Sally Turner  stuffs her bra. And Clyde Donovan has only one testicle.
+"
+8 11 Kyle "We're making the news more appealing to students.
+"
+8 11 Kyle "We beat Close-up Animals!
+"
+8 11 Kyle "Yeah, Jimmy's right. I know we can come up with way better ideas than Craig.
+"
+8 11 Kyle "What if we do a show where we-  Uh, no.
+"
+8 11 Kyle "Thee... uhhh. What if the-?
+"
+8 11 Kyle "Wait! You know what we should do? We should all take a bunch of cough medicine!
+"
+8 11 Kyle "That's what the sixth graders do behind the school at recess. They take way too much cough medicine because they say it makes them see things in their heads.
+"
+8 11 Kyle "How do we know which one to use?
+"
+8 11 Kyle "It's not?
+"
+8 11 Kyle "Oh, okay.
+"
+8 11 Kyle "All right, now everybody take a tablet and a pencil.  and when all the ideas start coming, just write 'em down. We might not remember everything otherwise.
+"
+8 11 Kyle "Stan?  Dude, Stan, you all right?
+"
+8 11 Kyle "Me too. 
+"
+8 11 Kyle "I could watch this for days. 
+"
+8 11 Kyle "Ah!
+"
+8 11 Kyle "Butters, get away from me!
+"
+8 11 Kyle "I wrote down... all the lyrics to the Happy Days theme song.
+"
+8 11 Kyle "Jesus, you may be right.
+"
+8 11 Kyle "So where are students getting all this cough medicine??  This surveillance footage shows a group of troubled kids getting all the smack they want from a pharmacist!  Sexy Action School News reported the pharmacist to the South Park police, and he was immediately arrested! 
+"
+8 11 Kyle "Twenty-two people?! All right!
+"
+8 11 Kyle "Dude, bail?
+"
+8 13 Kyle "What's going on?
+"
+8 13 Kyle "Do it! Do it!
+"
+8 13 Kyle "Don't listen to 'em, Cartman! I'm sure it'll work. Go for it. Yaaay, Cartman! Fly, fly, fly!
+"
+8 13 Kyle "Awww, go on and do it already!
+"
+8 13 Kyle "Cartman, what did you do?!
+"
+8 13 Kyle "Nice old Mr. Johansen runs a candy shop! He wasn't a killer and you know it!
+"
+8 13 Kyle "Because you're a fucking fatass, that's why!
+"
+8 13 Kyle "You don't have any powers!
+"
+8 13 Kyle "He can't do crap!
+"
+8 13 Kyle "Ha! You see?!
+"
+8 13 Kyle "What?!
+"
+8 13 Kyle "This is fuckin' ridiculous!
+"
+8 13 Kyle "What the hell is wrong with these people?!
+"
+8 13 Kyle "Hey! What about this guy?!
+"
+8 13 Kyle "Hey, uh, does anyone know who that guy is?!
+"
+8 13 Kyle "Excuse me, sir? I think I know who did this. We saw this guy at the last crime scene, and, and you know how serial killers sometimes return to the scene of the crime? Well, I followed this guy to his house, and when he left again, I collected some fingerprints and did a blood-sample analysis.  I'm pretty sure he's your man.
+"
+8 13 Kyle "No.
+"
+8 13 Kyle "Why won't anybody listen to me?!
+"
+8 13 Kyle "I am taking it personally because Cartman is a retard! Just because he hit his head and went into a coma doesn't mean he's a- Wait, that's it. If I want people to listen to me, I just have to be as stupid as Cartman.
+"
+8 13 Kyle "Be sure to take me to the same hospital!
+"
+8 13 Kyle "All right, here we go.  Since the days of Copernicus, man has dreamed of flight. On this historic day we remem- aw, screw it! 
+"
+8 13 Kyle "I see... a man... with a baseball cap.  He's killing now... Oh! I'm seeing it all flash before my eyes! The guy's name is Michael Deets, and he lives at 621 Castillo Street. He's usually there between seven and eleven p.m.
+"
+8 13 Kyle "No, don't you see? Cartman never had psychic visions. And neither do these people. The plain simple truth is that nobody is psychic. There's a logical explanation for every psychic story you've ever heard.
+"
+8 13 Kyle "Just stop it!  Stoop iiit!!  There's a logical explanation for that.
+"
+8 14 Kyle "What the hell?
+"
+8 14 Kyle "My... family doesn't celebrate Christmas.
+"
+8 14 Kyle "Well, because, we don't really... believe in Jesus.
+"
+8 14 Kyle "No. I'm Jewish.
+"
+8 14 Kyle "Huh?
+"
+8 14 Kyle "Stan! Stan, what the hell is going on?!
+"
+8 14 Kyle "No.  No, I want to have the Antichrist inside me!
+"
+8 14 Kyle "With his power, I can finally make the earth a better place for the Jews!
+"
+8 14 Kyle "Yes, yes! Now the Jews shall take control of Christmas once and for all! HAHA! HAAA!!
+"
+8 14 Kyle "Oh, stop it, Cartman! 
+"
+8 14 Kyle "Just stop it! That's enough! You aren't reading another sentence of your stupid story!
+"
+8 14 Kyle "This whole time your stupid story was just a way to rip on me for being Jewish at Christmas again!
+"
+8 14 Kyle "Dude, why do you care?!
+"
+8 14 Kyle "Oh come on! It's obvious what happens! I get killed by Santa Claus so that Christmas is saved!
+"
+8 14 Kyle "All right, fine!
+"
+8 14 Kyle "HAHAHAA! Now I shall rule the --  Aww. Uuugh. God it burns! AAAH! My soul is on fire! Whoa! Oh, I don't like this!  I didn't know it would feel so... dark and evil!
+"
+8 14 Kyle "Oh God, what have I done?!  I'm sorry. Please, I don't wanna be the vessel for the Antichrist.
+"
+8 14 Kyle "Thanks, everybody. I'm sorry I got a little crazy there.
+"
+8 14 Kyle "Goddammit, Cartman!
+"

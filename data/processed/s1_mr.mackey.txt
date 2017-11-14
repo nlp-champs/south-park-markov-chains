@@ -1,0 +1,44 @@
+1 9 "Mr. Mackey" "Now, uh, Kyle, as your school counselor, uh I want to try and help you confront your problems, 'kay?
+"
+1 9 "Mr. Mackey" "Well it-it's my understanding that you umhm, yu-you have an acute case of fecophilia.
+"
+1 9 "Mr. Mackey" "Well-uh, a fecophiliac is somebody who's obsessed with mookie-stinks, Kyle.
+"
+1 9 "Mr. Mackey" "Now I also understand that you're Jewish. Is that right, Kyle?
+"
+1 9 "Mr. Mackey" "So this must be a pretty hard time of year for you, being Christmas and all.  Do the other kids make fun of ya?
+"
+1 9 "Mr. Mackey" "And that must make you mad.
+"
+1 9 "Mr. Mackey" "Mad enough to kill, Kyle??? 
+"
+1 9 "Mr. Mackey" "Oh that's good.  You see, Kyle, sometimes we feel like an outsider, we-we create friends, Okay-in our minds, Okay?
+"
+1 9 "Mr. Mackey" "Well of course he does; in your screwed-up little head he's the only friend you have. 
+"
+1 9 "Mr. Mackey" "Right now you're nuttier than Chinese chicken salad, mkay-I mean, you're one screwed-up little kid do you understand?
+"
+1 9 "Mr. Mackey" "To try and stay positive stay away from drug and alcohol, and in the meantime I'm gonna put you on a heavy regimen of Prozac  Uuuuuuugghh-oh my God, you sick little monkey! 
+"
+1 9 "Mr. Mackey" "No!  Get away from me!
+"
+1 9 "Mr. Mackey" "No!  Go away!  Stan, you need to do something about your friend, mkay.  Get him out of here before he hurts anybody!  Mkay?
+"
+1 10 "Mr. Mackey" "Now, uh, as your counselor, I want you to feel like you can tell me anything. mkay? Uh, being the new kid can be tough, but I'm your friend, mkay?
+"
+1 10 "Mr. Mackey" "Well-uh. Why do you suppose that is?
+"
+1 10 "Mr. Mackey" "Uhuh. That's a good start, why else?
+"
+1 10 "Mr. Mackey" "Well yeah, maybe that's it. Wha... wha what you need to do, uh Damien, is - is to be overly nice. Nde no no matter how mean the other kids are to you, just don't retaliate. Yeeu be passive, mkay? That's what I taught the little British boy, Pip, and, and just look at how much the other children like him now.
+"
+1 13 "Mr. Mackey" "Oh, well, there's a news flash!
+"
+1 13 "Mr. Mackey" "Oooh okay... Eric is obviously suffering from some kind of emotional distress, mkay?
+"
+1 13 "Mr. Mackey" "Have you boys noticed anything recently that troubled Eric?
+"
+1 13 "Mr. Mackey" "Well-obviously something is bothering him.  Oh, of course!  My video camera! Boys, if you could videotape Eric's behavior, then I can study him psychologically and find out what's wrong, mkay?
+"
+1 13 "Mr. Mackey" "Oh, hell yes!
+"

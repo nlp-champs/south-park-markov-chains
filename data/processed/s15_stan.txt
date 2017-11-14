@@ -994,3 +994,501 @@
 "
 15 14 Stan "...What the fuck?!
 "
+15 1 Stan "Let me see your iPad, Cartman.
+"
+15 1 Stan "What?
+"
+15 1 Stan "Why? What did the terms and conditions for the last update say?
+"
+15 1 Stan "I do.
+"
+15 1 Stan "We're trying to find out exactly what Kyle agreed to.
+"
+15 1 Stan "Oh boy.
+"
+15 1 Stan "For what?
+"
+15 1 Stan "Dude, when the police wanna know where somebody is, they ask Apple! The only way we can fix all this is by going to the highest authority on the planet! Yo guys, we're gonna have to ask help from... the Geniuses.
+"
+15 1 Stan "Okay, the Geniuses will see us now.  Now remember: when you speak to the Geniuses keep your questions short and to the point. The Geniuses do not like those who waste their time. 
+"
+15 1 Stan "Genius Leslie, we have a problem and we seek your wisdom.
+"
+15 1 Stan "69ingchipmunks@me.com 
+"
+15 1 Stan "Yeah, but it's all a mistake. He actually didn't read the agreement.
+"
+15 1 Stan "No, we don't want a replacement friend, we want our friend.
+"
+15 1 Stan "I think Verizon.
+"
+15 1 Stan "Come on, it's not that big a deal. Will you just stop resisting and join the rest of us in the future?
+"
+15 2 Stan "Yeah, look uh, I don't think I can make it, Jimmy.
+"
+15 2 Stan "Oh man, really?
+"
+15 2 Stan "Can we go now?
+"
+15 2 Stan "We told you doing a comedy award was a bad idea! Now all of Germany is pissed off at us!
+"
+15 2 Stan "What the hell are they gonna do to us?
+"
+15 2 Stan "Nono, you guys gotta see Funnybot in Hangover 3. I'm telling you, it's his best work.
+"
+15 2 Stan "What's the matter Jimmy? You still seem bummed.
+"
+15 2 Stan "All I can say is I'm glad the Germans are back in Germany and nobody's pissed off at us anymore. 
+"
+15 2 Stan "Naw dude, don't make us go back in the-
+"
+15 2 Stan "'Scuse me, we wanna talk to Funnybot.
+"
+15 2 Stan "What the hell are you doing?!
+"
+15 2 Stan "Whoa whoa whoa wait, w-what do you mean you're going to destroy all life on earth?
+"
+15 2 Stan "We've got to get it away from that control panel. Does anybody have any ideas?
+"
+15 2 Stan "A what?
+"
+15 2 Stan "That's it! Hurry! Gooo! 
+"
+15 2 Stan "Okay we got it! We got it! 
+"
+15 2 Stan "Yeah, I'm sure glad that's over with.
+"
+15 3 Stan "My sister is a den leader in Girl Scouts.
+"
+15 4 Stan "No, dude, that's not Skeletor, that's Terminator's wife.
+"
+15 4 Stan "Dude we're, we're just trying to eat.
+"
+15 4 Stan "Yeah.
+"
+15 4 Stan "Dude, why would the school put up the sizes of our wieners?
+"
+15 4 Stan "Wait, it says mine's only 2.1 inches. That doesn't seem right.
+"
+15 4 Stan "You made everyone else get measured with witnesses; you have to too.
+"
+15 4 Stan "You just did that to everybody in class!
+"
+15 4 Stan "Yeah. That's good. A little higher on Craig's side.  Yeup. 
+"
+15 5 Stan "I know! This is awesome!
+"
+15 5 Stan "What?
+"
+15 5 Stan "Aw dude, that's so sad. 
+"
+15 5 Stan "Awww dude, awwww.
+"
+15 5 Stan "Go long, Token! Go go! 
+"
+15 5 Stan "Wow, really? 
+"
+15 5 Stan "Doing what?
+"
+15 5 Stan "...Dude.
+"
+15 5 Stan "...You sound like Cartmam.
+"
+15 5 Stan "Yeah, I'm sure that's what Cartman would say too.
+"
+15 5 Stan "McDonald's French fries in a hot tub of... KFC gravy?
+"
+15 5 Stan "You guys are ten years old and you just figured out that Slash isn't real? Oh my God. 
+"
+15 5 Stan "My parents told me Slash wasn't real when I was five. Jehesus Christ. 
+"
+15 5 Stan "It's what?
+"
+15 5 Stan "Kyle, Kyle! Look. 
+"
+15 5 Stan "Maybe. Or maybe we haven't been told such a big fib after all.
+"
+15 7 Stan "Oh cool, Legos. Thanks, Butters.
+"
+15 7 Stan "Oh thanks, dude.
+"
+15 7 Stan "Oh cool, is this the new Gersploosh album?
+"
+15 7 Stan "Mom, I'm 10 years old now.
+"
+15 7 Stan "We don't know what you're talking about! It doesn't sound that way to us!
+"
+15 7 Stan "That sounds like shit!
+"
+15 7 Stan "I know, Mom. I love you too.
+"
+15 7 Stan "It's okay, Mom. I understand.
+"
+15 7 Stan "'Night.  Haha.  Ugh.  What the hell? 
+"
+15 7 Stan "Hey dudes.
+"
+15 7 Stan "Yeah, yeah I've listened to it. Um, Kyle, can I talk to you alone for a second?
+"
+15 7 Stan "Kyle, I have to admit something to you. You know how I told you over the phone I like the new Gersploosh album? I lied. I don't like it. I don't like it at all, Kyle.
+"
+15 7 Stan "No, you don't understand dude. Something's happened. Tween Wave doesn't sound the same to me.
+"
+15 7 Stan "It... kind of sounds like shit.
+"
+15 7 Stan "No. I mean it sounds like somebody is shitting in my ears. Please, just listen really close.  You don't hear shit?
+"
+15 7 Stan "That doesn't sound like shit to you?
+"
+15 7 Stan "And so then I put on exactly the same album that I really like a year ago, and it sounded like shit to me.
+"
+15 7 Stan "Yeah. I used to love these Pop Rock things, and I tried them the other day and I thought they tasted like shit.
+"
+15 7 Stan "I just turned 10.
+"
+15 7 Stan "So this is normal?
+"
+15 7 Stan "Sounds like shit.
+"
+15 7 Stan "Uh that sounds like shit too.
+"
+15 7 Stan "Yeah dude, it's just shit.
+"
+15 7 Stan "They both look the same. 
+"
+15 7 Stan "No.
+"
+15 7 Stan "They both look like turds about to be reheated to me.
+"
+15 7 Stan "Oh no.
+"
+15 7 Stan "Hey guys.
+"
+15 7 Stan "He said I have cynicism?
+"
+15 7 Stan "Something you can get when you get older but, it's stupid. I'm not cynical. All the doctor wants is a paycheck. I went to him for help and he just stood there spouting a bunch of shit.
+"
+15 7 Stan "Agh, that shitty game? Who plays video games to listen to a bunch of characters talk and press the X button?
+"
+15 7 Stan "How can people say this game is cool? It doesn't even matter what choices you make.
+"
+15 7 Stan "That's such a shitty device to keep people playing.
+"
+15 7 Stan "Aw, dude, this looks like shit.
+"
+15 7 Stan "It just looks like shit to me, a bunch of processed, gooey shit.
+"
+15 7 Stan "Ugh, bunch of people trying to sell us a bunch of shit.
+"
+15 7 Stan "What, oh I don't care, I'm cool with whatever.
+"
+15 7 Stan "Yeah it sucks. All my friends are sick with the flu.
+"
+15 7 Stan "Do you have anything on the menu that doesn't taste like shit?
+"
+15 7 Stan "Why? There's nothing but shit on TV, video games are all shit, and the world's a big turd. The only thing that doesn't seem like total shit to me are my friends, and they're all sick. Just, get me a cheeseburger and tell the chef to go easy on the shit. 
+"
+15 7 Stan "I thought you guys were sick! 
+"
+15 7 Stan "Dude, you totally lied to me!
+"
+15 7 Stan "Where were you guys going?!
+"
+15 7 Stan "Why didn't you tell me? I wanna go to the movies.
+"
+15 7 Stan "You guys... don't wanna be around me?
+"
+15 7 Stan "Please, Kyle, I can change my attitude. I promise. Let me go to the movies with you.
+"
+15 7 Stan "I won't say a word.
+"
+15 7 Stan "Oh shit.
+"
+15 7 Stan "Jesus, how long before they start this Goddamned thing?! 
+"
+15 7 Stan "Awww God! 
+"
+15 7 Stan "Sorry if I see things for what they are! Ok- okay, okay, I'm sorry.
+"
+15 7 Stan "How can you say that looks good?!
+"
+15 7 Stan "Ugh.
+"
+15 7 Stan "But it's just crap.
+"
+15 7 Stan "Oh come on, people!
+"
+15 7 Stan "Oh dude dude wait, I'm sorry.
+"
+15 7 Stan "Me?! Did you see that shit?!
+"
+15 7 Stan "Hang on guys!
+"
+15 7 Stan "Kyle?
+"
+15 7 Stan "I haven't changed, the world has. Don't you see it?
+"
+15 8 Stan "God, shut up! Everyone just shut the fuck up! 
+"
+15 8 Stan "I just want everything to go back to the way it was.
+"
+15 8 Stan "How?... When all the things that made you laugh, just make you sick. How do you go on when nothing makes you happy? 
+"
+15 8 Stan "Wait, it's not a real illness?
+"
+15 8 Stan "Uh, nooo nonono, we're not doing this!
+"
+15 8 Stan "Yeah.
+"
+15 8 Stan "Who are you people?
+"
+15 8 Stan "Huh?
+"
+15 8 Stan "Aliens?
+"
+15 8 Stan "Because of aliens? 
+"
+15 8 Stan "Yeah I'm ready!
+"
+15 8 Stan "Ahhhh!  Oh coool!
+"
+15 8 Stan "Adam Sandler's funny.
+"
+15 8 Stan "Kyle! 
+"
+15 8 Stan "Dude, I'm sorry. I've been a shitty friend. I miss my buddy. You were right: Adam Sandler is fuckin' hysterical!
+"
+15 8 Stan "Yeah dude, I totally get it now. I can see how lame I was saying everything was, was shit.
+"
+15 8 Stan "But Kyle, it's all shit! For real! It's all shit 'cause the aliens with AI and you and me are gonna fuck it all up! Come on! 
+"
+15 8 Stan "You're not listening to me, Kyle. Dude, we have to go do this one thing, and then everything can go back to normal!
+"
+15 8 Stan "...Dude, Cartman Burger? Seriously? How shitty- is that fuckin' concept? 
+"
+15 8 Stan "Come on, Kyle. This is about you and me, remember?!
+"
+15 8 Stan "Fuck you Kyle, you're a piece of shit!  ...Kyle, I love you.  You're a piece of shit though. Fuck you!  ...I love you. 
+"
+15 8 Stan "I feel like total shit.
+"
+15 8 Stan "The rock creatures?
+"
+15 8 Stan "Dude, I canh- I... I can't do any...
+"
+15 8 Stan "Ugh God.
+"
+15 8 Stan "Aughah. 
+"
+15 8 Stan "...Enchirito?
+"
+15 8 Stan "What? You guys are aliens?
+"
+15 8 Stan "Dude, I don't know!
+"
+15 8 Stan "I'm not friends with him.
+"
+15 8 Stan "No, no, we don't hang out anymore.
+"
+15 8 Stan "Dude, I didn't walk away! I turned 10 and everything he wanted to do seemed shitty to me, so I-!
+"
+15 8 Stan "I don't know!
+"
+15 8 Stan "Kyle, you've gotta tell me the secret to Cartman Burger.
+"
+15 8 Stan "How do you guys make them so yummy?
+"
+15 8 Stan "Dude, just tell me the secret to Cartman Burger
+"
+15 8 Stan "No, because there's aliens with a sniper-chicken on me.
+"
+15 8 Stan "Dude, I'm sorry that I've been bumming you out, but it's not my fault!
+"
+15 8 Stan "Dude, I didn't realize what I was saying.
+"
+15 8 Stan "Just stop it! You people are so full of shit!
+"
+15 8 Stan "No, I'm done with that! 
+"
+15 8 Stan "I don't want everything to go back to the way it was!  I, I don't.  You were right, Kyle. Sometimes, the only way to go forward, is to take a big left turn. I've been resisting it, but I'm ready now. I want you to stay with Cartman Burger, dude. It's okay. You're gonna do this and I'm gonna do my thing and ...my mom and dad aren't getting back together. But you know what? It's okay. In fact, it's better. Change is gonna bring new things to all of us. Where will Cartman Burger go from here? That'll be cool to see. And it opens me up to a whole new adventure, exploring... new relationships with all new people in town.  Maybe this kid will become my new best friend.  Or maybe this kid will.
+"
+15 8 Stan "Maybe it won't be like before, but... at least it'll all be new. And that's what's gonna make it so that I can keep going. For the first time in a long time, I'm really excited. 
+"
+15 8 Stan "What?
+"
+15 8 Stan "No, dad, no. No, please!
+"
+15 8 Stan "No, Mom, sometimes you've got- a left turn.
+"
+15 8 Stan "...K, coming. 
+"
+15 9 Stan "Uh, Butters, I think we're gonna go back to Kyle being team leader.
+"
+15 9 Stan "You're a great Meheecan, Butters, but maybe just not a leader of Meheeco.
+"
+15 9 Stan "Base! 
+"
+15 9 Stan "So, so then, so then the pope says, ""Maybe you should go check the toilet."" 
+"
+15 9 Stan "Cartman, stop pouting that you lost the game.
+"
+15 9 Stan "What are you talking about?
+"
+15 9 Stan "Yeah, I think he was. Wait.
+"
+15 9 Stan "Butters!
+"
+15 9 Stan "Ahhh, I think we'll stick with Kyle, dude. You made it across the border, but it did take you... two and a half weeks.
+"
+15 10 Stan "What?
+"
+15 10 Stan "What about him?
+"
+15 10 Stan "Turn it up. 
+"
+15 10 Stan "No way.
+"
+15 10 Stan "The-hay've got a video of Pete Melman's mom showing up with fresh underwear on Eavesdropper!
+"
+15 10 Stan "Come on dude, it's pretty funny.
+"
+15 10 Stan "Yeah dude, that's pretty funny.
+"
+15 10 Stan "Dude, check it out! Eavesdropper found an e-mail from Jenny Simon's boyfriend calling her ""soft-serve Simon.""
+"
+15 10 Stan "Come on, dude, it's pretty funny!
+"
+15 10 Stan "I wouldn't care.
+"
+15 10 Stan "What?
+"
+15 10 Stan "Kenny! Kenny, what the fuck?!
+"
+15 10 Stan "How did Eavesdropper get a hold of my e-mail to you?!
+"
+15 10 Stan "Do you just leave your e-mails open for everyone to read?!
+"
+15 10 Stan "That was a private e-mail from me to you!  Hey Wendy.
+"
+15 10 Stan "No, I was telling Kenny he would like it.
+"
+15 10 Stan "Wendy, it was just a quick e-mail to Kenny. New stories pop up on Eavesdropper every hour. People are gonna forget all about this.
+"
+15 10 Stan "This is an issue of trust and privacy! We have to all work together to put an end to Eavesdropper once and for all!  Yes, Kyle.
+"
+15 10 Stan "Ugh, What's funny about having our private lives hacked into?!
+"
+15 10 Stan "Shut up Butters! What we have to find out is who in the school is running Eavesdropper! I've done an extensive profile, and I've narrowed it down to somebody in this very room!  Now whoever you are, you're a gossiping little bitch!  And we're not gonna-!
+"
+15 10 Stan "What? How do you know?
+"
+15 10 Stan "We only have music class on Thursday.
+"
+15 10 Stan "Oh I'm ready!
+"
+15 10 Stan "Don't let him get away!
+"
+15 10 Stan "What the hell? A stupid rat is in charge of Eavesdropper?
+"
+15 10 Stan "Stop that rat! 
+"
+15 10 Stan "Knock it off! 
+"
+15 10 Stan "You see? There, look! It says Eavesdropper's biggest story every is coming out this afternoon.
+"
+15 10 Stan "Lemmiwinks? Our old class gerbil?
+"
+15 10 Stan "Do you know why a gerbil is running around hacking our phone calls and putting our secrets up on the Internet?
+"
+15 10 Stan "Hi. Does a Vernon Trumski live here?
+"
+15 10 Stan "Come on, guys! 
+"
+15 10 Stan "Quick, we need something to carry him in!
+"
+15 10 Stan "We just need to borrow him, kid. 
+"
+15 10 Stan "Look dude, we don't have much time. Wikileaks is about to post his biggest scoop ever on Eavesdropper! Lemmiwinks can stop him!
+"
+15 10 Stan "Whoa whoa wait, wait! 
+"
+15 10 Stan "Can't this thing go any faster?
+"
+15 10 Stan "Craig, are we still clear?
+"
+15 10 Stan "Please, can this wait? A big story is about to about to come out on Eavesdropper and we have the only way to stop it!
+"
+15 10 Stan "Stop right there, you little rat!
+"
+15 10 Stan "Phew. I'm sure glad that's over with.
+"
+15 11 Stan "Come on, Larry!  Dude, why does this happen every time?
+"
+15 11 Stan "Come on, Feegan, either jump or get off! 
+"
+15 11 Stan "Hey wait, Dad, are you guys really going away? What about us?
+"
+15 11 Stan "No. Dad. Please don't do this!
+"
+15 11 Stan "Dad? Dad, you have to come back. This isn't working out.  Please answer the phone Dad.  Dad?
+"
+15 12 Stan "God this sucks!
+"
+15 12 Stan "Alright Cartman, stop ripping on other people to make yourself less embarrassed about the fact that we're all here because of you!
+"
+15 12 Stan "Because of you! It's your fault that we have to do this! We have to do this because you're unhealthy!
+"
+15 12 Stan "That's what we mean by ""grow up"" dude! Stop being a baby!
+"
+15 12 Stan "Dude, Butters, how many times do we have to go over this? That's not Skeletor, that's a woman named Maria Shriver.
+"
+15 12 Stan "Yeah.
+"
+15 12 Stan "Well, just... you and your friends were the ones saying Cartman needs to suffer?
+"
+15 12 Stan "Stop it, Cartman! It's true! We came to keep an eye out. Stephen Tamil said he had something big planned.
+"
+15 12 Stan "Hey! Cartman, what the hell are you doing?!
+"
+15 12 Stan "Dude, what the hell?
+"
+15 13 Stan "We all have to do this report together, dude.
+"
+15 13 Stan "Dude, it is called History Channel.
+"
+15 13 Stan "...What?
+"
+15 13 Stan "'bout what?
+"
+15 13 Stan "That... stuffing was never heard of before 1621, so it might be alien technology?
+"
+15 13 Stan "Wow, check it out dude, we're on TV. 
+"
+15 13 Stan "I don't know, dude. Have you seen that stuff about the pyramids and the link to Mars?
+"
+15 13 Stan "I'm just saying there's lots of symbols and signs out there that show aliens and history are pretty linked.
+"
+15 13 Stan "Dude!
+"
+15 13 Stan "Yeah, go on dude!
+"
+15 13 Stan "I didn't think so.
+"
+15 13 Stan "Who's this?
+"
+15 13 Stan "Aw, I think he's just kind of pissed off he was wrong about the whole ancient alien thing.
+"
+15 13 Stan "It's cool dude, we understand.
+"
+15 13 Stan "Wow, there's a lot about Thanksgiving I never knew before.
+"
+15 14 Stan "Did you hear anything more about what happened?
+"
+15 14 Stan "We can't let Kenny be sent away forever. There's gotta be something we can do.
+"
+15 14 Stan "Really?
+"
+15 14 Stan "Well it sure is good to have you back, Kenny.
+"
+15 14 Stan "...What the fuck?!
+"

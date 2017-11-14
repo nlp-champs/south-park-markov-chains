@@ -1,0 +1,72 @@
+10 1 "Mr. Mackey" "So long!
+"
+10 1 "Mr. Mackey" "He's right. 
+"
+10 2 "Mr. Mackey" "Well from now on, I'm only going to associate with other hybrid-car drivers. Everyone else is just ignorant, m'kay?
+"
+10 2 "Mr. Mackey" "It's like you had a guardian angel, m'kay? 
+"
+10 2 "Mr. Mackey" "But hybrid cars are the leading cause of smug, m'kay?
+"
+10 2 "Mr. Mackey" "It's simply asking too much.
+"
+10 3 "Mr. Mackey" "Wu-we've got the TV working! 
+"
+10 3 "Mr. Mackey" "Attention students: Proceed to the school gymnasium immediately for an emergency announcement!
+"
+10 3 "Mr. Mackey" "Retaliation... Oh my God. M'kay?
+"
+10 3 "Mr. Mackey" "Yeah, me too.
+"
+10 6 "Mr. Mackey" "M'kay, students, we have a very special guest speaker today. Who can tell me the name of our country's last vice-president?
+"
+10 6 "Mr. Mackey" "No, the last one.
+"
+10 6 "Mr. Mackey" "No, Clinton's vice-president.  He is here today to talk to you students about some very serious issues. Please welcome Al Gore. 
+"
+10 6 "Mr. Mackey" "Uhhh, ohhhkay, thank you Mr. Gore.
+"
+10 7 "Mr. Mackey" "Mrs. Cartman, we have had it with your son's behavior, mkay?! Little Billy Turner is now being treated at the hospital!
+"
+10 7 "Mr. Mackey" "You know that's not the point!
+"
+10 7 "Mr. Mackey" "We have tried at this school to make Eric understand that there are boundaries, mkay?! But frankly, we believe his behavioral problems start at home!
+"
+10 7 "Mr. Mackey" "Mrs. Cartman, I know this is extremely difficult but, there is help out there for people like you. Have you ever heard of a show called Nanny 911?
+"
+10 9 "Mr. Mackey" "All the girls go out in the hall please? I need to speak with the boys of this class, m'kay?  Boys, we have a very serious problem! I've just come from the men's restroom, and somebody went number 2 in the urinal! 
+"
+10 9 "Mr. Mackey" "And some jokester took a poop in it! Okay? Now I want whoever did it to come forward right now, and it will be less painful for everybody! M'kay?!
+"
+10 9 "Mr. Mackey" "Excuse me!! Could we get back to the issue, please?! You all don't seem to understand how serious this is!! Now who made dookie in the urinal?!  Oh, you think it's funny, huh?! M'kay! M'kay! You're gonna think it's real funny when the police get here!
+"
+10 9 "Mr. Mackey" "But there must have been some motive. Nobody would just dook in the urinal for no reason.
+"
+10 9 "Mr. Mackey" "Look, what-ever you believe, the fact of the matter is somebody... dropped a dookie in the school urinal, and there's still no explanation for that!
+"
+10 9 "Mr. Mackey" "More important?! You aren't the one, who had to walk into the boys' bathroom, okay, after having tuh, to wake up early, you know, there's no, no coffee in the teachers' lounge, and then you, you walk into the bathroom just to find a big dook laying there in the urinal! Like it's laughin' at you!
+"
+10 9 "Mr. Mackey" "No, I'm not saying they're related!
+"
+10 9 "Mr. Mackey" "Oh no, not the Goddamned-
+"
+10 9 "Mr. Mackey" "Now you might all think I've given up finding out who crapped in the urinal. M'kay? And maybe, maybe you think it's a victimless crime. This, is Mr. Venezuela , the school janitor. Okay?  He's the person... who has to clean up... when some trickster... drops a dook in the wrong toilet! Mr. Venezuela makes six bucks an hour at best! Okay? He's got three kids at home, he's got a car that barely works, he's gotta clean up puke with sawdust, m'kay, then he walks into the boys' room and sees a big meaty chud starin' him in the face!  So when you crapped in that urinal, m'kay, you might as well have just dropped your pants, and laid a turd right on top of Mr. Venezuela's head!  Oh, you think it's funny, huh?!
+"
+10 9 "Mr. Mackey" "Huh?
+"
+10 9 "Mr. Mackey" "Why, Clyde? Why did you do it?
+"
+10 9 "Mr. Mackey" "You got a whole school here, Clyde! M'kay? You got over three hundred people that need to use the boys' room.  Then you decide you're gonna be a comedian, m'kay, and pinch one off in the urinal, and leave it layin' there for everyone to have to look at!  Okay okay, you think it's funny, but nobody else does! They gotta walk in that bathroom and see your rancid dook propped up against the back of the urinal like a brown rag doll! 
+"
+10 9 "Mr. Mackey" "M'kay, that's good!  Let's see what your mom and dad have to say about your little poopscapade!  Come on in, please. I'm just trying to get your son to explain why... he would drop a dook in the urinal!
+"
+10 9 "Mr. Mackey" "Attention students. Apparently, Clyde could not have been the one who crapped in the urinal, because Clyde had a colostomy at age 5. 'Kay? Now, whoever did this unspeakable act is still at large. The boys' bathroom is closed until further notice, 'cause one of you thought it would be a good idea... to pull down your pants... m'kay, hover your buttcheeks over the urinal... and squeeze out a chocolate hot dog... m'kay?  Oh you think that's funny, huh?!  Let me assure you, there is nothing funny... about going up to a nice, clean, unsuspectin' urinal,  'kay, droppin' your pants then... turnin' around... squattin' over that urinal, 'kay, maybe... maybe pullin' your buttcheeks apart with your hands, m'kay, and then layin' out a big fudge dragon for all the world to see.  Oh yeah, that's real funny!  I'm gonna catch this sonofabitch if it's the last thing I DO! M'kay?! 
+"
+10 9 "Mr. Mackey" "When you dook in the urinal, it's bad, m'kay!  How would you feel... if somebody came into your home, m'kay, pulled down their pants and laid a big mud monkey right on your mom's face?  Oh you think that's funny, huh?! Yeah, that's real funny!
+"
+10 10 "Mr. Mackey" "You need to watch for bad behavior, and make sure anyone in the halls during class has a hall pass. M'kay? 
+"
+10 10 "Mr. Mackey" "Now Eric, being the school hallway monitor is a big responsibility. M'kay? It is important that you take the job seriously, and that you don't abuse the power.
+"
+10 12 "Mr. Mackey" "M, m'kay. Ya-you realize evolution has been pretty much uhhh... proven.
+"

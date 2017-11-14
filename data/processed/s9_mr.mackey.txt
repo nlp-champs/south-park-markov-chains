@@ -1,0 +1,32 @@
+9 2 "Mr. Mackey" "Uh, Eric, we're, we're talkin' about potholes right now, m'kay.
+"
+9 2 "Mr. Mackey" "Uh huh hi Eric, uh, how's it goin'?
+"
+9 2 "Mr. Mackey" "We know you can do it, Eric. You're smart. Wha- why you're the smartest kid in school, m'kay?
+"
+9 2 "Mr. Mackey" "They, they s- they stopped. Something's wrong.
+"
+9 7 "Mr. Mackey" "M'kay, kids, as your counselor, I know it can sometimes be difficult to talk about subjects like drugs and sex and alcohol, m'kay? So, as you remember, last week I told you to write down any difficult questions you had and put them in this box anonymously so we could discuss in class, m'kay? I got a lot o' responses, so let's read some aloud.  ""Mr. Mackey is gay.""  Okay kids, that is not funny! M'kay?! This box is supposed to be used for serious questions! About, about serious issues! M'kay, let's let's stop the tomfoolery!  M'kay, this looks like a real one here.  ""Dear Mr. Mackey, you are gay.""  All right, all right. That's enough, kids. Let's quiet down and try to be mature, 'kay?  Uh here we go. Okay, ""Mr. Mackey, sometimes my parents hit me, and you are gay.""  dammit, is there not one serious question in here?!  ""Mr. Mackey is gay, Mr. Mackey is gay""  Okay, here.  I am a boy at South Park Elementary. Sometimes, when I'm sitting in class, my penis becomes hard for no reason. What should I do?  All right kids, all right kids, that's enough!  If you all can't be serious about the question box,  then we'll just do drug identification exercises, unkay?!
+"
+9 7 "Mr. Mackey" "M'kay, uhh, Jimmy, why don't you come up here and write down the names of two narcotics?
+"
+9 7 "Mr. Mackey" "Jimmy, I'm not asking you, I'm telling you!
+"
+9 7 "Mr. Mackey" "Well why the hell not?!
+"
+9 7 "Mr. Mackey" "He's what... Oh, you do? R-right now, right now it is? M'kay, m'kay. Don't worry, Jimmy.  N'kay, uhhh, let's pick someone else. Um, Eric, why don't you come up here?
+"
+9 7 "Mr. Mackey" "Well, because uh, Jimmy is pitching a tent right now. 
+"
+9 7 "Mr. Mackey" "Huh?  Oh oh oh, right.
+"
+9 8 "Mr. Mackey" "Quiet, children, quiet! We need to hear.
+"
+9 8 "Mr. Mackey" "Randy, wheh-where are you going?
+"
+9 8 "Mr. Mackey" "Hey, look everybody! Helicopters! 
+"
+9 8 "Mr. Mackey" "So does, does this mean the storm is past. Global warming's over?
+"
+9 12 "Mr. Mackey" "Well, that sounds pretty reasonable, m'kay. 
+"

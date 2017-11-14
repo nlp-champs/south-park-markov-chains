@@ -1,0 +1,88 @@
+4 1 "Mr. Mackey" "And what you need to understand is that this is not appropriate behavior, young man! M'kay?
+"
+4 1 "Mr. Mackey" "Well, I hope you learned that throwing rocks is bad, Eric.
+"
+4 1 "Mr. Mackey" "Not this time, Eric! You've got to learn to respect your little friends! You're gonna have detention for two weeks!
+"
+4 1 "Mr. Mackey" "Yes way! M'kay, and that settles it! Now, let's all go- 
+"
+4 1 "Mr. Mackey" "Yes?
+"
+4 1 "Mr. Mackey" "Nn-um. m'kay, uh, I've already taken care of it; Eric Cartman here is gonna be punished with two weeks of detention.
+"
+4 1 "Mr. Mackey" "Uh, oh, but I don't think this is a ruh-
+"
+4 1 "Mr. Mackey" "Oh no.
+"
+4 4 "Mr. Mackey" "Uh young man, if you don't wanna be held back a grade, I suggest you start cooperating, m'kay?!
+"
+4 4 "Mr. Mackey" "Huh- hold on just a second there, Principal Victoria.  I think I may know what the problem is. 
+"
+4 4 "Mr. Mackey" "Yes, of course.
+"
+4 4 "Mr. Mackey" "I think maybe Timmy is suffering from something called, ""Attention Deficit Disorder,"" or ADD. It's very common in kids his age.
+"
+4 4 "Mr. Mackey" "It should be easy enough to find out. They have tests for that kind of thing now, m'kay?
+"
+4 4 "Mr. Mackey" "M'kay.
+"
+4 4 "Mr. Mackey" "Oh oh, I nuh-I knew it.
+"
+4 7 "Mr. Mackey" "Okay, well, maybe you need to view this as a chance to do something you've always wanted to do.
+"
+4 7 "Mr. Mackey" "Well, there you go, m'kay?
+"
+4 7 "Mr. Mackey" "Well that's easy. Write about what you know. Write about what you love. What do you love most?
+"
+4 7 "Mr. Mackey" "Yes.
+"
+4 7 "Mr. Mackey" "M, m'kay
+"
+4 7 "Mr. Mackey" "Well that settles it, Mr. Garrison. What you need to do is go write a great romance novel.
+"
+4 8 "Mr. Mackey" "Oo, Wednesday? Uh-Wednesday's tough. I guess- maybe I could do somthin' uh, Thursday afternoon.
+"
+4 8 "Mr. Mackey" "Oh, yeah.
+"
+4 8 "Mr. Mackey" "Yeah, Tuesday morning's good.
+"
+4 8 "Mr. Mackey" "Yeah, I think that's the best day.
+"
+4 9 "Mr. Mackey" "Oh, Mrs. Cartman, I've been uh very bad. M'kay? 
+"
+4 9 "Mr. Mackey" "Oh, yeah, that makes me hot, m'kay? 
+"
+4 10 "Mr. Mackey" "Uh, God is our refuge and strength, m'kay. A very present help in trouble, m'kay.  Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea...
+"
+4 10 "Mr. Mackey" "God is in the midst of her, m'kay. She shall not be moved, m'kay.  Though the waters thereof roar and be troubled, m'kay, though the mountains shake with the swelling thereof, m'kay. There is a river, the streams whereof shall make glad the city of God, the holy place- 
+"
+4 10 "Mr. Mackey" "-m'kay. The God of Jacob is our refuge, m'kay. 
+"
+4 12 "Mr. Mackey" "Uh, you see, Chef, Ms. Choksondik has very large, uh, honkers, and she doesn't seem to like wearing a bra.
+"
+4 12 "Mr. Mackey" "No, it's really not as nice as you might imagine, Chef, m'kay. 
+"
+4 12 "Mr. Mackey" "We... don't like to talk about it.
+"
+4 12 "Mr. Mackey" "After being dismissed from teaching, he went off to write romance novels. His first novel sold well and everything was fine until he found out that his novel won the gay Pulitzer Prize, and was considered the best homoerotic novel since Huckleberry Finn.
+"
+4 12 "Mr. Mackey" "Well, we really haven't ll-looked.
+"
+4 12 "Mr. Mackey" "What?
+"
+4 12 "Mr. Mackey" "Oh, that's great, Mr. Garrison. You've finally come to terms with yourself!
+"
+4 12 "Mr. Mackey" "Yeah, congratulations!
+"
+4 14 "Mr. Mackey" "Every year the fourth graders do ""The Miracle Worker,"" and every year I have to sit and watch it.
+"
+4 15 "Mr. Mackey" "Eric, your friends and your family are all... concerned about your weight. M'kay?
+"
+4 15 "Mr. Mackey" "Now, Eric, all these people came here and paid to send you to camp because they care about you.
+"
+4 15 "Mr. Mackey" "Uh what's all this about, Mrs. Cartman? Is Eric having trouble at havin' trouble at his weight-management camp?
+"
+4 15 "Mr. Mackey" "Eric, that's fantastic, m'kay?!
+"
+4 17 "Mr. Mackey" "Christmas is about presents. If we all buy presents, everyone benefits. M'kay?
+"

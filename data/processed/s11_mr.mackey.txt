@@ -1,0 +1,14 @@
+11 1 "Mr. Mackey" "Eric, be quiet!
+"
+11 1 "Mr. Mackey" "Uh, it might be best if you just ...let it go, m'kay?
+"
+11 1 "Mr. Mackey" "Yeah yeah, we we get it, Mr. Nelson.
+"
+11 2 "Mr. Mackey" "Uh, Eric Cartman? We got an emergency message from your mother?  ""Do not show picture. Kyle didn't have it after all. Found it under your desk."" She said you'd know what that means, m'kay? 
+"
+11 7 "Mr. Mackey" "Nice one, Randy.
+"
+11 8 "Mr. Mackey" "Uhit's okay, Eric. We understand your illness, m'kay?
+"
+11 8 "Mr. Mackey" "Well all right Eric. Well good luck on Dateline tonight.
+"

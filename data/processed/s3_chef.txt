@@ -318,3 +318,163 @@ And that's my song about the menstrual cycle, Stan. Did that clear things up for
 "
 3 16 Chef "We have to think carefully. We can ask him anything we want, like, ""What's the meaning of life?"" or ""Why are we here?"".
 "
+3 2 Chef "What the-?  Oh, what now?!
+"
+3 2 Chef "Children, what the hell are you doin'?
+"
+3 2 Chef "You children shouldn't be crucifying yourselves in this heat.
+"
+3 2 Chef "Eric, I have to tell you something, and it's really gonna bum you out.
+"
+3 2 Chef "It's really gonna piss you off.
+"
+3 2 Chef "This is just a dream. You're still up on that cross.
+"
+3 3 Chef "Oh! Hello there, children!
+"
+3 3 Chef "Oh! Didn't they tell you? I quit.
+"
+3 3 Chef "Well, it's true.
+"
+3 3 Chef "Children, three nights ago I was at the library checking out some books on Kama Sutra when I met the most amazing woman ever. She knew so much about so many things. She really got me thinking. We eventually came back to my place and really hit it off.
+"
+3 3 Chef "No no, we just sat there all night long and... taaalked.
+"
+3 3 Chef "Yeah. She told me all about the powers of goddess, and how men have been oppressing women for years  and viewing them as sexual objects, and I realized that I had done that myself.
+"
+3 3 Chef "Here she is now. Children, meet my new girlfriend, Veronica.
+"
+3 3 Chef "Children, Veronica is moving in with me.
+"
+3 3 Chef "I'm in love.
+"
+3 3 Chef "Veronica spent the whole day sharing her favorite poems with me.
+"
+3 3 Chef "Well, I can still do that, children. In fact, Veronica can help me. She's a great singer, too.
+"
+3 3 Chef "We have a chance to find the sunshine.
+"
+3 3 Chef "Hello there, children.
+"
+3 3 Chef "Eric, you got glasses!
+"
+3 3 Chef "Huh?
+"
+3 3 Chef "You bet! 
+"
+3 3 Chef "Children, Veronica showed me that I've been living a very empty life. Meaningless sex is fun for twenty or thirty years, but after that, it starts to get old.
+"
+3 3 Chef "Why not??
+"
+3 3 Chef "Children, friends get girlfriends all the time. It's something even you will have to face with each other some day.
+"
+3 3 Chef "That's easy! Get some laser corrective surgery. That's what I did.
+"
+3 3 Chef "You see? Everything's gonna be fine. Now how about I meet you boys after work and we can play ball?
+"
+3 3 Chef "Oh! Uh, hello there, children.
+"
+3 3 Chef "Oh, children, I'm sorry. I forgot.
+"
+3 3 Chef "Veronica surprised me at the office and took me out to dinner.  She's so amazing.
+"
+3 3 Chef "Children, I've got some great news for you. Veronica and I are getting married. 
+"
+3 3 Chef "My whole family's coming here for the wedding, and I want you boys to come, too.
+"
+3 3 Chef "If we can hold on through the night.
+We have a chance to find the sunshine.
+"
+3 3 Chef "Who? Not now, children! I gotta get fitted for my britches! Be right back. 
+"
+3 3 Chef "It's okay, pop.
+"
+3 3 Chef "What?!
+"
+3 3 Chef "All right guys! That's enough! I have had it with you! This is the happiest time of my life, and you can't be happy for me!
+"
+3 3 Chef "No buts, Stan!  I love this woman, and I am marrying her! Now you can either accept that, or get out of my life! Now if you'll excuse us, we're having a party. 
+"
+3 3 Chef "Iii do!
+"
+3 3 Chef "Children! You are screwing up my wedding! 
+"
+3 3 Chef "What the-?!
+"
+3 3 Chef "What the-?! 
+"
+3 3 Chef "No I'm, I'm glad you did, children. Now that she's gone, I can't really figure out what I ever saw in her.
+"
+3 3 Chef "Come on, children. Let's go get some ice cream.
+"
+3 3 Chef "Hello there, children!
+"
+3 3 Chef "How would you like some fish sticks and tater tots?
+"
+3 3 Chef "Yeah, well, I learned a very important lesson this week: Sometimes you fall in love and you think it feels that way forever.You change your life and didn't know your friends cause you think it can't get any better.But then love goes away; no matter what, it doesn't stay as strong.And then you're left with nothing, cause your tinking with your dong.&lt;p&gt;So watch out for that love bug! It can destroy like a typhoon wind!Just play it cool and don't be a fool...
+"
+3 3 Chef "Daaamn right, Garrison! 
+"
+3 5 Chef "And those jakovasaur eat three times as much as normal children! I can't keep up!
+"
+3 6 Chef "Hello there, children!
+"
+3 6 Chef "How's it going?
+"
+3 6 Chef "Well, they're about to get worse. All I can serve you for lunch is lumpy potatoes.
+"
+3 6 Chef "Sorry, children. All my funding's been cut.
+"
+3 6 Chef "I don't know, children.  Why don't you ask your dad? He's a lawyer, ain't he?
+"
+3 6 Chef "Well, somebody else has got to know all about this sexual harassment whosafudge.
+"
+3 6 Chef "Well, I hope you do. Otherwise, it's lumpy potatoes from here on out.
+"
+3 12 Chef "Is everybody okay?
+"
+3 12 Chef "What the...?
+"
+3 12 Chef "Well, I must say I still don't get this at all.
+"
+3 12 Chef "Father, why did you go to all this trouble?
+"
+3 12 Chef "Including killing people and wreaking havoc all over South Park?
+"
+3 12 Chef "Well thanks a lot, KoRn! You KoRn powers really came through for us!
+"
+3 16 Chef "Oh, hello Stan.
+"
+3 16 Chef "How's it going?
+"
+3 16 Chef "Why bad?
+"
+3 16 Chef "Well, sure.  Now, what's the matter, little cracker?
+"
+3 16 Chef "OOH, you're talkin' about your older sister, Shelly.
+"
+3 16 Chef "Your little girlfriend, Wendy.
+"
+3 16 Chef "Look, Stan. Do you really know what a period is?
+"
+3 16 Chef "Stan, let me sing you a little song about the menstrual cycle. I think it might clear things up for you. 
+"
+3 16 Chef "Ooo baby, yeah baby, ooo baby.
+Yeah baby, yeah baby, now baby.
+Ooo yeah, yes yes baby
+Yeahyeahyeah, uh-huh baby now
+Agh! Agh! Awww! No, baby!
+Ewww, baby! No, no!
+Alright now—I'm alright, I'm-I'm cool, it's okay.
+Uh alright, watch out for the bedspread, baby.
+Look out now, it's- alright, I'll tell you what.
+Uuh, how about uuh, uh.
+Why don't I call you next week?
+And that's my song about the menstrual cycle, Stan. Did that clear things up for you?
+"
+3 16 Chef "...Is that what I said?
+"
+3 16 Chef "Whoa! I musta missed a WHOLE middle part there.
+"
+3 16 Chef "We have to think carefully. We can ask him anything we want, like, ""What's the meaning of life?"" or ""Why are we here?"".
+"

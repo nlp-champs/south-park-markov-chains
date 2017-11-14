@@ -1,7 +1,7 @@
 import pandas as pd
 
 lSeasonNumbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19']
-lCharacters = ['Cartman', 'Kyle', 'Stan', 'Kenny', 'Butters', 'PC Principal', 'Chef', 'Tweak', 'Craig']
+lCharacters = ['Cartman', 'Kyle', 'Stan', 'Kenny', 'Butters', 'PC Principal', 'Chef', 'Tweak', 'Craig', 'Mr. Mackey']
 
 for sSeasonNumber in lSeasonNumbers:
     for sCharacter in lCharacters:

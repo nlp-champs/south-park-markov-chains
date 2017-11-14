@@ -1278,3 +1278,643 @@ Come on, everybody be people now
 "
 10 14 Stan "Hey, can they do that??
 "
+10 1 Stan "You guys, you guys! Chef is going away. 
+"
+10 1 Stan "Forever.
+"
+10 1 Stan "Chef said he's been bored, so he joining a group called the Super Adventure Club. 
+"
+10 1 Stan "Dude, how are we gonna go on? Chef was our fuh...f-ffriend. 
+"
+10 1 Stan "I'll get it. 
+"
+10 1 Stan "He's back!
+"
+10 1 Stan "But are you back for good?
+"
+10 1 Stan "Right. Uh, see ya.
+"
+10 1 Stan "Well, look. he said he's happier now. Maybe he just needs to rest up a little.
+"
+10 1 Stan "Yeah, but whatever, I'm just glad he's back for good.
+"
+10 1 Stan "What?
+"
+10 1 Stan "What??
+"
+10 1 Stan "Dude, what are you saying??
+"
+10 1 Stan "...WHAT??
+"
+10 1 Stan "No, he's not.
+"
+10 1 Stan "No, he's not.
+"
+10 1 Stan "NO!
+"
+10 1 Stan "No, Chef, we don't wanna make love to you!
+"
+10 1 Stan "Well look: he spent the last three months with that adventurers' club. Maybe they know what happened to him.
+"
+10 1 Stan "NO!!
+"
+10 1 Stan "No! 
+"
+10 1 Stan "Knew what?
+"
+10 1 Stan "You need to see a psychiatrist, Chef. It's for your own good.
+"
+10 1 Stan "Yeah, he joined the Super Adventure Club, and they convinced him having sex with children was okay with a little thing that goes whrrrrrr.
+"
+10 1 Stan "No, that's the Adventure Club. The Super Adventure Club has sex with children.
+"
+10 1 Stan "Having sex with women.
+"
+10 1 Stan "This isn't working.
+"
+10 1 Stan "Come on guys, we might as well go. 
+"
+10 1 Stan "Chef, we're leaving.
+"
+10 1 Stan "He's remembering.
+"
+10 1 Stan "Where's Chef?! What have you done with him?!
+"
+10 1 Stan "Oh Jesus, here we go.
+"
+10 1 Stan "We don't wanna hear it.
+"
+10 1 Stan "Immortal.
+"
+10 1 Stan "Yeah, it's way, way more retarded.
+"
+10 1 Stan "We're not leaving without Chef.
+"
+10 1 Stan "No, you don't understand! They've got our friend in the Deprivation Room!
+"
+10 1 Stan "Come on, Chef!
+"
+10 1 Stan "We made it!
+"
+10 1 Stan "Chef, come on!
+"
+10 1 Stan "Chef, we love you.
+"
+10 1 Stan "NO! 
+"
+10 1 Stan "Oh my God... They killed Chef.
+"
+10 1 Stan "Come on, let's go. 
+"
+10 2 Stan "Oh hey Kyle.
+"
+10 2 Stan "Helping my Dad pick out some cool new power tools. What are you doing?
+"
+10 2 Stan "Yeah? 
+"
+10 2 Stan "Going away party? What do you mean?
+"
+10 2 Stan "Moving away?? Kyle can't move away!
+"
+10 2 Stan "Where's the going-away party?
+"
+10 2 Stan "Kyle? Kyle!
+"
+10 2 Stan "What?!
+"
+10 2 Stan "Kyle! Du-what is going on?!
+"
+10 2 Stan "Mr. Broflovski, please. Kyle's my best friend.
+"
+10 2 Stan "Well... Maybe they'll change.
+"
+10 2 Stan "Nooo!
+"
+10 2 Stan "I will. I will get everyone to drive hybrid cars! I swear it!
+"
+10 2 Stan "Come on, people. Come on, people now. 
+"
+10 2 Stan "I'm writing a song about the importance of hybrid cars, so maybe people will change their ways.
+"
+10 2 Stan "Well if I have any chance of getting Kyle back, I have to get people to stop driving SUVs!
+"
+10 2 Stan "You know, Cartman, you may be stoked now, but I bet you're gonna find that withuot Kyle around to rip on, your life is empty, and hollow.
+"
+10 2 Stan "Come on, people. Come on, people now.
+"
+10 2 Stan "Come on now, people now people now'
+People now, come on now, people now
+Got to drive hybrids, people now
+People now, people now, people now
+Hybrids are for people now, people now
+Group of people driving people now
+Get a hybrid, be good people now.
+"
+10 2 Stan "We have all got to be people now
+People-driving-hybrid people now
+People now, people now, hybrid now
+Hybrid-people-driving people now.
+Come on, people, let's be people now
+Hybrid-people-driving people now
+Come on, everybody be people now
+"
+10 2 Stan "Come on, everybody be people now
+"
+10 2 Stan "Ah, thanks. I was really just trying to make it so my friend can move back here so... if you don't mind, I'm gonna try to get a hold of him now. 
+"
+10 2 Stan "Yeah.
+"
+10 2 Stan "Ow!
+"
+10 2 Stan "What?!
+"
+10 2 Stan "Smog? There's never been smog over South Park before.
+"
+10 2 Stan "Smug?
+"
+10 2 Stan "No, no, I'm asking if there's a listing for Broflovski in San Francisco! They just moved there!
+"
+10 2 Stan "Oh crap, Ranger McFriendly.
+"
+10 2 Stan "What is that?
+"
+10 2 Stan "George Clooney's acceptance speech?
+"
+10 2 Stan "What about San Francisco?
+"
+10 2 Stan "I'm gonna try and warn Kyle to get out of San Francisco.
+"
+10 2 Stan "Can't somebody else operate this? I can't really reach.
+"
+10 2 Stan "No...
+"
+10 2 Stan "What?
+"
+10 2 Stan "Kyle!
+"
+10 2 Stan "Dude, what happened?? 
+"
+10 2 Stan "Dude, I'm so glad you're not dead.
+"
+10 3 Stan "What?? What??
+"
+10 3 Stan "Kyle! What the hell is going on this time?!
+"
+10 3 Stan "Dad?  Dad, what the hell is going on?! 
+"
+10 3 Stan "Sso?
+"
+10 3 Stan "Oh come on, people. You really think anybody's gonna be that pissed off about a cartoon??
+"
+10 3 Stan "They censored the image of Mohammad? How?
+"
+10 3 Stan "Yeah, lots of people like Family Guy.
+"
+10 3 Stan "What? What's the big deal?
+"
+10 3 Stan "Yeah, you rip on people's religion all the time!
+"
+10 3 Stan "The hell's going on now?!
+"
+10 3 Stan "Does this mean we don't have school all week?
+"
+10 3 Stan "Dude, we can't go anywhere. They've shut down the airports and the buses.
+"
+10 3 Stan "To Los Angeles?
+"
+10 3 Stan "Dad, I don't wanna bury my head in the sand.
+"
+10 3 Stan "Yeah.
+"
+10 3 Stan "Dad, this is stupid.
+"
+10 6 Stan "Who?
+"
+10 6 Stan "Pass it to me, Cartman?
+"
+10 6 Stan "Cartman, stop hogging the goddamned ball!
+"
+10 6 Stan "Oh, hey Dad.
+"
+10 6 Stan "Aw, he's all right, Dad. He was just trying to warn us about ManBearPig.
+"
+10 6 Stan "He could be half bear, half manpig.
+"
+10 6 Stan "But I feel kind of bad for him, Dad. I don't think he has any friends.
+"
+10 6 Stan "Hello?
+"
+10 6 Stan "Oh man... Hi Mr. Gore.
+"
+10 6 Stan "I know.
+"
+10 6 Stan "Eh look, I'm sorry but, we're all kind of busy.
+"
+10 6 Stan "No, no, it's not that.
+"
+10 6 Stan "Ih it's okay, Mr. Gore, I, I believe you.
+"
+10 6 Stan "Yeah, I'm sure ManBearPig needs to be stopped. I'm just... I'm just scared that I can't do anything to stop him.
+"
+10 6 Stan "...Yes, I'm serial.
+"
+10 6 Stan "Come on, you guys, Al Gore doesn't have any friends. We'll just make an appearance at his little meeting and then we'll go. 
+"
+10 6 Stan "Yyeah, you know, Mr. Gore, uh, my dad's a geologist, and he said that ManBearPig probably isn't in Colorado.
+"
+10 6 Stan "NO.
+"
+10 6 Stan "Well, this was a great meeting. Wasn't it, guys? But, we gotta get goin' to school now.
+"
+10 6 Stan "Mr. Gore, I I think we should stay with the tour group.
+"
+10 6 Stan "Oh no!
+"
+10 6 Stan "Help!
+"
+10 6 Stan "Help!
+"
+10 6 Stan "Me??
+"
+10 6 Stan "Maybe there's another way out of here.
+"
+10 6 Stan "There's a small passageway about 200 yards over there, but... it goes for a long long way and it's pretty steep. 
+"
+10 6 Stan "Cartman's right. First rule of survival is stay put and wait to be rescued.
+"
+10 6 Stan "I'm sooo hungry. Do you think people even know we're here?
+"
+10 6 Stan "Let's just try to sleep. Maybe help will come tomorrow.
+"
+10 6 Stan "Dude, he's really sick. 
+"
+10 6 Stan "Huh? What? Have they come for us?
+"
+10 6 Stan "Oh my God.  Cartman? Dude, can you hear me?
+"
+10 6 Stan "How, dude? We c- we don't even know if that passage I found goes anywhere.
+"
+10 6 Stan "Goddamnit, he's soo heavy!
+"
+10 6 Stan "Cartman?
+"
+10 6 Stan "I can't keep carrying him, dude! I've got no strength!
+"
+10 6 Stan "Kenny! Here, take my hand!  Hurry Kyle, the water's rising!
+"
+10 6 Stan "Kyle! No!
+"
+10 6 Stan "Agh.
+"
+10 6 Stan "Just stay away from us, asshole! I was nice to you because I felt sorry for you, because you don't have any friends! But now I see WHY you don't have any friends! You just used ManBearPig as a way to get attention for yourself because you're a LOSER!!
+"
+10 6 Stan "Cartman, seriously, you need to see a doctor.
+"
+10 7 Stan "You can't stay here.
+"
+10 7 Stan "Dude, have you lost more weight?
+"
+10 7 Stan "Dude, we're not killing your mom.
+"
+10 7 Stan "Where am I supposed to get a gun?
+"
+10 7 Stan "I'm not shooting anybody.
+"
+10 8 Stan "Dude! We've been waiting forever!
+"
+10 8 Stan "H-hang on, guys, my dad wants something.
+"
+10 8 Stan "What?!
+"
+10 8 Stan "I am socializing, r-tard. I'm logged on to an MMORPG with people from all over the world, and getting XP with my party using TeamSpeak.
+"
+10 8 Stan "All right, sorry guys. So where to now?
+"
+10 8 Stan "Oh crap! It's that guy again! 
+"
+10 8 Stan "This is the guy that kept killing us after you went to bed!
+"
+10 8 Stan "He's a way higher level than us. It isn't fair.
+"
+10 8 Stan "Oh my God, he killed Kenny!
+"
+10 8 Stan "Whoever he is, he is one tough badass.
+"
+10 8 Stan "Yeah, we bought your game, and played it online, but every time we log in, some other player comes in and kills us!
+"
+10 8 Stan "Yeah? Well this guy does it anyway!
+"
+10 8 Stan "Ddue, we have to try.
+"
+10 8 Stan "Come on, let's do this!
+"
+10 8 Stan "Look! There he is!
+"
+10 8 Stan "Dad??
+"
+10 8 Stan "Dad, get off our teamspeak line!
+"
+10 8 Stan "That's it, screw this game!
+"
+10 8 Stan "Dude, we're done. we're sick of getting killed all the time.
+"
+10 8 Stan "We can't get to a higher level because that dude doesn't let us finish quests!
+"
+10 8 Stan "I'm in.
+"
+10 8 Stan "15 agility.
+"
+10 8 Stan "'K.
+"
+10 8 Stan "That's übercool.
+"
+10 8 Stan "Wait, I think I see him. Yeah, yeah, he's here in Goldshire.
+"
+10 8 Stan "Okay, he sees us...He's targeted us.
+"
+10 8 Stan "Kyle!  Kyle! Dude, what's wrong?
+"
+10 8 Stan "Oh, Jesus, he's got it bad! 
+"
+10 8 Stan "Hurry dude!
+"
+10 8 Stan "Kyle, you have to keep playing.
+"
+10 8 Stan "We can't do this without you now! Come on! 
+"
+10 8 Stan "You can't go to the bathroom, you're stacking sunder armor!
+"
+10 8 Stan "Dude, I'm almost dead.
+"
+10 8 Stan "I've gotta heal. 
+"
+10 8 Stan "Dad? Not now!
+"
+10 8 Stan "Dad, how did you get that?!
+"
+10 8 Stan "Bring up your inventory screen: Control-I...
+"
+10 8 Stan "I got it! 
+"
+10 8 Stan "Dad!
+"
+10 8 Stan "Dad, no!  You killed my father. 
+"
+10 8 Stan "Dad? Dad?
+"
+10 8 Stan "I know you do, Dad.
+"
+10 8 Stan "We did it!
+"
+10 8 Stan "Yeah.
+"
+10 8 Stan "I can't believe it's all over. What do we do now?
+"
+10 8 Stan "Got it.
+"
+10 9 Stan "A wall toilet for peeing in.
+"
+10 9 Stan "Did they find out who crapped in the urinal yet?
+"
+10 9 Stan "Yeah, at least one-fourth.
+"
+10 9 Stan "Kyle!
+"
+10 9 Stan "Dude, do you mind telling me why CIA guys  are coming to my house and questioning me about you??
+"
+10 9 Stan "Well why did you have to involve me??
+"
+10 9 Stan "All right, look, I've been doing a lot of research on the Web and I found an organization who says they can prove you weren't involved in 9/11.
+"
+10 9 Stan "Come on. We'll go out the back so they don't see you.  There's just one thing I need to know before we go: you weren't responsible for 9/11, right?
+"
+10 9 Stan "That's all I needed. 
+"
+10 9 Stan "Hi, we were hoping you can help us. My friend is being blamed for 9/11.
+"
+10 9 Stan "Dude, why would the government attack its own buildings?
+"
+10 9 Stan "JESUS CHRIST!!
+"
+10 9 Stan "He was right. You DID cause 9/11.
+"
+10 9 Stan "Why?!
+"
+10 9 Stan "Is the whole government in on this?
+"
+10 9 Stan "Kyle! Run! 
+"
+10 9 Stan "All right, now we have to switch over to Interbus 65. We made it dude.  We should be home in less than eighteen hours. Then we'll tell everyone what we saw.
+"
+10 9 Stan "Yeah, our eyes are finally open, dude. It's like waking up for the first time.
+"
+10 9 Stan "Well dude, maybe we're just super badass. Have you thought of that? 
+"
+10 9 Stan "What who said?
+"
+10 9 Stan "Oh God!
+"
+10 9 Stan "Who are you?
+"
+10 9 Stan "Aw Jesus...
+"
+10 9 Stan "How come you couldn't just go home, dude? That's all we had to do!
+"
+10 9 Stan "It was all planned out!
+"
+10 9 Stan "Because it was me. I'm the one who took a dump in the urinal.
+"
+10 9 Stan "The stalls were full and I didn't wanna miss recess! I didn't think it would turn into such a big deal!
+"
+10 9 Stan "Oh man, now everyone's gonna know. Why did the stupid Hardly Boys have to be so good at solving mysteries?
+"
+10 9 Stan "Yuh.
+"
+10 9 Stan "Whattaya mean? A bunch of pissed-off Muslims.
+"
+10 10 Stan "Sure dude.
+"
+10 10 Stan "Dude, what's the matter?
+"
+10 10 Stan "...Wow.
+"
+10 10 Stan "Dude, I really don't see a problem.
+"
+10 11 Stan "Go ahead, Kyle, do it.
+"
+10 11 Stan "Dad! Dad!
+"
+10 11 Stan "If you look in the mirror and say Biggie Smalls' name three times, he doesn't come and get you, right??
+"
+10 11 Stan "It does work!!
+"
+10 11 Stan "We're really sorry, Mr. Smalls.
+"
+10 12 Stan "It's still three weeks.
+"
+10 12 Stan "Dude you don't look so good, Cartman.
+"
+10 12 Stan "Do what?
+"
+10 12 Stan "Dude, no way.
+"
+10 12 Stan "Well there could still be a god.
+"
+10 12 Stan "Couldn't evolution be the answer to how and not the answer to why?
+"
+10 12 Stan "I wasn't talking about spaghetti. 
+"
+10 14 Stan "I'm sorry, Mr. Jarvis, it's just that... I have to get up at 4 a.m. to deliver your paper and then I go to school all day.
+"
+10 14 Stan "My bike had a busted pedal, but I got it fixed, so there won't be a problem anymore. 
+"
+10 14 Stan "Yeah. Why?
+"
+10 14 Stan "What?? 
+"
+10 14 Stan "Hey, hey! What are you doing?!
+"
+10 14 Stan "Yes!
+"
+10 14 Stan "No-dude, I need my bike to do my job!
+"
+10 14 Stan "No NOO. Do NOT tow my bike!  Stop, asshole! RRRRRRRRRRRRRRRR! 
+"
+10 14 Stan "Hi, my name is Stan Marsh. I was told to come down here and try to-
+"
+10 14 Stan "I got a job, but without my bike to do my paper route, I can't make the money! See?
+"
+10 14 Stan "Look, I really need my bike.
+"
+10 14 Stan "What do I have to learn?! This isn't fair!
+"
+10 14 Stan "...Yeah?
+"
+10 14 Stan "Me?
+"
+10 14 Stan "Oh boy. Uh, all right, guys, over here? Come over here.  We've got a lot of work to do and not much time to do it in.
+"
+10 14 Stan "My name is Stan and I'm your new coach. Now we just need to kind of organize a little bit and practice our-
+"
+10 14 Stan "All right, fine, go ahead.
+"
+10 14 Stan "S- hold it a while, okay?
+"
+10 14 Stan "When you shoot the puck to another player.
+"
+10 14 Stan "All right, all right, shut up! We're gonna practice! You two guys play defense, and you play goalie.
+"
+10 14 Stan "Why not?!
+"
+10 14 Stan "What, you got asthma or something?
+"
+10 14 Stan "What?
+"
+10 14 Stan "Ah, it's okay. Don't cry.
+"
+10 14 Stan "Oh Jesus, can we just practice?
+"
+10 14 Stan "NO! 
+"
+10 14 Stan "Hey. 
+"
+10 14 Stan "Jesus Christ. 
+"
+10 14 Stan "I got a new job. I'm finally gonna be able to pay off all the money I owe.
+"
+10 14 Stan "I'm working with the Pee Wee Hockey League.
+"
+10 14 Stan "I'm not playing, I'm coaching.
+"
+10 14 Stan "What are you talking about?
+"
+10 14 Stan "I remember going to Shakey's afterwards.
+"
+10 14 Stan "I'm tired. I'm goin' to bed. 
+"
+10 14 Stan "All right, guys. Tonight is our big game against Adams County. We still have all day to practice.
+"
+10 14 Stan "Oh
+"
+10 14 Stan "Ohhh.
+"
+10 14 Stan "... I don't know.
+"
+10 14 Stan "No, I think you oughta.
+"
+10 14 Stan "Oh uh, hey Nelson.
+"
+10 14 Stan "Dude, I can come back later. Is this a bad time for you?
+"
+10 14 Stan "Wugh, I'm not sure. I would... think that... it's a lot like it was before you were born?
+"
+10 14 Stan "Ogh.
+"
+10 14 Stan "Goddammit, dude, I don't know.
+"
+10 14 Stan "No, what I mean is, nobody really knows, see? But everyone does it. I mean, it's not like everyone else gets to live and only you have to die. Everyone's gonna die. You feel better now?
+"
+10 14 Stan "Okay, great. Look, I, I gotta get to the stadium, but uh... hang in there? All right? 
+"
+10 14 Stan "No- dude, I told you I can't do that.
+"
+10 14 Stan "Okay. 
+"
+10 14 Stan "Coach, can I talk to you for a second?
+"
+10 14 Stan "Look, there's a kid in my team who's got cancer, and, he wants us to win this game really bad, so, could you just... give us kind of a break?
+"
+10 14 Stan "All right, guys, listen.  I saw Nelson in the hospital, and he asked me one thing: he said he wanted us to win this game... for him. 
+"
+10 14 Stan "Relax! If we lose we're not gonna be murderers.
+"
+10 14 Stan "Let's go, Park! Come on!
+"
+10 14 Stan "Get near the puck! 
+"
+10 14 Stan "Tie? Well, what does that mean?
+"
+10 14 Stan "Hello?
+"
+10 14 Stan "How are you feeling?
+"
+10 14 Stan "Uh, hi Doc. How's he doing?
+"
+10 14 Stan "Oh boy.
+"
+10 14 Stan "But what can I do?
+"
+10 14 Stan "Well, ah, I mean...
+"
+10 14 Stan "Yeah... yeah, we'll beat 'em.
+"
+10 14 Stan "Well, sure we can.
+"
+10 14 Stan "Look, guys. I believe in you. Nelson believes in you. Doesn't that count for anything?
+"
+10 14 Stan "They're not gonna kill us.
+"
+10 14 Stan "Haven't you guys ever seen these movies? We're just supposed to rally together, believe in ourselves, and we win in the end.
+"
+10 14 Stan "Hey that's right. We need a ringer. 
+"
+10 14 Stan "It's just for one game. He won't get hurt, I promise. 
+"
+10 14 Stan "Dad, I'm working on my game plan right now.
+"
+10 14 Stan "All right, you guys, this is it. The moment is here. We've been through a lot together, and according to every movie ever made, we're going to win this game. Just don't forget: there's a little boy in the hospital who's really counting on us. So let's not let him down. Are you with me?!  All right, let's go win!
+"
+10 14 Stan "Huh?
+"
+10 14 Stan "Sso then we win?
+"
+10 14 Stan "Hey. Hey, you can't do this.  We've, we've been through all this stupid emotional crap!
+"
+10 14 Stan "But it isn't supposed to end like this!
+"
+10 14 Stan "Play the Red Wings?
+"
+10 14 Stan "Jesus Christ!  Stop! Stop this!
+"
+10 14 Stan "Hey, can they do that??
+"

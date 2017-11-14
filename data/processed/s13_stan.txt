@@ -1226,3 +1226,617 @@
 "
 13 14 Stan "Aw come on, it was just a little pee, Kyle.
 "
+13 1 Stan "I still can't believe it, even though it's right there in front of me.
+"
+13 1 Stan "What?
+"
+13 1 Stan "Yeah, dude, Tammy Warner. She's a fifth grader.
+"
+13 1 Stan "All right, come on, guys. 
+"
+13 1 Stan "Kenny! Hey, hey, Kenny! 
+"
+13 1 Stan "Listen, Kenny, we need to talk about your new girlfriend.
+"
+13 1 Stan "Oh, boy.
+"
+13 1 Stan "A B.J.?
+"
+13 1 Stan "Yeah, dude, that's gross.
+"
+13 1 Stan "So how did it go last night? 
+"
+13 1 Stan "Dude, you? We thought you really wanted to have a BJ before you got too old an-
+"
+13 1 Stan "They're rings that says they're not gonna have sex or do anything naughty anymore.
+"
+13 1 Stan "Dude, what the hell are you doing, Kenny?! This is the day we were supposed to throw cow turds at cars together!
+"
+13 1 Stan "Come on, Kenny, this isn't you. We want you back, dude.
+"
+13 1 Stan "You want your Grey's Anatomy back, Kenny?
+"
+13 1 Stan "You guys, I think this is serious. There's something really wrong with him.
+"
+13 1 Stan "What? 
+"
+13 1 Stan "All right, come on guys, we're not sitting back and watching our friend die! 
+"
+13 1 Stan "Excuse us. Excuse us.
+"
+13 1 Stan "Yeah, their purity rings turned our friend into a douche!
+"
+13 1 Stan "Dude, who the hell did that?  Hwa? 
+"
+13 1 Stan "We... don't work for any-body.
+"
+13 1 Stan "We told you: we aren't working for another studio and there isn't a plan to sabotage your big night.
+"
+13 2 Stan "Who's the Coon?
+"
+13 2 Stan "Not really.
+"
+13 2 Stan "Dude, what the hell?
+"
+13 2 Stan "Dude, I have a picture of Mysterion in my locker too.
+"
+13 3 Stan "Do I really have to do this, Dad?
+"
+13 3 Stan "But Grandma said I could use this money to buy whatever I want.
+"
+13 3 Stan "I got a hundred dollar check from my grandma, and my dad said I need to put it in the bank so it can grow over the years.
+"
+13 3 Stan "Uh, what?
+"
+13 3 Stan "What's all gone?
+"
+13 3 Stan "What do you mean? I have I have a hundred dollars.
+"
+13 3 Stan "Well, what can I do to get back my money-?
+"
+13 3 Stan "I just opened an account.
+"
+13 3 Stan "No, you just lost it all!
+"
+13 3 Stan "Hey!
+"
+13 3 Stan "Dad?!
+"
+13 3 Stan "Mom, Dad, how come there's suddenly no money?
+"
+13 3 Stan "Yeah, I think I get it.
+"
+13 3 Stan "Yeah, I wanna return this Margaritaville my stupid dad bought.
+"
+13 3 Stan "What?
+"
+13 3 Stan "So?
+"
+13 3 Stan "Well can't I just return it and get the money my dad put in back?
+"
+13 3 Stan "I wanna return this Margaritaville.
+"
+13 3 Stan "No thanks. I wanna return this Margaritaville, and the guy at Sur la Table said that you were the company that financed it.
+"
+13 3 Stan "What?
+"
+13 3 Stan "Wall Street?
+"
+13 3 Stan "So?
+"
+13 3 Stan "'Scuse me. 'Scuse me! I'd like to return this Margaritaville, please?
+"
+13 3 Stan "My dad bought it on a payment plan that was set up by a finance company which got their principal investors from somebody here.
+"
+13 3 Stan "It does?
+"
+13 3 Stan "So I can return it to a bank?
+"
+13 3 Stan "What?!
+"
+13 3 Stan "Aargh! 
+"
+13 3 Stan "I want to return this Margaritaville! My dad bought it on a payment plan set up by a finance company that got investors from Wall Street who combined it into securities sold to the banks who transferred it to you!
+"
+13 3 Stan "Nnnaaargh!
+"
+13 3 Stan "Really?  Thank you.
+"
+13 3 Stan "What?!
+"
+13 3 Stan "Nononono excuse me! I don't understand! How can this stupid thing be worth ninety trillion dollars?!
+"
+13 3 Stan "No, dude, that doesn't make sense!
+"
+13 4 Stan "What?! No way Wendy, today's the day!
+"
+13 4 Stan "Oh boy!
+"
+13 4 Stan "We're complaining to the Canada Network 'cause they put something really gross on TV!
+"
+13 4 Stan "You tell 'em, Cartman!
+"
+13 4 Stan "What? 
+"
+13 4 Stan "Butters was just sitting there, Dad. He... he didn't even know it was coming.
+"
+13 4 Stan "It was so gross, Dad, I mean, what if another girl at school tries-?
+"
+13 4 Stan "Mom, gross! 
+"
+13 4 Stan "Stop it, Mom!
+"
+13 4 Stan "I'm going too. 
+"
+13 4 Stan "Yeah it's different, Mom!
+"
+13 4 Stan "Butters, I'm afraid things have gotten worse. All the women suddenly think that... queefing is funny.
+"
+13 4 Stan "On television us children are starting to see and hear more and more graphic queefing.
+"
+13 4 Stan "No way! We did it?!  Yeah!!
+"
+13 4 Stan "Mom, we didn't mean... 
+"
+13 4 Stan "Yeah. We all got so caught up in how we felt that we didn't realize... women actually cared about something a lot deeper.
+"
+13 5 Stan "What's going on?
+"
+13 6 Stan "Dad, we're not allowed to add anything to the car that doesn't come in the approved kit, remember?
+"
+13 6 Stan "What is that?
+"
+13 6 Stan "Oh no, he didn't.
+"
+13 6 Stan "Tells?
+"
+13 6 Stan "Dad, maybe we should just take out the thing you put in the car an-
+"
+13 6 Stan "It's uh, Marsh. 
+"
+13 6 Stan "Yes I do.
+"
+13 6 Stan "Yeah?
+"
+13 6 Stan "Aw crap, Dad! 
+"
+13 6 Stan "Alien?
+"
+13 6 Stan "What does it want?
+"
+13 6 Stan "Dad they aren't here for that.
+"
+13 6 Stan "Dad. Dad, you know we can't make the car go as fast as before with only the approved Pinewood Derby kit.
+"
+13 6 Stan "Well we have to tell them we used something outside the kit.
+"
+13 6 Stan "Come on, Dad. We've gotta come clean.
+"
+13 6 Stan "Dad, it's over. We have to tell everyone we cheated.
+"
+13 6 Stan "Kill the alien?
+"
+13 6 Stan "No. Dad, we don't even know what'll happen.
+"
+13 6 Stan "Dad? 
+"
+13 6 Stan "I guess so. It just still doesn't feel right.
+"
+13 6 Stan "No, Dad-
+"
+13 6 Stan "Whoawhoawhoa Dad, what are we doing?
+"
+13 6 Stan "'Scuse me! 'Scuse me!  Everyone, I have an announcement to make. I'm giving back my Pinewood Derby trophy! 
+"
+13 6 Stan "The truth is, I don't deserve this trophy. 'Cause I cheated on my Pinewood Derby car. I used something not in the approved kit. 
+"
+13 6 Stan "This trophy isn't mine, and so I have to give it back! Because if I'm not honest now, then I'll have to keep this lie going forever. And it will just grow and grow. 
+"
+13 7 Stan "What are you talking about, dude?
+"
+13 7 Stan "No, dude, everyone's checked. I think Cartman really ran away to Somalia.
+"
+13 7 Stan "You really think he'll die in Somalia?
+"
+13 8 Stan "Dude, I don't even know who that is.
+"
+13 8 Stan "Are you guys fucking serious?
+"
+13 8 Stan "It's gonna be alright, Kyle.
+"
+13 8 Stan "Dude, I don't understand at all. I eat Chipotle all the time and it never made me crap blood.
+"
+13 8 Stan "Whoa whoa wait, there really are ghosts?
+"
+13 8 Stan "Uh oh.
+"
+13 8 Stan "You're dead, Mr. Jackson!
+"
+13 8 Stan "Accept it! 
+"
+13 8 Stan "Mr. Jackson, you can't do this! This is not your body!
+"
+13 8 Stan "Alright, let's see: demonic ghosts, animal ghosts...  ...setting traps for ghosts, no...
+"
+13 8 Stan "Here here here it is: possession by a ghost. A ghost that enters and then refuses to leave a living host has done so because it failed in the living world to be what it wanted to be. The ghost must be allowed to transform and be recognized by the living as what it always tried to be.
+"
+13 8 Stan "So he wants to finally be accepted by the living as a little white girl.
+"
+13 8 Stan "Yeahhhh!
+"
+13 8 Stan "Excuse me, uh, if you could do us a favor and pleeease just vote for little Miss Jackson? It's really important.
+"
+13 8 Stan "Dude, the two male judges love her.
+"
+13 8 Stan "Yeah, there's no way that lady judge is voting for us. She was glaring the entire time.
+"
+13 8 Stan "Woohoo!
+"
+13 9 Stan "Hey heeey, what the hell are you guys picking on Butters for this time?!
+"
+13 9 Stan "Yeah, I heard that now even Stacey Anderson is selling kisses.
+"
+13 9 Stan "Butters, you're the one doing all this?
+"
+13 9 Stan "Butters. Dude!
+"
+13 9 Stan "You can't call my girlfriend a bitch!
+"
+13 9 Stan "Butters, seriously, if you don't stop this I'll kick your ass!
+"
+13 10 Stan "I'm having the best time!
+"
+13 10 Stan "This is it you guys! We know what our calling in life is now. Tomorrow we are signing up for wrestling class! 
+"
+13 10 Stan "Why did they have us put on long underwear.
+"
+13 10 Stan "Yeah!
+"
+13 10 Stan "Yeah, what are you? A child molester?
+"
+13 10 Stan "Yeah, this guy probably wants to take pictures of us naked.
+"
+13 10 Stan "Yup.
+"
+13 10 Stan "We'll see about that!
+"
+13 10 Stan "You don't come to this country and make fun of it!
+"
+13 10 Stan "I served my country! I fought for two years in Vietnam.
+"
+13 10 Stan "You have no idea what you're saying Juggernaut! Irene loves me and I'm gonna marry her!
+"
+13 10 Stan "What?!
+"
+13 10 Stan "If you love Juggernaut, Irene, then tell him what you did two years ago! How you killed his child!
+"
+13 10 Stan "Irene, you said you loved me!
+"
+13 10 Stan "Holy crap dude, there's a huge turnout tonight.
+"
+13 10 Stan "Only a country like yours can breed men of such discontent, Rad Russian. But you don't know what real pain is! PAIN! Like I've known. Abandoned when I was four years old by my parents. Left to die in a cold and dark sewage tunnel!
+"
+13 10 Stan "From the professional wrestlers we saw in Denver?
+"
+13 10 Stan "Vince McMahon is coming to see us?
+"
+13 10 Stan "Omigod! Omigod! Omigod! Omigod! Omigod! Omigod! Omigod! Omigod! Omigod! Omigod! Omigod!..
+"
+13 10 Stan "Alright it's time to start the second act. Let's bring the crowd back in from intermission and then improvise some stuff for Saturday!
+"
+13 10 Stan "Here he is, hiding in the forest as I told you. 
+"
+13 10 Stan "What do I do? Juggernaut is my long lost brother.  And yet Congo saved my life in Nam. 
+"
+13 10 Stan "Yeah?
+"
+13 10 Stan "He's right.
+"
+13 10 Stan "Dude, it's really hard to do your best wrestling when you're up against Token.
+"
+13 10 Stan "And Butters and Jimmy I mean, they're okay but, they're never gonna make it as professional wrestlers.
+"
+13 10 Stan "Somebody who can do the harder stuff we've written so that Token, Butters, and Jimmy can have smaller parts.
+"
+13 10 Stan "Yeah yeah, not bad.
+"
+13 10 Stan "Damn dude, that is some badass wrestling.
+"
+13 10 Stan "He's here, Ohh my God  Omigod omigod omigod omigod omigod omigod omigod omigod omigod o-
+"
+13 10 Stan "Juggernaut? Juggernaut, hey, what's goin' on?
+"
+13 10 Stan "Heyhey whoa, you shouldn't be fighting anybody. What about your cancer?
+"
+13 10 Stan "It's Triceratops, and he's with Irene. 
+"
+13 10 Stan "No, you can't possibly mean that-!
+"
+13 10 Stan "Irene, there's no way we could let you here, and I'd let you something informal like that.
+"
+13 10 Stan "When are you going to face reality, Congo? Just because you were raised by panthers doesn't mean you are one!
+"
+13 10 Stan "Dude.
+"
+13 10 Stan "What?? 
+"
+13 10 Stan "Don't go pointing fingers at me, partner! You have no idea what you're talking about, and it wasn't... 
+"
+13 11 Stan "Wow cool.
+"
+13 11 Stan "Yeah, this is gonna be awesome.
+"
+13 11 Stan "What the hell is that? 
+"
+13 11 Stan "Dad, why did they do that?
+"
+13 11 Stan "Guys... guys...  Look, I really think it's time for us to do something. This is all getting way out of hand.
+"
+13 11 Stan "No, not the song. I'm talking about the Japanese killing whales and dolphins.
+"
+13 11 Stan "So? Dude, don't you guys care? We have to do something?
+"
+13 11 Stan "It seems like everyone has an attitude of ""that's just the way they are"" or ""that's just the way it is""! Nobody likes it, but everybody's too busy to do anything about it!
+"
+13 11 Stan "You're not?
+"
+13 11 Stan "Kenny? You don't care about whales and dolphins being slaughtered?
+"
+13 11 Stan "You know, when all the whales and dolphins in the world are gone, people are gonna wish that at some point they had taken a little time to care just a little goddamn bit! 
+"
+13 11 Stan "Yeah. Butters, do you wanna help?
+"
+13 11 Stan "Really?  People who are doing something?
+"
+13 11 Stan "Then that's where I belong.
+"
+13 11 Stan "Sweet! 
+"
+13 11 Stan "Yeah. Hell yeah! Let's do it!
+"
+13 11 Stan "Whoa, wait wait, we don't wanna just lie about stuff.
+"
+13 11 Stan "Well, 'cause then we're just douchebags, dude. Come on, they're right here. Let, let's get hardcore!
+"
+13 11 Stan "Wait, that's it?
+"
+13 11 Stan "Those guys are always covered in dolphin and whale guts. They don't care if they stink. Come on, let's break their boat.
+"
+13 11 Stan "I thought you guys were pirates in a war!
+"
+13 11 Stan "Pirates don't worry about the law! You guys said you were badasses!
+"
+13 11 Stan "What you assholes acted like you were doing? 
+"
+13 11 Stan "Wait for it... wait for it... NOW! 
+"
+13 11 Stan "No I, I don't really care about the TV show, I'm just trying to stop the Japanese from killing dolphins and whales.
+"
+13 11 Stan "...No, I don't care about the show.
+"
+13 11 Stan "I just want people to know that you can stop the Japanese if you have some real goddamned balls
+"
+13 11 Stan "Can we please just talk about the actual whaling problem for a second?!
+"
+13 11 Stan "Screw this, I gotta get back to work!
+"
+13 11 Stan "Would you mind stepping back a little?
+"
+13 11 Stan "No- Dude, we really can't take any more volunteers.
+"
+13 11 Stan "Oh no, no, NO.
+"
+13 11 Stan "Oh what? So now that I have a hit TV show you guys care about dolphins and whales?
+"
+13 11 Stan "I asked you guys to help me and you said no!
+"
+13 11 Stan "You said ""Stan, me and Kenny don't give two shits about stupid-ass whales!""
+"
+13 11 Stan "Look, if you admit that you're only doing this because you wanna be on TV, then I'll consider it! Admit you just wanna be on TV!
+"
+13 11 Stan "Take us out of port! All hands to stations!
+"
+13 11 Stan "As soon as we get there, we've gotta deploy the tracking device! We can't let those whales get hurt! 
+"
+13 11 Stan "Oh the Japanese wanna play that way, huh?!
+"
+13 11 Stan "What? 
+"
+13 11 Stan "What? Dude, we're trying to get to some whales.
+"
+13 11 Stan "Screw this! Turn hard to port! 
+"
+13 11 Stan "Dude, fuck you!
+"
+13 11 Stan "What was that? 
+"
+13 11 Stan "It's like... they know. 
+"
+13 11 Stan "They do know. They know everything I've been trying to do for them.
+"
+13 11 Stan "Jesus Christ!  We've gotta get something to shoot 'em with!
+"
+13 11 Stan "I, I can't, I can't believe it.
+"
+13 11 Stan "Will you stop that?
+"
+13 11 Stan "Things are bad enough without you being a smartass! There's whales out there being slaughtered right now and I can't do anything about it, so just keep quiet!
+"
+13 11 Stan "You speak English.
+"
+13 11 Stan "Why do you do what you do?! Do you know that ninety eight percent of the world is against whaling?! Why can't you just stop?!
+"
+13 11 Stan "Ummm, where did you get that picture?
+"
+13 11 Stan "Dude, it wasn't actually and dolfin and a whale who bombe Hiroshima. It was the-
+"
+13 11 Stan "Oh, right. Look, I... I thnk I can make everything okay here. Can I just use a phone?
+"
+13 11 Stan "Dude, are you sitting at your computer? I need you to do something for me.
+"
+13 11 Stan "Mister Prime Minister, Japanese officials, there's something you need to know. The photo you were given of the Enola Gay was doctored. Because the real bombers feared retaliation so badly that they... simply pointed the finger at somebody else. My government has authorized me to give you the original photo, unaltered, so you can finally know the truth.  Dolphins and whales were just framed by the real bombers.  A chicken and a cow.
+"
+13 12 Stan "Yeah, and they said the weather's gonna be nice like this all day.
+"
+13 12 Stan "Aww! Not those guys again! 
+"
+13 12 Stan "God! Shut up!
+"
+13 12 Stan "God damn it God damn it!
+"
+13 12 Stan "All right, thanks for coming, everyone. As you all know, the Harley problem seems to be getting worse, and nobody is willing to do anything about it.
+"
+13 12 Stan "Now, we have some ideas, and we'd love to hear your ideas, and I think together we can-  ...and I think that together we can come up with a way to get rid of these fags once and for all.
+"
+13 12 Stan "...That makes perfect sense, Butters.
+"
+13 12 Stan "Yes, now get out of here.
+"
+13 12 Stan "Alright, Kyle and I are gonna spray paint messages to the Harley riders; Cartman, you said you had an idea?
+"
+13 12 Stan "Oh that's good.
+"
+13 12 Stan "But that's a lot of seats? How are you going to pull that off?
+"
+13 12 Stan "Clyde, can you take care of getting KFC for Cartman? Kyle and I will get the spray paint cans. If we do this right, we'll be doing the town a huge favor, so let's get to it!
+"
+13 12 Stan "Really nice work, guys.
+"
+13 12 Stan "Yeah, we did that!
+"
+13 12 Stan "Gay people?
+"
+13 12 Stan "Dude, why would we want gay people to get out of town?
+"
+13 12 Stan "Aw crap!
+"
+13 12 Stan "Yeah, a lot of fags aren't gay.
+"
+13 12 Stan "Do you ride a big loud Harley and go up and down the streets, ruining everyone's nice time?
+"
+13 12 Stan "Then you're not a fag.
+"
+13 12 Stan "I don't know.
+"
+13 12 Stan "All right, look, you're driving in your car, okay? And you're waiting to make a left at a traffic signal. The light turns yellow, should be your turn to go, but the traffic coming at you just keeps coming. And even when the light turns red, a guy in a BMW runs the red light so you can't make your left turn. What goes through your mind?
+"
+13 12 Stan "Right. But you're not thinkin' ""Oh, he's a homosexual,"" you're thinkin' ""Oh, he's an inconsiderate douchebag like a Harley rider.""
+"
+13 12 Stan """Bike-curious""! Don't you people keep up with today's lingo at all?!
+"
+13 12 Stan "Isn't this awesome, you guys? I haven't seen a Harley for like three days.
+"
+13 12 Stan "Aw crap! 
+"
+13 12 Stan "We can fix this!
+"
+13 12 Stan "That, that lady said it's because fag still means homosexual in the dictionary. So we just have to convince the dictionary people to change the definition.
+"
+13 12 Stan "Ohh, it all makes sense now. 
+"
+13 12 Stan "There's fags everywhere!
+"
+13 12 Stan "Yes. Yes, sir, you are total fags. 
+"
+13 12 Stan "Yeah yeah, that's totally what a fag does.
+"
+13 12 Stan "But then why are you acting like such fags? I don't understand.
+"
+13 12 Stan "...And that, Mister Editor, is why they are the true definition of fags.
+"
+13 12 Stan "We did it! Yeah!
+"
+13 12 Stan "Today, we've made history.
+"
+13 13 Stan "What the hell do you think you're doing?!
+"
+13 13 Stan "I looked through your stupid book! It's five hundred and forty pages of ripping on Wendy and calling her a slut!
+"
+13 13 Stan """Wendy Testaburger has proven time and time again that she will do anything to pleasure her vagina. Whether it is the school football team or the janitors on their break, Wendy spends her time as president on her knees or on her back taking the old in-out for hours on end""!
+"
+13 13 Stan """Or does she?""
+"
+13 13 Stan "Hey hey, stop reading that!
+"
+13 13 Stan "Listen, just because a guy's voice is on the intercom and his words are in a book, doesn't mean he has any idea what he's talking about!
+"
+13 13 Stan "Wendy, did you see the stuff Cartman is saying about you now?
+"
+13 13 Stan "Well don't you think you should go on his show and defend yourself?! Everyone is starting to think you're a crappy president.
+"
+13 13 Stan "What?!
+"
+13 13 Stan "Dude, what happened? You're not doing the morning announcements anymore?
+"
+13 14 Stan "Okay Cartman, you can stop singing now. 
+"
+13 14 Stan "We're here! It's the water park! 
+"
+13 14 Stan "We got it, Dad.
+"
+13 14 Stan "Well Cartman said he wanted to do the wave pool first, right Cartman?
+"
+13 14 Stan "Dude, this is awesome.
+"
+13 14 Stan "Okay.
+"
+13 14 Stan "Come on Kyle, let's go check out the fireboat.
+"
+13 14 Stan "Aw come on, look at all this water. It doesn't matter if one person pees in it.
+"
+13 14 Stan "Yeah, they do, Kyle.
+"
+13 14 Stan "Come on, show us how long you can hold your breath.
+"
+13 14 Stan "After this, you guys wanna hit the hurricane slides?
+"
+13 14 Stan "Aw come on, Kyle.
+"
+13 14 Stan "Not everybody pees in pools.
+"
+13 14 Stan "Not today... yet.
+"
+13 14 Stan "Well dude, what are you gonna do? Just hang out here at the table all day?
+"
+13 14 Stan "Dude, where have you been?
+"
+13 14 Stan "This is more math than I've ever seen you do.
+"
+13 14 Stan "I'm gonna go on the slides.
+"
+13 14 Stan "This is sweet, huh Kenny? 
+"
+13 14 Stan "Aaaah!  Oh my God, they killed Kenny!
+"
+13 14 Stan "Kyle, quick! You've gotta swim over to us!
+"
+13 14 Stan "Well if you don't swim in you're gonna die!
+"
+13 14 Stan "Kyle, it's just pee! It's not that big a deal!
+"
+13 14 Stan "...Well, not everyone washes their hands after they go to the bathroom.
+"
+13 14 Stan "Come on, dude, you've gotta swim.
+"
+13 14 Stan "Not... all the time.
+"
+13 14 Stan "Why? It's not like you're peeing on your hands! There's more germs on most furniture than there is in pee!
+"
+13 14 Stan "Kyle, come on!
+"
+13 14 Stan "I don't know. 
+"
+13 14 Stan "Who are you?
+"
+13 14 Stan "...Well, it's not like you suddenly have to pee, you're gonna get out of the shower.
+"
+13 14 Stan "That's true dude, didn't you see The Abyss?
+"
+13 14 Stan "Just drink the pee, Kyle.
+"
+13 14 Stan "Come on, dude!
+"
+13 14 Stan "All right, they finally came for us. 
+"
+13 14 Stan "Aw come on, it was just a little pee, Kyle.
+"

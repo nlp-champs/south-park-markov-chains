@@ -1,0 +1,58 @@
+7 3 "Mr. Mackey" "We're gonna talk to you one at a time, boys, m'kay? Kenny, will you step into my office, please?
+"
+7 3 "Mr. Mackey" "Come on, Kenny, let's go, 'k? 
+"
+7 3 "Mr. Mackey" "Uh, that's nice, Officer Barbrady, but we actually don't need to know-
+"
+7 3 "Mr. Mackey" "It's too late, boys, m'kay? We already know everything.
+"
+7 3 "Mr. Mackey" "You all get two weeks of detention, except Eric, who gets one week for being brave.
+"
+7 3 "Mr. Mackey" "Welcome to detention. You will be here till five o'clock, so make good study use of your time. M'kay?
+"
+7 4 "Mr. Mackey" "No war, m'kay?! No war, m'kay?! Oh uh, here you go, boys.  These will help you protest. It's good to see that you care about peace, boys, m'kay? No war, m'kay?!
+"
+7 4 "Mr. Mackey" "Don't you call us un-American! This country was founded on the right to protest! M'kay?
+"
+7 4 "Mr. Mackey" "Well up yours, rednecks!
+"
+7 4 "Mr. Mackey" "Hey... That's a terrific idea!
+"
+7 4 "Mr. Mackey" "All right everyone, thank you all for comin' out to protest the war, m'kay? .
+"
+7 4 "Mr. Mackey" "And now, Randy Marsh is gonna sing a protest song he wrote about the war.
+"
+7 4 "Mr. Mackey" "And now we'd like to bring out a couple of very special South Park students who did a report on what the Founding Fathers would have to say about the war. 
+"
+7 4 "Mr. Mackey" "What?
+"
+7 4 "Mr. Mackey" "The Founding Fathers would have protested like us!
+"
+7 4 "Mr. Mackey" "I guess we... owe you an apology.
+"
+7 4 "Mr. Mackey" "And still tells the world that we don't. 
+"
+7 5 "Mr. Mackey" "That was very good, Kyle. I think the Latino Endowment Council was very happy with your presentation. Looks like you might win. 
+"
+7 5 "Mr. Mackey" "Here she comes! Here she comes!
+"
+7 7 "Mr. Mackey" "We have plenty enough to save our town now!
+"
+7 7 "Mr. Mackey" "It's over, Stanley. What else can we do?
+"
+7 7 "Mr. Mackey" "But, what do we do now? I mean, we can't just stand here and block their way forever.
+"
+7 13 "Mr. Mackey" "M'kay, kids, can I have it quiet, please? M'kay? M'kay, quiet now, the assembly's about to start, m'kay. M'kay, quiet ple-mk-m'kay?  M'kay. Uh, now kids, we have a really fun motivational group today who are gonna talk to you about the dangers of smoking, m'kay? So please give a very big South Park Cows welcome to, ""Butt Out!"" 
+"
+7 13 "Mr. Mackey" "Boys, what are you doing back here?  I asked you a question: What are you doing back here, 'k?!
+"
+7 13 "Mr. Mackey" "What??
+"
+7 13 "Mr. Mackey" "Well hey, if I didn't know any better, I'd think you boys have been smoking!
+"
+7 13 "Mr. Mackey" "Well you'd better not! Because let me tell you some'n' about smokin'!  Uh, smokin's bad, m'kay.  And uh, if you start smokin' at an early age, m'kay, ih it's gonna be bad.  M'kay, because uh, smoking can lead to all kinds of health problems like cancer.  M'kay, and let me tell you something about cancer, m'kay. Cancer's bad. M'kay, and uh, eh, what?  What the?  Holy shit! M'kay?! 
+"
+7 13 "Mr. Mackey" "Wait a minute, what?
+"
+7 13 "Mr. Mackey" "You're right, boys, m'kay?
+"

@@ -30,3 +30,19 @@
 "
 9 2 Chef "I'm alive! 
 "
+9 2 Chef "Mayor, we have got to do somethin' about all these potholes on our roads!
+"
+9 2 Chef "We- 
+"
+9 2 Chef "Yeah. We apologize.
+"
+9 2 Chef "Yeah, yeah! I get it! Fine!
+"
+9 2 Chef "Now, now, don't cry, ladies. Everything's gonna be fine.
+"
+9 2 Chef "...I didn't volunteer!
+"
+9 2 Chef "...Aw dammit! 
+"
+9 2 Chef "I'm alive! 
+"

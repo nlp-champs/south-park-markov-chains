@@ -1998,3 +1998,1003 @@ panting(You guy! You guys! You gotta come down to Cartman's house! You hear Cart
 "
 5 14 Stan "Really?
 "
+5 1 Stan "What?
+"
+5 1 Stan "Yeah - no - I'd, it, it sounds really cool.
+"
+5 1 Stan "So?
+"
+5 1 Stan "What?!
+"
+5 1 Stan "They can't say ""shit"" on television!
+"
+5 1 Stan "Holy fucking shit!
+"
+5 1 Stan "Aw, come, on dude! This is history.
+"
+5 1 Stan "Sh!
+"
+5 1 Stan "Jesus Christ! Another commercial? Are they ever gonna say ""shit?""
+"
+5 1 Stan "Where are you going, Kyle?
+"
+5 1 Stan "But you're gonna miss it! They're gonna say ""shit"" and you're gonna miss it!
+"
+5 1 Stan "Oh.
+"
+5 1 Stan "I can't believe they actually said it. 
+"
+5 1 Stan "Wow! We can say ""shit"" in school now?!
+"
+5 1 Stan "Me neither.
+"
+5 1 Stan "This sucks. Now that ""shit""'s out, it isn't fun to say it anymore.
+"
+5 1 Stan "What's meecrob?
+"
+5 1 Stan "What?
+"
+5 1 Stan "What's that?
+"
+5 1 Stan "What's the Black Death, Chef?
+"
+5 1 Stan "Look, they're puking out their intestines, just like the people here. 
+"
+5 1 Stan "Word of curse?
+"
+5 1 Stan "Because it brings a curse? Like the Black Death.
+"
+5 1 Stan "Holy shit!
+"
+5 1 Stan "Uh oh.
+"
+5 1 Stan "Now what are we gonna do, Chef?
+"
+5 1 Stan "Oh shit!
+"
+5 1 Stan "What are we supposed to do with it?
+"
+5 1 Stan "It might hold the key to a curse.
+"
+5 1 Stan "Dude, we need help from the British!
+"
+5 1 Stan "You know what it is?
+"
+5 1 Stan "Well, yeah, but I don't think that we knew ""curse word"" meant... curse word.
+"
+5 1 Stan "Look, there's the F-word.
+"
+5 1 Stan "All the world destroyed?
+"
+5 1 Stan "Yeah. We all gotta make sure it doesn't come back.
+"
+5 1 Stan "And besides, too much use of a dirty word takes away from its... impact. We believe in free speech and all that, but... keeping a few words taboo just adds to the fun of English.
+"
+5 1 Stan "Yeah! And Kenny didn't die!
+"
+5 1 Stan "Holy shi-  poop.
+"
+5 2 Stan "It's gonna suck. There's gonna be like, new kids there we don't know.
+"
+5 2 Stan "Was your dad in Scouts, Cartman? Oh yeah, you don't have a dad. 
+"
+5 2 Stan "Are you excited for your first night of Scouts, Timmy??
+"
+5 2 Stan "Hey, it's Big Gay Al!
+"
+5 2 Stan "See ya, Dad!
+"
+5 2 Stan "Jimmy's funny, dude.
+"
+5 2 Stan "Hey, I have a great idea! Why don't we see if Jimmy wants to come be in our Scout club?
+"
+5 2 Stan "Hey Jimmy, do you wanna join our bake sale in South Park tomorrow?
+"
+5 2 Stan "Bye, Big Gay Al. We had a great time.
+"
+5 2 Stan "You were right, Dad. Scouts is awesome!
+"
+5 2 Stan "We told ghost stories, a-and learned how to make a tornado in a glass bottle!
+"
+5 2 Stan "And best of all, we met this kid named Jimmy. He's disabled, but he doesn't let it ruin his life! He's awesome!
+"
+5 2 Stan "Cartman, don't say ""use him"", you big silly goose. 
+"
+5 2 Stan "I just... called Cartman a name- he's a, he's a silly goose.
+"
+5 2 Stan "Dad, I was just tryin' tuh-
+"
+5 2 Stan "...Asshole. 
+"
+5 2 Stan "Uh, hello? We are having a bake sale to raise money for scout troop number six nine. Uh, please stop by and give us a hand. And now, for your entertainment, our new best friend, stand-up comic Jimmy! 
+"
+5 2 Stan "Big Gay Al, what are you doing?!
+"
+5 2 Stan "Kicked out? Oh no!
+"
+5 2 Stan "Please, Big Gay Al. We don't wanna go on a camp trip with this guy next week.
+"
+5 2 Stan "What do we want?
+"
+5 2 Stan "When do we want it?
+"
+5 2 Stan "What do we want?
+"
+5 2 Stan "When do we want it?
+"
+5 2 Stan "What do we want?
+"
+5 2 Stan "When do we want it?
+"
+5 2 Stan "What do we want?
+"
+5 2 Stan "When do we want it?
+"
+5 2 Stan "Alright, this looks like the perfect place to get some signatures. 
+"
+5 2 Stan "Alright, let's set up.  Ah hi, we're here to collect signature in support to force the Scouts to accept gays?  Uh, hello, gays in Scouts?  Goddamnit! 
+"
+5 2 Stan "That's a great idea!  Attention, ladies and gentlemen! Now, for your entertainment, stand-up comic, Jimmy!
+"
+5 2 Stan "Dude, this looks like it could get ugly. 
+"
+5 2 Stan "Jesus Christ, dude! 
+"
+5 2 Stan "We did it! We did it!
+"
+5 2 Stan "Huh?
+"
+5 2 Stan "So wait, did we do good?
+"
+5 2 Stan "Timmy, come on! We're gonna be late for Scouts! 
+"
+5 2 Stan "Wow, I never knew Jimmy was gay.
+"
+5 3 Stan "What's going on? 
+"
+5 3 Stan "How'd he do that??
+"
+5 3 Stan "No way!
+"
+5 3 Stan "His a-miracles?
+"
+5 3 Stan "Yeah!
+"
+5 3 Stan "Kyle, I'm starting to think that this is a really bad idea.
+"
+5 3 Stan "No, I'm Stan.
+"
+5 3 Stan "Who are you?
+"
+5 3 Stan "Kyle, I think we may have gotten into something bad here.
+"
+5 3 Stan "Look at us, dude. These people are trying to change us somehow. I think it's time we went home.
+"
+5 3 Stan "I don't care! I'm leaving!  'Scuse me. 
+"
+5 3 Stan "I'm going home.
+"
+5 3 Stan "You said we're free to leave whenever we want
+"
+5 3 Stan "Move out of the way.
+"
+5 3 Stan "I don't wanna talk about it, I jus' wanna leave.
+"
+5 3 Stan "That's okay, I... I changed my mind. I'm... gonna stay.
+"
+5 3 Stan "Okay, it's all clear. 
+"
+5 3 Stan "We're getting out of here. This whole thing has gotten way out of hand.
+"
+5 3 Stan "Come on, Kyle, this is stupid!
+"
+5 3 Stan "A part of what?! Some gaywad magician's crazy life plan?!
+"
+5 3 Stan "No, they've just convinced you that he's a brilliant man! Let's go!
+"
+5 3 Stan "Goddamnit, I'm not going with you! I wanna stay here!
+"
+5 3 Stan "Oh wait, who am I again?
+"
+5 3 Stan "Oh- oh yeah. God- Goddamnnit, hold on a second.  Okay. Now look, dude, I'm getting out of here, and you're a dumbass if you don't come with me!
+"
+5 3 Stan "Kyle, please. You-  You're my best friend.
+"
+5 3 Stan "HaaAAAA! 
+"
+5 3 Stan "Hi, Jesus. It's me,
+"
+5 3 Stan "This guy is going around doing magic tricks and saying they're miracles! My friend Kyle thinks he's totally awesome!
+"
+5 3 Stan "I read in the Bible that you did miracles, too. If you could go in front of these people and do your miracles, then, they'll all see that David Blaine isn't so special.
+"
+5 3 Stan "Can you do it again?
+"
+5 3 Stan "That's it? That's how you did that trick?
+"
+5 3 Stan "That trick sucks, Jesus.
+"
+5 3 Stan "Dude, we have to do something. This guy is performing more miracles in Denver tonight. He's gonna get more followers, and it'll be impossible for me to get Kyle out.
+"
+5 3 Stan "But dude, I'd I don't think you should do that lame water-to-wine trick.
+"
+5 3 Stan "Then what are we going to do.
+"
+5 3 Stan "Super best friends?
+"
+5 3 Stan "To where?
+"
+5 3 Stan "I am ready.
+"
+5 3 Stan "Yeah.
+"
+5 3 Stan "So you mean to tell me that even though people fight and argue over different religions, you guys are all actually friends?
+"
+5 3 Stan "Wow.
+"
+5 3 Stan "I knew it.
+"
+5 3 Stan "Wow, the Moses.
+"
+5 3 Stan "Kyle! Kyle!
+"
+5 3 Stan "Kyle??  Oh my God, they've killed Kenny!
+"
+5 3 Stan "Kyle?  Oh my God, they've killed Kenny!
+"
+5 3 Stan "Oh my God, they've killed Kenny!
+"
+5 3 Stan "Kyle!
+"
+5 3 Stan "Kyle, you can't kill yourself!
+"
+5 3 Stan "Kyle, you have to hold your breath!  Oh, very funny! 
+"
+5 3 Stan "Listen up, everyone!  You don't need David Blaine to tell you how to live. See, cults are dangerous because they promise you hope, happiness and, maybe even an afterlife. But in return, they demand you pay money. Any religion that requires you to pay money in order to move up and... learn its tenets is wrong. See, all religions have something valuable to teach, but, just like the Super Best Friends learned, it requires a little bit of them all.
+"
+5 3 Stan "Your my Super Best Friend too, Kyle.
+"
+5 4 Stan "What's no big deal?
+"
+5 4 Stan "Pubic hair. He's saying he got his first pubic hair.
+"
+5 4 Stan "He's lying. 
+"
+5 4 Stan "We don't wanna see them, Cartman! 
+"
+5 4 Stan "What??
+"
+5 4 Stan "Cartman, you are so goddamned stupid, it's unbelievable.
+"
+5 4 Stan "When you get old enough, you grow your own pubic hair that's attached to you, you fuckin' dumbass!
+"
+5 4 Stan "One please.
+"
+5 4 Stan "Yeah, why should we all care about getting Scott Tenorman back for you?
+"
+5 4 Stan "Oh my God, he killed Kenny.
+"
+5 4 Stan "Got what all figured out?
+"
+5 4 Stan "Yeah.
+"
+5 4 Stan "This is the dumbest thing you've ever done, Cartman.
+"
+5 4 Stan "Oh nothing, it's just cool how you're gonna get Scott Tenorman back. Is Radiohead here yet?
+"
+5 4 Stan "Jesus Christ, dude!
+"
+5 4 Stan "Who are you?
+"
+5 4 Stan "Good call.
+"
+5 5 Stan "Oh man, this is another rerun.
+"
+5 5 Stan "Because I had an itch up my ass.
+"
+5 5 Stan "When are they gonna make new ones?
+"
+5 5 Stan "What's this?
+"
+5 5 Stan "Enough! I know!
+"
+5 5 Stan "Dude! Did you get 'em?
+"
+5 5 Stan "Yep. Tomorrow night.
+"
+5 5 Stan "Ah, I'm sorry, but the four of us can't help tomorrow night.
+"
+5 5 Stan "No, dude, we really, really do.
+"
+5 5 Stan "Huh?
+"
+5 5 Stan "Yeah, he looks terrible.
+"
+5 5 Stan "Uuuuhh.
+"
+5 5 Stan "Phillip? That's not Phillip.
+"
+5 5 Stan "Come on, guys, we're getting to the bottom of this.  'Scuse us.
+"
+5 5 Stan "It's okay. We're the official presidents of the Terrance and Phillip fan club.
+"
+5 5 Stan "You don't understand! We saved Terrance and Phillip's lives once.
+"
+5 5 Stan "Man, this sucks!
+"
+5 5 Stan "I don't think we're female groupies or random sluts.
+"
+5 5 Stan "We're not quadruplets, Terrance. We snuck in that woman's spandex to get in here.
+"
+5 5 Stan "But where's Phillip?
+"
+5 5 Stan "Because, dude, it's Terrance and Phillip.
+"
+5 5 Stan "What if we can get Phillip to agree to get back together. Will you do the Earth Day show for us?
+"
+5 5 Stan "Oh no, dude.
+"
+5 5 Stan "They're not together anymore, dude.
+"
+5 5 Stan "But there's nothing we can do. Phillip is doing Shakespeare in Canada now.
+"
+5 5 Stan "Jesus Tapdancing Christ, is this thing ever gonna end? 
+"
+5 5 Stan "Phillip! Phillip!
+"
+5 5 Stan "Our town in Colorado was chosen to host Earth Day this year and... we need a big act.
+"
+5 5 Stan "Ah, well, we were thinking how cool it would be if you and Terrance got back together for a reunion and-
+"
+5 5 Stan "But we need you!
+"
+5 5 Stan "He'll do it, dude.
+"
+5 5 Stan "Two thousand dollars.
+"
+5 5 Stan "Dude, you didn't tell him Terrance would be there.
+"
+5 5 Stan "I'm sure they'll be here any minute.
+"
+5 5 Stan "Oh my God!
+"
+5 5 Stan "Ee yeah, you must have a lot of catching up to do. But let's rehearse first.
+"
+5 5 Stan "Fine! 
+"
+5 5 Stan "Okay. Okay, I think we lost them.
+"
+5 5 Stan "Guys, we have no choice. We're gonna have to move away. Environmental activists don't use logic or reason.
+"
+5 5 Stan "Go! Run run run! 
+"
+5 5 Stan "Come on, Kenny, hurry up!
+"
+5 5 Stan "They're back!
+"
+5 5 Stan "It sure did.
+"
+5 6 Stan """There you are, Jennifer Lopez!""  ""You've been most uncooperative, Ms. Lopez.""
+"
+5 6 Stan """It's too late for that, Ms. Lopez."" 
+"
+5 6 Stan "Yeah, awesome!
+"
+5 6 Stan "Yeah, awesome!
+Kenny
+panting(You guy! You guys! You gotta come down to Cartman's house! You hear Cartman got a million dollars from his Grandma!)
+"
+5 6 Stan "...Why?
+"
+5 6 Stan "You'd better not be lying, Kenny. 
+"
+5 6 Stan "Oh my God.
+"
+5 6 Stan "Dude, can you loan me twenty bucks for a new jacket?
+"
+5 6 Stan "Yeah, it's unbelievable.
+"
+5 6 Stan "Come on, we gotta see what Cartman is doing with his money. 
+"
+5 6 Stan "Kyle?  Dude, what are you doing here? Everybody's looking for you. Kyle?
+"
+5 6 Stan "Kyle, I, I understand what you mean, but--
+"
+5 6 Stan "Look. Cartman... he thinks he's gonna be happy because he has his own amusement park, but, he's gonna find out that without other people, the rides are totally lame. I mean, who could really have fun by themselves at a theme park? I'll bet he's sick of it already.
+"
+5 6 Stan "Oh, hey dude. Terrance & Phillip is just about to start.
+"
+5 6 Stan "What's that?
+"
+5 6 Stan "Heh, heh.  Sorry.
+"
+5 6 Stan "Dude, just forget about it. We can't let him get to us, or he wins.
+"
+5 6 Stan "That does it, dude!
+"
+5 6 Stan "We're getting into that fatass's park whether he likes it or not! 
+"
+5 6 Stan "Come on, dude!
+"
+5 6 Stan "Aw, crap.
+"
+5 6 Stan "Dude! 
+"
+5 6 Stan "Alright, let's go.
+"
+5 6 Stan "You can't keep us out forever, you fucking fat ass! We'll be back as soon as Kyle's hemorrhoid is better!
+"
+5 6 Stan "You'll see! We'll get in! 
+"
+5 6 Stan "Dude, are you okay?
+"
+5 6 Stan "Well um, ah-I found out that Cartman is letting a few people each day into his theme park. I was thinking we could put on disguises and get in.
+"
+5 6 Stan "Jesus.
+"
+5 6 Stan "Goddamnit Cartman, let me in!
+"
+5 6 Stan "It is stupid, Cartman! You made Kyle lose his faith in God, you fat asshole!
+"
+5 6 Stan "AGGH!  This isn't over, Cartman!
+"
+5 6 Stan "Kyle, you gotta see!! 
+"
+5 6 Stan "Doctor, can we wheel Kyle out of here on his bed with the machines attached?
+"
+5 6 Stan "Then damnit man, do it!
+"
+5 6 Stan "Look, Kyle. Look. 
+"
+5 6 Stan "Kyle!
+"
+5 6 Stan "Look, Kyle, Cartman is totally miserable.  Even more miserable than he was before because he's had his dream and lost it.
+"
+5 7 Stan """So, we meet again, Jennifer Lopez!""
+"
+5 7 Stan """That's what you said last time , but obviously we must now resort to more drastic measures"" 
+"
+5 7 Stan """Scream for me, bitch!""
+"
+5 7 Stan "Oh no, what now?
+"
+5 7 Stan "Cartman, what the hell are you doing?
+"
+5 7 Stan "Whoa, cool! 
+"
+5 7 Stan "I had no idea dogs made milk; do it again.
+"
+5 7 Stan "Wow, you learned all this from the fifth graders?
+"
+5 7 Stan "Mom! Dad! You gotta see this!
+"
+5 7 Stan "But it's super-cool!
+"
+5 7 Stan "Red rocket. Red rocket, Sparky. Red rocket.
+"
+5 7 Stan "Red rocket, red rocket!
+"
+5 7 Stan "I'm beating off the dog. Red rocket, red rocket. 
+"
+5 7 Stan "My room? Why?
+"
+5 7 Stan "No!
+"
+5 7 Stan "Why?! What's the big deal?!
+"
+5 7 Stan "I was doing ""red rocket"" to make the dog's milk come out.
+"
+5 7 Stan "Huh??
+"
+5 7 Stan "What things??
+"
+5 7 Stan "No!
+"
+5 7 Stan "Dude, haven't you ever had intercourse, Mr. Mackey?
+"
+5 7 Stan "It's dumb. Mr. Mackey doesn't teach us nothin'.
+"
+5 7 Stan "Yeah.  Hey Wendy, did you guys get-
+"
+5 7 Stan "You guys, we just wanna know if you-
+"
+5 7 Stan "Why?
+"
+5 7 Stan "...A what?
+"
+5 7 Stan "Dude, Mr. Mackey didn't know anything about anything.
+"
+5 7 Stan "But Wendy, we don't understand how that-
+"
+5 7 Stan "Dude, we gotta go get condoms quick.
+"
+5 7 Stan "Yeah, we need condoms!
+"
+5 7 Stan "Why does that matter?
+"
+5 7 Stan "Well, I'm glad this lady's on our side.
+"
+5 7 Stan "Doesn't it give any other directions?
+"
+5 7 Stan "Don't look at Butters' schlong, gaymo!
+"
+5 7 Stan "How do you feel?
+"
+5 7 Stan "Alright, here, everybody.  Tweek, give everyone a rubber band. Hey, somebody's gotta help Timmy put his condom on.
+"
+5 7 Stan "Man, this condom's driving me crazy.
+"
+5 7 Stan "From sex??
+"
+5 7 Stan "All this time... It's the girls that give us diseases!
+"
+5 7 Stan "Yeah, come on guys, this is war! 
+"
+5 7 Stan "Ha! They're your diseases!
+"
+5 7 Stan "That does it! Attack! 
+"
+5 7 Stan "We just didn't want the girls giving us diseases.
+"
+5 7 Stan "But Chef, when is the right age for us to start having sex?
+"
+5 7 Stan "Well, I guess we got a while to wait before we have to worry about sex and diseases, huh, Wendy?
+"
+5 8 Stan "HA, I blew your head off!
+"
+5 8 Stan "Jesus, is Cartman still in the bathroom?
+"
+5 8 Stan "Dude, he's in there punishing my toilet.
+"
+5 8 Stan "Come on, Cartman! You're missing the game!
+"
+5 8 Stan "Yeah. Hey Mom, Cartman found a bloody cotton thing in the bathroom.
+"
+5 8 Stan "What is it, Mom?
+"
+5 8 Stan "The 2001 Okama GameSphere?
+"
+5 8 Stan "There it is. The Okama GameSphere. 
+"
+5 8 Stan "What's that?
+"
+5 8 Stan "Alright, alright, but you guys gotta see if you can sleep over for the rest of the weekend.  It's Saturday at 2:30 - that means we have... 39 hours to play GameSphere until school on Monday!
+"
+5 8 Stan "What?
+"
+5 8 Stan "Dude, we got GameSphere.
+"
+5 8 Stan "What?
+"
+5 8 Stan "...O-kay.
+"
+5 8 Stan "No. 
+"
+5 8 Stan "G'night Mom, thanks for GameSphere.
+"
+5 8 Stan "Oh, yeah, we got baseball practice today. God damnit!
+"
+5 8 Stan "Well, it's alright. We can still play for  six more hours, and then we'll go play baseball.
+"
+5 8 Stan "Okay, we will.
+"
+5 8 Stan "Oh, dude! Did you see that? I cut off your face and ate it!
+"
+5 8 Stan "No no, it's okay, Mom. We c-we can't go to baseball practice 'cause Kyle has cancer.
+"
+5 8 Stan "Oh, uh, I'm sick.
+"
+5 8 Stan "But Mom...
+"
+5 8 Stan "Can't believe we have to go to school!
+"
+5 8 Stan "We just have to try and make the day go as fast as possible so we can get back to GameSphere. 
+"
+5 8 Stan "Fine.
+"
+5 8 Stan "This is gonna be one looong-ass day. 
+"
+5 8 Stan "That was the longest day of school ever!
+"
+5 8 Stan "It... it was right here.
+"
+5 8 Stan "Hello?
+"
+5 8 Stan "What? Who-who is this?
+"
+5 8 Stan "Don't hurt it! 
+"
+5 8 Stan "They've taken it. They've taken our Okama GameSphere.
+"
+5 8 Stan "Towelie!
+"
+5 8 Stan "I don't know. They guy on the phone thought we had Towelie, so now we gotta find him.
+"
+5 8 Stan "This is hopeless. We're never gonna find him.
+"
+5 8 Stan "Hey yeah.  Well guys, let's go to the swimming pool!  Aaah. Let's go take a shower!  Let's go waterskiing!
+"
+5 8 Stan "Come on, dude! 
+"
+5 8 Stan "They said the gas station outside of town.
+"
+5 8 Stan "Who is that? 
+"
+5 8 Stan "'Scuse me, can we have our Okama GameSphere back? We just wanna play video games.
+"
+5 8 Stan "You called us and said if we brought the towel you'd give us our video game back.
+"
+5 8 Stan "Goddamnit, what now?!
+"
+5 8 Stan "Agh. Come on, they've gotta have our video game around here somewhere. 
+"
+5 8 Stan "Where is our Okama GameSphere?
+"
+5 8 Stan "Do you know where he's talking about, Towelie?
+"
+5 8 Stan "Alright, we're gonna have to use this truck. Come on, guys. 
+"
+5 8 Stan "A little more gas, Kenny. 
+"
+5 8 Stan "Brake, Kenny, brake. 
+"
+5 8 Stan "Dude, don't you remember where it is?
+"
+5 8 Stan "Alright, so where is it?
+"
+5 8 Stan "Alright, that does it! Brake angrily, Kenny!  Now listen, Towelie, we've just about had it with you!
+"
+5 8 Stan "What?
+"
+5 8 Stan "Ah hi, is this where our Okama GameSphere is?
+"
+5 8 Stan "We don't care.
+"
+5 8 Stan "Dude, we don't care.
+"
+5 8 Stan "We... don't... care.
+"
+5 8 Stan "Don't care, don't care, don't care.
+"
+5 8 Stan "Can you tell us where ""that"" is, please?
+"
+5 8 Stan "We're not doing it for the world, we're doing it for our video game. God, are you deaf?
+"
+5 8 Stan "Yeah. 
+"
+5 8 Stan "What?
+"
+5 8 Stan "So that'd be, like what, eight hours we could play before school?
+"
+5 8 Stan "Hurry up, stupid parachute!
+"
+5 8 Stan "Come on, Towelie! The guy said you have the security system in your memory banks.
+"
+5 8 Stan "Oh, God damnit! Alright, fine!  Here's your stupid lighter. 
+"
+5 8 Stan "No, Towelie, the entry code!
+"
+5 8 Stan "God-damnit, I guess we're gonna have to climb the stupid fence.
+"
+5 8 Stan "Do you have our Okama GameSphere?
+"
+5 8 Stan "Oh God, don't care, don't care.
+"
+5 8 Stan "So let me get this straight: Our Okama GameSphere is back at Tynacorp.
+"
+5 8 Stan "But we don't care!
+"
+5 8 Stan "We're just going in to get our video game back.
+"
+5 8 Stan "Hello? Hello, anybody here? 
+"
+5 8 Stan "Ohmigod, look! 
+"
+5 8 Stan "Aw, sweet, it still saved our plays. 
+"
+5 8 Stan "Oh, there's gold. Get the gold, Kenny!
+"
+5 8 Stan "Hurry up, Kyle! This place is coming apart! 
+"
+5 8 Stan "Aw, crap!
+"
+5 8 Stan "Come on, guys. Let's go play video games!
+"
+5 8 Stan "Oh, dude, we finished level 50!
+"
+5 8 Stan "Alright, guys, focus. Looks like this is gonna be an underwater level.
+"
+5 9 Stan "Butters, what the hell are you doing?
+"
+5 9 Stan "Yeah! If you don't have a gas mask, you're gonna get smallpox or anthrax!
+"
+5 9 Stan "There's nothing you can do except stop breathing.
+"
+5 9 Stan "Hey Mom, door bell's ringin'.
+"
+5 9 Stan "Hey, look at what the postman brought me! It's a big brown package from Afghanistan!
+"
+5 9 Stan "We sent the Afghani kids some dollars - they must have sent us something cool in return! &lt;/i&gt; Do you have some scissors to get this open?
+"
+5 9 Stan "Well alright. 
+"
+5 9 Stan "We got a package from the kids we sent dollars to. They sent us something back.
+"
+5 9 Stan "Oh, it's just a goat. 
+"
+5 9 Stan "Hey there, little guy.
+"
+5 9 Stan "I told you: those Afghan kids just wanted to give us something back for giving them four dollars.
+"
+5 9 Stan "Yu- you're gonna have to take it home with you, Kyle.
+"
+5 9 Stan "Kenny?
+"
+5 9 Stan "My parents will never let me keep a goat
+"
+5 9 Stan "No, we're not gonna kill it, Cartman! We'll just have to  take the return address and mail it back to the kids in Afghanistan. Come on, goat. 
+"
+5 9 Stan "Excuse me, we wanna overnight this goat to Afghanistan, please?
+"
+5 9 Stan "They're not.
+"
+5 9 Stan "Well yeah! The military planes. Come on, goat, we'll put you on one of them. 
+"
+5 9 Stan "I don't care! We're going!
+"
+5 9 Stan "Okay, thanks, Towelie. 
+"
+5 9 Stan "Goddamnit, get the hell out of here, Towelie!
+"
+5 9 Stan "Alright, come on. We just gotta get the goat on one of these planes.
+"
+5 9 Stan "Okay, it's clear. Come on! 
+"
+5 9 Stan "Well, uh, we've gotta get Miss Nicks on the plane to Afghanistan, guys.
+"
+5 9 Stan "Ah, sorry. Miss Nicks isn't answering any more questions.
+"
+5 9 Stan "'K, let's put him on here. 
+"
+5 9 Stan "Shhh. There we go. You're gonna be okay, goat. You'll be back in Afghanistan in about 20 hours.
+"
+5 9 Stan "Dude, looks like we're going tooh... Afghanistan.
+"
+5 9 Stan "Twenty hours!
+"
+5 9 Stan "Alright alright, let's just get the goat back to his home!  We have to find this address. 
+"
+5 9 Stan "Hey look! There's a taxi! 
+"
+5 9 Stan "Hello. We need to go...  here. 
+"
+5 9 Stan "I think so. 
+"
+5 9 Stan "A-ah, hi. We're from America.  Uh, we sent you the dollar? Uh, the four dollars? You, you sent us this goat?
+"
+5 9 Stan "Here. Wu-we don't want it.
+"
+5 9 Stan "No, dude, we're n- we're not ungrateful. It's just... none of us can keep the goat.
+"
+5 9 Stan "Oh uh, and here.  Take this American flag as... a gift. 
+"
+5 9 Stan "Yeah, they told us in school that everyone but terrorists love America.
+"
+5 9 Stan "Hey! Hey, open the door!
+"
+5 9 Stan "How come they hate America so much? What the hell did we do?
+"
+5 9 Stan "Alright.  Oh look, he's following us. It's so sad.
+"
+5 9 Stan "What?  Howdy. 
+"
+5 9 Stan "Cartman, you stupid asshole! 
+"
+5 9 Stan "You've gotta listen to me! We're not spies! 
+"
+5 9 Stan "Dude, these people are insane.
+"
+5 9 Stan "Hey, what are you guys doing here?
+"
+5 9 Stan "Hey, shut up, kid. America didn't start this war.
+"
+5 9 Stan "But why? Why does a third of the world hate us?
+"
+5 9 Stan "...That doesn't make sense. You guys are just buttholes!
+"
+5 9 Stan "...He's got us there, dude. 
+"
+5 9 Stan "Hey, wait a minute. You know, you guys should know one thing.  Most people in America are good people. We just try to live day by day, like you guys do. Maybe if you took some time to see all the great things about our country, you'd see... we're not so different after all.
+"
+5 9 Stan "Oh... Well, I guess, maybe, someday, we can learn to... hate you too.
+"
+5 9 Stan "Come on, let's go get to the plane. 
+"
+5 9 Stan "No, dude. America may have some problems, but it's our home. Our team. And if you don't wanna root for your team, then you should get the hell out of the stadium.
+"
+5 9 Stan "Go America.
+"
+5 9 Stan "Yeah, go Broncos.
+"
+5 10 Stan "I didn't smile. 
+"
+5 10 Stan "Did you go yet?
+"
+5 10 Stan "What's he want?
+"
+5 10 Stan "Goddamnit Cartman, what?! 
+"
+5 10 Stan "That isn't funny, Cartman.
+"
+5 10 Stan "...Dude, that's not funny if they're missing their son.
+"
+5 10 Stan "No way! 
+"
+5 10 Stan "Cartman, where are you going?? 
+"
+5 10 Stan "Oh boy.
+"
+5 10 Stan "Yeah. He lives about four houses away in the bad side of town.
+"
+5 10 Stan "Yeah, you missed them turning around.
+"
+5 10 Stan "What?
+"
+5 10 Stan "Yeah, dude, we'll show you. They're over at Kenny's.
+"
+5 10 Stan "How the hell should we know? 
+"
+5 10 Stan "There's these two people with asses where their heads should be.
+"
+5 10 Stan "But dude, you gotta see it; it's hysterical!
+"
+5 10 Stan "Why are you wearing a paper bag on your head?
+"
+5 10 Stan "Dude, the ass-faces' son is Ben Affleck!
+"
+5 10 Stan "Hey, you're laughing, Cartman.
+"
+5 10 Stan "Huh?
+"
+5 10 Stan "Oh, you're right. Cartman had a feeling of remorse.
+"
+5 10 Stan "Wow, Cartman actually felt bad for somebody and couldn't laugh at them.
+"
+5 10 Stan "Yeah, I guess we all are. Maybe things are finally gonna start getting a more sophisticated around here.
+"
+5 11 Stan "Hey dude.
+"
+5 11 Stan "What the hell was that?
+"
+5 11 Stan "I know, dude. Every kid in school wants to kick his ass.
+"
+5 11 Stan "Dude, a self-hating Jew? You are becoming a stereotype.
+"
+5 11 Stan "Book. Later, dude. 
+"
+5 11 Stan "Yeah, as soon as we get to the concourse you'll see how fun it is.
+"
+5 11 Stan "Yeah. He'll be waaay better off back at home. 
+"
+5 11 Stan "So dude, did Cartman's idea work?
+"
+5 11 Stan "Damn!
+"
+5 11 Stan "Yeah, haha.
+"
+5 12 Stan "Your family is rich, dude.
+"
+5 12 Stan "Yeah, dude, your family is so rich they have their own pool table.
+"
+5 12 Stan "Oh hey, dude. Did you bring the movie?
+"
+5 12 Stan "Alright, well, let's just watch the Lion King. Cartman's cheating anyway. 
+"
+5 12 Stan "What's that?
+"
+5 12 Stan "DVD? We don't own a DVD player.
+"
+5 12 Stan "Come on, guys. We'll just have to find other stuff to do. 
+"
+5 12 Stan "I don't know. We don't have horses, so we can't play.
+"
+5 12 Stan "I'll kick you in the nuts, Cartman! 
+"
+5 12 Stan "Oh hey, there's Token. 
+"
+5 12 Stan "Dude, we're gonna play football. Do you wanna play?
+"
+5 12 Stan "Sure, dude, you're our friend.
+"
+5 12 Stan "Dude, just because we rip on you for being rich doesn't mean we don't like you.
+"
+5 12 Stan "Yeah, like we rip on Kyle for being a Jew.
+"
+5 12 Stan "Yeah, I get it for that.
+"
+5 12 Stan "Oh, but we're not gonna rip on you for being rich anymore.
+"
+5 12 Stan "Yeah, so now you're a pussy. Pussaholic.
+"
+5 13 Stan "Well that burned a long time.
+"
+5 13 Stan "Oh dude, there goes one.
+"
+5 13 Stan "What, Butters?
+"
+5 13 Stan "Tell him we're busy.
+"
+5 13 Stan "Alright, let's go see what he wants. 
+"
+5 13 Stan "What?
+"
+5 13 Stan "A boat?
+"
+5 13 Stan "Well WHAT, Cartman?
+"
+5 13 Stan "Cartman, what the hell are you doing with aborted fetuses?!
+"
+5 13 Stan "Stem cells?
+"
+5 13 Stan "Dude, it looks like Cartman and Kenny are ditching school again.
+"
+5 13 Stan "The principal? Aw, come on!
+"
+5 13 Stan "Wait. What's going on here? 
+"
+5 13 Stan "Well how sick?
+"
+5 13 Stan "...but... the doctors are gonna make him better, right?
+"
+5 13 Stan "Mom? That's what hospitals are for. They, they can make him better.
+"
+5 13 Stan "...But... he's our... fu... fufu- friend.
+"
+5 13 Stan "No! This can't happen! Kenny can't die! Kenny can't die!! 
+"
+5 13 Stan "Don't you say that! Kenny's not gonna die!
+"
+5 13 Stan "I- 
+"
+5 13 Stan "I can't, I just can't.
+"
+5 13 Stan "I can't see him like that, Kyle. All those hoses and wires. He's a kid, dude. He's s'posed to be running around and laughing.
+"
+5 13 Stan "And what are we supposed to do, huh?! Stand in that room and keep making small talk?! Make believe like everything's okay?! I CAN'T DO IT!
+"
+5 13 Stan "Just leave me alone!
+"
+5 13 Stan "I'm not the one who's leaving, he is! 
+"
+5 13 Stan "Hey Chef.
+"
+5 13 Stan "Bad.
+"
+5 13 Stan "Why would God let Kenny die, Chef? Why? Kenny's my fr-f-f-friend. Why can't God take someone else's f-f-friend?
+"
+5 13 Stan "But then, why does God give us anything to start with?
+"
+5 13 Stan "I think I understand.
+"
+5 13 Stan "Yeah. I'm gonna see my friend, because he needs me right now.
+"
+5 13 Stan "Hey, Kenny!  Oh no.  No.
+"
+5 13 Stan "But...  I didn't get to see him. Hell I, I didn't get to sssay good-bye.  Did he say anything before he went?
+"
+5 13 Stan "I let Kenny down. I'm his worst f-f-f-friend. 
+"
+5 13 Stan "What, Cartman? What's happened?
+"
+5 13 Stan "This whole time, you were just using Kenny's illness to lift the ban on stem cell research so you could sell your stupid fetuses?
+"
+5 13 Stan "Hey, I wasn't Kenny's worst f-f-f-friend!  Cartman was! 
+"
+5 14 Stan "Butters was missing?
+"
+5 14 Stan "Damn, dude.
+"
+5 14 Stan "Wow dude, your dad's a perv and your mom tried to kill you.
+"
+5 14 Stan "Really?
+"

@@ -1,0 +1,44 @@
+12 1 "Mr. Mackey" "Eric? Come on in, your friends want to say ""Hi"", m'kay? 
+"
+12 1 "Mr. Mackey" "Eric, that is not appropriate behavior, m'kay? You cannot purposely infect other kids with your disease!
+"
+12 1 "Mr. Mackey" "Kyle, the thing about tattlin' is, eh tattlin's bad. M'kay, because nobody likes a tattle-tale, m'kay?
+"
+12 3 "Mr. Mackey" "M'kay, kids, we have something very serious we need to discuss today, hm'kay? It appears that some kids in school are getting high by choking themselves. Some kids call it ""The Choking Game"", hm'kay but, but choking yourself is bad. Hm'kay? Don-, don't do that. Hm'kay?
+"
+12 3 "Mr. Mackey" "Schoolchildren are often experimenting with dangerous ways to get high, hm'kay, like sniffin' glue, guzzlin' cough medicine, huffin' paint, hm'kay? But they're all bad. M'kay?
+"
+12 3 "Mr. Mackey" "Well, it's a it's not actually cat urine, but male cats, when they're marking their territory, uh spread concentrated urine to fend off other male cats and... a-and that could get you really high. M'kay? Re-really reeeally high. Okay?  Probably shou-shouldn't have told you that just now. Hm'kay? Tha, that was probably bad.
+"
+12 4 "Mr. Mackey" "Students, quiet please, m'kay? As you may or may not know, today is Canada Appreciation Day.
+"
+12 4 "Mr. Mackey" "M'kay, so we've been asked to show you a video from the World Canadian Bureau. Uh start the tape please? 
+"
+12 5 "Mr. Mackey" "Uh, we think it's best you not teach until you get your personal life in order, m'kay? 
+"
+12 5 "Mr. Mackey" "Uh, ""commend"" means you've done a great job, Eric. Hm'kay?
+"
+12 9 "Mr. Mackey" "Welcome to detention, m'kay? You are here until your parents come and pick you up. Use your time to study. 
+"
+12 9 "Mr. Mackey" "Eric, get your buns back over here, m'kay?!
+"
+12 9 "Mr. Mackey" "Wendy?
+"
+12 9 "Mr. Mackey" "Eh somebod - somebody call the principal! 
+"
+12 12 "Mr. Mackey" "With an inexperienced man as President, we do know it! He is right! Game over, man! Okay?!
+"
+12 13 "Mr. Mackey" "Uh, what's going on here, Mr. Gueermo?
+"
+12 13 "Mr. Mackey" "Third team foul on Westchester Bobcats, m'kay. Ball goes back over to the Cows.
+"
+12 13 "Mr. Mackey" "Just a minute to go in the first quarter. 
+"
+12 14 "Mr. Mackey" "M'kay, so now the computer will show a command bar, m'kay, and we type in ""x = y + 1"". Mkay, and then it says we hit Command-Y to bring up the menu screen.
+"
+12 14 "Mr. Mackey" "M'kay, now right-click on menu item ""Equate O"" and type in ""input y"".
+"
+12 14 "Mr. Mackey" "M'kay, let's see, uh the right-click is the upper-right...  uhhh, but then what the hell is the...?  Okay kids, I'm gonna need to get some clarification on this. Uh, just keep entering the calculations; I'll be right back, m'kay.
+"
+12 14 "Mr. Mackey" "Here's a couple more, Principal Victoria, hm'kay.
+"

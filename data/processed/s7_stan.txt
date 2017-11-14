@@ -1808,3 +1808,908 @@ Want to-
 "
 7 15 Stan "Oh well. Maybe we'll get to have a Christmas adventure next year. 
 "
+7 1 Stan "Dude, sweet! 
+"
+7 1 Stan "Dude! Visitors!
+"
+7 1 Stan "That wasn't a dream Cartman, those were visitors!
+"
+7 1 Stan "Visitors are real. They...  Wait a minute. This has all happened before.
+"
+7 1 Stan "No, dude, this happened before! Aliens put some device in you and then we tied you up to a tree and you went up on their ship! You don't remember that?
+"
+7 1 Stan "I remember this whole thing.  Ike tried to follow you to school. You kicked him, then Cartman told us about his alien dream.
+"
+7 1 Stan "What's gonna be for lunch today, Chef?
+"
+7 1 Stan "Chef, we're in a repeat.
+"
+7 1 Stan "It all started when Cartman got an anal probe.
+"
+7 1 Stan "You mean, at some point in this doctor's life he decided he wanted to work on people's buttholes.
+"
+7 1 Stan "Yeah, like we haven't heard that one a zillion times.
+"
+7 1 Stan "You all right?
+"
+7 1 Stan "Where to now, Chef?
+"
+7 1 Stan "What?
+"
+7 1 Stan "Go on.
+"
+7 1 Stan "Oh, nice going, Cartman!
+"
+7 1 Stan "We wanted to see an alien planet or something.
+"
+7 1 Stan "What do we do???
+"
+7 1 Stan "Let's go!
+"
+7 1 Stan "What is that?
+"
+7 1 Stan "Chef! End of the road! 
+"
+7 1 Stan "It's the police!
+"
+7 1 Stan "Chef!! 
+"
+7 1 Stan "Uh.  Wugh. You guys. Wake up! 
+"
+7 1 Stan "We're in the alien ship.
+"
+7 1 Stan "Guys. Look. 
+"
+7 1 Stan "My God, do you guys realize? This is only the second time we've ever been in outer space.
+"
+7 1 Stan "Uh oh. This must be the head alien guy.
+"
+7 1 Stan "Dad?
+"
+7 1 Stan "Yeah, that's like that stupid movie, Contact.
+"
+7 1 Stan "Okay okay, take the form of something else!
+"
+7 1 Stan "Nno, that's stupid too. 
+"
+7 1 Stan "No! 
+"
+7 1 Stan "I like it.
+"
+7 1 Stan "You mean, the thing in Cartman's ass?
+"
+7 1 Stan "Television? 
+"
+7 1 Stan "Our planet is just a reality-TV show?
+"
+7 1 Stan "Why?? Because you're playing with people's lives! You're turning people's problems into entertainment!
+"
+7 1 Stan "Oh shit, did we do that?
+"
+7 1 Stan "Wait! Wait, they they can't do this! Uh, let us talk to the network heads!
+"
+7 1 Stan "Please, take us to them! Please!
+"
+7 1 Stan "Oh, uh... we have a three o'clock meeting with the network heads?
+"
+7 1 Stan "Uh, Earth?
+"
+7 1 Stan "Look, we just want to talk to you about the show.
+"
+7 1 Stan "But sirs, we think our show is just getting good.  I mean, we're just now starting to see people get really pissed off at each other.
+"
+7 1 Stan "Look, there's five billion people on our show. You just can't up and cancel on us.
+"
+7 1 Stan "Dude, we're trying to save our planet here?!
+"
+7 1 Stan "Sirs, uh, if you'll just let-
+"
+7 1 Stan "Dude, I have no idea what we're seeing right now, but I have a feeling it's really, really wrong. 
+"
+7 1 Stan "No, wait. We won't tell anybody, if you don't cancel our show!
+"
+7 1 Stan "I'm sure you'll see that if you give our world time, it will become even more outrageous and violent.
+"
+7 1 Stan "Chef, Kenny has a picture of two green things sucking each other's shoulders. 
+"
+7 2 Stan "Look, dude. Christopher Reeve, dude. 
+"
+7 2 Stan "Yeah dude, not cool.
+"
+7 2 Stan "Uh, hoo. Guys, I think we'd better stay out of this one.
+"
+7 2 Stan "Oh hey Jimmy, hey Timmy.
+"
+7 2 Stan "That's nice, guys. We're just gonna stay out of this one. 
+"
+7 2 Stan "Cartman, trust me.  We don't want any part in this one.
+"
+7 2 Stan "Stay clear, guys, stay clear.
+"
+7 2 Stan "Dude, I am so glad we stayed out of that one.
+"
+7 3 Stan "Weelll, art is just kinda... for gaywads.
+"
+7 3 Stan "See?
+"
+7 3 Stan "Mrs. Streible thinks she's so cool!
+"
+7 3 Stan "Like what?
+"
+7 3 Stan "Fine! But we'll have the last laugh tonight, artwhore!
+"
+7 3 Stan "D'you think that's enough?
+"
+7 3 Stan "Okay.
+"
+7 3 Stan "Is this the right house?
+"
+7 3 Stan "Kyle, we all agreed to do this!
+"
+7 3 Stan "Let's go, Kyle! 
+"
+7 3 Stan "Cartman's right, Kyle. We're all in this together.
+"
+7 3 Stan "We'd better go over our story again so we don't screw it up.
+"
+7 3 Stan "Yes, dude!
+"
+7 3 Stan "Look, Kyle, just let Cartman do all the talking, okay? He's better at being in trouble than anybody.
+"
+7 3 Stan "What about him?
+"
+7 3 Stan "Butters. 
+"
+7 3 Stan "So what should we do?
+"
+7 3 Stan "... Dude, we're not killing Kyle!
+"
+7 3 Stan "Kyle's not gonna say anything, alright?
+"
+7 3 Stan "Cartman, what are you doing?
+"
+7 3 Stan "You don't have to kill Kyle, dude. The police made an arrest. And the person confessed!
+"
+7 3 Stan "They say they got the guy that did it down at the police station.
+"
+7 3 Stan "We heard that you have the person who TP'ed the art teacher's house? Is that true?
+"
+7 3 Stan "Butters?
+"
+7 3 Stan "He feels guilty for doing it and for letting someone else pay for it.
+"
+7 3 Stan "It doesn't matter if you get in trouble of not, you can still feel bad.  I think you're right, Kyle. Maybe we should confess.
+"
+7 3 Stan "Tomorrow in school we'll all tell the teacher it was us, and let her decide what to do.  And Cartman, if you had any thread of a conscience at all, you'll do the same! 
+"
+7 3 Stan "What is it, Cartmam? 
+"
+7 3 Stan "Cartman, we're confessing tomorrow in school, and that's final.
+"
+7 3 Stan "You, you do? How?
+"
+7 3 Stan "Wugh! Two weeks of this!
+"
+7 4 Stan "Let's go see a movie! 
+"
+7 4 Stan "Uh... war?
+"
+7 4 Stan "Yeah.  War is not my voice.
+"
+7 4 Stan "You're gonna read this stuff and study like the rest of us!
+"
+7 4 Stan "No, you just have to study.
+"
+7 4 Stan "Just face it, Cartman. You're gonna have to study!
+"
+7 4 Stan "How?!
+"
+7 4 Stan "Cartman?
+"
+7 4 Stan "Oh no...
+"
+7 4 Stan "Uh Cartman, I think that's a really bad idea.
+"
+7 4 Stan "Aww crap.
+"
+7 4 Stan "I gues we're just gonna have to do it with the three of us! Come on, guys!
+"
+7 4 Stan "Okay, so Thomas Jefferson wrote the Declaration of Independence, then the Continental Congress-
+"
+7 4 Stan "Dad, we have to study. Mr. Garrison is making us do a presentation on what the Founding Fathers would say about the war.
+"
+7 4 Stan "Oh, no, nononono.
+"
+7 4 Stan "Actually, we hadn't really come to a decision-
+"
+7 4 Stan "Kenny, no- ohhh! Awww.  Awww, now we lost two in our study group!
+"
+7 4 Stan "Uh, we didn't do it.
+"
+7 4 Stan "Well, first we lost one study partner when Cartman put himself in the hospital, and then they took Kenny away, and then Kyle forgot to set his clock ahead for Dalight Saving, so we couldn't find anything in the history books about Iraq and then-
+"
+7 4 Stan "He does? 
+"
+7 4 Stan "Can't be
+"
+7 4 Stan "What the hell are they doing now?
+"
+7 5 Stan "Look, we're not going in there, so just-! Wait, why the hell am I talking to your hand?  Look, we're not going in there, so just knock it off!
+"
+7 5 Stan "What are you gloating about?
+"
+7 5 Stan "What's the matter?
+"
+7 5 Stan "What's she doing?
+"
+7 5 Stan "I don't know, meh, maybe he can't help it.
+"
+7 5 Stan "Dude, do you really he would go through all this just to make us feel dumb?
+"
+7 5 Stan "Cartman, we decided that if you can be mature and admit to everyone that you've gotten yourself into this mess, then we'll help you.
+"
+7 6 Stan "All right, sir, well, please call us if you need anything. 
+"
+7 6 Stan "It's a great idea, we just have to keep working at it. 
+"
+7 6 Stan "Hello, ma'am, we're detectives with the South Park Crime Unit. Do you have any crimes you need to be solved, for a dollar?
+"
+7 6 Stan "Have you reported this to any other authorities?
+"
+7 6 Stan "We're on the case.
+"
+7 6 Stan "Detective McCormick found something interesting. 
+"
+7 6 Stan "You said you set the pie in the window sill, where it must have sat for some time.  But its sweet smell attracted the attention of somebody. 
+"
+7 6 Stan "His plan was to use a hammer.
+"
+7 6 Stan "Then to make it impossible for police to identify the body, he'd use a shovel to remove your head. 
+"
+7 6 Stan "The arms and legs he would dissolve with acid and lye in the bathtub. 
+"
+7 6 Stan "Just the news.
+"
+7 6 Stan "Hey, you owe us a dollar, lady.
+"
+7 6 Stan "Wow, look, you guys! Our first dollar! 
+"
+7 6 Stan "Yes it is!
+"
+7 6 Stan "All right, Sarah, come over here.  Now, I want you to describe what the doll looks like to our sketch artist, Kenny.
+"
+7 6 Stan "You got it, Ken? 
+"
+7 6 Stan "Put that away, dude! 
+"
+7 6 Stan "Right, so it's possible that the thief sat out in that tree.  He would have watched Sarah with the doll, possibly while cutting the palms of his hands with a large knife.  The pain gave him sick pleasure.
+"
+7 6 Stan "Hey, kid, what are you doing?
+"
+7 6 Stan "Detective Marsh. I'm in charge of this investigation!
+"
+7 6 Stan "Aw crap!
+"
+7 6 Stan "Son of a bitch stupid FBI!
+"
+7 6 Stan "No! We're not gonna stop playing detectives! We've just gotta find that doll before thos FBI guys do.
+"
+7 6 Stan "We're gonna have to just start bringing in people for questioning.
+"
+7 6 Stan "They've gotten really good at this good cop-bad cop thing.
+"
+7 6 Stan "It's that thing we learned about in school where you pull on your wiener until white stuff comes out.
+"
+7 6 Stan "Cartman! Cartman! We just got a tip that a doll was found near Fosse's house!
+"
+7 6 Stan "Okay, okay. Ready? Break the door down! 
+"
+7 6 Stan "South Park Junior Detectives! We know you have Sarah Peterson's doll!
+"
+7 6 Stan "I don't know.
+"
+7 6 Stan "Dude, we just can't tell on them.
+"
+7 6 Stan "Jesus! They're gonna kill her!
+"
+7 6 Stan "Hey, you buttholes can't play FBI here!
+"
+7 6 Stan "We're gonna charge the front door and go get it.
+"
+7 6 Stan "Just because your parents can afford better toys than ours doesn't make you better than us!
+"
+7 6 Stan "We go get the doll ourselves.
+"
+7 6 Stan "That's right.  But they didn't say anything about going in the back.
+"
+7 6 Stan "Bang bang bang! I got you, Fosse!
+"
+7 6 Stan "Did so!
+"
+7 6 Stan "We got it.
+"
+7 6 Stan "Ms. Peterson, is your daughter home?
+"
+7 6 Stan "We do what we can, sir.
+"
+7 6 Stan "Sure.
+"
+7 6 Stan "I don't know. Let's just hurry up. I wanna get home in time to watch Crime Drama. 
+"
+7 6 Stan "Uh police. Open up. ...Oh crap, did you guys do your math homework?
+"
+7 6 Stan "Damn.
+"
+7 6 Stan "Uh, sir, we just kinda got blind-sided by the-
+"
+7 6 Stan "We just wanna be junior detectives.
+"
+7 6 Stan "It'll get better, guys.
+"
+7 6 Stan "Look, we said we wanted to form a club to protect and serve South Park. We put all this time to it, I mean... What do you guys wanna do, huh? Go back to playing Car Mechanics? Or Laundromat Owners?
+"
+7 6 Stan "I wasn't. We started playing Detective because we wanted our play time to mean something. Or have you forgotten why you joined the force, Kyle?
+"
+7 6 Stan "You guys can go back to playing Laundromat Owners if you want, but... I'm not gonna give those kids playing the FBI a chance to laugh at us. See you guys at school tomorrow.
+"
+7 6 Stan "Nothing, he just told us a bunch of stuff.
+"
+7 6 Stan "No thanks.
+"
+7 6 Stan "Thanks.
+"
+7 6 Stan "...I think I have a better idea.
+"
+7 6 Stan "Yes, I have a suit that needs to be dry-cleaned. And pressed, please.
+"
+7 7 Stan "Wow, dude.
+"
+7 7 Stan "Our whole town, gone. We'd had such great times here. 
+"
+7 7 Stan "We can't let them do it, you guys! We have to find a way to stop those Native Americans!
+"
+7 7 Stan "We shouldn't have to make a bunch of new friends somewhere else. We're a team!
+"
+7 7 Stan "We just gotta figure out a way to raise three hundred thousand dollars! 
+"
+7 7 Stan "We need something that'll get us money tomorrow!
+"
+7 7 Stan "Our moms and dads are the ones who need money, Butters!
+"
+7 7 Stan "Mom! Dad! We figured out a way we could raise three hundred thousand dollars!
+"
+7 7 Stan "No!
+"
+7 7 Stan "I know. So how about we take the ten thousand dollars back to the Indian casino? Tell them, Kyle!
+"
+7 7 Stan "Look, we- we've got nothing to lose.
+"
+7 7 Stan "Dad.  Good luck.
+"
+7 7 Stan "Come on! Come on! 
+"
+7 7 Stan "They, they had it! They freakin' had it!
+"
+7 7 Stan "You totally had it! You had enough to save the town and then some.
+"
+7 7 Stan "A winning streak??!! You played one game!!!!
+"
+7 7 Stan "What???
+"
+7 7 Stan "You people just got greedy, like the Native Americans! 
+"
+7 7 Stan "Dad, what are you doing?! Don't take their dirty money!
+"
+7 7 Stan "Come on, you guys! This is our town!
+"
+7 7 Stan "We can stay. And fight.
+"
+7 7 Stan "Oh sure. Until the Native Americans decide they want that land, too! What if the Native Americans just keep building their casinos and their highways uh, until we have nowhere else to go?? We have to stand up to them now!  Rrrgh! Forget it! Come on, you guys! 
+"
+7 7 Stan "No! We won't let you destroy our town!
+"
+7 7 Stan "Just because you have a piece of paper saying you own it doesn't make it yours. We grew up here. Our parents grew up here. We shop at that Wal-Mart, and eat at that Chili's. We take fish from the streams and bread them and freeze them to make fish sticks. This is not just a town, it is our way of life.
+"
+7 7 Stan "This land is not for sale.
+"
+7 7 Stan "It's all right, dad.
+"
+7 7 Stan "She's hanging in there.  Here, drink some beer. 
+"
+7 7 Stan "You're gonna be all right.
+"
+7 7 Stan "No, Dad, NO.
+"
+7 7 Stan "What can I do?
+"
+7 7 Stan "Cure SARS? Aw, Jesus!
+"
+7 7 Stan "Hey, my name's Stan, and I was-
+"
+7 7 Stan "Uh so, do you know how to cure SARS?
+"
+7 7 Stan "An inward journey? That sounds kind of gay.
+"
+7 7 Stan "Ah! Oh, dude!
+"
+7 7 Stan "Ah, I don't know if I did or not. I, I saw something, someone spoke to me and... told me the middle-class white way to cure SARS.  Campbell's Chicken Noodle Soup, Dayquil, and Sprite.
+"
+7 7 Stan "Dude, who the hell are you?
+"
+7 8 Stan "Oh my God, you guys are not gonna believe what happened to me last night.
+"
+7 8 Stan "So, I'm watching the season premiere of Boy Meets Boy on television, and then Queer Eye for the Straight Guy comes on, right? So I fall asleep in front of the TV, and when I wake up, I see that I've spilled the Coke I was drinking all over my satin pajama top.
+"
+7 8 Stan "I know!
+"
+7 8 Stan "Oh, tell me about it, Ken doll.
+"
+7 8 Stan "You've gotta get with the times, girlfriend.
+"
+7 8 Stan "Oohh my God, you got splotches on your neck. Are you using any exfoliating products at all??
+"
+7 8 Stan "Come on, Kyle! We're giving you a makeover! 
+"
+7 8 Stan "Dude, I can't wait for Wendy to see how gay I look!
+"
+7 8 Stan "All right. Let's work it!  What the...?
+"
+7 8 Stan "Hey Craig.
+"
+7 8 Stan "These guys are trying to say they're gayer than us!
+"
+7 8 Stan "Oh My God, this is not a fad, this is who we are!
+"
+7 8 Stan "We're metrosexual!!
+"
+7 8 Stan "Dude! W-what are you doing?
+"
+7 8 Stan "We're not straight! You're straight!
+"
+7 8 Stan "Wow, is that from Origins?
+"
+7 8 Stan "Well, what can we do about it?
+"
+7 8 Stan "What?? That's stupid. We wouldn't have to kill Kyle! We would just to tell him not to hang around us anymore.
+"
+7 8 Stan "Yeah. Wait, what?
+"
+7 8 Stan "Hey, what's goin' on?
+"
+7 8 Stan "Wow, we look great!
+"
+7 8 Stan "You'd better shut up, Craig.
+"
+7 8 Stan "It is not!
+"
+7 8 Stan "Dad, Craig is trying to say that his dad can out dress you!
+"
+7 8 Stan "Kyle. Hey, ese. You wanna come play catch with us?
+"
+7 8 Stan "Yeah. It's cool, holmes.
+"
+7 8 Stan "Aw Jesus, Kyle, don't be such a whiny little gaywad! Come play catch with us. 
+"
+7 9 Stan "Yeah, dad. We're just rehearsing our band. 
+"
+7 9 Stan "Yeah, and I'm more hip-hop and R-and-B oriented. 
+"
+7 9 Stan "See what?
+"
+7 9 Stan "I don't wanna be in a stupid Christian rock band!
+"
+7 9 Stan "Hey dude.
+"
+7 9 Stan "No, dude, it's cool. Kenny says you can download music for free on the Internet!
+"
+7 9 Stan "You got a computer?
+"
+7 9 Stan "See? Everyone on the Internet copies their music from their CDs, and then we can download them for free and play them on the computer!
+"
+7 9 Stan "Kenny's right. We should download some Judas Priest, too.
+"
+7 9 Stan "What the hell is that?
+"
+7 9 Stan "We're sorry! We'll, we'll never download music for free again!
+"
+7 9 Stan "Boy, I'll say!
+"
+7 9 Stan "Wugh, dude. I can't wait to just go back home and get back to band practice.
+"
+7 9 Stan "Oh yeah.
+"
+7 9 Stan "It is?? 
+"
+7 9 Stan "Yeah, you don't even know anything about Christianity.
+"
+7 9 Stan "What a dumbass. Our band is way cooler than his.
+"
+7 9 Stan "Dude, I didn't know being in a band was gonna be this tough.
+"
+7 9 Stan "Hey, it's that Lars Ulrich guy!
+"
+7 9 Stan "I can't take this much longer. Maybe we're just, not cut out to be in a band.
+"
+7 9 Stan "What??
+"
+7 9 Stan "Is this for real?? This is for real!
+"
+7 9 Stan "Beside, maybe our sound would have gotten downloaded for free, but if they were good songs then people still would have bought tickets to see our band in concert. 
+"
+7 9 Stan "So... Dude, what are you gonna do about your bet with Cartman. Are you- gonna pay 'im?
+"
+7 9 Stan "I thought albums win either gold or platinum.
+"
+7 9 Stan "Hm. Guess he got what he deserved. 
+"
+7 10 Stan "Hey Dad, how come they let old people drive?
+"
+7 10 Stan "But they kill people.
+"
+7 10 Stan "I think old people should have rights, Grandpa. I just don't wanna die.
+"
+7 10 Stan "What is that?
+"
+7 10 Stan "I think so.
+"
+7 10 Stan "What is he saying?
+"
+7 10 Stan "Oh Jesus!
+"
+7 10 Stan "Dad, I'm scared.
+"
+7 10 Stan "I'm not staying the winter in this room! We just need to tell old people they can't drive anymore!
+"
+7 10 Stan "Uh, Grandpa, I don't think you should be driving.
+"
+7 10 Stan "Ah, I think there's a police car behind you, Grandpa.
+"
+7 10 Stan "What's that?
+"
+7 10 Stan "The American Association of Retired Persons.
+"
+7 10 Stan "Hey Dad.
+"
+7 10 Stan "Dad, why is everyone letting old people do this? Why doesn't somebody stop them?
+"
+7 10 Stan "No. Come on, Dad. Can't you guys do it?
+"
+7 10 Stan "All right, check it out. Kenny did reconnaissance on the town. The old people have blockades here  and here . The old ladies are keeping watch in towers around the perimeter, and the leaders along with my grandpa are most likely in the Mayor's office.
+"
+7 10 Stan "Yeah, I remember hearing about that.
+"
+7 10 Stan "All right!
+"
+7 10 Stan "We did it! 
+"
+7 10 Stan "...Yeah, or we just go to Country Kitchen Buffet and lock it from the inside so the seniors can't get in.
+"
+7 10 Stan "Oh, stop it, Dad! This is partly your fault!
+"
+7 10 Stan "Look, all Grandpa wants is not to be talked to like a child. I think half of what he was angry about wasn't what you were doing, but how you were doing it.
+"
+7 10 Stan "And Grandpa, you should be proud that you made it through life to be a senior, but you should also realize that, when you're behind the wheel, you're a killing machine.
+"
+7 10 Stan "Dude, I hate my family. 
+"
+7 11 Stan "Dude, I wonder where Kyle is.
+"
+7 11 Stan "Dude that's not funny. You shouldn't joke about that.
+"
+7 11 Stan "What's Casa Bonita?
+"
+7 11 Stan "Yeah, it'll be awesome. Just the four of us.
+"
+7 11 Stan "Yeah, it's kinda weird.
+"
+7 11 Stan "Yeah.
+"
+7 11 Stan "Dude, we should check over at Stark's Pond. Butters always hangs out over there. 
+"
+7 11 Stan "Really?
+"
+7 11 Stan "Dude, it's Kyle's birthday. We should do whatever he wants to do.
+"
+7 11 Stan "I knew he'd turn up.
+"
+7 11 Stan "Cartman, stop it!
+"
+7 12 Stan "Yeah, screw that kid!
+"
+7 12 Stan "Wull, maybe he won't fight.
+"
+7 12 Stan "All right, I'm gonna go kick his ass. 
+"
+7 12 Stan "No. I'm... I'm gonna kick your ass.
+"
+7 12 Stan "I'm gonna kick your ass...  bitch.
+"
+7 12 Stan "Huh?
+"
+7 12 Stan "Dude, stop it.
+"
+7 12 Stan "Shut up, Butters!
+"
+7 12 Stan "I'm...  going over to his house for dinenr tonight.
+"
+7 12 Stan "He's a really nice kid.
+"
+7 12 Stan "What's that?
+"
+7 12 Stan "No.
+"
+7 12 Stan "The... Book of Mormon? What's that?
+"
+7 12 Stan "Who's Joseph Smith? 
+"
+7 12 Stan "No!
+"
+7 12 Stan "What happened then? 
+"
+7 12 Stan "No, I was supposed to be home at eight.
+"
+7 12 Stan "...Hello?
+"
+7 12 Stan "Hey Dad, how come you never told me about Joseph Smith?
+"
+7 12 Stan "The guy who spoke to God and Jesus.
+"
+7 12 Stan "That's not what the Harrisons said.
+"
+7 12 Stan "The new people that moved in down the street. Mr. Harrison said that Joseph Smith spoke to God and Jesus and they told him none of the religions were right.
+"
+7 12 Stan "They're not kooks, they're cool. I mean, how come we never have a night where we don't watch any TV and we just... do stuff together and eat and drink?
+"
+7 12 Stan "But that's just you and your friends.
+"
+7 12 Stan "Mr. Harrison said that I should be followng Heavenly Father's plan, and I don't even know what that is.
+"
+7 12 Stan "Yeah.
+"
+7 12 Stan "So, how'd it go, Clubber Lange? You kicked Mr. Harrison's ass?
+"
+7 12 Stan "See? That's what happened to me!
+"
+7 12 Stan "That's what they made me think, too!
+"
+7 12 Stan "Shut up, dude. They're a nice family and... Gary is actually really smart and talented.
+"
+7 12 Stan "What's the big deal? Can't I have other friends? You guys should give Gary a chance.
+"
+7 12 Stan "Wow, you made this?
+"
+7 12 Stan "Un, I don't think so, Gary. I have to uh... 
+"
+7 12 Stan "Uh, no. I've got a lot to do.
+"
+7 12 Stan "Yyeah. I had a question about that Joseph Smith guy.
+"
+7 12 Stan "What happened after he found the golden plates buried in the ground?
+"
+7 12 Stan "Yeah, but... how?
+"
+7 12 Stan "Dad, did you know that that Joseph Smith guy read the Book of Mormon out of a hat?
+"
+7 12 Stan "It's just that... the Book of Mormon says a lot of strange stuff, like that Adam and Eve lived in Jackson County, Missouri.
+"
+7 12 Stan "But school taught me that the first man and woman lived in Africa.
+"
+7 12 Stan "Hey Gary.
+"
+7 12 Stan "Dad!
+"
+7 12 Stan "Yeah.
+"
+7 12 Stan "...Wait. Mormons actually know this story and they still believe Joseph Smith was a prophet?
+"
+7 12 Stan "No, it proves he DID make it all up. Are you blind?
+"
+7 12 Stan "No, it's a matter of logic! If you're gonna say things that have been proven wrong, like that the first man and woman lived in Missouri, and that Native Americans came from Jerusalem, then you'd better have something to back it up. All you've got are a bunch of stories about some asswipe who read plates nobody ever saw out of a hat, and then couldn't do it again when the translatios were hidden!
+"
+7 12 Stan "I don't wanna be Mormon, Dad!
+"
+7 12 Stan "Oh, stop it!  That's another thing! Why do you have to be so freakin' nice all the time?! It isn't normal! You just weasel people into your way of thinking by acting like the happiest family in the world and being so nice to everyone that you just blindside dumb people like my Dad!
+"
+7 12 Stan "I'm not hanging around that kid anymore.
+"
+7 12 Stan "You guys were right, okay? The new kid's a douche. Now I just gotta find a way to keep him away from me.
+"
+7 12 Stan "Oh brother.
+"
+7 12 Stan "I don't?
+"
+7 13 Stan "Ugh, Jesus Christ! 
+"
+7 13 Stan "Give me a hit. Give me another one, give me another one. 
+"
+7 13 Stan "...Whoops.
+"
+7 13 Stan "Mom...  Dad, it was just a-
+"
+7 13 Stan "Hwat??
+"
+7 13 Stan "Yeah, what's the problem?
+"
+7 13 Stan "Yeah, don't worry dude. Things aren't gonna get out of hand.
+"
+7 13 Stan "Those people at the tobacco company all seem really nice.
+"
+7 13 Stan "Huh?
+"
+7 13 Stan "Yeah, maybe you're right. 
+"
+7 13 Stan "What are you doing, Cartman?
+"
+7 13 Stan "Well, get away from us then.
+"
+7 13 Stan "Stop it, Cartman! Go die on your own!
+"
+7 13 Stan "Daaaad!
+"
+7 13 Stan "Anti-smoking people are trying to kill Cartman and he won't stay away from us.
+"
+7 13 Stan "Help you, fatass! We weren't in the commercial, remember?
+"
+7 13 Stan "Oh all right.
+"
+7 13 Stan "Why?
+"
+7 13 Stan "So it's either deal with all that, or be grounded for three weeks. 
+"
+7 13 Stan "Yup.
+"
+7 13 Stan "It wasn't the tobacco companies' fault that we smoked. It was our fault, us! We should all take personal responsibility instead of letting fat fascists like him tell us what to do!
+"
+7 13 Stan "Well, I guess we learned our lesson.
+"
+7 14 Stan "All right, you guys, it's first down. I'll hike the ball on the third ""set hut!"" Kyle and Cartman, go deep post out. Kenny, run a slant down the middle. Butters, be ready for the screen.
+"
+7 14 Stan "Football.
+"
+7 14 Stan "Okay. 23!  Blue, 23! Set hut! Set hut! 
+"
+7 14 Stan "What? 
+"
+7 14 Stan "Oh whoa, wait a minute.  What did I do wrong? I haven't even talked to Wendy for weeks.  
+"
+7 14 Stan "Kyle, will you talk to Wendy for me?
+"
+7 14 Stan "'Cause I need to know why she broke up.
+"
+7 14 Stan "Dude, please. I might still have a chance to make things work. Please, just go talk to her?
+"
+7 14 Stan "What? That's no answer!  Go tell her to be more direct with me.
+"
+7 14 Stan "Kyle, this is my life.  Jimmy!
+"
+7 14 Stan "Jimmy, will you go talk to Wendy for me?
+"
+7 14 Stan "Just go talk to her an, and be poetic. Tell her she's my Muse-no! Tell her,  tell her...  she's a con-tinuing source of inspiration to me.
+"
+7 14 Stan "She's a continuing source of inspiration to me.
+"
+7 14 Stan "Well?
+"
+7 14 Stan "Over?  Jesus...
+"
+7 14 Stan "...Go away.
+"
+7 14 Stan "Why? What's the point of living when the only girl I ever loved is gone?
+"
+7 14 Stan "You guys have no idea how this feels. It's like, you always hear songs about a broken heart and you think it's just a figure of speech? But it's true. My chest hurts. I feel this like, sinking feeling where my heart is. It's broken...
+"
+7 14 Stan "Can we go, please?
+"
+7 14 Stan "No, dude, I feel worse!
+"
+7 14 Stan "Dude, I don't have time to start over with other girls. I'm nine years old, dude! If I don't work things out with Wendy, I could be alone my whole life!
+"
+7 14 Stan "I can't let Wendy go. This whole time I've been having my friends do all the talking for me. It's time I took control! 
+"
+7 14 Stan "Something I should have done a long time ago. 
+"
+7 14 Stan "Bebe, you need to go talk to Wendy for me right now!  All this time I've been trying to have my friends do all the talking for me! Now I realize I need her friends to do it! Tell her I love her!
+"
+7 14 Stan "Okay, so what's the most romantic thing I can think of?
+"
+7 14 Stan "I can't believe it. She's in love with somebody else.
+"
+7 14 Stan "There's nothing else I can do. She was my whole life.
+"
+7 14 Stan "Maybe I should. At least they will understand me. Maybe I should hang with the Goth kids.
+"
+7 14 Stan "But if life is only pain, then... what's the point of living?
+"
+7 14 Stan "All right, so how do I join you?
+"
+7 14 Stan "...'K.
+"
+7 14 Stan "Yeah.
+"
+7 14 Stan "There is darkness all around me
+Deep, piercing black, I cannot breathe
+My heart has been raped.
+"
+7 14 Stan "The pain is everlasting.
+I miss you so much, babe.
+Want to hold you in my arms again, girl.
+Want to-
+"
+7 14 Stan "They're not?
+"
+7 14 Stan "Well I don't drink coffee.
+"
+7 14 Stan "Breathing deep in darkness that envelops my soul. 
+"
+7 14 Stan "So they can fill my head with more Disney lies about how perfect the world is? I don't think so.
+"
+7 14 Stan "What about Wendy? Isn't she still with Token?
+"
+7 14 Stan "Then people shouldn't care about me-ehhh. Because I don't care about them. What's the point of caring if all it brings is pain?
+"
+7 14 Stan "...conformist.
+"
+7 14 Stan "Butters?
+"
+7 14 Stan "What's the matter with you?
+"
+7 14 Stan "Huh? But you just got dumped
+"
+7 14 Stan "No. No, Butters, that doesn't sound stupid at all.
+"
+7 14 Stan "He's right. I don't even know who I am anymore. I like liking life a whole lot more than hating it. Screw you guys, I'm goin' home. 
+"
+7 14 Stan "Hey, can I join in? 
+"
+7 14 Stan "Yeah, it still hurts a lot, but ...I just realized that there's gonna be a lot of painful times in life, so, I'd better learn to deal with it the right way.  Hey Wendy!  You're a bitch. Token?  Right here, buddy. 
+"
+7 14 Stan "Yeah. Let's play ball.
+"
+7 15 Stan "Dude, I'm gonna tell my parents to get me that John Elway doll with the karate-chop action.
+"
+7 15 Stan "Sure dude.
+"
+7 15 Stan "Yeah, dude. What if we miss out on some great Christmas adventure?
+"
+7 15 Stan "Dude, Cartman.
+"
+7 15 Stan "Dude, we just can't up and go to Canada. Look, they're about to light the Christmas tree. Maybe you can get your brother back some other way. 
+"
+7 15 Stan "Dad, don't get carried away.
+"
+7 15 Stan "Whoa whoa, Cartman.
+"
+7 15 Stan "Cartman, calm down!
+"
+7 15 Stan "It's true, dude. Christmas is ruined.
+"
+7 15 Stan "Oh all right, but we'd better not miss out on great Christmas adventures.
+"
+7 15 Stan "No, you're both coming. Do you care about Christmas or not?
+"
+7 15 Stan "What's going on??
+"
+7 15 Stan "Do something, Kyle! 
+"
+7 15 Stan "You guys, I don't think we're in America anymore. 
+"
+7 15 Stan "All right dude, let's get the hell out of here!
+"
+7 15 Stan "I thought mounties were supposed to ride horses.
+"
+7 15 Stan "Ah, we're just passing through to see the new Prime Minister.
+"
+7 15 Stan "What?
+"
+7 15 Stan "What?? But I thought there was one road in Canada.
+"
+7 15 Stan "Oh no!
+"
+7 15 Stan "And... I'm not gonna have a Christmas adventure. 
+"
+7 15 Stan "Oh my God, they've killed Kenny!
+"
+7 15 Stan "What is that?
+"
+7 15 Stan "Oh well. Maybe we'll get to have a Christmas adventure next year. 
+"
