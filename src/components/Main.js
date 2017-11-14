@@ -121,7 +121,7 @@ class AppComponent extends React.Component {
         {/* Navigation */}
         <nav className="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
           <div className="container">
-            <span className="navbar-brand js-scroll-trigger">Southpark Markov Chains</span>
+            <span className="navbar-brand js-scroll-trigger">Southpark Markov Chains!</span>
             <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
               Menu
               <i className="fa fa-bars" />
@@ -142,7 +142,7 @@ class AppComponent extends React.Component {
         <header className="masthead">
           <div className="container">
             <div className="intro-text">
-              <span className="name">Southpark Markov Chains</span>
+              <span className="name">Southpark Markov Chains!</span>
               <hr className="star-light" />
               <span className="skills">Quick bites (bytes?) of hilarity from neat NLP processes.<br/>Scroll to check it out.</span>
             </div>
