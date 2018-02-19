@@ -49,4 +49,4 @@ app.post('/generate_sentence', function (req, res) {
 server = http.createServer(app);
 
 // listening ports
-server.listen(process.env.PORT || 9000);
+server.listen(9001);
